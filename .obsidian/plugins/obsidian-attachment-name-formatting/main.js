@@ -6878,6 +6878,7 @@ __export(exports, {
 var import_obsidian = __toModule(require("obsidian"));
 var fs = require("fs");
 var JSZip = require_jszip();
+var timeInterval = Date.now();
 var DEFAULT_SETTINGS = {
   image: "image",
   audio: "audio",
@@ -6903,6 +6904,7 @@ var AttachmentNameFormatting = class extends import_obsidian.Plugin {
     return __async(this, null, function* () {
       yield this.loadSettings();
       this.addSettingTab(new AttachmentNameFormattingSettingTab(this.app, this));
+      this.registerEvent(this.app.metadataCache.on("changed", (file) => this.handleAttachmentNameFormatting(file)));
       ribbons.exportCurrentFile = this.addRibbonIcon("sheets-in-box", "Export Attachments", () => this.handleAttachmentExport());
       ribbons.exportCurrentFile.hidden = true;
       this.addCommand({
@@ -6917,7 +6919,6 @@ var AttachmentNameFormatting = class extends import_obsidian.Plugin {
         name: "Export All Unused Attachments in the Vault",
         callback: () => this.handleUnusedAttachmentExport()
       });
-      this.registerEvent(this.app.metadataCache.on("changed", (file) => this.handleAttachmentNameFormatting(file)));
       this.addCommand({
         id: "attachments-rescan-command",
         name: "Rescan Attachments in Current File",
@@ -6926,71 +6927,7 @@ var AttachmentNameFormatting = class extends import_obsidian.Plugin {
           this.handleAttachmentNameFormatting(file);
         }
       });
-      this.registerEvent(this.app.workspace.on("editor-menu", (menu, editor, view) => {
-        let cursorPosition = editor.getCursor();
-        let content = this.app.workspace.containerEl.getElementsByClassName("cm-active cm-line")[0].childNodes;
-        let linkType = "";
-        let linkContent = "";
-        let linkLength = 0;
-        let linkStart = Infinity;
-        let linkEnd = 0;
-        let linkComplete = false;
-        content.forEach((node) => {
-          let nodeText = node.textContent;
-          if (nodeText === "!" && linkLength < cursorPosition.ch) {
-            linkType = "MarkdownLink";
-            linkStart = linkLength;
-          }
-          if (nodeText === "![[" && linkLength < cursorPosition.ch) {
-            linkType = "WikiLink";
-            linkStart = linkLength;
-          }
-          if (linkLength >= linkStart && !linkComplete) {
-            linkContent += nodeText;
-          }
-          linkLength += nodeText.length;
-          if (nodeText == ")" && linkType === "MarkdownLink") {
-            linkEnd = linkLength;
-            linkComplete = true;
-            if (linkEnd < cursorPosition.ch) {
-              linkStart = Infinity;
-              linkEnd = 0;
-              linkContent = "";
-              linkComplete = false;
-            }
-          }
-          if (nodeText == "]]" && linkType === "WikiLink") {
-            linkEnd = linkLength;
-            linkComplete = true;
-            if (linkEnd < cursorPosition.ch) {
-              linkStart = Infinity;
-              linkEnd = 0;
-              linkContent = "";
-              linkComplete = false;
-            }
-          }
-        });
-        if (menu.items.length > 1 && this.settings.copyPath) {
-          menu.addItem((item) => {
-            item.setTitle("Copy Attachment Path").setIcon("document").onClick(() => __async(this, null, function* () {
-              let filename = linkContent.replace(/!|\[|\]|\(|\)/g, "").replace(/%20/g, " ");
-              let file_path = (0, import_obsidian.parseLinktext)(filename).path;
-              let attachmentFile = this.app.vault.getAbstractFileByPath(file_path);
-              if (!attachmentFile) {
-                attachmentFile = this.app.metadataCache.getFirstLinkpathDest(file_path, file_path);
-              }
-              let full_path;
-              if (this.settings.copyPathMode === "Relative") {
-                full_path = "./" + attachmentFile.path;
-              }
-              if (this.settings.copyPathMode === "Absolute") {
-                full_path = this.app.vault.adapter.basePath.replace(/\\/g, "/") + "/" + attachmentFile.path;
-              }
-              navigator.clipboard.writeText(full_path);
-            }));
-          });
-        }
-      }));
+      this.registerEvent(this.app.workspace.on("editor-menu", (menu, editor) => this.handleCopyAttachmentPath(menu, editor)));
     });
   }
   loadSettings() {
@@ -7005,9 +6942,10 @@ var AttachmentNameFormatting = class extends import_obsidian.Plugin {
   }
   handleAttachmentNameFormatting(file) {
     return __async(this, null, function* () {
-      if (this.app.workspace.getActiveFile() !== file) {
+      if (this.app.workspace.getActiveFile() !== file || Date.now() - timeInterval < 2e3) {
         return;
       }
+      timeInterval = Date.now();
       console.log("Formatting attachments...");
       const attachments = this.app.metadataCache.getFileCache(file);
       console.log("Getting attachments list...");
@@ -7038,16 +6976,17 @@ var AttachmentNameFormatting = class extends import_obsidian.Plugin {
           for (let attachmentFile of attachmentFiles) {
             if (attachmentFile instanceof import_obsidian.TFile) {
               let parent_path = attachmentFile.path.substring(0, attachmentFile.path.length - attachmentFile.name.length);
-              let newName = [file.basename, this.settings[fileType], num].join(" ") + "." + attachmentFile.extension;
+              let newName = [file.basename, this.settings[fileType], num].join("_") + "." + attachmentFile.extension;
               let fullName = parent_path + newName;
               let destinationFile = this.app.vault.getAbstractFileByPath(fullName);
               if (destinationFile && destinationFile !== attachmentFile) {
-                yield this.app.fileManager.renameFile(attachmentFile, parent_path + "tmp_" + newName);
-                console.log('Rename attachment "' + attachmentFile.name + '" to "' + newName + '"');
-              } else {
-                yield this.app.fileManager.renameFile(attachmentFile, fullName);
-                console.log('Rename attachment "' + attachmentFile.name + '" to "' + newName + '"');
+                let destinationFile_path = destinationFile.path.substring(0, destinationFile.path.length - destinationFile.name.length);
+                let tmpName = "tmp" + Date.now() + "_" + destinationFile.name;
+                console.log('Rename attachment "' + destinationFile.name + '" to "' + destinationFile_path + tmpName + '"');
+                yield this.app.fileManager.renameFile(destinationFile, destinationFile_path + tmpName);
               }
+              console.log('Rename attachment "' + attachmentFile.name + '" to "' + newName + '"');
+              yield this.app.fileManager.renameFile(attachmentFile, fullName);
               num++;
             }
           }
@@ -7142,6 +7081,73 @@ var AttachmentNameFormatting = class extends import_obsidian.Plugin {
           yield this.app.vault.delete(file);
         }
         console.log("Deleting Done...");
+      }
+    });
+  }
+  handleCopyAttachmentPath(menu, editor) {
+    return __async(this, null, function* () {
+      let cursorPosition = editor.getCursor();
+      let content = this.app.workspace.containerEl.getElementsByClassName("cm-active cm-line")[0].childNodes;
+      let linkType = "";
+      let linkContent = "";
+      let linkLength = 0;
+      let linkStart = Infinity;
+      let linkEnd = 0;
+      let linkComplete = false;
+      content.forEach((node) => {
+        let nodeText = node.textContent;
+        if (nodeText === "!" && linkLength < cursorPosition.ch) {
+          linkType = "MarkdownLink";
+          linkStart = linkLength;
+        }
+        if (nodeText === "![[" && linkLength < cursorPosition.ch) {
+          linkType = "WikiLink";
+          linkStart = linkLength;
+        }
+        if (linkLength >= linkStart && !linkComplete) {
+          linkContent += nodeText;
+        }
+        linkLength += nodeText.length;
+        if (nodeText == ")" && linkType === "MarkdownLink") {
+          linkEnd = linkLength;
+          linkComplete = true;
+          if (linkEnd < cursorPosition.ch) {
+            linkStart = Infinity;
+            linkEnd = 0;
+            linkContent = "";
+            linkComplete = false;
+          }
+        }
+        if (nodeText == "]]" && linkType === "WikiLink") {
+          linkEnd = linkLength;
+          linkComplete = true;
+          if (linkEnd < cursorPosition.ch) {
+            linkStart = Infinity;
+            linkEnd = 0;
+            linkContent = "";
+            linkComplete = false;
+          }
+        }
+      });
+      if (menu.items.length > 1 && this.settings.copyPath) {
+        menu.addItem((item) => {
+          item.setTitle("Copy Attachment Path").setIcon("document").onClick(() => __async(this, null, function* () {
+            let filename = linkContent.replace(/!|\[|\]|\(|\)/g, "").replace(/%20/g, " ");
+            let file_path = (0, import_obsidian.parseLinktext)(filename).path;
+            let attachmentFile = this.app.vault.getAbstractFileByPath(file_path);
+            if (!attachmentFile) {
+              attachmentFile = this.app.metadataCache.getFirstLinkpathDest(file_path, file_path);
+            }
+            let full_path;
+            if (this.settings.copyPathMode === "Relative") {
+              full_path = "./" + attachmentFile.path;
+            }
+            if (this.settings.copyPathMode === "Absolute") {
+              full_path = this.app.vault.adapter.basePath.replace(/\\/g, "/") + "/" + attachmentFile.path;
+            }
+            navigator.clipboard.writeText(full_path);
+          }));
+        });
       }
     });
   }

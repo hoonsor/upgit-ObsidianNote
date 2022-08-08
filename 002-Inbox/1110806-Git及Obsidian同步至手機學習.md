@@ -1,13 +1,16 @@
 ---
+parent: 
+sibling: 
+child: 
 number headings: auto, first-level 2, max 6, contents ^toc, _.1.1.
 aliases: 
 tags: [專案筆記 , 電腦軟體]
 status: 🌱
 author: MdEditor
-source: https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496
+source: https://www.gushiciku.cn/pl/amr6/zh-tw
 template-output: 002-Inbox
 created: Saturday, August 6th 2022, 10:04:19 pm
-modified: Saturday, August 6th 2022, 10:43:07 pm
+modified: Monday, August 8th 2022, 2:24:17 pm
 ---
 # 1110806-Git 及 Obsidian 同步至手機學習 ^toc
 
@@ -25,7 +28,11 @@ modified: Saturday, August 6th 2022, 10:43:07 pm
 		- [[#第六步：配置 Git 倉庫同步|第六步：配置 Git 倉庫同步]]
 	- [[#Android 端的準備工作|Android 端的準備工作]]
 	- [[#結語|結語]]
-
+	- [[#個人心得摘要簡化步驟|個人心得摘要簡化步驟]]
+		- [[#安裝 Git|安裝 Git]]
+		- [[#產生密鑰、查詢及上傳至 GitHub|產生密鑰、查詢及上傳至 GitHub]]
+		- [[#配置本機 Obsidian 要同步之資料庫|配置本機 Obsidian 要同步之資料庫]]
+		- [[#配置 Git 倉庫並同步|配置 Git 倉庫並同步]]
 
 
 ## 前言
@@ -36,7 +43,7 @@ modified: Saturday, August 6th 2022, 10:43:07 pm
 
 * 相比其他解決方案，Git 是開源的，不僅免費，而且安全性有保證；
 * 作為最先進的分散式版本控制系統（沒有之一），用 Git 可以方便地實現版本回溯和協同編輯等功能；
-*   Git 支援多種作業系統（Windows、macOS、Linux、Android、iOS），可以按需託管在國內外多家平臺上（國外的 [GitHub](https://www.gushiciku.cn/jump/aHR0cHM6Ly9naXRodWIuY29tLw==) 、 [GitLab](https://www.gushiciku.cn/jump/aHR0cHM6Ly9hYm91dC5naXRsYWIuY29tLw==) ，國內的 [Gitee](https://www.gushiciku.cn/jump/aHR0cHM6Ly9naXRlZS5jb20v) 、 [CODING](https://www.gushiciku.cn/jump/aHR0cHM6Ly9jb2RpbmcubmV0L3Byb2R1Y3RzL3JlcG8=) ）。
+* Git 支援多種作業系統（Windows、macOS、Linux、Android、iOS），可以按需託管在國內外多家平臺上（國外的 [GitHub](https://www.gushiciku.cn/jump/aHR0cHM6Ly9naXRodWIuY29tLw==) 、 [GitLab](https://www.gushiciku.cn/jump/aHR0cHM6Ly9hYm91dC5naXRsYWIuY29tLw==) ，國內的 [Gitee](https://www.gushiciku.cn/jump/aHR0cHM6Ly9naXRlZS5jb20v) 、 [CODING](https://www.gushiciku.cn/jump/aHR0cHM6Ly9jb2RpbmcubmV0L3Byb2R1Y3RzL3JlcG8=) ）。
 
 當然， **用 Git 同步的方案也有侷限** ，包括有一定的學習成本，對純新手不友好；多裝置同時編輯容易產生衝突；以及需要另行手動備份存檔等。
 
@@ -56,8 +63,8 @@ modified: Saturday, August 6th 2022, 10:43:07 pm
 
 考慮到國內使用者的訪問便捷程度和中文支援，本文將主要使用國產服務 Gitee 演示（ [官網註冊連結](https://www.gushiciku.cn/jump/aHR0cHM6Ly9naXRlZS5jb20v) ），並簡單說明更為主流的 GitHub 平臺的對應操作。
 
-*   **如果使用 Gitee：** 在頂部導航條點選「+」>「新建倉庫」，根據提示填寫資訊即可（暫不勾選給出的初始化選項）。
-*   **如果使用 GitHub：** 在頂部導航條點選「+」>「New Repository」，根據提示填寫資訊即可（暫不勾選給出的初始化選項）。
+* **如果使用 Gitee：** 在頂部導航條點選「+」>「新建倉庫」，根據提示填寫資訊即可（暫不勾選給出的初始化選項）。
+* **如果使用 GitHub：** 在頂部導航條點選「+」>「New Repository」，根據提示填寫資訊即可（暫不勾選給出的初始化選項）。
 
 ![](https://mdimg.wxwenku.com/getimg/356ed03bdc643f9448b3f6485edc229b1a1a2b1e3d95df407150d760f0ab76c84a0908dacc0d610169d78f0d3e48dda5.jpg)
 
@@ -80,7 +87,7 @@ email=" 這裡改成你的 Email"
 \# 配置 git 使用者名稱和郵箱
 git config --global user.name ${userName}
 git config --global user.email ${email}
-git config --global  --list 
+git config --global --list 
 echo "Enter 或者 y 鍵確認 "
 ssh-keygen -t rsa -C "${email}"
 
@@ -95,9 +102,9 @@ echo " 繼續執行 "
 
 #### 注意：
 
-1.  如果你本地之前生成過 SSH，那麼指令碼會提示你是否覆蓋，此時輸入 `y` 回車即可。
-2.  如果操作中途不小心關掉了指令碼視窗，不要慌，雙擊重新執行指令碼即可。
-3.  執行過程中會出現如下圖所示的四次提示確認步驟，簡單起見，建議大家 **直接回車** 不設定引數（當然如果你明白這些步驟的具體含義，也可以設定需要的引數）。
+1. 如果你本地之前生成過 SSH，那麼指令碼會提示你是否覆蓋，此時輸入 `y` 回車即可。
+2. 如果操作中途不小心關掉了指令碼視窗，不要慌，雙擊重新執行指令碼即可。
+3. 執行過程中會出現如下圖所示的四次提示確認步驟，簡單起見，建議大家 **直接回車** 不設定引數（當然如果你明白這些步驟的具體含義，也可以設定需要的引數）。
 
 ![](https://mdimg.wxwenku.com/getimg/6b990ce30fa9193e296dd37902816f4b5d6f8ba7d0c57151c01de7c1c82f0ff2688491675bd6d817972d538e3b579cd0.jpg)
 
@@ -121,7 +128,7 @@ git config --global user.email 你的郵箱
 
 完成前兩步後，可以用下面的命令檢查 **是否配置成功** ：
 
-git config --global  --list
+git config --global --list
 
 如下圖所示，如果返回的結果正確顯示了你輸入的使用者名稱和郵箱，說明配置是正確的：
 
@@ -139,8 +146,8 @@ cat ~/.ssh/id\_rsa.pub
 
 下面，我們將生成的 SSH 公鑰上傳至 Git 託管平臺。
 
-*   **對於 Gitee：** 點選導航欄右上角頭像，選擇「設定」，然後在側邊欄選單選擇「SSH 公鑰」，填入上一步儲存的公鑰內容並儲存確認。
-*   **對於 GitHub：** 點選導航欄右上角頭像，選擇「Settings」，然後在側邊欄選單選擇「SSH and GPG keys」，填入上一步儲存的公鑰內容並儲存確認。
+* **對於 Gitee：** 點選導航欄右上角頭像，選擇「設定」，然後在側邊欄選單選擇「SSH 公鑰」，填入上一步儲存的公鑰內容並儲存確認。
+* **對於 GitHub：** 點選導航欄右上角頭像，選擇「Settings」，然後在側邊欄選單選擇「SSH and GPG keys」，填入上一步儲存的公鑰內容並儲存確認。
 
 ![](https://mdimg.wxwenku.com/getimg/ccdf080c7af7e8a10e9b88444af98393d2f8b84546385a637d6287325e0aaa24c4abf1bd26f9fb9444f42777bc5576eb.jpg)
 
@@ -187,10 +194,10 @@ Android 端的配置相對簡單，除了 Obsidian app，只需要另外安裝�
 
 MGit 的配置步驟如下：
 
-1.  在設定介面的「repos 的根儲存位置」擬用於存放 Android 裝置上 Obsidian 筆記的路徑：
-2.  在設定頁面，點選「SSH Keys」>「+」，新建 SSH 金鑰；
-3.  參考前面的方法，將生成的公鑰上傳到 Gitee 或 GitHub；
-4.  從 Gitee 或 GitHub 複製 SSH Remote 地址（即上述 Windows 配置部分第五步用到的地址，也可以在倉庫主頁面點選「下載/克隆」（GitHub 點選「Code」）檢視），填入遠端地址，點選克隆。
+1. 在設定介面的「repos 的根儲存位置」擬用於存放 Android 裝置上 Obsidian 筆記的路徑：
+2. 在設定頁面，點選「SSH Keys」>「+」，新建 SSH 金鑰；
+3. 參考前面的方法，將生成的公鑰上傳到 Gitee 或 GitHub；
+4. 從 Gitee 或 GitHub 複製 SSH Remote 地址（即上述 Windows 配置部分第五步用到的地址，也可以在倉庫主頁面點選「下載/克隆」（GitHub 點選「Code」）檢視），填入遠端地址，點選克隆。
 
 ![](https://mdimg.wxwenku.com/getimg/6b990ce30fa9193e296dd37902816f4b7c0358f18aa47d3efb6dcd0e34a8fda2e415b82a67b8300e6681bd529bd2adf0.jpg)
 
@@ -200,8 +207,8 @@ MGit 的配置步驟如下：
 
 ![](https://mdimg.wxwenku.com/getimg/356ed03bdc643f9448b3f6485edc229b9736d3720f8628242a5fbb80e02a16789b42d04780afc9a723fd0a03b1220b69.jpg)
 
-結語
---
+## 結語
+
 
 細心的朋友可能已經看出來了，就是 Obsidian 的工作空間在 PC 和手機上都是通用的。這方面要為 Obsidian 的開發團隊點贊。
 
@@ -209,4 +216,43 @@ MGit 的配置步驟如下：
 
 如果大家對本文方案有什麼更好的建議，可以在評論區提出。,
 
-Clipped from [想在電腦和 Android 端同步 Obsidian 筆記？讓 Git 幫你牽線搭橋_少數派 - MdEditor](https://www.gushiciku.cn/pl/amr6/zh-tw) at 2022-08-06.
+
+
+## 個人心得摘要簡化步驟
+
+### 安裝 Git
+- 軟體下載網址：[Git - Downloads](https://git-scm.com/downloads)
+- 安裝完成後，打開 #h/maroon ==Git Bash==，分行輸入以下指令
+	- 設定帳號：
+		- git config --global user.name "hoonsor"
+	- 設定信箱：
+		- git config --global user.email "hoonsor@hotmail.com"
+
+### 產生密鑰、查詢及上傳至 GitHub
+- 打開 #h/maroon ==Git Bash== 輸入以下指令
+	- 產生密鑰
+		- ssh-keygen -t rsa -C hoonsor@hotmail.com
+	- 查詢密鑰
+		- cat ~/.ssh/id_rsa.pub
+		- 所顯示出的一長串英數文字組合即為密鑰
+- 複製後將密鑰上傳至 Git Hub
+	- [[1110806-Git及Obsidian同步至手機學習#第四步：上傳 SSH 公鑰]]
+### 配置本機 Obsidian 要同步之資料庫
+- [[1110806-Git及Obsidian同步至手機學習#第五步：配置本地 Obsidian 倉庫]]
+- 分行指令客製化替換如下：
+	- touch README.md
+	- git initially 
+	- git add README.md
+	- git commit -m "first commit"
+	- git branch -M main
+	- git remote add origin git@github.com:hoonsor/upgit-ObsidianNote.git
+	- git push -u origin main
+
+### 配置 Git 倉庫並同步
+- [[1110806-Git及Obsidian同步至手機學習#第六步：配置 Git 倉庫同步]]
+- 軟體下載網址： [GitKraken](https://www.gushiciku.cn/jump/aHR0cHM6Ly93d3cuZ2l0a3Jha2VuLmNvbQ==) 。這是一款免費、圖形介面的 Git 管理工具。
+- 其他心得及注意事項：
+	- Profile 名稱：hoonsor-F4KR8IP（學校電腦名稱）、hoonsor-5DM4EDT（家裡電腦名稱）
+	- Brunch 意思類似分支，如 main、master，同一個資料庫可以備份很多不同分支，注意是否均使用同一個分支，或用不同分支去儲存不同資料庫，可以再思索一下
+
+

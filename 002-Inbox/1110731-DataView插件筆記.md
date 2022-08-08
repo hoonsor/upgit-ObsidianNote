@@ -1,7 +1,7 @@
 ---
-up: [[●專案管理]]
-same: [[Obsidian概述]]
-down: 
+parent: [[●專案管理]]
+sibling: [[002-Inbox/001-SubItem/Obsidian概述]]
+child: 
 aliases:    
 tags: [專案筆記, 電腦軟體, 興趣培養]
 status: 🌱
@@ -10,7 +10,7 @@ source: https://www.youtube.com/watch?v=dkWA7Qd0CLA
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Sunday, August 7th 2022, 11:49:08 pm
+modified: Monday, August 8th 2022, 1:54:22 pm
 ---
 
 - [[#1110731-DataView 插件筆記 ^toc|1110731-DataView 插件筆記]]

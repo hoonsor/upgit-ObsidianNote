@@ -134,8 +134,30 @@
           "openFileInMode": "default"
         }
       ]
+    },
+    {
+      "id": "3f3ece15-fd2a-45ea-8837-0158e01d995a",
+      "name": "Marco-Advanced URI",
+      "type": "Macro",
+      "command": true,
+      "macroId": "53ecac6f-b86b-4a3a-a249-8f40baea304e"
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "Marco-Advanced URI",
+      "id": "53ecac6f-b86b-4a3a-a249-8f40baea304e",
+      "commands": [
+        {
+          "name": "advanced_uri",
+          "type": "UserScript",
+          "id": "9e42a1f4-b795-467d-9fe4-a5ea2da73c4d",
+          "path": "JavaScripts腳本/advanced_uri.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line"
 }

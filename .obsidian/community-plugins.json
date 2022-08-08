@@ -22,7 +22,6 @@
   "recent-files-obsidian",
   "obsidian-shellcommands",
   "obsidian-show-file-path",
-  "sliding-panes-obsidian",
   "various-complements",
   "obsidian-style-settings",
   "obsidian-attachment-name-formatting",
@@ -34,5 +33,11 @@
   "obsidian-reminder-plugin",
   "obsidian-kanban",
   "obsidian-columns",
-  "markdown-table-editor"
+  "obsidian-image-toolkit",
+  "reveal-active-file-button",
+  "obsidian-minimal-settings",
+  "obsidian-view-mode-by-frontmatter",
+  "cm-editor-syntax-highlight-obsidian",
+  "breadcrumbs",
+  "obsidian-git"
 ]

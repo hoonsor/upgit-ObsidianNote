@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.13.0",
+  "settings_version": "0.14.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -30,7 +30,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     },
     "1": {
       "platform_specific_commands": {
@@ -48,7 +49,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     },
     "2": {
       "platform_specific_commands": {
@@ -66,7 +68,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     },
     "3": {
       "platform_specific_commands": {
@@ -84,7 +87,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     },
     "4": {
       "platform_specific_commands": {
@@ -102,7 +106,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     },
     "5": {
       "platform_specific_commands": {
@@ -120,7 +125,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     },
     "6": {
       "platform_specific_commands": {
@@ -138,7 +144,8 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {}
+      "variable_default_values": {},
+      "icon": null
     }
   },
   "prompts": [],

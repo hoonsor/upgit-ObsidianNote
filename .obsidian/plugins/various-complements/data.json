@@ -54,8 +54,8 @@
     "co-info": {
       "co-info": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1659678137530
+          "count": 3,
+          "lastUpdated": 1658758589443
         }
       }
     },
@@ -174,8 +174,8 @@
     "-0m": {
       "褐紅底白字 ": {
         "customDictionary": {
-          "count": 11,
-          "lastUpdated": 1659668319109
+          "count": 13,
+          "lastUpdated": 1659939119919
         }
       }
     },
@@ -232,6 +232,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1659614170592
+        }
+      }
+    },
+    "initially": {
+      "initially": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1659939587134
         }
       }
     }

@@ -353,5 +353,13 @@
       ],
       "key": "`"
     }
+  ],
+  "quickadd:choice:3f3ece15-fd2a-45ea-8837-0158e01d995a": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }

@@ -74,6 +74,14 @@ var CODE_EDITOR;
   CODE_EDITOR2["SUBLIME"] = "sublime";
   CODE_EDITOR2["VSCODE"] = "vscode";
 })(CODE_EDITOR || (CODE_EDITOR = {}));
+var MODIFIER_KEYS = [
+  "Control",
+  "Shift",
+  "Alt",
+  "Meta",
+  "CapsLock",
+  "Fn"
+];
 
 // src/utils.ts
 var defaultMultipleSelectionOptions = { repeatSameLineActions: true };
@@ -115,6 +123,14 @@ var withMultipleSelections = (editor, callback, options = defaultMultipleSelecti
     console.debug("cm object not found, operations will not be buffered");
     applyCallbackOnSelections();
   }
+};
+var iterateCodeMirrorDivs = (callback) => {
+  let codeMirrors;
+  codeMirrors = document.querySelectorAll(".cm-content");
+  if (codeMirrors.length === 0) {
+    codeMirrors = document.querySelectorAll(".CodeMirror");
+  }
+  codeMirrors.forEach(callback);
 };
 var getLineStartPos = (line) => ({
   line,
@@ -232,12 +248,14 @@ var getSearchText = ({
     singleSearchText
   };
 };
+var escapeRegExp = (input) => input.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 var findAllMatches = ({
   searchText,
   searchWithinWords,
   documentContent
 }) => {
-  const searchExpression = new RegExp(searchWithinWords ? searchText : `\\b${searchText}\\b`, "g");
+  const escapedSearchText = escapeRegExp(searchText);
+  const searchExpression = new RegExp(searchWithinWords ? escapedSearchText : `\\b${escapedSearchText}\\b`, "g");
   return Array.from(documentContent.matchAll(searchExpression));
 };
 var findNextMatchPosition = ({
@@ -324,15 +342,30 @@ var deleteSelectedLines = (editor, selection) => {
   }
   return { anchor: { line: from.line, ch: selection.head.ch } };
 };
+var deleteToStartOfLine = (editor, selection) => {
+  const pos = selection.head;
+  let startPos = getLineStartPos(pos.line);
+  if (pos.line === 0 && pos.ch === 0) {
+    return selection;
+  }
+  if (pos.line === startPos.line && pos.ch === startPos.ch) {
+    startPos = getLineEndPos(pos.line - 1, editor);
+  }
+  editor.replaceRange("", startPos, pos);
+  return {
+    anchor: startPos
+  };
+};
 var deleteToEndOfLine = (editor, selection) => {
   const pos = selection.head;
-  const endPos = getLineEndPos(pos.line, editor);
+  let endPos = getLineEndPos(pos.line, editor);
   if (pos.line === endPos.line && pos.ch === endPos.ch) {
-    endPos.line = endPos.line + 1;
-    endPos.ch = 0;
+    endPos = getLineStartPos(pos.line + 1);
   }
   editor.replaceRange("", pos, endPos);
-  return selection;
+  return {
+    anchor: pos
+  };
 };
 var joinLines = (editor, selection) => {
   const { line } = selection.head;
@@ -361,7 +394,16 @@ var copyLine = (editor, selection, direction) => {
     };
   }
 };
+var isManualSelection = true;
+var setIsManualSelection = (value) => {
+  isManualSelection = value;
+};
+var isProgrammaticSelectionChange = false;
+var setIsProgrammaticSelectionChange = (value) => {
+  isProgrammaticSelectionChange = value;
+};
 var selectWordOrNextOccurrence = (editor) => {
+  setIsProgrammaticSelectionChange(true);
   const allSelections = editor.listSelections();
   const { searchText, singleSearchText } = getSearchText({
     editor,
@@ -374,11 +416,13 @@ var selectWordOrNextOccurrence = (editor) => {
       editor,
       latestMatchPos,
       searchText,
-      searchWithinWords: false,
+      searchWithinWords: isManualSelection,
       documentContent: editor.getValue()
     });
     const newSelections = nextMatch ? allSelections.concat(nextMatch) : allSelections;
     editor.setSelections(newSelections);
+    const lastSelection = newSelections[newSelections.length - 1];
+    editor.scrollIntoView(getSelectionBoundaries(lastSelection));
   } else {
     const newSelections = [];
     for (const selection of allSelections) {
@@ -387,6 +431,7 @@ var selectWordOrNextOccurrence = (editor) => {
         newSelections.push(selection);
       } else {
         newSelections.push(wordRangeAtPos(from, editor.getLine(from.line)));
+        setIsManualSelection(false);
       }
     }
     editor.setSelections(newSelections);
@@ -405,7 +450,7 @@ var selectAllOccurrences = (editor) => {
   const matches = findAllMatchPositions({
     editor,
     searchText,
-    searchWithinWords: false,
+    searchWithinWords: true,
     documentContent: editor.getValue()
   });
   editor.setSelections(matches);
@@ -631,6 +676,11 @@ var CodeEditorShortcuts = class extends import_obsidian.Plugin {
       editorCallback: (editor) => withMultipleSelections(editor, deleteSelectedLines)
     });
     this.addCommand({
+      id: "deleteToStartOfLine",
+      name: "Delete to start of line",
+      editorCallback: (editor) => withMultipleSelections(editor, deleteToStartOfLine)
+    });
+    this.addCommand({
       id: "deleteToEndOfLine",
       name: "Delete to end of line",
       editorCallback: (editor) => withMultipleSelections(editor, deleteToEndOfLine)
@@ -818,6 +868,25 @@ var CodeEditorShortcuts = class extends import_obsidian.Plugin {
       id: "goToPrevHeading",
       name: "Go to previous heading",
       editorCallback: (editor) => goToHeading(this.app, editor, "prev")
+    });
+    this.registerSelectionChangeListeners();
+  }
+  registerSelectionChangeListeners() {
+    this.app.workspace.onLayoutReady(() => {
+      const handleSelectionChange = (evt) => {
+        if (evt instanceof KeyboardEvent && MODIFIER_KEYS.includes(evt.key)) {
+          return;
+        }
+        if (!isProgrammaticSelectionChange) {
+          setIsManualSelection(true);
+        }
+        setIsProgrammaticSelectionChange(false);
+      };
+      iterateCodeMirrorDivs((cm) => {
+        this.registerDomEvent(cm, "keydown", handleSelectionChange);
+        this.registerDomEvent(cm, "click", handleSelectionChange);
+        this.registerDomEvent(cm, "dblclick", handleSelectionChange);
+      });
     });
   }
 };
