@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "4ac57e38f93ad83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cc182ec5c2c599d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000-index/!dict.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":51.61403104705865}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":0},\"to\":{\"line\":75,\"ch\":0}},\"scroll\":53.298244585938}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"功能練習及測試.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.23469386886229726}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":35},\"to\":{\"line\":69,\"ch\":35}},\"scroll\":53.425832390924704}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":117.11960905281268}"
+            },
+            {
+              "leaf": "3cc182ec5c2c599d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-工作相關/校長遴選座談會及後續工作.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":87.44925247776945}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94f277a695c87b4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd928a12e0612e2a",
+        "type": "tabs",
+        "dimension": 52.51004016064257,
+        "children": [
+          {
+            "id": "5742df7154023138",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "da7154e25a1aeb3e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c05cfab6de97da18",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f59fa83aadd5d4c",
+        "type": "tabs",
+        "dimension": 47.48995983935743,
+        "children": [
+          {
+            "id": "d90fb7480f635814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbe27a2da716769c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb773b62905c6aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fdf00e2af4a8a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#h/silver",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7c0f21ea256eef32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000-index/!dict.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1968b40ba412c9bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000-index/!dict.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "aa9608374450c116",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "95b42c6ce66892a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000-index/!dict.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbed48977d048501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2a6a2ed0922c6f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "000-index/!dict.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3cc182ec5c2c599d",
+  "lastOpenFiles": [
+    "000-index/!dict.md",
+    "按鈕範例.md",
+    "功能練習及測試.md",
+    "002-工作相關/校長遴選座談會及後續工作.md",
+    "Book.md",
+    "洗腦.md",
+    "華語歌.md",
+    "浪漫.md",
+    "ImagineDragons - Nothing left to say.md",
+    "情緒抒發.md"
+  ]
+}

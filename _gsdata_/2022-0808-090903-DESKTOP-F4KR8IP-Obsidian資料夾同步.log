@@ -1,0 +1,31 @@
+2022-08-08 09:09:03: -- 分析開始 User Command
+2022-08-08 09:09:04: /000-index/!dict.md: 警告：較舊的檔將替換較新的檔
+2022-08-08 09:09:04: /002-Inbox/1110628-網站設計行銷相關.md: 警告：較舊的檔將替換較新的檔
+2022-08-08 09:09:04: 變更：23， 衝突：0， 複製時間：0， 複製狀態：2， 錯誤： 0, All: 159
+2022-08-08 09:09:04: Left to Right: Copy File: 1 
+2022-08-08 09:09:04: Right to Left: Copy File: 22 
+2022-08-08 09:09:04: == 同步開始由 User Command
+2022-08-08 09:09:04: 創建資料夾 D:/Obsidian/Hoonsor/JavaScripts腳本
+2022-08-08 09:09:04: 新建複製 'D:/Obsidian/Hoonsor/002-Inbox/.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/.md' (209)
+2022-08-08 09:09:04: 覆蓋複製 'P:/Obsidian/Hoonsor/000-index/!dict.md' -> 'D:/Obsidian/Hoonsor/000-index/!dict.md' (2,381)
+2022-08-08 09:09:04: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-GUI控件相關.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-GUI控件相關.md' (616)
+2022-08-08 09:09:04: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/好用外掛推薦.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/好用外掛推薦.md' (409)
+2022-08-08 09:09:04: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-概述.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-概述.md' (911)
+2022-08-08 09:09:04: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/Obsidian概述.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/Obsidian概述.md' (439)
+2022-08-08 09:09:04: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/安裝Astra及有關插件.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/安裝Astra及有關插件.md' (1,979)
+2022-08-08 09:09:05: 新建複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/現有症狀治療及緩解.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/現有症狀治療及緩解.md' (2,098)
+2022-08-08 09:09:05: 新建複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/預防及保養.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/預防及保養.md' (239)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/1110628-網站設計行銷相關.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/1110628-網站設計行銷相關.md' (3,121)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' (6,078)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/1110717-告別讓人困擾的失眠問題.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/1110717-告別讓人困擾的失眠問題.md' (6,189)
+2022-08-08 09:09:05: 新建複製 'P:/Obsidian/Hoonsor/002-Inbox/1110806-Git及Obsidian同步至手機學習.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/1110806-Git及Obsidian同步至手機學習.md' (12,166)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' (2,179)
+2022-08-08 09:09:05: 新建複製 'P:/Obsidian/Hoonsor/004-電腦疑難雜症相關/VX3211-4k-mhd相關注意事項.md' -> 'D:/Obsidian/Hoonsor/004-電腦疑難雜症相關/VX3211-4k-mhd相關注意事項.md' (1,152)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/daily/2022-05-30_Mon.md' -> 'D:/Obsidian/Hoonsor/daily/2022-05-30_Mon.md' (475)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/007-日常生活相關/88節購物清單.md' -> 'D:/Obsidian/Hoonsor/007-日常生活相關/88節購物清單.md' (230)
+2022-08-08 09:09:05: 新建複製 'P:/Obsidian/Hoonsor/README.md' -> 'D:/Obsidian/Hoonsor/README.md' (0)
+2022-08-08 09:09:05: 覆蓋複製 'P:/Obsidian/Hoonsor/007-日常生活相關/●日常生活.md' -> 'D:/Obsidian/Hoonsor/007-日常生活相關/●日常生活.md' (488)
+2022-08-08 09:09:05: 新建複製 'P:/Obsidian/Hoonsor/JavaScripts腳本/advanced_uri.js' -> 'D:/Obsidian/Hoonsor/JavaScripts腳本/advanced_uri.js' (983)
+2022-08-08 09:09:06: 覆蓋複製 'P:/Obsidian/Hoonsor/電腦相關/電腦知識.md' -> 'D:/Obsidian/Hoonsor/電腦相關/電腦知識.md' (255)
+2022-08-08 09:09:06: 覆蓋複製 'P:/Obsidian/Hoonsor/●子彈筆記.md' -> 'D:/Obsidian/Hoonsor/●子彈筆記.md' (451)
+2022-08-08 09:09:06: == 同步完成. 歷時: 00:00:03, 速度: 0.00/s, 完成: 25, 錯誤: 0

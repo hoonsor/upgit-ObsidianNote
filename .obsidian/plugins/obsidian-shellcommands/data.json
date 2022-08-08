@@ -1,0 +1,146 @@
+{
+  "settings_version": "0.13.0",
+  "debug": false,
+  "obsidian_command_palette_prefix": "Execute: ",
+  "preview_variables_in_command_palette": true,
+  "show_autocomplete_menu": true,
+  "working_directory": "",
+  "default_shells": {},
+  "environment_variable_path_augmentations": {},
+  "error_message_duration": 20,
+  "notification_message_duration": 10,
+  "output_channel_clipboard_also_outputs_to_notification": true,
+  "enable_events": true,
+  "approve_modals_by_pressing_enter_key": true,
+  "max_visible_lines_in_shell_command_fields": false,
+  "shell_commands": {
+    "0": {
+      "platform_specific_commands": {
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=plugin-browser"
+      },
+      "shells": {},
+      "alias": "Plugins Browser",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "1": {
+      "platform_specific_commands": {
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=hotkeys"
+      },
+      "shells": {},
+      "alias": "hotkeys",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "2": {
+      "platform_specific_commands": {
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=obsidian-linter"
+      },
+      "shells": {},
+      "alias": "Linter",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "3": {
+      "platform_specific_commands": {
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=obsidian-shellcommands"
+      },
+      "shells": {},
+      "alias": "Shell Commands",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "4": {
+      "platform_specific_commands": {
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=customizable-sidebar"
+      },
+      "shells": {},
+      "alias": "Customizable Sidebar",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "5": {
+      "platform_specific_commands": {
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=quickadd"
+      },
+      "shells": {},
+      "alias": "QuickAdd",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    "6": {
+      "platform_specific_commands": {
+        "default": "c:\\upgit\\upgit.exe :clipboard -f markdown-simple"
+      },
+      "shells": {},
+      "alias": "upgit",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "current-file-caret",
+        "stderr": "notification"
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    }
+  },
+  "prompts": [],
+  "custom_variables": []
+}

@@ -1,0 +1,188 @@
+{
+  "workspaces": {
+    "1110501-網路建議預設": {
+      "main": {
+        "id": "4ac57e38f93ad83b",
+        "type": "split",
+        "children": [
+          {
+            "id": "3cc182ec5c2c599d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "洗腦.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "92c20ef1b33ee112"
+          },
+          {
+            "id": "c29b9b207859c2a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "洗腦.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "92c20ef1b33ee112"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "94f277a695c87b4e",
+        "type": "split",
+        "children": [
+          {
+            "id": "cd928a12e0612e2a",
+            "type": "tabs",
+            "dimension": 52.51004016064257,
+            "children": [
+              {
+                "id": "5742df7154023138",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "6f59fa83aadd5d4c",
+            "type": "tabs",
+            "dimension": 47.48995983935743,
+            "children": [
+              {
+                "id": "d90fb7480f635814",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "dbe27a2da716769c",
+        "type": "split",
+        "children": [
+          {
+            "id": "eb773b62905c6aaf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2fdf00e2af4a8a46",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7c0f21ea256eef32",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "洗腦.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1968b40ba412c9bb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "洗腦.md"
+                  }
+                }
+              },
+              {
+                "id": "aa9608374450c116",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "cbed48977d048501",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa2a6a2ed0922c6f",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "洗腦.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "c29b9b207859c2a6"
+    }
+  },
+  "active": "1110501-網路建議預設"
+}

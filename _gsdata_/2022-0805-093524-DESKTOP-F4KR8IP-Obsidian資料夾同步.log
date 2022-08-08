@@ -1,0 +1,15 @@
+2022-08-05 09:35:24: -- 分析開始 User Command
+2022-08-05 09:35:25: 變更：10， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 316
+2022-08-05 09:35:25: Right to Left: Copy File: 10 
+2022-08-05 09:35:25: == 同步開始由 User Command
+2022-08-05 09:35:25: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-GUI控件相關.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-GUI控件相關.md' (599)
+2022-08-05 09:35:25: 新建複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-概述.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-概述.md' (852)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' (5,662)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' (2,381)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/000-index/!dict.md' -> 'D:/Obsidian/Hoonsor/000-index/!dict.md' (2,624)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/007-日常生活相關/2022黑色星期五購物清單.md' -> 'D:/Obsidian/Hoonsor/007-日常生活相關/2022黑色星期五購物清單.md' (195)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/007-日常生活相關/●日常生活.md' -> 'D:/Obsidian/Hoonsor/007-日常生活相關/●日常生活.md' (220)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/007-日常生活相關/88節購物清單.md' -> 'D:/Obsidian/Hoonsor/007-日常生活相關/88節購物清單.md' (202)
+2022-08-05 09:35:26: 覆蓋複製 'P:/Obsidian/Hoonsor/●專案管理.md' -> 'D:/Obsidian/Hoonsor/●專案管理.md' (772)
+2022-08-05 09:35:26: 新建複製 'P:/Obsidian/Hoonsor/電腦相關/電腦知識.md' -> 'D:/Obsidian/Hoonsor/電腦相關/電腦知識.md' (254)
+2022-08-05 09:35:27: == 同步完成. 歷時: 00:00:03, 速度: 0.00/s, 完成: 10, 錯誤: 0

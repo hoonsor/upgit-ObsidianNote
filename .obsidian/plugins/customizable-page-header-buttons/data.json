@@ -1,0 +1,15 @@
+{
+  "enabledButtons": [
+    {
+      "id": "workspace:export-pdf",
+      "icon": "pdf-file",
+      "name": "Export to PDF",
+      "showButtons": "both"
+    }
+  ],
+  "desktop": true,
+  "titleLeft": [],
+  "titleRight": [],
+  "titleCenter": [],
+  "paneRelief": false
+}

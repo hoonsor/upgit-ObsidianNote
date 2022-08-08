@@ -1,0 +1,42 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "obsidian-shellcommands:shell-command-0",
+      "name": "Shell commands: Execute: Plugins Browser",
+      "icon": "magnifying-glass"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-1",
+      "name": "Shell commands: Execute: hotkeys",
+      "icon": "keyboard-glyph"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-2",
+      "name": "Shell commands: Execute: Linter",
+      "icon": "number-list-glyph"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-3",
+      "name": "Shell commands: Execute: Shell Commands",
+      "icon": "blocks"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-4",
+      "name": "Shell commands: Execute: Customizable Sidebar",
+      "icon": "plus-with-circle"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-5",
+      "name": "Shell commands: Execute: QuickAdd",
+      "icon": "run-command"
+    }
+  ],
+  "hiddenCommands": [
+    "Open Markdown Table Editor",
+    "Open Markdown importer",
+    "Open command palette",
+    "Advanced Tables Toolbar",
+    "Open graph view",
+    "Manage workspaces"
+  ]
+}

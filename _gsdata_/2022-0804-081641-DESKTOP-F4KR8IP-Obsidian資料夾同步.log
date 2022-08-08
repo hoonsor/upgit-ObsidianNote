@@ -1,0 +1,25 @@
+2022-08-04 08:16:41: -- 分析開始 User Command
+2022-08-04 08:16:42: 變更：19， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 303
+2022-08-04 08:16:42: Left to Right: Copy File: 1 
+2022-08-04 08:16:42: Right to Left: Copy File: 18 
+2022-08-04 08:16:42: == 同步開始由 User Command
+2022-08-04 08:16:42: 創建資料夾 D:/Obsidian/Hoonsor/003-Temporary Mission
+2022-08-04 08:16:42: 創建資料夾 D:/Obsidian/Hoonsor/●圖片庫
+2022-08-04 08:16:42: 覆蓋複製 'P:/Obsidian/Hoonsor/000-index/!dict.md' -> 'D:/Obsidian/Hoonsor/000-index/!dict.md' (2,584)
+2022-08-04 08:16:42: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/CSS的概念及學習.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/CSS的概念及學習.md' (5,811)
+2022-08-04 08:16:42: 新建複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-GUI控件相關.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-GUI控件相關.md' (581)
+2022-08-04 08:16:42: 新建複製 'P:/Obsidian/Hoonsor/001-Template/Template-Temporary Mission.md' -> 'D:/Obsidian/Hoonsor/001-Template/Template-Temporary Mission.md' (139)
+2022-08-04 08:16:43: 新建複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/歌手.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/歌手.md' (270)
+2022-08-04 08:16:43: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/獨立樂團.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/獨立樂團.md' (555)
+2022-08-04 08:16:43: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' (5,661)
+2022-08-04 08:16:43: 新建複製 'D:/Obsidian/Hoonsor/1110803-待辦.md' -> 'P:/Obsidian/Hoonsor/1110803-待辦.md' (793)
+2022-08-04 08:16:43: 覆蓋複製 'P:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' -> 'D:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' (2,288)
+2022-08-04 08:16:43: 新建複製 'P:/Obsidian/Hoonsor/003-Temporary Mission/建構程式語言快捷查詢方式.md' -> 'D:/Obsidian/Hoonsor/003-Temporary Mission/建構程式語言快捷查詢方式.md' (844)
+2022-08-04 08:16:44: 新建複製 'P:/Obsidian/Hoonsor/●圖片庫/CSS-rem定義.png' -> 'D:/Obsidian/Hoonsor/●圖片庫/CSS-rem定義.png' (72,534)
+2022-08-04 08:16:44: 新建複製 'P:/Obsidian/Hoonsor/●圖片庫/CSS-em定義.png' -> 'D:/Obsidian/Hoonsor/●圖片庫/CSS-em定義.png' (114,985)
+2022-08-04 08:16:44: 覆蓋複製 'P:/Obsidian/Hoonsor/●子彈筆記.md' -> 'D:/Obsidian/Hoonsor/●子彈筆記.md' (409)
+2022-08-04 08:16:44: 新建複製 'P:/Obsidian/Hoonsor/●圖片庫/CSS-%定義.png' -> 'D:/Obsidian/Hoonsor/●圖片庫/CSS-%定義.png' (148,497)
+2022-08-04 08:16:44: 覆蓋複製 'P:/Obsidian/Hoonsor/按鈕範例.md' -> 'D:/Obsidian/Hoonsor/按鈕範例.md' (5,797)
+2022-08-04 08:16:44: 覆蓋複製 'P:/Obsidian/Hoonsor/●專案管理.md' -> 'D:/Obsidian/Hoonsor/●專案管理.md' (751)
+2022-08-04 08:16:45: 新建複製 'P:/Obsidian/Hoonsor/●圖片庫/CSS-vw及vh定義.png' -> 'D:/Obsidian/Hoonsor/●圖片庫/CSS-vw及vh定義.png' (324,124)
+2022-08-04 08:16:46: == 同步完成. 歷時: 00:00:05, 速度: 344.40 KB/s, 完成: 19, 錯誤: 0

@@ -1,0 +1,111 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 41,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": false,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt\n000-index/!dict.md",
+  "columnDelimiter": "Pipe",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "+=",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "*/",
+  "caretLocationSymbolAfterComplement": "!END!",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "co-tip": {
+      "co-tip": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1654089070499
+        }
+      }
+    },
+    "co-bug": {
+      "co-bug": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1654089091185
+        }
+      }
+    },
+    "co-error": {
+      "co-error": {
+        "customDictionary": {
+          "count": 6,
+          "lastUpdated": 1654089056161
+        }
+      }
+    },
+    "co-lol": {
+      "co-lol": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1654089066270
+        }
+      }
+    },
+    "co-fail": {
+      "co-fail": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1654089097202
+        }
+      }
+    },
+    "個問題，根本原因是「沒有一套有效的筆記內容紀錄系統」。這個系統並不是說筆記該如何分類、該如何使用標籤…等，而是描述「這份筆記本身」的內容。": {
+      "個問題，根本原因是「沒有一套有效的筆記內容紀錄系統」。這個系統並不是說筆記該如何分類、該如何使用標籤…等，而是描述「這份筆記本身」的內容。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1654090564301
+        }
+      }
+    },
+    "給予4位候選人及人事主任之聯絡電話": {
+      "給予4位候選人及人事主任之聯絡電話": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1655129110147
+        }
+      }
+    },
+    "-016": {
+      "內部鏈結": {
+        "customDictionary": {
+          "count": 5,
+          "lastUpdated": 1655876522985
+        }
+      }
+    }
+  }
+}

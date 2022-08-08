@@ -1,0 +1,141 @@
+{
+  "choices": [
+    {
+      "id": "bdd19261-5db7-4c86-883e-df517cf4cdf5",
+      "name": "1. Template",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "73fd55cc-1a9a-4198-b52c-b40758120895",
+          "name": "1. Template-Universal Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "001-Template/UniversalNote.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:請輸入筆記檔名}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "002-Inbox"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "2a8dee0d-daf4-4c97-addb-a4b3d6f2e9b5",
+          "name": "2. Template-SubItem",
+          "type": "Template",
+          "command": false,
+          "templatePath": "001-Template/Template-SubItem.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:請輸入子項目檔名}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "002-Inbox/001-SubItem"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
+          "id": "5aa10685-a2b3-4f81-8984-e9fc497e5a0f",
+          "name": "3. Template-Temporary Mission",
+          "type": "Template",
+          "command": false,
+          "templatePath": "001-Template/Template-Temporary Mission.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:請輸入暫時任務檔名}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "003-Temporary Mission"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "4b2627da-20df-4036-af5d-08d0a3844548",
+      "name": "2. Capture",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "1256e600-4d85-4b89-8694-a1e0f76c0be7",
+          "name": "1. Capture-DataviewQuickSearch",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\nconst aTexts =   [ \"1. Table\", \"2. List\"];\n  \nconst aValues = [ \"0\", \"1\" ];\n\nlet choice = await this.quickAddApi.suggester(aTexts, aValues);\n\nconst _datatype = [ \"Table\", \"List\"];\n\ndatatype = _datatype[choice];\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\nconst backQuotes = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\nconst TwoQuotes = String.fromCharCode(34) + String.fromCharCode(34);\nconst Unequal = String.fromCharCode(33) + String.fromCharCode(61);\n\nresult = backQuotes + \"dataview\" + nl + datatype + \" \" + selection + \" from \" + TwoQuotes + nl + \"where \" + selection + Unequal + \"null\" + nl + \"flatten \" + selection +  nl + backQuotes;\n \nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ]
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

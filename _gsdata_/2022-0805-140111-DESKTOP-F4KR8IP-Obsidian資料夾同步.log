@@ -1,0 +1,12 @@
+2022-08-05 14:01:11: -- 分析開始 User Command
+2022-08-05 14:01:11: 變更：7， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 317
+2022-08-05 14:01:11: Left to Right: Copy File: 7 
+2022-08-05 14:01:11: == 同步開始由 User Command
+2022-08-05 14:01:11: 新建複製 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/Obsidian概述.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/Obsidian概述.md' (399)
+2022-08-05 14:01:11: 覆蓋複製 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/歌手.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/歌手.md' (271)
+2022-08-05 14:01:11: 覆蓋複製 'D:/Obsidian/Hoonsor/007-日常生活相關/●日常生活.md' -> 'P:/Obsidian/Hoonsor/007-日常生活相關/●日常生活.md' (294)
+2022-08-05 14:01:11: 覆蓋複製 'D:/Obsidian/Hoonsor/●子彈筆記.md' -> 'P:/Obsidian/Hoonsor/●子彈筆記.md' (391)
+2022-08-05 14:01:11: 覆蓋複製 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/獨立樂團.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/獨立樂團.md' (555)
+2022-08-05 14:01:11: 覆蓋複製 'D:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' (1,711)
+2022-08-05 14:01:11: 覆蓋複製 'D:/Obsidian/Hoonsor/●專案管理.md' -> 'P:/Obsidian/Hoonsor/●專案管理.md' (797)
+2022-08-05 14:01:11: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 7, 錯誤: 0

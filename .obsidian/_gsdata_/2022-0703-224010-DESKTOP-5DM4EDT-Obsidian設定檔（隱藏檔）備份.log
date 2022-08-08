@@ -1,0 +1,22 @@
+2022-07-03 22:40:11: == 同步開始由 User Command
+2022-07-03 22:40:11: 創建資料夾 P:/Obsidian/家裡桌電插件及設定檔/plugins/quickadd
+2022-07-03 22:40:11: 創建資料夾 P:/Obsidian/家裡桌電插件及設定檔/plugins/templater-obsidian
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/appearance.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/appearance.json' (49)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/app.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/app.json' (204)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/community-plugins.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/community-plugins.json' (740)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/hotkeys.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/hotkeys.json' (4,249)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/calendar/data.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/calendar/data.json' (231)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/core-plugins.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/core-plugins.json' (367)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/quickadd/data.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/quickadd/data.json' (1,139)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/customizable-sidebar/data.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/customizable-sidebar/data.json' (1,138)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/obsidian-shellcommands/data.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/obsidian-shellcommands/data.json' (3,886)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/quickadd/main.js' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/quickadd/main.js' (507,241)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/quickadd/manifest.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/quickadd/manifest.json' (272)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/quickadd/styles.css' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/quickadd/styles.css' (3,762)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/templater-obsidian/data.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/templater-obsidian/data.json' (506)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/recent-files-obsidian/data.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/recent-files-obsidian/data.json' (2,368)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/templater-obsidian/main.js' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/templater-obsidian/main.js' (221,826)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/templater-obsidian/manifest.json' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/templater-obsidian/manifest.json' (272)
+2022-07-03 22:40:11: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/plugins/templater-obsidian/styles.css' -> 'P:/Obsidian/家裡桌電插件及設定檔/plugins/templater-obsidian/styles.css' (5,366)
+2022-07-03 22:40:11: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/.obsidian/workspace' -> 'P:/Obsidian/家裡桌電插件及設定檔/workspace' (9,175)
+2022-07-03 22:40:11: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 20, 錯誤: 0

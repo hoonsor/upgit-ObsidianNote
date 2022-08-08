@@ -1,0 +1,385 @@
+{
+  "main": {
+    "id": "4ac57e38f93ad83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "777a9805748363d6",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "●專案管理.md"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/Obsidian概述.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/Obsidian概述.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":8},\"to\":{\"line\":11,\"ch\":8}}}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":0},\"to\":{\"line\":47,\"ch\":0}},\"scroll\":30.041666666666668}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/獨立樂團.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":190},\"to\":{\"line\":11,\"ch\":190}}}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"007-日常生活相關/●日常生活.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":27.02776265650517}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":141,\"ch\":249},\"to\":{\"line\":141,\"ch\":0}},\"scroll\":121.9150641025641}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/1110731-DataView插件筆記.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":96,\"ch\":0},\"to\":{\"line\":96,\"ch\":0}},\"scroll\":25.588141025641026}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"007-日常生活相關/●日常生活.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":0},\"to\":{\"line\":94,\"ch\":0}},\"scroll\":61.943910256410255}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "777a9805748363d6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/歌手.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94f277a695c87b4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd928a12e0612e2a",
+        "type": "tabs",
+        "dimension": 52.51004016064257,
+        "children": [
+          {
+            "id": "5742df7154023138",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "c05cfab6de97da18",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f59fa83aadd5d4c",
+        "type": "tabs",
+        "dimension": 47.48995983935743,
+        "children": [
+          {
+            "id": "da7154e25a1aeb3e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "d90fb7480f635814",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbe27a2da716769c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb773b62905c6aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fdf00e2af4a8a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#h/red",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7c0f21ea256eef32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "●專案管理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1968b40ba412c9bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "●專案管理.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "aa9608374450c116",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "95b42c6ce66892a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "●專案管理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbed48977d048501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2a6a2ed0922c6f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "●專案管理.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "bbd9ced7d0b1012e",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "777a9805748363d6",
+  "lastOpenFiles": [
+    "002-Inbox/001-SubItem/Obsidian概述.md",
+    "●專案管理.md",
+    "002-Inbox/★測試各類功能.md",
+    "002-Inbox/001-SubItem/AHK-概述.md",
+    "002-Inbox/001-SubItem/獨立樂團.md",
+    "007-日常生活相關/●日常生活.md",
+    "●子彈筆記.md",
+    "按鈕範例.md",
+    "002-Inbox/1110731-DataView插件筆記.md",
+    "002-Inbox/001-SubItem/歌手.md"
+  ]
+}
