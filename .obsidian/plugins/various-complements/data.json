@@ -174,8 +174,8 @@
     "-0m": {
       "褐紅底白字 ": {
         "customDictionary": {
-          "count": 14,
-          "lastUpdated": 1659954177342
+          "count": 15,
+          "lastUpdated": 1660058306009
         }
       }
     },
@@ -208,6 +208,12 @@
         "customDictionary": {
           "count": 5,
           "lastUpdated": 1659613611703
+        }
+      },
+      "Tips（DataView 欄位）": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1660058243740
         }
       }
     },

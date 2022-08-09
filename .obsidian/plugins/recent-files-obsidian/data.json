@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "AHK-概述",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
     {
+      "basename": "★按鈕範例",
+      "path": "★按鈕範例.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "DashBoard CSS-自行測試",
       "path": "DashBoard CSS-自行測試.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "1110804-提醒新進短期臨工注意事項",
@@ -21,32 +53,8 @@
       "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
     },
     {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
-    },
-    {
-      "basename": "★按鈕範例",
-      "path": "★按鈕範例.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
-    },
-    {
-      "basename": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
     },
     {
       "basename": "1110628-網站設計行銷相關",
@@ -63,10 +71,6 @@
     {
       "basename": "安裝Astra及有關插件",
       "path": "003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md"
-    },
-    {
-      "basename": "●日常生活",
-      "path": "●日常生活.md"
     },
     {
       "basename": "Untitled 1",
