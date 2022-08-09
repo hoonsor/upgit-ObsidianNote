@@ -12,8 +12,14 @@
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":19.332827324478178}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -110,30 +116,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DashBoard CSS-自行測試.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cf4fd0697ac02a30",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "cf4fd0697ac02a30",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "★測試各類功能.md",
             "mode": "source",
             "source": false
           }
@@ -252,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "★測試各類功能.md"
               }
             }
           },
@@ -287,7 +270,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +329,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,9 +389,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cf4fd0697ac02a30",
+  "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
     "DashBoard CSS-自行測試.md",
+    "conflict-files-obsidian-git.md",
     "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md",
@@ -416,7 +400,6 @@
     "★按鈕範例.md",
     "README.md",
     "●子彈筆記.md",
-    "●首頁.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
+    "●首頁.md"
   ]
 }
