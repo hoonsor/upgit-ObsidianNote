@@ -13,7 +13,7 @@
               "leaf": "ae30bdfa51e454de",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -381,8 +381,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
