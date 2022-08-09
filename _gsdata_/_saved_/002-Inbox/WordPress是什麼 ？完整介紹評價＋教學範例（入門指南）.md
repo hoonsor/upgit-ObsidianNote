@@ -1,15 +1,13 @@
 ---
 aliases:    
-tags: 
-  專案筆記 
-  創業, 興趣培養 
+tags: [專案筆記 , 創業, 興趣培養]
 status: 🌱
-author:   犬哥 
-source:   https://frankknow.com/what-is-wordpress/ 
+author: 犬哥 
+source: https://frankknow.com/what-is-wordpress/ 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 14th 2022, 8:37:10 pm
-modified: Sunday, July 24th 2022, 8:09:24 pm
+modified: Sunday, July 31st 2022, 8:37:19 pm
 ---
 # WordPress 是什麼 ？完整介紹評價＋教學範例（入門指南）^toc
 

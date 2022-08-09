@@ -13,12 +13,12 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "gitPath": "git@github.com:hoonsor/upgit-ObsidianNote.git",
+  "gitPath": "",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "git@github.com:hoonsor/upgit-ObsidianNote.git",
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": true
+  "changedFilesInStatusBar": false
 }

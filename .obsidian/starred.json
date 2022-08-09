@@ -29,6 +29,21 @@
       "type": "file",
       "title": "!dict",
       "path": "000-index/!dict.md"
+    },
+    {
+      "type": "file",
+      "title": "電腦知識",
+      "path": "電腦相關/電腦知識.md"
+    },
+    {
+      "type": "file",
+      "title": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "type": "file",
+      "title": "●首頁",
+      "path": "●首頁.md"
     }
   ]
 }

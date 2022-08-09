@@ -1,0 +1,102 @@
+/* Updated 2022-02-28 */
+
+.dashboard {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding-top: 20px !important;
+}
+
+.dashboard .markdown-preview-section {
+    max-width: 100%;
+}
+
+/* Title at top of the document */
+.dashboard .markdown-preview-section .title {
+    top: 60px;
+    position: absolute;
+    font-size: 26pt !important;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+
+.dashboard h1 {
+    border-bottom-style: dotted !important;
+    border-width: 1px !important;
+    padding-bottom: 3px !important;
+}
+
+.dashboard div > ul {
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    row-gap: 30px;
+    flex-flow: row wrap;
+}
+
+.dashboard div > ul > li {
+    min-width: 250px;
+    width: 15%;
+}
+
+/*-----------*/
+
+
+.dashboard_1 {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding-top: 20px !important;
+}
+
+
+.dashboard_1 .markdown-preview-section {
+    max-width: 100%;
+}
+
+/* Title at top of the document */
+.dashboard_1 .markdown-preview-section .title {
+    top: 60px;
+    position: absolute;
+    font-size: 26pt !important;
+    font-weight: bolder;
+    letter-spacing: 8px;
+}
+
+
+
+.dashboard_1 h2 {
+    border-bottom-style: dotted !important;
+    border-width: 1px !important;
+    padding-bottom: 3px !important;
+}
+
+.dashboard_1 div > ul {
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    row-gap: 0px;
+    flex-flow: row wrap;
+}
+
+.dashboard_1 div {
+	width: 22vw;
+    list-style: none;
+    display: flex;
+    column-gap: 5px;
+    row-gap: 5px;
+    flex-flow: row wrap;
+}
+
+/*
+.dashboard_1 div > ul {
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    row-gap: 30px;
+    flex-flow: row wrap;
+}
+*/
+
+.dashboard_1 div > ul > li {
+    min-width: 250px;
+    width: 15%;
+}

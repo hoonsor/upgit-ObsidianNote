@@ -1,15 +1,13 @@
 ---
 aliases:    
-tags: 
-  子彈筆記 
-  興趣培養, 電腦軟體 
+tags: [子彈筆記, 興趣培養, 電腦軟體]
 status: 🌱
-author:   簡睿 
-source:   https://www.youtube.com/watch?v=wETtIAFFcfw 
+author: 簡睿 
+source: https://www.youtube.com/watch?v=wETtIAFFcfw 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Wednesday, July 20th 2022, 7:01:49 pm
-modified: Wednesday, July 20th 2022, 11:12:58 pm
+modified: Sunday, July 31st 2022, 8:36:34 pm
 ---
 # Obsidian 的任務管理技巧彙總
 

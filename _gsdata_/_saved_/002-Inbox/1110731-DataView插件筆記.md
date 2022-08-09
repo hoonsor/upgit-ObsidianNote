@@ -1,4 +1,7 @@
 ---
+parent: [[●專案管理]]
+sibling: [[002-Inbox/001-SubItem/Obsidian概述]]
+child: 
 aliases:    
 tags: [專案筆記, 電腦軟體, 興趣培養]
 status: 🌱
@@ -7,8 +10,17 @@ source: https://www.youtube.com/watch?v=dkWA7Qd0CLA
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Friday, August 5th 2022, 10:58:42 am
+modified: Monday, August 8th 2022, 1:54:22 pm
 ---
+
+- [[#1110731-DataView 插件筆記 ^toc|1110731-DataView 插件筆記]]
+	- [[#1. 概述|1. 概述]]
+	- [[#2. 查詢語法|2. 查詢語法]]
+		- [[#2.1. 語法說明|2.1. 語法說明]]
+		- [[#2.2. 內置變數|2.2. 內置變數]]
+		- [[#2.3. 參考資料|2.3. 參考資料]]
+		- [[#2.4. 範例|2.4. 範例]]
+
 [[●專案管理]]
 # 1110731-DataView 插件筆記 ^toc
 
@@ -56,30 +68,30 @@ modified: Friday, August 5th 2022, 10:58:42 am
 ### 2.2. 內置變數
 
 Dataview 會自動為每個頁面添加大量元數據：
--   `file.name`：文件標題（字符串）。
--   `file.folder`：該文件所屬文件夾的路徑。
--   `file.path`：完整的文件路徑（字符串）。
--   `file.ext`: 文件類型的擴展名；通常是“.md”（一個字符串）。
--   `file.link`：文件的鏈接（鏈接）。
--   `file.size`：文件的大小（以字節為單位）（一個數字）。
--   `file.ctime`：文件的創建日期（日期 + 時間）。
--   `file.cday`：文件的創建日期（只是一個日期）。
--   `file.mtime`：文件最後修改的日期（日期 + 時間）。
--   `file.mday`：文件最後修改的日期（只是一個日期）。
--   `file.tags`：筆記中所有唯一標籤的數組。子標籤按每個級別細分，因此 `#Tag/1/A` 將存儲在數組中 `[#Tag, #Tag/1, #Tag/1/A]`。
--   `file.etags`：註釋中所有顯式標籤的數組；不像 `file.tags`, 不包括子標籤。
--   `file.inlinks`：指向此文件的所有傳入鏈接的數組。
--   `file.outlinks`：此文件中所有傳出鏈接的數組。
--   `file.aliases`：筆記的所有別名的數組。
--   `file.tasks``- [ ] blah blah blah`：此文件中所有任務（即，）的數組。
--   `file.lists`：文件中所有列表元素的數組（包括任務）；這些元素是有效的任務，可以在任務視圖中呈現。
--   `file.frontmatter`：包含所有 frontmatter 的原始值；主要用於檢查原始 frontmatter 值或動態列出 frontmatter 鍵。
+- `file.name`：文件標題（字符串）。
+- `file.folder`：該文件所屬文件夾的路徑。
+- `file.path`：完整的文件路徑（字符串）。
+- `file.ext`: 文件類型的擴展名；通常是“.md”（一個字符串）。
+- `file.link`：文件的鏈接（鏈接）。
+- `file.size`：文件的大小（以字節為單位）（一個數字）。
+- `file.ctime`：文件的創建日期（日期 + 時間）。
+- `file.cday`：文件的創建日期（只是一個日期）。
+- `file.mtime`：文件最後修改的日期（日期 + 時間）。
+- `file.mday`：文件最後修改的日期（只是一個日期）。
+- `file.tags`：筆記中所有唯一標籤的數組。子標籤按每個級別細分，因此 `#Tag/1/A` 將存儲在數組中 `[#Tag, #Tag/1, #Tag/1/A]`。
+- `file.etags`：註釋中所有顯式標籤的數組；不像 `file.tags`, 不包括子標籤。
+- `file.inlinks`：指向此文件的所有傳入鏈接的數組。
+- `file.outlinks`：此文件中所有傳出鏈接的數組。
+- `file.aliases`：筆記的所有別名的數組。
+- `file.tasks``- [ ] blah blah blah`：此文件中所有任務（即，）的數組。
+- `file.lists`：文件中所有列表元素的數組（包括任務）；這些元素是有效的任務，可以在任務視圖中呈現。
+- `file.frontmatter`：包含所有 frontmatter 的原始值；主要用於檢查原始 frontmatter 值或動態列出 frontmatter 鍵。
 
 - 以下為布林值，搭配 where 使用
 	如果文件在其標題（表單 `yyyy-mm-dd` 或 `yyyymmdd`）中有日期，或者有一個 `Date` 字段/內聯字段，它還具有以下屬性：
-	-   `file.day`：與文件關聯的明確日期。
+	- `file.day`：與文件關聯的明確日期。
 	如果您使用 Obsidian 默認的“加星標文件”插件，還可以使用以下元數據：
-	-   `file.starred`：如果此文件已被“星星”黑曜石插件加註星標。
+	- `file.starred`：如果此文件已被“星星”黑曜石插件加註星標。
 
 ### 2.3. 參考資料
 

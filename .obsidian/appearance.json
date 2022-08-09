@@ -1,8 +1,10 @@
 {
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "translucency": false,
   "enabledCssSnippets": [
-    "highlight"
+    "highlight",
+    "dashboard",
+    "dashboard-ReadLineLength"
   ],
   "cssTheme": "Minimal",
   "theme": "obsidian"

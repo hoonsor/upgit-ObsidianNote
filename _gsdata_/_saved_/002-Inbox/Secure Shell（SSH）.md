@@ -1,15 +1,13 @@
 ---
 aliases:   SSH 
-tags: 
-  文獻筆記 
-  日常生活 
+tags: [文獻筆記 , 日常生活]
 status: 🌲
-author:   維基百科 
-source:   Secure Shell 
+author: 維基百科 
+source: Secure Shell 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 14th 2022, 9:56:15 pm
-modified: Thursday, July 14th 2022, 10:03:14 pm
+modified: Sunday, July 31st 2022, 8:37:03 pm
 ---
 # Secure Shell（SSH） ^toc
 

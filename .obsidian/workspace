@@ -4,137 +4,113 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc24852959299e2",
+        "id": "ae30bdfa51e454de",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "6bc24852959299e2",
+              "leaf": "ae30bdfa51e454de",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/1110806-Git及Obsidian同步至手機學習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/Obsidian概述.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":43},\"to\":{\"line\":2,\"ch\":43}}}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/1110731-DataView插件筆記.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":12},\"to\":{\"line\":4,\"ch\":12}}}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/1110731-DataView插件筆記.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}}}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/AHK-GUI控件相關.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":41},\"to\":{\"line\":2,\"ch\":41}}}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6bc24852959299e2",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/AHK-GUI控件相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "6bc24852959299e2",
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
               "group": null,
               "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "6bc24852959299e2",
+              "leaf": "ae30bdfa51e454de",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/001-SubItem/AHK-GUI控件相關.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":9},\"to\":{\"line\":2,\"ch\":9}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":20.81262358424865}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":6.876032588863134}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":31.795180722891565}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002-Inbox/1110806-Git及Obsidian同步至手機學習.md",
+            "file": "DashBoard CSS-自行測試.md",
             "mode": "source",
             "source": false
           }
@@ -214,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 235
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -253,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002-Inbox/1110806-Git及Obsidian同步至手機學習.md",
+                "file": "DashBoard CSS-自行測試.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002-Inbox/1110806-Git及Obsidian同步至手機學習.md"
+                "file": "DashBoard CSS-自行測試.md"
               }
             }
           },
@@ -288,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002-Inbox/1110806-Git及Obsidian同步至手機學習.md",
+                "file": "DashBoard CSS-自行測試.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,8 +295,12 @@
             }
           },
           {
-            "id": "0f5197ef3bd9c691",
+            "id": "eed7643fde2f1f20",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -343,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002-Inbox/1110806-Git及Obsidian同步至手機學習.md",
+                "file": "DashBoard CSS-自行測試.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -397,23 +377,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6bc24852959299e2",
+  "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
-    "●子彈筆記.md",
+    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+    "DashBoard CSS-自行測試.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md",
     "●專案管理.md",
-    "002-Inbox/001-SubItem/Obsidian概述.md",
-    "002-Inbox/1110731-DataView插件筆記.md",
-    "002-Inbox/001-SubItem/AHK-GUI控件相關.md",
-    "002-Inbox/001-SubItem/AHK-概述.md",
-    "007-日常生活相關/●日常生活.md",
-    "007-日常生活相關/88節購物清單.md",
-    "002-Inbox/001-SubItem/現有症狀治療及緩解.md",
-    "002-Inbox/001-SubItem/安裝Astra及有關插件.md"
+    "★按鈕範例.md",
+    "README.md",
+    "●子彈筆記.md",
+    "●首頁.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
   ]
 }

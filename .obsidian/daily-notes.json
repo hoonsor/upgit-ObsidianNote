@@ -1,5 +1,5 @@
 {
   "format": "YYYY-MM-DD_ddd",
-  "folder": "daily",
-  "template": "daily/template.md"
+  "folder": "006-DailyNote",
+  "template": "006-DailyNote/template"
 }

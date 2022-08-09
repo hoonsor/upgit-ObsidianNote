@@ -1,7 +1,10 @@
 ---
+up: [[●專案管理#Wordpress架設網站]]
+same: [[002-Inbox/001-SubItem/安裝Astra及有關插件]]
+down: 
 status: 🌱
 created: Monday, July 25th 2022, 10:01:43 pm
-modified: Monday, July 25th 2022, 10:20:59 pm
+modified: Monday, August 8th 2022, 12:00:04 am
 ---
 # 安裝 Astra 及有關插件 ^toc
 
@@ -39,10 +42,10 @@ You are all set to create wonders with the Astra Pro Addon!,
 ## 2. 已購買的插件
 
 - Essential Bundle for Beaver Builder
-	- Premium Starter Templates  – Manage Sites 
-	- Astra Pro  – Manage Sites
-	- Ultimate Addons for Beaver Builder  – Manage Sites
-	- WP Portfolio  – Manage Sites
+	- Premium Starter Templates – Manage Sites 
+	- Astra Pro – Manage Sites
+	- Ultimate Addons for Beaver Builder – Manage Sites
+	- WP Portfolio – Manage Sites
 
 登入 BrainStormForce 即可查看啟動序號
 

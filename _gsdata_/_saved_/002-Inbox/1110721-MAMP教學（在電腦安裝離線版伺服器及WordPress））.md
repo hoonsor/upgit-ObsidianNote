@@ -1,15 +1,13 @@
 ---
 aliases:    
-tags: 
-  專案筆記 
-  創業 
+tags: [專案筆記, 創業]
 status: 🌱
-author:   阿德 
-source:   https://adersaytech.com/wordpress-teach/mamp-wordpress-tutorial.html 
+author: 阿德 
+source: https://adersaytech.com/wordpress-teach/mamp-wordpress-tutorial.html 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 21st 2022, 7:31:28 pm
-modified: Thursday, July 21st 2022, 8:55:00 pm
+modified: Sunday, July 31st 2022, 8:35:50 pm
 ---
 # 1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress） ^toc
 

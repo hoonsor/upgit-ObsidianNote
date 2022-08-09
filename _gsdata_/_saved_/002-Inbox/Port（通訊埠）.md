@@ -1,15 +1,13 @@
 ---
 aliases: port
-tags: 
-  文獻筆記 
-  日常生活 
+tags: [文獻筆記, 日常生活]
 status: 🌲
-author:   維基百科 
-source:   https://zh.m.wikipedia.org/zh-tw/%E9%80%9A%E8%A8%8A%E5%9F%A0 
+author: 維基百科 
+source: https://zh.m.wikipedia.org/zh-tw/%E9%80%9A%E8%A8%8A%E5%9F%A0 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 14th 2022, 9:44:53 pm
-modified: Thursday, July 14th 2022, 10:04:22 pm
+modified: Sunday, July 31st 2022, 8:36:51 pm
 ---
 # Port（通訊埠） ^toc
 

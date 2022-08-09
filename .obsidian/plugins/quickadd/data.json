@@ -46,10 +46,8 @@
           },
           "folder": {
             "enabled": true,
-            "folders": [
-              "002-Inbox/001-SubItem"
-            ],
-            "chooseWhenCreatingNote": false,
+            "folders": [],
+            "chooseWhenCreatingNote": true,
             "createInSameFolderAsActiveFile": false
           },
           "appendLink": false,

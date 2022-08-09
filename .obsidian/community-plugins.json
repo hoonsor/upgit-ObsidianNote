@@ -12,7 +12,6 @@
   "drawio-obsidian",
   "obsidian-emoji-toolbar",
   "format-hotkeys-obsidian",
-  "obsidian-hover-editor",
   "lapel",
   "obsidian-linter",
   "obsidian-mind-map",
@@ -39,5 +38,7 @@
   "obsidian-view-mode-by-frontmatter",
   "cm-editor-syntax-highlight-obsidian",
   "breadcrumbs",
-  "obsidian-git"
+  "obsidian-git",
+  "quick-explorer",
+  "obsidian-banners"
 ]

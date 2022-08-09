@@ -1,15 +1,13 @@
 ---
 aliases:    
-tags: 
-  專案筆記 
-  創業, 興趣培養 
+tags: [專案筆記, 創業, 興趣培養]
 status: 🌱
-author:   犬哥 
-source:   https://frankknow.com/astra-wp-portfolio/ 
+author: 犬哥 
+source: https://frankknow.com/astra-wp-portfolio/ 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Wednesday, July 6th 2022, 8:53:14 pm
-modified: Wednesday, July 6th 2022, 9:57:32 pm
+modified: Sunday, July 31st 2022, 8:36:16 pm
 ---
 # Astra Pro Theme 教學：WP Portfolio 作品集功能 ^toc
 
