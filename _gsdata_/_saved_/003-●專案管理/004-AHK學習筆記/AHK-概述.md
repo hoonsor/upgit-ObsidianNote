@@ -3,7 +3,7 @@ parent: [[●專案管理]]
 sibling: [[002-Inbox/001-SubItem/AHK-GUI控件相關]]
 child: 
 created: Thursday, August 4th 2022, 8:02:36 pm
-modified: Wednesday, August 10th 2022, 9:26:30 am
+modified: Tuesday, August 9th 2022, 11:19:51 pm
 ---
 [[●專案管理]]
 # AHK- 概述 ^toc
@@ -15,7 +15,6 @@ modified: Wednesday, August 10th 2022, 9:26:30 am
 		- [[#1.3. while|1.3. while]]
 		- [[#1.4. GUI|1.4. GUI]]
 		- [[#1.5. AHK_Function|1.5. AHK_Function]]
-	- [[#2. 小提示|2. 小提示]]
 
 
 > AHK_Function:: [[#1. 語法|語法]]
@@ -46,8 +45,6 @@ Table Tips from ""
 where Tips!=null
 flatten Tips
 ```
-
-## 2. 提示
 
 
 > Tips:: AHK 的陣列計數是從 1 開始，而非從 0 開始計算！
