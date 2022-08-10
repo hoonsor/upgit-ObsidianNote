@@ -13,7 +13,7 @@
               "leaf": "ae30bdfa51e454de",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":96,\"ch\":0},\"to\":{\"line\":96,\"ch\":0}},\"scroll\":85.52204472843451}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -129,6 +129,29 @@
           "type": "markdown",
           "state": {
             "file": "★測試各類功能.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "654cd2dc20af401c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "654cd2dc20af401c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -401,11 +424,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "eed7643fde2f1f20",
+  "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
-    "DashBoard CSS-自行測試.md",
-    "★測試各類功能.md",
     "conflict-files-obsidian-git.md",
+    "★測試各類功能.md",
+    "DashBoard CSS-自行測試.md",
     "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md",
