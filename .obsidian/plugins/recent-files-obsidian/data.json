@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Template-Travel",
+      "path": "001-Template/Template-Travel.md"
+    },
+    {
+      "basename": "Template-SubItem",
+      "path": "001-Template/Template-SubItem.md"
+    },
+    {
+      "basename": "Template-Temporary Mission",
+      "path": "001-Template/Template-Temporary Mission.md"
+    },
+    {
+      "basename": "UniversalNote",
+      "path": "001-Template/UniversalNote.md"
+    },
+    {
       "basename": "AHK-概述",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "CSS-em定義",
+      "path": "●圖片庫/CSS-em定義.png"
+    },
+    {
+      "basename": "CSS-vw及vh定義",
+      "path": "●圖片庫/CSS-vw及vh定義.png"
+    },
+    {
+      "basename": "安裝Astra及有關插件",
+      "path": "003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md"
+    },
+    {
+      "basename": "熟練行銷文章架構",
+      "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
+    },
+    {
+      "basename": "1110731-DataView插件筆記",
+      "path": "_gsdata_/_saved_/002-Inbox/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
+    },
+    {
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
     },
     {
       "basename": "!dict",
@@ -45,60 +97,16 @@
       "path": "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
     },
     {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
-      "basename": "熟練行銷文章架構",
-      "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
-    },
-    {
       "basename": "1110628-網站設計行銷相關",
       "path": "003-●專案管理/002-練習撰寫文章行銷課程/1110628-網站設計行銷相關.md"
-    },
-    {
-      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
-    },
-    {
-      "basename": "1110731-DataView插件筆記",
-      "path": "_gsdata_/_saved_/002-Inbox/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "安裝Astra及有關插件",
-      "path": "003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md"
     },
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
     {
-      "basename": "CSS-vw及vh定義",
-      "path": "●圖片庫/CSS-vw及vh定義.png"
-    },
-    {
       "basename": "CSS-rem定義",
       "path": "●圖片庫/CSS-rem定義.png"
-    },
-    {
-      "basename": "Template-SubItem",
-      "path": "001-Template/Template-SubItem.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
-    },
-    {
-      "basename": "CSS-em定義",
-      "path": "●圖片庫/CSS-em定義.png"
-    },
-    {
-      "basename": "Template-Temporary Mission",
-      "path": "001-Template/Template-Temporary Mission.md"
     }
   ],
   "omittedPaths": [],

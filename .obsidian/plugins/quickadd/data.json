@@ -87,6 +87,32 @@
           },
           "openFile": true,
           "openFileInMode": "source"
+        },
+        {
+          "id": "39b43ce0-7337-462f-a215-eae2fed015a1",
+          "name": "4. Template-Travel",
+          "type": "Template",
+          "command": false,
+          "templatePath": "001-Template/Template-Travel.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:請輸入筆記檔名（日期及旅遊地點）}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": true,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
         }
       ],
       "collapsed": false

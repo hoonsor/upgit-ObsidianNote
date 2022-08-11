@@ -12,121 +12,121 @@
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Travel.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-SubItem.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":10},\"to\":{\"line\":8,\"ch\":10}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/UniversalNote.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-SubItem.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-SubItem.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/UniversalNote.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-SubItem.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/UniversalNote.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-SubItem.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":38.403014721616664}"
             },
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Temporary Mission.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":5},\"to\":{\"line\":15,\"ch\":5}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"●圖片庫/CSS-em定義.png\"}}",
               "eState": "{}"
             },
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":60.745098039215684}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":0},\"to\":{\"line\":48,\"ch\":0}},\"scroll\":39.194120147761446}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":221},\"to\":{\"line\":49,\"ch\":221}},\"scroll\":34.36363454004918}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":28.000473073003807}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":24.300665441462833}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":44.34509726131664}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":104,\"ch\":0},\"to\":{\"line\":104,\"ch\":0}},\"scroll\":82.9019598867379}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"●圖片庫/CSS-vw及vh定義.png\"}}",
               "eState": "{}"
             }
           ]
@@ -134,7 +134,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+            "file": "001-Template/Template-Travel.md",
             "mode": "source",
             "source": false
           }
@@ -176,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -215,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -254,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "001-Template/Template-Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+                "file": "001-Template/Template-Travel.md"
               }
             }
           },
@@ -289,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "001-Template/Template-Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "001-Template/Template-Travel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,19 +405,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
-    "000-index/!dict.md",
-    "●日常生活.md",
-    "●專案管理.md",
-    "●子彈筆記.md",
+    "Untitled.md",
+    "001-Template/Template-SubItem.md",
+    "001-Template/Template-Temporary Mission.md",
+    "001-Template/UniversalNote.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
-    "★測試各類功能.md",
-    "★按鈕範例.md",
-    "README.md",
-    "DashBoard CSS-自行測試.md",
-    "●首頁.md"
+    "conflict-files-obsidian-git.md",
+    "●圖片庫/CSS-em定義.png",
+    "●圖片庫/CSS-vw及vh定義.png",
+    "003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md",
+    "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
   ]
 }
