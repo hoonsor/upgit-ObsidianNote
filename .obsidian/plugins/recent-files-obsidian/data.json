@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "1110813-九份行",
+      "path": "007-旅遊/1110813-九份行.md"
+    },
+    {
+      "basename": "AHK-GUI控件相關",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
+    },
+    {
+      "basename": "AHK-概述",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+    },
+    {
+      "basename": "Obsidian概述",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+    },
+    {
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "1110806-Git及Obsidian同步至手機學習",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
+    },
+    {
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "2022-06-07_Tue",
+      "path": "006-DailyNote/2022-06-07_Tue.md"
+    },
+    {
       "basename": "1110804-提醒新進短期臨工注意事項",
       "path": "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
     },
     {
       "basename": "1110803-待辦",
       "path": "005-工作相關/1110803-待辦.md"
-    },
-    {
-      "basename": "1110813-九份行",
-      "path": "007-旅遊/1110813-九份行.md"
     },
     {
       "basename": "Template-Travel",
@@ -27,10 +63,6 @@
     {
       "basename": "Template-Temporary Mission",
       "path": "001-Template/Template-Temporary Mission.md"
-    },
-    {
-      "basename": "AHK-概述",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
     },
     {
       "basename": "CSS-em定義",
@@ -57,10 +89,6 @@
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
     },
     {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
       "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
     },
@@ -71,14 +99,6 @@
     {
       "basename": "●日常生活",
       "path": "●日常生活.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
-    },
-    {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
     },
     {
       "basename": "★測試各類功能",

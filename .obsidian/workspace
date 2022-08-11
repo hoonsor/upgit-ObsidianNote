@@ -12,8 +12,98 @@
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":115},\"to\":{\"line\":45,\"ch\":115}},\"scroll\":30.628156409609364}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-06-07_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -38,103 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":23},\"to\":{\"line\":25,\"ch\":23}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":5},\"to\":{\"line\":15,\"ch\":5}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":7.283773491221371}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Travel.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Travel.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":10},\"to\":{\"line\":15,\"ch\":10}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":10},\"to\":{\"line\":19,\"ch\":10}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Template-Travel.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":15},\"to\":{\"line\":15,\"ch\":6}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":6},\"to\":{\"line\":28,\"ch\":6}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+            "file": "007-旅遊/1110813-九份行.md",
             "mode": "source",
             "source": false
           }
@@ -176,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -253,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+                "file": "007-旅遊/1110813-九份行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
+                "file": "007-旅遊/1110813-九份行.md"
               }
             }
           },
@@ -288,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+                "file": "007-旅遊/1110813-九份行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +348,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+                "file": "007-旅遊/1110813-九份行.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -370,7 +371,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.42967809143425173,
+                  "scale": 0.7132754626224417,
                   "close": true
                 }
               }
@@ -400,8 +401,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -409,15 +409,15 @@
   },
   "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
-    "005-工作相關/1110803-待辦.md",
-    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
-    "007-旅遊/1110813-九份行.md",
-    "001-Template/Template-Travel.md",
-    "001-Template/UniversalNote.md",
-    "Untitled.md",
-    "001-Template/Template-SubItem.md",
-    "001-Template/Template-Temporary Mission.md",
+    "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
-    "conflict-files-obsidian-git.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md",
+    "●專案管理.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
+    "●子彈筆記.md",
+    "006-DailyNote/2022-06-07_Tue.md",
+    "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
   ]
 }
