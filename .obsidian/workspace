@@ -12,8 +12,38 @@
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":87},\"to\":{\"line\":14,\"ch\":87}},\"scroll\":9.166512335318107}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -98,43 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-06-07_Tue.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":36},\"to\":{\"line\":11,\"ch\":36}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":23},\"to\":{\"line\":25,\"ch\":23}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":17},\"to\":{\"line\":13,\"ch\":17}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":23},\"to\":{\"line\":25,\"ch\":23}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "007-旅遊/1110813-九份行.md",
+            "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
             "mode": "source",
             "source": false
           }
@@ -176,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -254,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007-旅遊/1110813-九份行.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007-旅遊/1110813-九份行.md"
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
               }
             }
           },
@@ -289,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "007-旅遊/1110813-九份行.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "007-旅遊/1110813-九份行.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -409,15 +408,15 @@
   },
   "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
+    "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
+    "●專案管理.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "007-旅遊/1110813-九份行.md",
     "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md",
-    "●專案管理.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
-    "●子彈筆記.md",
-    "006-DailyNote/2022-06-07_Tue.md",
-    "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
+    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
   ]
 }

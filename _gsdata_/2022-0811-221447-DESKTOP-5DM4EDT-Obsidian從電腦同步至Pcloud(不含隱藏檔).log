@@ -1,0 +1,27 @@
+2022-08-11 22:14:47: -- 分析開始 User Command
+2022-08-11 22:14:47: /003-●專案管理/004-AHK學習筆記/AHK-概述.md: L:TimeSize<>; 衝突：檔兩側都進行了改動
+2022-08-11 22:14:47: 變更：20， 衝突：0， 複製時間：0， 複製狀態：3， 錯誤： 0, All: 480
+2022-08-11 22:14:47: Left to Right: Copy File: 19 
+2022-08-11 22:14:47: Right to Left: Copy File: 1 
+2022-08-11 22:14:47: == 同步開始由 User Command
+2022-08-11 22:14:47: 創建資料夾 P:/Obsidian/Hoonsor/007-旅遊
+2022-08-11 22:14:47: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/001-Template/Template-Travel.md' -> 'P:/Obsidian/Hoonsor/001-Template/Template-Travel.md' (326)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/001-Template/Template-SubItem.md' -> 'P:/Obsidian/Hoonsor/001-Template/Template-SubItem.md' (62)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/001-Template/Template-Temporary Mission.md' -> 'P:/Obsidian/Hoonsor/001-Template/Template-Temporary Mission.md' (139)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/001-Template/UniversalNote.md' -> 'P:/Obsidian/Hoonsor/001-Template/UniversalNote.md' (1,020)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md' (10,435)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md' (45,157)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md' (1,979)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md' (264)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md' (14,800)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md' (6,107)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md' (645)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md' (2,363)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md' (659)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/004-AHK學習筆記/AHK-概述.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/004-AHK學習筆記/AHK-概述.md' (1,291)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/1110803-待辦.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/1110803-待辦.md' (897)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/1110804-提醒新進短期臨工注意事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/1110804-提醒新進短期臨工注意事項.md' (643)
+2022-08-11 22:14:47: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/007-旅遊/1110813-九份行.md' -> 'P:/Obsidian/Hoonsor/007-旅遊/1110813-九份行.md' (4,248)
+2022-08-11 22:14:47: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/006-DailyNote/2022-06-07_Tue.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-06-07_Tue.md' (459)
+2022-08-11 22:14:47: 新建複製 'P:/Obsidian/Hoonsor/005-工作相關/1110810-新進教師研習.md' -> 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/1110810-新進教師研習.md' (2,714)
+2022-08-11 22:14:47: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 23, 錯誤: 0
