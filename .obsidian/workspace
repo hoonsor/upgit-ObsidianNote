@@ -4,137 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ae30bdfa51e454de",
+        "id": "fd3a11a0c6a77023",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "ae30bdfa51e454de",
+              "leaf": "fd3a11a0c6a77023",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":21.178368506493506}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":0},\"to\":{\"line\":99,\"ch\":0}},\"scroll\":87.30095846645368}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":20.81262358424865}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":6.876032588863134}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+            "file": "005-工作相關/1110810-新進教師研習.md",
             "mode": "source",
             "source": false
           }
@@ -253,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "005-工作相關/1110810-新進教師研習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+                "file": "005-工作相關/1110810-新進教師研習.md"
               }
             }
           },
@@ -288,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "005-工作相關/1110810-新進教師研習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +233,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "005-工作相關/1110810-新進教師研習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -407,8 +293,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ae30bdfa51e454de",
+  "active": "eed7643fde2f1f20",
   "lastOpenFiles": [
+    "005-工作相關/1110810-新進教師研習.md",
+    "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
     "●首頁.md",
     "★測試各類功能.md",
     "conflict-files-obsidian-git.md",
@@ -416,8 +304,6 @@
     "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md",
-    "●專案管理.md",
-    "★按鈕範例.md",
-    "README.md"
+    "●專案管理.md"
   ]
 }

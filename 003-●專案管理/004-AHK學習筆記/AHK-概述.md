@@ -15,7 +15,7 @@ modified: Wednesday, August 10th 2022, 9:26:30 am
 		- [[#1.3. while|1.3. while]]
 		- [[#1.4. GUI|1.4. GUI]]
 		- [[#1.5. AHK_Function|1.5. AHK_Function]]
-	- [[#2. 小提示|2. 小提示]]
+	- [[#2. 提示|2. 提示]]
 
 
 > AHK_Function:: [[#1. 語法|語法]]
