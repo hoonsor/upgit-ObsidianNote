@@ -12,6 +12,24 @@
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-購物清單/購物清單.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":6},\"to\":{\"line\":8,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-●日常生活/001-購物清單/88節購物清單.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"002-Inbox/1110813-Thinkorswim軟體使用方式.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -110,31 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1110716-腎上腺疲勞調理及預防指南.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1110716-腎上腺疲勞調理及預防指南.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002-Inbox/1110813-Thinkorswim軟體使用方式.md",
+            "file": "004-●日常生活/001-購物清單/購物清單.md",
             "mode": "source",
             "source": false
           }
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002-Inbox/1110813-Thinkorswim軟體使用方式.md",
+                "file": "004-●日常生活/001-購物清單/購物清單.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002-Inbox/1110813-Thinkorswim軟體使用方式.md"
+                "file": "004-●日常生活/001-購物清單/購物清單.md"
               }
             }
           },
@@ -288,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002-Inbox/1110813-Thinkorswim軟體使用方式.md",
+                "file": "004-●日常生活/001-購物清單/購物清單.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002-Inbox/1110813-Thinkorswim軟體使用方式.md",
+                "file": "004-●日常生活/001-購物清單/購物清單.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -408,15 +408,15 @@
   },
   "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
+    "005-●日常生活/001-購物清單/88節購物清單.md",
+    "●日常生活.md",
+    "002-Inbox/1110813-Thinkorswim軟體使用方式.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md",
     "004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md",
     "004-●日常生活/005-健康知識/1110716-腎上腺疲勞調理及預防指南.md",
     "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
-    "004-●日常生活/001-購物清單/88節購物清單.md",
-    "004-●日常生活/001-購物清單/2022黑色星期五購物清單.md",
-    "007-旅遊/1110813-九份行.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md"
+    "004-●日常生活/001-購物清單/購物清單.md",
+    "004-●日常生活/001-購物清單/2022黑色星期五購物清單.md"
   ]
 }
