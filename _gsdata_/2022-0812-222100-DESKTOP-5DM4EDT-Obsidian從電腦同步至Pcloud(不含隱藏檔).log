@@ -1,0 +1,9 @@
+2022-08-12 22:21:00: -- 分析開始 User Command
+2022-08-12 22:21:00: 變更：4， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 481
+2022-08-12 22:21:00: Left to Right: Copy File: 3 Delete File: 1 
+2022-08-12 22:21:00: == 同步開始由 User Command
+2022-08-12 22:21:00: 刪除檔 P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/好用外掛推薦.md
+2022-08-12 22:21:00: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md' (568)
+2022-08-12 22:21:00: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/●專案管理.md' -> 'P:/Obsidian/Hoonsor/●專案管理.md' (885)
+2022-08-12 22:21:00: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md' (942)
+2022-08-12 22:21:00: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 4, 錯誤: 0

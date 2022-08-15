@@ -13,7 +13,7 @@
               "leaf": "fd3a11a0c6a77023",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":14},\"to\":{\"line\":44,\"ch\":14}},\"scroll\":29.827368421052633}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "fd3a11a0c6a77023",
@@ -306,11 +306,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bbd9ced7d0b1012e",
+  "active": "fd3a11a0c6a77023",
   "lastOpenFiles": [
-    "007-旅遊/1110813-九份行.md",
-    "005-工作相關/1110810-新進教師研習.md",
     "conflict-files-obsidian-git.md",
+    "005-工作相關/1110810-新進教師研習.md",
+    "007-旅遊/1110813-九份行.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
     "●首頁.md",
     "★測試各類功能.md",

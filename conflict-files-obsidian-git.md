@@ -2,5 +2,6 @@
 Please resolve them and commit per command (This file will be deleted before the commit).
 - Not a file: .obsidian/plugins/recent-files-obsidian/data.json
 - Not a file: .obsidian/workspace
+- [[1110810-新進教師研習]]
 - [[_file_state_v4._gs]]
 - [[_insync_v4.gsl]]

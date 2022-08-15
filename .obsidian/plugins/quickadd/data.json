@@ -21,7 +21,7 @@
             "folders": [
               "002-Inbox"
             ],
-            "chooseWhenCreatingNote": false,
+            "chooseWhenCreatingNote": true,
             "createInSameFolderAsActiveFile": false
           },
           "appendLink": false,
