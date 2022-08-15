@@ -10,7 +10,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, August 14th 2022, 2:29:16 pm
-modified: Sunday, August 14th 2022, 5:39:14 pm
+modified: Monday, August 15th 2022, 9:19:07 pm
 ---
 # 1110814-Thinkorswim 軟體學習心得 ^toc
 
@@ -26,6 +26,7 @@ modified: Sunday, August 14th 2022, 5:39:14 pm
 			- [[#2.2.4. 偏愛時間範圍|2.2.4. 偏愛時間範圍]]
 			- [[#2.2.5. 外觀|2.2.5. 外觀]]
 		- [[#2.3. 建議之自訂按鈕|2.3. 建議之自訂按鈕]]
+		- [[#2.4. Ondemand 回測工具|2.4. Ondemand 回測工具]]
 	- [[#3. 常用指標|3. 常用指標]]
 	- [[#4. 參考網頁|4. 參考網頁]]
 
@@ -64,7 +65,11 @@ modified: Sunday, August 14th 2022, 5:39:14 pm
 ### 2.3. 建議之自訂按鈕
 - 趨勢線
 - 價格水平
-- 
+- 三龍（研究）
+- 布林通道（研究）
+
+### 2.4. Ondemand 回測工具
+
 ## 3. 常用指標
 - SimpleMovingAvg
 - BollingerBands
