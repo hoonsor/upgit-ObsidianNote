@@ -139,6 +139,29 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "ce0ba1637d9463e5",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ce0ba1637d9463e5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -253,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -288,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +370,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,10 +429,10 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "ae30bdfa51e454de",
+  "active": "ce0ba1637d9463e5",
   "lastOpenFiles": [
-    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "005-工作相關/1110810-新進教師研習.md",
+    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "005-工作相關/1110803-待辦.md",
     "004-●日常生活/001-購物清單/購物清單.md",
     "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
