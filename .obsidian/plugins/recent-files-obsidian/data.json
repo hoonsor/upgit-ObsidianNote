@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "法規紀錄測試",
+      "path": "005-工作相關/法規紀錄測試.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
+    },
+    {
       "basename": "1110810-新進教師研習",
       "path": "005-工作相關/1110810-新進教師研習.md"
+    },
+    {
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
+      "basename": "●激勵影片",
+      "path": "004-●日常生活/●激勵影片.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "1110716-認識內分泌與激素",
@@ -11,10 +39,6 @@
     {
       "basename": "●待辦事項",
       "path": "004-●日常生活/●待辦事項.md"
-    },
-    {
-      "basename": "●首頁",
-      "path": "●首頁.md"
     },
     {
       "basename": "★測試各類功能",
@@ -27,10 +51,6 @@
     {
       "basename": "●子彈筆記",
       "path": "●子彈筆記.md"
-    },
-    {
-      "basename": "●激勵影片",
-      "path": "004-●日常生活/●激勵影片.md"
     },
     {
       "basename": "★按鈕範例",
@@ -179,22 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "DashBoard CSS-自行測試",
-      "path": "DashBoard CSS-自行測試.md"
-    },
-    {
-      "basename": "1110628-網站設計行銷相關",
-      "path": "003-●專案管理/002-練習撰寫文章行銷課程/1110628-網站設計行銷相關.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
-      "basename": "CSS-rem定義",
-      "path": "●圖片庫/CSS-rem定義.png"
     }
   ],
   "omittedPaths": [],
