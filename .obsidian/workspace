@@ -13,7 +13,7 @@
               "leaf": "ae30bdfa51e454de",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":82.31206380857428}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -139,29 +139,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "ce0ba1637d9463e5",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "ce0ba1637d9463e5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -276,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/1110810-新進教師研習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "005-工作相關/1110810-新進教師研習.md"
               }
             }
           },
@@ -311,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/1110810-新進教師研習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/1110810-新進教師研習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -429,8 +406,9 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "ce0ba1637d9463e5",
+  "active": "ae30bdfa51e454de",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "005-工作相關/1110810-新進教師研習.md",
     "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "005-工作相關/1110803-待辦.md",
@@ -439,7 +417,6 @@
     "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md",
     "004-●日常生活/001-購物清單/2022黑色星期五購物清單.md",
     "004-●日常生活/004-遊戲相關/XGPU雙人遊戲下載.md",
-    "005-●日常生活/001-購物清單/88節購物清單.md",
-    "●日常生活.md"
+    "005-●日常生活/001-購物清單/88節購物清單.md"
   ]
 }
