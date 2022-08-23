@@ -12,6 +12,18 @@
             {
               "leaf": "a6939e61b3eb1988",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":45.16467645377}"
+            },
+            {
+              "leaf": "a6939e61b3eb1988",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1110821-手機攝影技巧.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a6939e61b3eb1988",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-購物清單/購物清單.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
@@ -26,7 +38,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/001-購物清單/購物清單.md",
+            "file": "●首頁.md",
             "mode": "source",
             "source": false
           }
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/001-購物清單/購物清單.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/001-購物清單/購物清單.md"
+                "file": "●首頁.md"
               }
             }
           },
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/001-購物清單/購物清單.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/001-購物清單/購物清單.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -299,8 +311,10 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "eed7643fde2f1f20",
+  "active": "a6939e61b3eb1988",
   "lastOpenFiles": [
+    "1110821-手機攝影技巧.md",
+    "004-●日常生活/001-購物清單/購物清單.md",
     "005-工作相關/法規紀錄測試.md",
     "004-●日常生活/003-電腦知識/正則表達式.md",
     "●首頁.md",
@@ -308,8 +322,6 @@
     "005-工作相關/1110810-新進教師研習.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
     "004-●日常生活/●激勵影片.md",
-    "conflict-files-obsidian-git.md",
-    "004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md",
-    "004-●日常生活/●待辦事項.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
