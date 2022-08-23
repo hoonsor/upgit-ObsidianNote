@@ -361,5 +361,23 @@
       ],
       "key": "W"
     }
+  ],
+  "editor:fold-all": [],
+  "editor:unfold-all": [],
+  "creases:increase-fold-level-at-cursor": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "+"
+    }
+  ],
+  "creases:decrease-fold-level-at-cursor": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
   ]
 }

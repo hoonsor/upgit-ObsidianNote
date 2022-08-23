@@ -12,8 +12,32 @@
             {
               "leaf": "ae30bdfa51e454de",
               "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":51},\"to\":{\"line\":82,\"ch\":51}},\"scroll\":69.55882352941177}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":90,\"ch\":0},\"to\":{\"line\":90,\"ch\":0}},\"scroll\":80.01665805785125}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/法規紀錄測試.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ae30bdfa51e454de",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":137.3888334995015}"
             },
             {
               "leaf": "ae30bdfa51e454de",
@@ -104,29 +128,26 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-購物清單/購物清單.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
+            }
+          ]
+        },
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "●子彈筆記.md"
+          }
+        }
+      },
+      {
+        "id": "4f571ad97529e457",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
             {
-              "leaf": "ae30bdfa51e454de",
+              "leaf": "4f571ad97529e457",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":2},\"to\":{\"line\":66,\"ch\":2}},\"scroll\":40.31160764057689}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0.7251461765222382}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-購物清單/購物清單.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":8},\"to\":{\"line\":16,\"ch\":8}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-購物清單/2022黑色星期五購物清單.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -134,7 +155,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/1110810-新進教師研習.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -214,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 229
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -253,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -288,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/1110810-新進教師研習.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,17 +427,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "ae30bdfa51e454de",
+  "active": "4f571ad97529e457",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "●子彈筆記.md",
     "005-工作相關/1110810-新進教師研習.md",
+    "★測試各類功能.md",
+    "005-工作相關/法規紀錄測試.md",
+    "conflict-files-obsidian-git.md",
     "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "005-工作相關/1110803-待辦.md",
     "004-●日常生活/001-購物清單/購物清單.md",
     "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
-    "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md",
-    "004-●日常生活/001-購物清單/2022黑色星期五購物清單.md",
-    "004-●日常生活/004-遊戲相關/XGPU雙人遊戲下載.md",
-    "005-●日常生活/001-購物清單/88節購物清單.md"
+    "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
   ]
 }
