@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "●首頁",
       "path": "●首頁.md"
+    },
+    {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "1110821-手機攝影技巧",
@@ -41,10 +53,6 @@
       "path": "004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md"
     },
     {
-      "basename": "●待辦事項",
-      "path": "004-●日常生活/●待辦事項.md"
-    },
-    {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "1110814-Thinkorswim軟體學習心得",
       "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
-    },
-    {
-      "basename": "●日常生活",
-      "path": "●日常生活.md"
     },
     {
       "basename": "1110813-Thinkorswim軟體介面大綱",
@@ -191,10 +195,6 @@
     {
       "basename": "!dict",
       "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

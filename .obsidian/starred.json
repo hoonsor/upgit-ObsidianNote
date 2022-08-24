@@ -7,6 +7,26 @@
     },
     {
       "type": "file",
+      "title": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "type": "file",
+      "title": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "type": "file",
+      "title": "●待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "type": "file",
+      "title": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "type": "file",
       "title": "●專案管理",
       "path": "●專案管理.md"
     },
@@ -14,6 +34,11 @@
       "type": "file",
       "title": "●子彈筆記",
       "path": "●子彈筆記.md"
+    },
+    {
+      "type": "file",
+      "title": "●日常生活",
+      "path": "●日常生活.md"
     },
     {
       "type": "file",
@@ -27,23 +52,8 @@
     },
     {
       "type": "file",
-      "title": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "type": "file",
       "title": "電腦知識",
       "path": "電腦相關/電腦知識.md"
-    },
-    {
-      "type": "file",
-      "title": "●日常生活",
-      "path": "●日常生活.md"
-    },
-    {
-      "type": "file",
-      "title": "●首頁",
-      "path": "●首頁.md"
     },
     {
       "type": "file",
@@ -62,11 +72,6 @@
     },
     {
       "type": "file",
-      "title": "●待辦事項",
-      "path": "004-●日常生活/●待辦事項.md"
-    },
-    {
-      "type": "file",
       "title": "1110810-新進教師研習",
       "path": "005-工作相關/1110810-新進教師研習.md"
     },
@@ -74,11 +79,6 @@
       "type": "file",
       "title": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "type": "file",
-      "title": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
     }
   ]
 }
