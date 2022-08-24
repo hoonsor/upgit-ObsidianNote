@@ -4,148 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ae30bdfa51e454de",
+        "id": "08d0a55624524117",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "ae30bdfa51e454de",
+              "leaf": "08d0a55624524117",
               "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":17.335594315245476}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":136.05925277291303}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":14},\"to\":{\"line\":36,\"ch\":14}},\"scroll\":17.335594315245476}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"preview\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "ae30bdfa51e454de",
+              "leaf": "08d0a55624524117",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":51},\"to\":{\"line\":82,\"ch\":51}},\"scroll\":69.55882352941177}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":86.13461538461539}"
             },
             {
-              "leaf": "ae30bdfa51e454de",
+              "leaf": "08d0a55624524117",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":90,\"ch\":0},\"to\":{\"line\":90,\"ch\":0}},\"scroll\":80.01665805785125}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":14},\"to\":{\"line\":37,\"ch\":14}},\"scroll\":26.5616485013624}"
             },
             {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/法規紀錄測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":137.3888334995015}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5263157894736842}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110803-待辦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110804-提醒新進短期臨工注意事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":21},\"to\":{\"line\":7,\"ch\":21}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ae30bdfa51e454de",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-購物清單/購物清單.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "●子彈筆記.md"
-          }
-        }
-      },
-      {
-        "id": "4f571ad97529e457",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "4f571ad97529e457",
+              "leaf": "08d0a55624524117",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
@@ -155,7 +74,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -274,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -309,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -368,7 +287,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -427,17 +346,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "4f571ad97529e457",
+  "active": "08d0a55624524117",
   "lastOpenFiles": [
-    "●子彈筆記.md",
+    "004-●日常生活/●待辦事項.md",
     "005-工作相關/1110810-新進教師研習.md",
+    "005-工作相關/●工作待辦事項.md",
+    "005-工作相關/1110803-待辦.md",
+    "conflict-files-obsidian-git.md",
+    "1110821-手機攝影技巧.md",
+    "●子彈筆記.md",
     "★測試各類功能.md",
     "005-工作相關/法規紀錄測試.md",
-    "conflict-files-obsidian-git.md",
-    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
-    "005-工作相關/1110803-待辦.md",
-    "004-●日常生活/001-購物清單/購物清單.md",
-    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
-    "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
+    "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
   ]
 }
