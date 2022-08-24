@@ -12,8 +12,8 @@
             {
               "leaf": "a6939e61b3eb1988",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":45.16467645377}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "a6939e61b3eb1988",
@@ -39,7 +39,7 @@
           "type": "markdown",
           "state": {
             "file": "●首頁.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
