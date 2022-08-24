@@ -1,0 +1,38 @@
+2022-08-19 09:51:27: -- 分析開始 User Command
+2022-08-19 09:51:28: /004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md: L:TimeSize<>; 衝突：檔兩側都進行了改動
+2022-08-19 09:51:28: /004-●日常生活/●激勵影片.md: L:TimeSize<>; 衝突：檔兩側都進行了改動
+2022-08-19 09:51:28: /005-工作相關/1110810-新進教師研習.md: L:TimeSize<>; 衝突：檔兩側都進行了改動
+2022-08-19 09:51:28: /005-工作相關/法規紀錄測試.md: 衝突: 新檔有變化
+2022-08-19 09:51:28: 變更：13， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 490
+2022-08-19 09:51:28: Left to Right: Copy File: 10 
+2022-08-19 09:51:28: Right to Left: Copy File: 3 
+2022-08-19 09:51:28: == 同步開始由 User Command
+2022-08-19 09:51:28: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md' (500)
+2022-08-19 09:51:28: 覆蓋複製 'P:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md' -> 'D:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md' (555)
+2022-08-19 09:51:28: 覆蓋複製 'P:/Obsidian/Hoonsor/004-●日常生活/003-電腦知識/正則表達式.md' -> 'D:/Obsidian/Hoonsor/004-●日常生活/003-電腦知識/正則表達式.md' (253)
+2022-08-19 09:51:28: 覆蓋複製 'P:/Obsidian/Hoonsor/004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md' -> 'D:/Obsidian/Hoonsor/004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md' (2,252)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/●待辦事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●待辦事項.md' (297)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/001-購物清單/購物清單.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/001-購物清單/購物清單.md' (362)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md' (3,757)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/●激勵影片.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●激勵影片.md' (630)
+2022-08-19 09:51:29: 新建複製 'D:/Obsidian/Hoonsor/conflict-files-obsidian-git.md' -> 'P:/Obsidian/Hoonsor/conflict-files-obsidian-git.md' (238)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/005-工作相關/1110810-新進教師研習.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/1110810-新進教師研習.md' (12,857)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/●首頁.md' -> 'P:/Obsidian/Hoonsor/●首頁.md' (3,311)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/005-工作相關/法規紀錄測試.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/法規紀錄測試.md' (21,643)
+2022-08-19 09:51:29: 覆蓋複製 'D:/Obsidian/Hoonsor/★測試各類功能.md' -> 'P:/Obsidian/Hoonsor/★測試各類功能.md' (3,987)
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/0-YAML.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/1-Article.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/2-Youtube.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/3-Idea.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/4-Podcast.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/5-Facebook,Instagram,Twitter,reddit.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/6-PDF.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/7-Chat.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/8-Book.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/9-Course.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/From -Template-Try.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/001-Template/From-Template-Book.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/002-Inbox/0628.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/002-Inbox/1110628.md
+2022-08-19 09:51:29: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/{{圖片}}.md
+2022-08-19 09:51:29: == 同步完成. 歷時: 00:00:02, 速度: 0.00/s, 完成: 13, 錯誤: 0

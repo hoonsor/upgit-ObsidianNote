@@ -43,6 +43,29 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "f4f5358cb7f4e79b",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f4f5358cb7f4e79b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -157,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -192,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -311,13 +334,13 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "a6939e61b3eb1988",
+  "active": "f4f5358cb7f4e79b",
   "lastOpenFiles": [
+    "●首頁.md",
     "1110821-手機攝影技巧.md",
     "004-●日常生活/001-購物清單/購物清單.md",
     "005-工作相關/法規紀錄測試.md",
     "004-●日常生活/003-電腦知識/正則表達式.md",
-    "●首頁.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md",
     "005-工作相關/1110810-新進教師研習.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
