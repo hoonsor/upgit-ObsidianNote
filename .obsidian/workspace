@@ -12,8 +12,26 @@
             {
               "leaf": "08d0a55624524117",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●激勵影片.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "08d0a55624524117",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":17.335594315245476}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":0},\"to\":{\"line\":61,\"ch\":0}},\"scroll\":46.908700980392155}"
             },
             {
               "leaf": "08d0a55624524117",
@@ -74,7 +92,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
+            "file": "004-●日常生活/●待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -193,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "004-●日常生活/●待辦事項.md"
               }
             }
           },
@@ -228,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -348,15 +366,15 @@
   },
   "active": "08d0a55624524117",
   "lastOpenFiles": [
+    "004-●日常生活/●激勵影片.md",
     "004-●日常生活/●待辦事項.md",
-    "005-工作相關/1110810-新進教師研習.md",
     "005-工作相關/●工作待辦事項.md",
+    "005-工作相關/1110810-新進教師研習.md",
     "005-工作相關/1110803-待辦.md",
     "conflict-files-obsidian-git.md",
     "1110821-手機攝影技巧.md",
     "●子彈筆記.md",
     "★測試各類功能.md",
-    "005-工作相關/法規紀錄測試.md",
-    "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
+    "005-工作相關/法規紀錄測試.md"
   ]
 }
