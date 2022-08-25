@@ -7,23 +7,13 @@
     },
     {
       "type": "file",
-      "title": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "type": "file",
-      "title": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
-      "type": "file",
-      "title": "●待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
-      "type": "file",
       "title": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "type": "file",
+      "title": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "type": "file",
@@ -38,11 +28,6 @@
     {
       "type": "file",
       "title": "●日常生活",
-      "path": "●日常生活.md"
-    },
-    {
-      "type": "file",
-      "title": "●日常生活",
       "path": "007-日常生活相關/●日常生活.md"
     },
     {
@@ -52,8 +37,23 @@
     },
     {
       "type": "file",
+      "title": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "type": "file",
       "title": "電腦知識",
       "path": "電腦相關/電腦知識.md"
+    },
+    {
+      "type": "file",
+      "title": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "type": "file",
+      "title": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "type": "file",
@@ -69,6 +69,11 @@
       "type": "file",
       "title": "●激勵影片",
       "path": "004-●日常生活/●激勵影片.md"
+    },
+    {
+      "type": "file",
+      "title": "●待辦事項",
+      "path": "004-●日常生活/●待辦事項.md"
     },
     {
       "type": "file",
