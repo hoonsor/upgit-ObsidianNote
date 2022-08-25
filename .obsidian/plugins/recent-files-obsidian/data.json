@@ -5,16 +5,24 @@
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
     },
     {
+      "basename": "建構程式語言快捷查詢方式",
+      "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
+    },
+    {
       "basename": "1110821-手機錄影技巧",
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "●激勵影片",
@@ -35,10 +43,6 @@
     {
       "basename": "法規紀錄測試",
       "path": "005-工作相關/法規紀錄測試.md"
-    },
-    {
-      "basename": "正則表達式",
-      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
     },
     {
       "basename": "獨立樂團",
@@ -195,10 +199,6 @@
     {
       "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
     }
   ],
   "omittedPaths": [],
