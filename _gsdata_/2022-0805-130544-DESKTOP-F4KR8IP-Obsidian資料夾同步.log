@@ -1,8 +1,0 @@
-2022-08-05 13:05:44: -- 分析開始 User Command
-2022-08-05 13:05:44: 變更：3， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 316
-2022-08-05 13:05:44: Left to Right: Copy File: 3 
-2022-08-05 13:05:44: == 同步開始由 User Command
-2022-08-05 13:05:44: 覆蓋複製 'D:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/1110731-DataView插件筆記.md' (5,752)
-2022-08-05 13:05:44: 覆蓋複製 'D:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-概述.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/001-SubItem/AHK-概述.md' (852)
-2022-08-05 13:05:44: 覆蓋複製 'D:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' -> 'P:/Obsidian/Hoonsor/002-Inbox/★測試各類功能.md' (2,417)
-2022-08-05 13:05:44: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 3, 錯誤: 0

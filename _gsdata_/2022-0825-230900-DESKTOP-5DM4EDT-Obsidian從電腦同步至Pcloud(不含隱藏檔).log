@@ -1,0 +1,35 @@
+2022-08-25 23:09:00: -- 分析開始 User Command
+2022-08-25 23:09:01: /003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md: L:TimeSize<>; 警告：較舊的檔將替換較新的檔
+2022-08-25 23:09:01: /004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md: L:TimeSize<>; 警告：較舊的檔將替換較新的檔
+2022-08-25 23:09:01: /004-●日常生活/●激勵影片.md: L:TimeSize<>; 警告：較舊的檔將替換較新的檔
+2022-08-25 23:09:01: /005-工作相關/法規紀錄測試.md: L:TimeSize<>; 警告：較舊的檔將替換較新的檔
+2022-08-25 23:09:01: 變更：20， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 496
+2022-08-25 23:09:01: Left to Right: Copy File: 15 Delete File: 5 
+2022-08-25 23:09:01: == 同步開始由 User Command
+2022-08-25 23:09:01: 刪除檔 P:/Obsidian/Hoonsor/004-●日常生活/001-購物清單/2022黑色星期五購物清單.md
+2022-08-25 23:09:01: 刪除檔 P:/Obsidian/Hoonsor/004-●日常生活/001-購物清單/購物清單.md
+2022-08-25 23:09:01: 刪除資料夾 P:/Obsidian/Hoonsor/004-●日常生活/001-購物清單
+2022-08-25 23:09:01: 刪除檔 P:/Obsidian/Hoonsor/004-●日常生活/●待辦事項.md
+2022-08-25 23:09:01: 刪除檔 P:/Obsidian/Hoonsor/conflict-files-obsidian-git.md
+2022-08-25 23:09:01: 創建資料夾 P:/Obsidian/Hoonsor/004-●日常生活/001-多媒體知識
+2022-08-25 23:09:01: 創建資料夾 P:/Obsidian/Hoonsor/004-●日常生活/001-多媒體知識/001-攝影、錄影
+2022-08-25 23:09:01: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md' (12,623)
+2022-08-25 23:09:01: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md' (2,772)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md' (844)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md' (483)
+2022-08-25 23:09:01: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' (960)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/003-電腦知識/電腦知識.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/003-電腦知識/電腦知識.md' (649)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/●激勵影片.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●激勵影片.md' (614)
+2022-08-25 23:09:01: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' (1,725)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md' (3,676)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/1110810-新進教師研習.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/1110810-新進教師研習.md' (12,897)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/★測試各類功能.md' -> 'P:/Obsidian/Hoonsor/★測試各類功能.md' (4,099)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/法規紀錄測試.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/法規紀錄測試.md' (21,643)
+2022-08-25 23:09:01: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/●首頁.md' -> 'P:/Obsidian/Hoonsor/●首頁.md' (3,021)
+2022-08-25 23:09:01: Deleted Recycled: D:/02-學習/03-Obsidian/Hoonsor/_gsdata_/_saved_/003-遊戲相關/XGPU雙人遊戲下載.md
+2022-08-25 23:09:01: Deleted Recycled: D:/02-學習/03-Obsidian/Hoonsor/_gsdata_/_saved_/From Templates思考.md
+2022-08-25 23:09:01: Deleted Recycled: D:/02-學習/03-Obsidian/Hoonsor/_gsdata_/_saved_/Pasted image 20220717105013.png
+2022-08-25 23:09:01: Deleted Recycled: D:/02-學習/03-Obsidian/Hoonsor/_gsdata_/_saved_/Untitled image 1.png
+2022-08-25 23:09:01: Deleted Recycled: D:/02-學習/03-Obsidian/Hoonsor/_gsdata_/_saved_/功能練習及測試.md
+2022-08-25 23:09:01: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/003-遊戲相關
+2022-08-25 23:09:02: == 同步完成. 歷時: 00:00:02, 速度: 0.00/s, 完成: 20, 錯誤: 0
