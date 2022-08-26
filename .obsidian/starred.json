@@ -7,6 +7,11 @@
     },
     {
       "type": "file",
+      "title": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "type": "file",
       "title": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
@@ -49,11 +54,6 @@
       "type": "file",
       "title": "●日常生活",
       "path": "●日常生活.md"
-    },
-    {
-      "type": "file",
-      "title": "●首頁",
-      "path": "●首頁.md"
     },
     {
       "type": "file",
