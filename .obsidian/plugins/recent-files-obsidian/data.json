@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "好用網站或外掛推薦",
-      "path": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md"
+      "basename": "0.總架構",
+      "path": "003-●專案管理/005-投資理財相關/★架構圖PDF檔/0.總架構.pdf"
+    },
+    {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "●首頁",
       "path": "●首頁.md"
+    },
+    {
+      "basename": "DashBoard CSS-自行測試",
+      "path": "DashBoard CSS-自行測試.md"
+    },
+    {
+      "basename": "好用網站或外掛推薦",
+      "path": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md"
     },
     {
       "basename": "歌手",
@@ -71,10 +83,6 @@
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
     },
     {
       "basename": "●子彈筆記",
@@ -187,18 +195,6 @@
     {
       "basename": "安裝Astra及有關插件",
       "path": "003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md"
-    },
-    {
-      "basename": "熟練行銷文章架構",
-      "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
-    },
-    {
-      "basename": "1110731-DataView插件筆記",
-      "path": "_gsdata_/_saved_/002-Inbox/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
     }
   ],
   "omittedPaths": [],
