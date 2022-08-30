@@ -12,8 +12,32 @@
             {
               "leaf": "a6939e61b3eb1988",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a6939e61b3eb1988",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":10},\"to\":{\"line\":19,\"ch\":10}}}"
+            },
+            {
+              "leaf": "a6939e61b3eb1988",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a6939e61b3eb1988",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a6939e61b3eb1988",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "a6939e61b3eb1988",
@@ -104,37 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/正則表達式.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a6939e61b3eb1988",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/電腦知識.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":92},\"to\":{\"line\":14,\"ch\":92}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a6939e61b3eb1988",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0.9113923830589492}"
-            },
-            {
-              "leaf": "a6939e61b3eb1988",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":19.45817063905793}"
-            },
-            {
-              "leaf": "a6939e61b3eb1988",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -176,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -254,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -289,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -410,15 +409,15 @@
   },
   "active": "a6939e61b3eb1988",
   "lastOpenFiles": [
-    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
+    "Untitled.md",
+    "測試各類功能.md",
+    "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
+    "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
     "004-●日常生活/●激勵影片.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md",
-    "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "004-●日常生活/003-電腦知識/正則表達式.md",
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
+    "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
   ]
 }
