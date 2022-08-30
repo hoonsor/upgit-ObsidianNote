@@ -13,7 +13,7 @@
               "leaf": "7a8d14d5a88b195a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":26.372909698996654}"
             },
             {
               "leaf": "7a8d14d5a88b195a",
@@ -176,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -407,7 +406,7 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "eed7643fde2f1f20",
+  "active": "7a8d14d5a88b195a",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
