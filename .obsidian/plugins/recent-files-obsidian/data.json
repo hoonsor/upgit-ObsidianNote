@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+      "basename": "2022-08-30_Tue",
+      "path": "006-DailyNote/2022-08-30_Tue.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "●專案管理",
       "path": "●專案管理.md"
     },
     {
+      "basename": "2022-07-25_Mon",
+      "path": "006-DailyNote/2022-07-25_Mon.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "0.總架構",
-      "path": "003-●專案管理/005-投資理財相關/★架構圖PDF檔/0.總架構.pdf"
+      "basename": "template",
+      "path": "006-DailyNote/template.md"
+    },
+    {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
     },
     {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "0.總架構",
+      "path": "003-●專案管理/005-投資理財相關/★架構圖PDF檔/0.總架構.pdf"
     },
     {
       "basename": "DashBoard CSS-自行測試",
@@ -61,10 +81,6 @@
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
     },
     {
-      "basename": "●日常生活",
-      "path": "●日常生活.md"
-    },
-    {
       "basename": "法規紀錄測試",
       "path": "005-工作相關/法規紀錄測試.md"
     },
@@ -83,10 +99,6 @@
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
     },
     {
       "basename": "★按鈕範例",
@@ -187,14 +199,6 @@
     {
       "basename": "CSS-em定義",
       "path": "●圖片庫/CSS-em定義.png"
-    },
-    {
-      "basename": "CSS-vw及vh定義",
-      "path": "●圖片庫/CSS-vw及vh定義.png"
-    },
-    {
-      "basename": "安裝Astra及有關插件",
-      "path": "003-●專案管理/001-WordPress架設網站/安裝Astra及有關插件.md"
     }
   ],
   "omittedPaths": [],
