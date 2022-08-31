@@ -139,29 +139,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "a494088733c5c4b7",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "a494088733c5c4b7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -276,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -311,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -429,13 +406,13 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "a494088733c5c4b7",
+  "active": "7a8d14d5a88b195a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md",
-    "conflict-files-obsidian-git.md",
     "004-●日常生活/●待辦事項.md",
     "004-●日常生活/●激勵影片.md",
     "005-工作相關/1110810-新進教師研習.md",
