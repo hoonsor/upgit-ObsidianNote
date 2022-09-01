@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-08-30_Tue",
-      "path": "006-DailyNote/2022-08-30_Tue.md"
+      "basename": "2022-09-01_Thu",
+      "path": "006-DailyNote/2022-09-01_Thu.md"
     },
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
-    },
-    {
-      "basename": "2022-07-25_Mon",
-      "path": "006-DailyNote/2022-07-25_Mon.md"
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "●子彈筆記",
       "path": "●子彈筆記.md"
     },
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
+    },
+    {
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "1110814-Thinkorswim軟體學習心得",
+      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
+    },
+    {
+      "basename": "2022-08-30_Tue",
+      "path": "006-DailyNote/2022-08-30_Tue.md"
+    },
+    {
+      "basename": "2022-07-25_Mon",
+      "path": "006-DailyNote/2022-07-25_Mon.md"
     },
     {
       "basename": "template",
@@ -37,10 +53,6 @@
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
       "basename": "0.總架構",
       "path": "003-●專案管理/005-投資理財相關/★架構圖PDF檔/0.總架構.pdf"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "好用網站或外掛推薦",
       "path": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md"
-    },
-    {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
     },
     {
       "basename": "●激勵影片",
@@ -103,10 +111,6 @@
     {
       "basename": "★按鈕範例",
       "path": "★按鈕範例.md"
-    },
-    {
-      "basename": "1110814-Thinkorswim軟體學習心得",
-      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
     },
     {
       "basename": "1110813-Thinkorswim軟體介面大綱",
@@ -191,14 +195,6 @@
     {
       "basename": "Template-SubItem",
       "path": "001-Template/Template-SubItem.md"
-    },
-    {
-      "basename": "Template-Temporary Mission",
-      "path": "001-Template/Template-Temporary Mission.md"
-    },
-    {
-      "basename": "CSS-em定義",
-      "path": "●圖片庫/CSS-em定義.png"
     }
   ],
   "omittedPaths": [],

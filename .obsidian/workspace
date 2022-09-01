@@ -4,137 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "9ecc6f1fd5dbeefe",
+        "id": "e9fb9edd3c8bc5f9",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":19},\"to\":{\"line\":27,\"ch\":19}}}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":11},\"to\":{\"line\":24,\"ch\":11}}}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-07-25_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":19},\"to\":{\"line\":27,\"ch\":19}}}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-29_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":19},\"to\":{\"line\":27,\"ch\":19}}}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":19},\"to\":{\"line\":27,\"ch\":19}}}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/template.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":19},\"to\":{\"line\":27,\"ch\":19}}}"
-            },
-            {
-              "leaf": "9ecc6f1fd5dbeefe",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-31_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-31_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":13.812778135629996}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}}}"
             },
             {
-              "leaf": "9ecc6f1fd5dbeefe",
+              "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":10},\"to\":{\"line\":22,\"ch\":10}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-08-30_Tue.md",
+            "file": "006-DailyNote/2022-09-01_Thu.md",
             "mode": "source",
             "source": false
           }
@@ -253,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-08-30_Tue.md",
+                "file": "006-DailyNote/2022-09-01_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-08-30_Tue.md"
+                "file": "006-DailyNote/2022-09-01_Thu.md"
               }
             }
           },
@@ -288,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-08-30_Tue.md",
+                "file": "006-DailyNote/2022-09-01_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-08-30_Tue.md",
+                "file": "006-DailyNote/2022-09-01_Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -390,17 +330,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "9ecc6f1fd5dbeefe",
+  "active": "e9fb9edd3c8bc5f9",
   "lastOpenFiles": [
-    "●首頁.md",
-    "006-DailyNote/2022-08-30_Tue.md",
-    "●專案管理.md",
-    "006-DailyNote/2022-07-25_Mon.md",
-    "006-DailyNote/2022-08-29_Mon.md",
-    "●子彈筆記.md",
+    "006-DailyNote/2022-09-22_Thu.md",
+    "006-DailyNote/2022-09-01_Thu.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/template.md",
-    "●日常生活.md",
-    "006-DailyNote/2022-08-31_Wed.md"
+    "006-DailyNote/2022-09-03_Sat.md",
+    "●子彈筆記.md",
+    "006-DailyNote/2022-09-08_Thu.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "●專案管理.md",
+    "006-DailyNote/2022-09-01.md",
+    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
   ]
 }
