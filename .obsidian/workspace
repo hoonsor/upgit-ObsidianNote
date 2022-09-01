@@ -13,7 +13,43 @@
               "leaf": "e9fb9edd3c8bc5f9",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":13},\"to\":{\"line\":59,\"ch\":13}},\"scroll\":34.413807981385204}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":19},\"to\":{\"line\":26,\"ch\":3}}}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-08-30_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e9fb9edd3c8bc5f9",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-01_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}}}"
             },
             {
               "leaf": "e9fb9edd3c8bc5f9",
@@ -273,6 +309,10 @@
           {
             "id": "cb275eeff2636520",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -332,15 +372,15 @@
   },
   "active": "e9fb9edd3c8bc5f9",
   "lastOpenFiles": [
-    "006-DailyNote/2022-09-22_Thu.md",
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-09-01_Thu.md",
+    "006-DailyNote/2022-08-30_Tue.md",
+    "006-DailyNote/2022-09-22_Thu.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-09-03_Sat.md",
     "●子彈筆記.md",
     "006-DailyNote/2022-09-08_Thu.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "●專案管理.md",
-    "006-DailyNote/2022-09-01.md",
-    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    "●專案管理.md"
   ]
 }
