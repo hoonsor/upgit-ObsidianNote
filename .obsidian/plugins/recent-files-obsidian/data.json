@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-09-01_Thu",
-      "path": "006-DailyNote/2022-09-01_Thu.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "2022-08-30_Tue",
-      "path": "006-DailyNote/2022-08-30_Tue.md"
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+      "basename": "熟練行銷文章架構",
+      "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
+    },
+    {
+      "basename": "2022-07-19_Tue",
+      "path": "006-DailyNote/2022-07-19_Tue.md"
+    },
+    {
+      "basename": "2022-05-31_Tue",
+      "path": "006-DailyNote/2022-05-31_Tue.md"
+    },
+    {
+      "basename": "2022-06-14_Tue",
+      "path": "006-DailyNote/2022-06-14_Tue.md"
+    },
+    {
+      "basename": "2022-05-30_Mon",
+      "path": "006-DailyNote/2022-05-30_Mon.md"
+    },
+    {
+      "basename": "2022-09-01_Thu",
+      "path": "006-DailyNote/2022-09-01_Thu.md"
+    },
+    {
+      "basename": "template",
+      "path": "006-DailyNote/template.md"
     },
     {
       "basename": "●專案管理",
       "path": "●專案管理.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "2022-08-30_Tue",
+      "path": "006-DailyNote/2022-08-30_Tue.md"
     },
     {
       "basename": "歌手",
@@ -43,10 +67,6 @@
     {
       "basename": "2022-07-25_Mon",
       "path": "006-DailyNote/2022-07-25_Mon.md"
-    },
-    {
-      "basename": "template",
-      "path": "006-DailyNote/template.md"
     },
     {
       "basename": "●日常生活",
@@ -179,22 +199,6 @@
     {
       "basename": "1110804-提醒新進短期臨工注意事項",
       "path": "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
-    },
-    {
-      "basename": "1110803-待辦",
-      "path": "005-工作相關/1110803-待辦.md"
-    },
-    {
-      "basename": "Template-Travel",
-      "path": "001-Template/Template-Travel.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
-    },
-    {
-      "basename": "Template-SubItem",
-      "path": "001-Template/Template-SubItem.md"
     }
   ],
   "omittedPaths": [],

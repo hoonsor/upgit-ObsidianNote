@@ -1,7 +1,7 @@
 {
   "dailyNotesFolder": "",
-  "reviewSectionHeading": "## 筆記複習",
+  "reviewSectionHeading": "## Review",
   "linePrefix": "- [ ] ",
-  "defaultReviewDate": "today",
+  "defaultReviewDate": "tomorrow",
   "blockLinePrefix": "!"
 }
