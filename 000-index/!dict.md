@@ -3,7 +3,7 @@ parent:
 sibling: 
 child: 
 created: Tuesday, August 9th 2022, 5:13:52 pm
-modified: Sunday, September 4th 2022, 9:56:58 am
+modified: Sunday, September 4th 2022, 8:48:56 pm
 ---
 # !dict
 %% https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt %%
@@ -87,7 +87,14 @@ Tips（DataView）*/> Tips:: !END!|Tips（DataView）|-09
 ExcelTips（DataView）*/> ExcelTips:: !END!|ExcelTips（DataView）|-09
 AHK_Tips（DataView）*/> AHK_Tips:: !END!|AHK_Tips（DataView）|-09
 AHK_Function（DataView）*/> AHK_Function:: !END!|AHK_Function（DataView）|-09
+TD_Tips（DataView）*/> TD_Tips:: !END!|TD_Tips（DataView）|-09
+OB_Tips（DataView）*/> OB_Tips:: !END!|OB_Tips（DataView）|-09
 
 
 %% Templater 時間函數快捷字典 %%
 時間函數（Templater）*/(@<% tp.date.now() %> !END!:)|時間函數（Templater）|-00
+
+
+%% YAML 區 %%
+顯示模式（預覽模式）*/obsidianUIMode: preview|顯示模式（預覽模式）|-00
+

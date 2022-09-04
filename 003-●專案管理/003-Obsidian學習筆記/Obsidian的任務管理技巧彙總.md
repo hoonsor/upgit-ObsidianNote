@@ -1,4 +1,7 @@
 ---
+parent: 
+sibling: 
+child: 
 aliases:    
 tags: [子彈筆記, 興趣培養, 電腦軟體]
 status: 🌱
@@ -6,8 +9,9 @@ author: 簡睿
 source: https://www.youtube.com/watch?v=wETtIAFFcfw 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
+obsidianUIMode: preview 
 created: Wednesday, July 20th 2022, 7:01:49 pm
-modified: Sunday, July 31st 2022, 8:36:34 pm
+modified: Sunday, September 4th 2022, 10:50:49 pm
 ---
 # Obsidian 的任務管理技巧彙總
 
@@ -27,40 +31,52 @@ modified: Sunday, July 31st 2022, 8:36:34 pm
     - 要搜尋：path includes 路徑
     - 不搜尋：path does not include 路徑
 - 事項描述
-    -   description includes 字串
-    -   description does not include 字串
+    - description includes 字串
+    - description does not include 字串
 - 最靠近標題
-    -   heading includes 標題
-    -   heading does not include 標題
+    - heading includes 標題
+    - heading does not include 標題
 - 是否重覆：is recurring, is not recurring
 - 排除某個事項：excludes 清單事項
 - 限制顯示事項數目：limit to 數值 tasks
 - 排序：sort by (status|due|done|path|description)
 - 顯示樣式隱藏 hide
-    -   edit button
-    -   backlink
-    -   done date
-    -   due date
-    -   recurrence rule
-    -   task count
+    - edit button
+    - backlink
+    - done date
+    - due date
+    - recurrence rule
+    - task count
 - ![01|200](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/20/upgit_20220720_1658315166.png)
 - ![01|250](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/20/upgit_20220720_1658316731.png)
 
 #### 1.1.1. 練習
+- 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「健康知識」
+````
 ```tasks
 not done
-due before tomorrow  
-path includes 002-Inbox
+heading includes 健康知識
+path includes 006-DailyNote/2022-09-04_Sun.md
 ```
-
+````
 ```tasks
 not done
-due before tomorrow  
-path includes 002-Inbox
-description includes 水
+heading includes 健康知識
+path includes 006-DailyNote/2022-09-04_Sun.md
 ```
-
-
+- 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box
+````
+```tasks
+done
+no due date 
+path includes 006-DailyNote/2022-09-04_Sun.md
+```
+````
+```tasks
+done
+no due date 
+path includes 006-DailyNote/2022-09-04_Sun.md
+```
 
 ## 2. Reminder 外掛
 - 可以只能到期時間

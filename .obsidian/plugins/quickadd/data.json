@@ -186,6 +186,40 @@
           },
           "openFile": false,
           "openFileInMode": "default"
+        },
+        {
+          "id": "dd523c12-e51d-4dc3-a6f6-45e340971584",
+          "name": "2. Capture-CodeDisplay",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\nconst Accent = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\n\nresult = Accent + nl + selection + nl + Accent;\n \nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
         }
       ]
     },

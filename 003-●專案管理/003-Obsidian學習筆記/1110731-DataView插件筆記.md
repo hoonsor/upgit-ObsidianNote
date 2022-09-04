@@ -9,8 +9,9 @@ author:
 source: https://www.youtube.com/watch?v=dkWA7Qd0CLA 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
+obsidianUIMode: preview 
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Sunday, September 4th 2022, 11:07:42 am
+modified: Sunday, September 4th 2022, 8:55:36 pm
 ---
 
 [[●專案管理]]
@@ -24,23 +25,22 @@ modified: Sunday, September 4th 2022, 11:07:42 am
 		- [[#2.3. 參考資料|2.3. 參考資料]]
 		- [[#2.4. 範例|2.4. 範例]]
 
-
-
 ## 1. 概述
 
 > Dataview 可以讓我們動態查詢筆記的資料，製作索引非常方便
 
 ## 2. 查詢語法
 
-> ```dataview 
-> TABLE|LIST|TASK \<field> [AS "Column Name"], \<field>, ..., \<field> FROM \<source> 
-> WHERE \<expression> 
-> SORT \<expression> [ASC/DESC] 
-> GROUP BY \<field>
-> FLATTEN \<field>
-> ... other data commands 
-> ```
+\`\`\``dataview 
 
+TABLE|LIST|TASK \<field> [AS "Column Name"], \<field>, ..., \<field> FROM \<source> 
+WHERE \<expression> 
+SORT \<expression> [ASC/DESC] 
+GROUP BY \<field>
+FLATTEN \<field>
+... other data commands 
+
+\`\`\`
 ### 2.1. 語法說明
 
 - Table、List、Task 分別為三種不同呈現樣式，Table 為表格、List 為列表、Task 為未完成的 Todo List 項目
@@ -102,22 +102,72 @@ Dataview 會自動為每個頁面添加大量元數據：
 
 ### 2.4. 範例
 
+- 列出檔名包含 111072 的 table
+````
 ```dataview
 table file.ctime as 建檔時間 from ""
 where contains(file.name, "111072")
 sort ASC
 ```
+````
+
+```dataview
+table file.ctime as 建檔時間 from ""
+where contains(file.name, "111072")
+sort ASC
+```
+- 列出檔名包含 1110731 的 table，並且使用 flatten 方式呈現
+
+````
 ```dataview
 table tags as 標籤,file.ctime as 建檔時間 from ""
 where contains(file.name, "1110731")
 flatten tags
 ```
+````
+
+```dataview
+table tags as 標籤,file.ctime as 建檔時間 from ""
+where contains(file.name, "1110731")
+flatten tags
+```
+- 列出包含星號的 file List
+````
 ```dataview
 list from ""
 where file.starred
 ```
+````
+
+```dataview
+list from ""
+where file.starred
+```
+- 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現
+````
+```dataview
+table AHK_Tips from ""
+where AHK_Tips!=null
+flatten AHK_Tips
+```
+````
 
 ```dataview
 table AHK_Tips from ""
 where AHK_Tips!=null
+flatten AHK_Tips
+```
+- 列出所有筆記中的 ExcelTips（且 ExcelTips 欄位不等於空值），並且使用 flatten 方式呈現
+````
+```dataview
+	table ExcelTips from ""
+	where ExcelTips!=null
+	flatten ExcelTips
+```
+````
+
+```dataview
+	table ExcelTips from ""
+	where ExcelTips!=null
+	flatten ExcelTips
 ```

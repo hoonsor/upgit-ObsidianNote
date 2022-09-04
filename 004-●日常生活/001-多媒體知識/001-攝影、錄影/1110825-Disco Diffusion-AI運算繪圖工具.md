@@ -2,16 +2,17 @@
 parent: 
 sibling: 
 child: 
+
 aliases: 
 tags: [專案筆記 , 電腦軟體, 興趣培養]
 status: 🌱
 author: 
-source: https://www.youtube.com/watch?v=lXyl5cqsTOQ
-	https://www.techbang.com/posts/96034-can-you-draw-a-world-famous-painting-by-hitting-three
+source: https://www.youtube.com/watch?v=lXyl5cqsTOQ , https://www.techbang.com/posts/96034-can-you-draw-a-world-famous-painting-by-hitting-three
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
+obsidianUIMode: preview
 created: Thursday, August 25th 2022, 7:33:52 pm
-modified: Thursday, August 25th 2022, 10:38:07 pm
+modified: Sunday, September 4th 2022, 11:02:38 pm
 ---
 # 1110825-Disco Diffusion-AI 運算繪圖工具 ^toc
 
@@ -33,8 +34,7 @@ modified: Thursday, August 25th 2022, 10:38:07 pm
 			- [[#3.1.7. 給 AI 多一點提示，用上關鍵詞組合：名畫名字 + 作者名字。|3.1.7. 給 AI 多一點提示，用上關鍵詞組合：名畫名字 + 作者名字。]]
 			- [[#3.1.8. 巧用一些特殊畫風關鍵詞。|3.1.8. 巧用一些特殊畫風關鍵詞。]]
 		- [[#3.2. 70 位畫家畫風比較|3.2. 70 位畫家畫風比較]]
-[Disco Diffusion 入門教學，打幾個關鍵字用AI畫出世界名畫 | T客邦](https://www.techbang.com/posts/96034-can-you-draw-a-world-famous-painting-by-hitting-three)
-
+		- [[#3.3. 參考網站|3.3. 參考網站]]
 
 ## 1. 我的 Disco Diffusion 副本連結網址（hoonsorasus 帳戶）
 > [!INFO]+ 資訊
@@ -177,3 +177,8 @@ Disco Diffusion 能模仿的遠不止 Artstation 上的流行藝術家，它還�
 
 > [!INFO]+ 資訊
 > [Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/)
+
+### 3.3. 參考網站
+
+> [!INFO]+ 資訊
+> [Disco Diffusion 入門教學，打幾個關鍵字用AI畫出世界名畫 | T客邦](https://www.techbang.com/posts/96034-can-you-draw-a-world-famous-painting-by-hitting-three)

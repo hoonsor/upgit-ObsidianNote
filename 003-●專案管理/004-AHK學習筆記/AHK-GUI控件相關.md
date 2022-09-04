@@ -2,9 +2,12 @@
 parent: [[●專案管理]]
 sibling: [[002-Inbox/001-SubItem/AHK-概述]]
 child: 
+obsidianUIMode: preview
 created: Wednesday, August 3rd 2022, 9:49:09 pm
 modified: Monday, August 8th 2022, 1:52:56 pm
 ---
+
+
 # AHK-GUI 控件相關
 
 ## 1. 架構

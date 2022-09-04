@@ -1,5 +1,21 @@
-
+---
+parent: 
+sibling: 
+child: 
+created: Sunday, August 28th 2022, 11:54:37 pm
+modified: Sunday, September 4th 2022, 8:02:03 pm
+---
 # 本日筆記
+<%*
+function getWeek() {
+var d = new Date();
+var n = d.getDay();
+return n;
+}
+let week = getWeek();
+if (week == 1 || week == 3 || week == 5 || week == 0) {
+%>
+<%* } %>
 ## 1. 已完成之事項：
 ```tasks
 	done today
@@ -18,7 +34,6 @@
 ```
 
 ## 3. 其他記事
-
 
 ## 4. 筆記複習
 ### 4.1. 興趣、學習
@@ -48,4 +63,7 @@
 - [ ] 使用敷臉機
 - [ ] 使用彈力繩
 
-
+<%-*
+if (week == 1 || week == 3 || week == 5 || week == 0) {
+-%>
+<%* } %>
