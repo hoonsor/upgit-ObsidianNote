@@ -48,7 +48,7 @@
               "leaf": "49743257110c0d57",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
@@ -71,7 +71,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 52.51004016064257,
+        "dimension": 50.66765578635015,
         "children": [
           {
             "id": "5742df7154023138",
@@ -96,14 +96,32 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "2fdf00e2af4a8a46",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 47.48995983935743,
+        "dimension": 49.332344213649854,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -145,7 +163,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 25.890207715133528,
+        "dimension": 31.973293768545997,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -162,35 +180,9 @@
         ]
       },
       {
-        "id": "d89a9319bae1fc69",
-        "type": "tabs",
-        "dimension": 25.07418397626113,
-        "children": [
-          {
-            "id": "2fdf00e2af4a8a46",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "任務管理",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 28.783382789317507,
+        "dimension": 28.486646884272997,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -285,7 +277,7 @@
       {
         "id": "cbed48977d048501",
         "type": "tabs",
-        "dimension": 20.252225519287833,
+        "dimension": 39.540059347181014,
         "children": [
           {
             "id": "160f3b019890d626",
@@ -344,9 +336,10 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "49743257110c0d57",
+  "active": "5742df7154023138",
   "lastOpenFiles": [
     "006-DailyNote/2022-09-04_Sun.md",
+    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "001-Template/Daily Note Template.md",
     "001-Template/Daily Note Tasks.md",
@@ -354,7 +347,6 @@
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md",
-    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
-    "_gsdata_/_saved_/002-Inbox/Obsidian的任務管理技巧彙總.md"
+    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
   ]
 }
