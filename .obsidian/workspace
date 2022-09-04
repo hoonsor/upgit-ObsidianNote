@@ -4,137 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "e9fb9edd3c8bc5f9",
+        "id": "62fec3a17e75a519",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
-              "leaf": "e9fb9edd3c8bc5f9",
+              "leaf": "62fec3a17e75a519",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_gsdata_/_saved_/002-Inbox/Obsidian的任務管理技巧彙總.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":10},\"to\":{\"line\":68,\"ch\":10}},\"scroll\":46.22861386288632}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_gsdata_/_saved_/003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":45.140252406209505}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
+              "leaf": "62fec3a17e75a519",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-04_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.401387029878495}"
             },
             {
-              "leaf": "e9fb9edd3c8bc5f9",
+              "leaf": "62fec3a17e75a519",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Tasks.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.187689455029869}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-04_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}}}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-04_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":39},\"to\":{\"line\":28,\"ch\":39}},\"scroll\":8.33463361762435}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":48},\"to\":{\"line\":28,\"ch\":48}},\"scroll\":8.33463361762435}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Tasks.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":20},\"to\":{\"line\":28,\"ch\":48}},\"scroll\":5.368010323751422}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Tasks.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":71},\"to\":{\"line\":18,\"ch\":71}},\"scroll\":0}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":14.623320223606145}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Tasks.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":56},\"to\":{\"line\":23,\"ch\":56}}}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-04_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":39},\"to\":{\"line\":25,\"ch\":39}}}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":48},\"to\":{\"line\":25,\"ch\":48}}}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-04_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":13},\"to\":{\"line\":21,\"ch\":13}}}"
-            },
-            {
-              "leaf": "e9fb9edd3c8bc5f9",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":48},\"to\":{\"line\":25,\"ch\":48}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+            "file": "006-DailyNote/2022-09-04_Sun.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "49743257110c0d57",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "49743257110c0d57",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
             "mode": "source",
             "source": false
           }
@@ -176,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -280,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+                "file": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+                "file": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
               }
             }
           },
@@ -315,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+                "file": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,6 +270,10 @@
           {
             "id": "fe3c39a4541e59bd",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -383,7 +309,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+                "file": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -418,17 +344,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "d911f10bf26305ef",
+  "active": "49743257110c0d57",
   "lastOpenFiles": [
-    "_gsdata_/_saved_/002-Inbox/Obsidian的任務管理技巧彙總.md",
-    "_gsdata_/_saved_/003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "006-DailyNote/2022-09-04_Sun.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "001-Template/Daily Note Template.md",
     "001-Template/Daily Note Tasks.md",
-    "006-DailyNote/Daily Note Template.md",
-    "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
-    "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/007-修繕、工具知識/學會如何換電容.md"
+    "000-index/!dict.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
+    "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md",
+    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
+    "_gsdata_/_saved_/002-Inbox/Obsidian的任務管理技巧彙總.md"
   ]
 }

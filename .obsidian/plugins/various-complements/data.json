@@ -112,6 +112,36 @@
           "lastUpdated": 1662272592784
         }
       }
+    },
+    "button": {
+      "button": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662275600050
+        }
+      }
+    },
+    "-00": {
+      "時間函數（Templater）/ (@<% tp.date.now() %> !END!)": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662276875578
+        }
+      },
+      "時間函數（Templater）": {
+        "customDictionary": {
+          "count": 18,
+          "lastUpdated": 1662279022683
+        }
+      }
+    },
+    "tomorrow": {
+      "tomorrow": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662277706816
+        }
+      }
     }
   }
 }

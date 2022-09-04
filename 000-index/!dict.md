@@ -87,3 +87,7 @@ Tips（DataView）*/> Tips:: !END!|Tips（DataView）|-09
 ExcelTips（DataView）*/> ExcelTips:: !END!|ExcelTips（DataView）|-09
 AHK_Tips（DataView）*/> AHK_Tips:: !END!|AHK_Tips（DataView）|-09
 AHK_Function（DataView）*/> AHK_Function:: !END!|AHK_Function（DataView）|-09
+
+
+%% Templater 時間函數快捷字典 %%
+時間函數（Templater）*/(@<% tp.date.now() %> !END!:)|時間函數（Templater）|-00
