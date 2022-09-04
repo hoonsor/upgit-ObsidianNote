@@ -1,52 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "1110813-九份行",
-      "path": "007-旅遊/1110813-九份行.md"
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
     },
     {
-      "basename": "Template-Excel",
-      "path": "001-Template/Template-Excel.md"
+      "basename": "2022-09-04_Sun",
+      "path": "006-DailyNote/2022-09-04_Sun.md"
     },
     {
-      "basename": "Template-SubItem",
-      "path": "001-Template/Template-SubItem.md"
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "Daily Note Tasks",
+      "path": "001-Template/Daily Note Tasks.md"
     },
     {
       "basename": "1110904-Excel比對找尋資料",
       "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
     },
     {
-      "basename": "Template-Temporary Mission",
-      "path": "001-Template/Template-Temporary Mission.md"
-    },
-    {
-      "basename": "Template-Travel",
-      "path": "001-Template/Template-Travel.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "AHK-概述",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
-    },
-    {
-      "basename": "template",
-      "path": "006-DailyNote/template.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
+      "basename": "AHK-GUI控件相關",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
+      "basename": "學會如何換電容",
+      "path": "004-●日常生活/007-修繕、工具知識/學會如何換電容.md"
+    },
+    {
+      "basename": "VX3211-4k-mhd相關注意事項",
+      "path": "004-●日常生活/003-電腦知識/VX3211-4k-mhd相關注意事項.md"
+    },
+    {
+      "basename": "Secure Shell（SSH）",
+      "path": "004-●日常生活/003-電腦知識/Secure Shell（SSH）.md"
+    },
+    {
+      "basename": "Port（通訊埠）",
+      "path": "004-●日常生活/003-電腦知識/Port（通訊埠）.md"
+    },
+    {
+      "basename": "電腦疑難雜症",
+      "path": "004-●日常生活/003-電腦知識/電腦疑難雜症.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "建構程式語言快捷查詢方式",
+      "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
+    },
+    {
+      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+    },
+    {
+      "basename": "1110821-手機錄影技巧",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
+    },
+    {
+      "basename": "UniversalNote",
+      "path": "001-Template/UniversalNote.md"
+    },
+    {
       "basename": "●投資理財及創業待辦事項",
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "AHK-概述",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+    },
+    {
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "1110717-告別讓人困擾的失眠問題",
+      "path": "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "1110814-Thinkorswim軟體學習心得",
+      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
+    },
+    {
+      "basename": "1110813-Thinkorswim軟體介面大綱",
+      "path": "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
+    },
+    {
+      "basename": "1110716-甲狀腺失調調理及預防指南",
+      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
+    },
+    {
+      "basename": "1110716-腎上腺疲勞調理及預防指南",
+      "path": "004-●日常生活/005-健康知識/1110716-腎上腺疲勞調理及預防指南.md"
+    },
+    {
+      "basename": "1110716-認識內分泌與激素",
+      "path": "004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md"
+    },
+    {
+      "basename": "1110717-能量運動指南",
+      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
+    },
+    {
+      "basename": "1110903-青花椰苗種植及購買",
+      "path": "004-●日常生活/005-健康知識/1110903-青花椰苗種植及購買.md"
+    },
+    {
+      "basename": "身體現況",
+      "path": "004-●日常生活/005-健康知識/身體現況.md"
+    },
+    {
+      "basename": "預防及保養",
+      "path": "004-●日常生活/005-健康知識/預防及保養.md"
+    },
+    {
+      "basename": "Template-Travel",
+      "path": "001-Template/Template-Travel.md"
+    },
+    {
+      "basename": "Template-Temporary Mission",
+      "path": "001-Template/Template-Temporary Mission.md"
+    },
+    {
+      "basename": "Template-SubItem",
+      "path": "001-Template/Template-SubItem.md"
+    },
+    {
+      "basename": "Template-Excel",
+      "path": "001-Template/Template-Excel.md"
+    },
+    {
+      "basename": "1110813-九份行",
+      "path": "007-旅遊/1110813-九份行.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
     },
     {
       "basename": "●首頁",
@@ -55,14 +159,6 @@
     {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "1110903-青花椰苗種植及購買",
-      "path": "004-●日常生活/005-健康知識/1110903-青花椰苗種植及購買.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "熟練行銷文章架構",
@@ -93,112 +189,12 @@
       "path": "●專案管理.md"
     },
     {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
-    },
-    {
       "basename": "2022-08-30_Tue",
       "path": "006-DailyNote/2022-08-30_Tue.md"
     },
     {
       "basename": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "basename": "1110814-Thinkorswim軟體學習心得",
-      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
-    },
-    {
-      "basename": "2022-07-25_Mon",
-      "path": "006-DailyNote/2022-07-25_Mon.md"
-    },
-    {
-      "basename": "●日常生活",
-      "path": "●日常生活.md"
-    },
-    {
-      "basename": "0.總架構",
-      "path": "003-●專案管理/005-投資理財相關/★架構圖PDF檔/0.總架構.pdf"
-    },
-    {
-      "basename": "DashBoard CSS-自行測試",
-      "path": "DashBoard CSS-自行測試.md"
-    },
-    {
-      "basename": "好用網站或外掛推薦",
-      "path": "003-●專案管理/001-WordPress架設網站/好用網站或外掛推薦.md"
-    },
-    {
-      "basename": "●激勵影片",
-      "path": "004-●日常生活/●激勵影片.md"
-    },
-    {
-      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
-    },
-    {
-      "basename": "建構程式語言快捷查詢方式",
-      "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
-    },
-    {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
-    },
-    {
-      "basename": "正則表達式",
-      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
-    },
-    {
-      "basename": "1110821-手機錄影技巧",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
-    },
-    {
-      "basename": "法規紀錄測試",
-      "path": "005-工作相關/法規紀錄測試.md"
-    },
-    {
-      "basename": "獨立樂團",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
-    },
-    {
-      "basename": "1110810-新進教師研習",
-      "path": "005-工作相關/1110810-新進教師研習.md"
-    },
-    {
-      "basename": "1110716-認識內分泌與激素",
-      "path": "004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "★按鈕範例",
-      "path": "★按鈕範例.md"
-    },
-    {
-      "basename": "1110813-Thinkorswim軟體介面大綱",
-      "path": "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
-    },
-    {
-      "basename": "XGPU雙人遊戲下載",
-      "path": "004-●日常生活/004-遊戲相關/XGPU雙人遊戲下載.md"
-    },
-    {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
-    },
-    {
-      "basename": "1110717-告別讓人困擾的失眠問題",
-      "path": "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md"
-    },
-    {
-      "basename": "1110716-腎上腺疲勞調理及預防指南",
-      "path": "004-●日常生活/005-健康知識/1110716-腎上腺疲勞調理及預防指南.md"
-    },
-    {
-      "basename": "1110716-甲狀腺失調調理及預防指南",
-      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
     }
   ],
   "omittedPaths": [],

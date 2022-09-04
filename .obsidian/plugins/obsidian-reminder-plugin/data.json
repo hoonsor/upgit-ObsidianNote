@@ -1,9 +1,17 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "006-DailyNote/2022-09-04_Sun.md": [
+      {
+        "title": "🔵返家前檢查 Email",
+        "time": "2022-09-04 10:00",
+        "rowNumber": 27
+      }
+    ]
+  },
   "debug": false,
   "settings": {
-    "reminderTime": "09:00",
+    "reminderTime": "10:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
@@ -13,7 +21,7 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
+    "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,

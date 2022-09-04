@@ -27,6 +27,21 @@
     },
     {
       "type": "file",
+      "title": "template",
+      "path": "006-DailyNote/Daily Note Template.md"
+    },
+    {
+      "type": "file",
+      "title": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "type": "file",
+      "title": "Daily Note Tasks",
+      "path": "001-Template/Daily Note Tasks.md"
+    },
+    {
+      "type": "file",
       "title": "●專案管理",
       "path": "●專案管理.md"
     },

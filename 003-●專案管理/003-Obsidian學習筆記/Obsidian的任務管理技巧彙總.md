@@ -47,9 +47,6 @@ modified: Sunday, July 31st 2022, 8:36:34 pm
 - ![01|250](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/20/upgit_20220720_1658316731.png)
 
 #### 1.1.1. 練習
-- [x] 喝 1000ml 水 ⏫ 🔁 every week on Wednesday ⏳ 2022-07-20 📅 2022-07-20 (@2022-07-20 19:53)
-- [ ] 複習能量療法筆記 🔽 ⏳ 2022-07-19 📅 2022-07-19
-- [ ] 測試 1📅 2022-07-19
 ```tasks
 not done
 due before tomorrow  

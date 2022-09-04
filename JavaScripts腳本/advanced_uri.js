@@ -4,8 +4,8 @@ module.exports = advanced_uri;
 async function advanced_uri(params) {
   quickAddApi = params.quickAddApi;
   
-  const aTexts =   [ "Hotkeys", "社群外掛", "外掛瀏覽器", "主題瀏覽器", "Shell Commands", "QuickAdd", "cMenu", "Linter","Customizable Page Header Buttons", "BreadCrumbs", "Style Settings", "Obsidian Minimal Settings","Image ToolKit","Review","Reminder"];
-  const aValues = [ "hotkeys", "community-plugins", "plugin-browser", "theme-browser", "obsidian-shellcommands", "quickadd", "cmenu-plugin", "obsidian-linter" ,"customizable-page-header-buttons" , "breadcrumbs" ,"obsidian-style-settings" ,"obsidian-minimal-settings","obsidian-image-toolkit","review-obsidian","obsidian-reminder-plugin"];
+  const aTexts =   [ "Hotkeys", "社群外掛", "外掛瀏覽器", "主題瀏覽器", "Shell Commands", "QuickAdd", "cMenu", "Linter","Customizable Page Header Buttons", "BreadCrumbs", "Style Settings", "Obsidian Minimal Settings","Image ToolKit","Review","Reminder","Tasks","Templater"];
+  const aValues = [ "hotkeys", "community-plugins", "plugin-browser", "theme-browser", "obsidian-shellcommands", "quickadd", "cmenu-plugin", "obsidian-linter" ,"customizable-page-header-buttons" , "breadcrumbs" ,"obsidian-style-settings" ,"obsidian-minimal-settings","obsidian-image-toolkit","review-obsidian","obsidian-reminder-plugin","obsidian-tasks-plugin","templater-obsidian"];
   let choice = await quickAddApi.suggester(aTexts, aValues);
   //console.log("choice", choice);
 

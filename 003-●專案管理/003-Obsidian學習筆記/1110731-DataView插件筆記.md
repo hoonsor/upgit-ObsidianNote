@@ -10,16 +10,8 @@ source: https://www.youtube.com/watch?v=dkWA7Qd0CLA
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Monday, August 8th 2022, 1:54:22 pm
+modified: Sunday, September 4th 2022, 11:07:42 am
 ---
-
-- [[#1110731-DataView 插件筆記 ^toc|1110731-DataView 插件筆記]]
-	- [[#1. 概述|1. 概述]]
-	- [[#2. 查詢語法|2. 查詢語法]]
-		- [[#2.1. 語法說明|2.1. 語法說明]]
-		- [[#2.2. 內置變數|2.2. 內置變數]]
-		- [[#2.3. 參考資料|2.3. 參考資料]]
-		- [[#2.4. 範例|2.4. 範例]]
 
 [[●專案管理]]
 # 1110731-DataView 插件筆記 ^toc

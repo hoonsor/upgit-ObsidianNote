@@ -2,6 +2,6 @@
   "dailyNotesFolder": "",
   "reviewSectionHeading": "## Review",
   "linePrefix": "- [ ] ",
-  "defaultReviewDate": "tomorrow",
+  "defaultReviewDate": "today",
   "blockLinePrefix": "!"
 }

@@ -82,6 +82,7 @@ var MODIFIER_KEYS = [
   "CapsLock",
   "Fn"
 ];
+var JOIN_LINE_TRIM_REGEX = /^\s*((-|\+|\*|\d+\.|>) )?/;
 
 // src/utils.ts
 var defaultMultipleSelectionOptions = { repeatSameLineActions: true };
@@ -248,14 +249,15 @@ var getSearchText = ({
     singleSearchText
   };
 };
-var escapeRegExp = (input) => input.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+var escapeRegex = (input) => input.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+var withWordBoundaries = (input) => `(?<=\\W|^)${input}(?=\\W|$)`;
 var findAllMatches = ({
   searchText,
   searchWithinWords,
   documentContent
 }) => {
-  const escapedSearchText = escapeRegExp(searchText);
-  const searchExpression = new RegExp(searchWithinWords ? escapedSearchText : `\\b${escapedSearchText}\\b`, "g");
+  const escapedSearchText = escapeRegex(searchText);
+  const searchExpression = new RegExp(searchWithinWords ? escapedSearchText : withWordBoundaries(escapedSearchText), "g");
   return Array.from(documentContent.matchAll(searchExpression));
 };
 var findNextMatchPosition = ({
@@ -368,14 +370,42 @@ var deleteToEndOfLine = (editor, selection) => {
   };
 };
 var joinLines = (editor, selection) => {
-  const { line } = selection.head;
-  const endOfCurrentLine = getLineEndPos(line, editor);
-  if (line < editor.lineCount() - 1) {
+  var _a, _b;
+  const { from, to } = getSelectionBoundaries(selection);
+  const { line } = from;
+  let endOfCurrentLine = getLineEndPos(line, editor);
+  const joinRangeLimit = Math.max(to.line - line, 1);
+  const selectionLength = editor.posToOffset(to) - editor.posToOffset(from);
+  let trimmedChars = "";
+  for (let i = 0; i < joinRangeLimit; i++) {
+    if (line === editor.lineCount() - 1) {
+      break;
+    }
+    endOfCurrentLine = getLineEndPos(line, editor);
     const endOfNextLine = getLineEndPos(line + 1, editor);
-    const contentsOfNextLine = editor.getLine(line + 1).replace(/^\s*((-|\+|\*|\d+\.) )?/, "");
-    editor.replaceRange(contentsOfNextLine.length > 0 ? " " + contentsOfNextLine : contentsOfNextLine, endOfCurrentLine, endOfNextLine);
+    const contentsOfCurrentLine = editor.getLine(line);
+    const contentsOfNextLine = editor.getLine(line + 1);
+    const charsToTrim = (_a = contentsOfNextLine.match(JOIN_LINE_TRIM_REGEX)) != null ? _a : [];
+    trimmedChars += (_b = charsToTrim[0]) != null ? _b : "";
+    const newContentsOfNextLine = contentsOfNextLine.replace(JOIN_LINE_TRIM_REGEX, "");
+    if (newContentsOfNextLine.length > 0 && contentsOfCurrentLine.charAt(endOfCurrentLine.ch - 1) !== " ") {
+      editor.replaceRange(" " + newContentsOfNextLine, endOfCurrentLine, endOfNextLine);
+    } else {
+      editor.replaceRange(newContentsOfNextLine, endOfCurrentLine, endOfNextLine);
+    }
   }
-  return { anchor: endOfCurrentLine };
+  if (selectionLength === 0) {
+    return {
+      anchor: endOfCurrentLine
+    };
+  }
+  return {
+    anchor: from,
+    head: {
+      line: from.line,
+      ch: from.ch + selectionLength - trimmedChars.length
+    }
+  };
 };
 var copyLine = (editor, selection, direction) => {
   const { from, to } = getSelectionBoundaries(selection);

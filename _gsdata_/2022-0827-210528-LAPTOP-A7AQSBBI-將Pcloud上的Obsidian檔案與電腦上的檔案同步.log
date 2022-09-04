@@ -1,8 +1,0 @@
-2022-08-27 21:05:28: -- 分析開始 User Command
-2022-08-27 21:05:28: 變更：1， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 499
-2022-08-27 21:05:28: Left to Right: Copy File: 1 
-2022-08-27 21:05:28: == 同步開始由 User Command
-2022-08-27 21:05:28: Start only 1 threads, limited by tasks to run
-2022-08-27 21:05:28: P:/Obsidian/Hoonsor/Untitled.md: Source file has changed between Analyze and Sync from '[file] size=218 accu-time=2022-07-21 19:30:21 attr= cktype=0' to 'size=214 time=2022-06-28 15:57:13', noted in source file state
-2022-08-27 21:05:28: 覆蓋複製 'P:/Obsidian/Hoonsor/Untitled.md' -> 'D:/Obsidian/Hoonsor/Untitled.md' (218)
-2022-08-27 21:05:28: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 1, 錯誤: 0
