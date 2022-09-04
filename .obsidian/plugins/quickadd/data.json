@@ -89,8 +89,36 @@
           "openFileInMode": "source"
         },
         {
+          "id": "afd63dbc-a017-42e7-85e3-7ca42bd4239a",
+          "name": "4. Template-Excel",
+          "type": "Template",
+          "command": false,
+          "templatePath": "001-Template/Template-Excel.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:請輸入筆記檔名（日期及概述）}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "003-●專案管理/006-Excel學習相關"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source"
+        },
+        {
           "id": "39b43ce0-7337-462f-a215-eae2fed015a1",
-          "name": "4. Template-Travel",
+          "name": "5. Template-Travel",
           "type": "Template",
           "command": false,
           "templatePath": "001-Template/Template-Travel.md",
@@ -100,8 +128,10 @@
           },
           "folder": {
             "enabled": true,
-            "folders": [],
-            "chooseWhenCreatingNote": true,
+            "folders": [
+              "007-旅遊"
+            ],
+            "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false
           },
           "appendLink": false,

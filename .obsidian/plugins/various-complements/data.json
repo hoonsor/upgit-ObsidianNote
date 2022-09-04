@@ -43,62 +43,6 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "co-lol": {
-      "co-lol": {
-        "customDictionary": {
-          "count": 8,
-          "lastUpdated": 1659266013667
-        }
-      }
-    },
-    "-0r": {
-      "紅底白字 ": {
-        "customDictionary": {
-          "count": 15,
-          "lastUpdated": 1659267304096
-        }
-      }
-    },
-    "-br": {
-      "粗體紅字 ": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1659267373610
-        }
-      }
-    },
-    "-bg": {
-      "粗體綠字 ": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1659267451312
-        }
-      }
-    },
-    "attribute": {
-      "attribute": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659101722044
-        }
-      }
-    },
-    "value": {
-      "value": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659101728003
-        }
-      }
-    },
-    "開開先生": {
-      "開開先生": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1659265603694
-        }
-      }
-    },
     "-0m": {
       "褐紅底白字 ": {
         "customDictionary": {
@@ -107,65 +51,17 @@
         }
       }
     },
-    "Sort": {
-      "Sort": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659267991823
-        }
-      }
-    },
-    "Group": {
-      "Group": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659268103528
-        }
-      }
-    },
-    "1110716-認識內分泌與激素": {
-      "1110716-認識內分泌與激素": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1659269827115
-        }
-      }
-    },
     "-09": {
-      "問與答 ": {
-        "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1659613611703
-        }
-      },
       "Tips（DataView 欄位）": {
         "customDictionary": {
-          "count": 4,
-          "lastUpdated": 1660460263081
+          "count": 5,
+          "lastUpdated": 1662256313792
         }
-      }
-    },
-    "-08": {
-      "AHK_Tips ": {
+      },
+      "ExcelTips（DataView）": {
         "customDictionary": {
           "count": 2,
-          "lastUpdated": 1659614167344
-        }
-      }
-    },
-    "AHK_Tips ": {
-      "AHK_Tips ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659535748838
-        }
-      }
-    },
-    "-07": {
-      "小技巧 ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659614170592
+          "lastUpdated": 1662257206739
         }
       }
     },
@@ -190,6 +86,14 @@
         "frontMatter": {
           "count": 1,
           "lastUpdated": 1661472703331
+        }
+      }
+    },
+    "Tips（DataView 欄位）": {
+      "Tips（DataView 欄位）": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662255901485
         }
       }
     }
