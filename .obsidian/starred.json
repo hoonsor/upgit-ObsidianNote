@@ -42,6 +42,16 @@
     },
     {
       "type": "file",
+      "title": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "type": "file",
+      "title": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "type": "file",
       "title": "●專案管理",
       "path": "●專案管理.md"
     },
@@ -59,11 +69,6 @@
       "type": "file",
       "title": "測試各類功能",
       "path": "002-Inbox/★測試各類功能.md"
-    },
-    {
-      "type": "file",
-      "title": "!dict",
-      "path": "000-index/!dict.md"
     },
     {
       "type": "file",

@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Sunday, September 4th 2022, 8:55:36 pm
+modified: Monday, September 5th 2022, 5:24:25 pm
 ---
 
 [[●專案管理]]
@@ -31,16 +31,17 @@ modified: Sunday, September 4th 2022, 8:55:36 pm
 
 ## 2. 查詢語法
 
-\`\`\``dataview 
-
+````
+```dataview 
 TABLE|LIST|TASK \<field> [AS "Column Name"], \<field>, ..., \<field> FROM \<source> 
 WHERE \<expression> 
 SORT \<expression> [ASC/DESC] 
 GROUP BY \<field>
 FLATTEN \<field>
 ... other data commands 
+```
+````
 
-\`\`\`
 ### 2.1. 語法說明
 
 - Table、List、Task 分別為三種不同呈現樣式，Table 為表格、List 為列表、Task 為未完成的 Todo List 項目
