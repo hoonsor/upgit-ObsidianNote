@@ -108,7 +108,7 @@
               "leaf": "1822445bbc7642ed",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":1},\"to\":{\"line\":13,\"ch\":1}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}},\"scroll\":4.166666666666667}"
             }
           ]
         },

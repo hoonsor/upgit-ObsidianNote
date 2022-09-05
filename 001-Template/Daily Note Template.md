@@ -18,7 +18,7 @@ if (week == 1 || week == 3 || week == 5 || week == 0) {
 <%* } %>
 ## 1. 已完成之事項：
 ```tasks
-	done <% tp.date.now() %>
+	done 2022-09-05
 	path includes 006-DailyNote
 	hide edit button 
 	hide backlink
