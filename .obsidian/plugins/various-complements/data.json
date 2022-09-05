@@ -77,14 +77,6 @@
         }
       }
     },
-    "initially": {
-      "initially": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659939587134
-        }
-      }
-    },
     "005-●日常生活/001-購物清單/88節購物清單": {
       "005-●日常生活/001-購物清單/88節購物清單": {
         "internalLink": {
@@ -182,6 +174,14 @@
         "frontMatter": {
           "count": 4,
           "lastUpdated": 1662303048238
+        }
+      }
+    },
+    "status": {
+      "status": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662378169045
         }
       }
     }
