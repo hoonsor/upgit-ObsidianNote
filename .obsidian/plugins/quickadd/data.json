@@ -202,7 +202,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\nconst Accent = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\n\nresult = Accent + nl + selection + nl + Accent;\n \nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\nconst Code = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96) + nl + selection + nl + String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\nconst FourAccent = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\n\nresult = FourAccent + nl + selection + nl + FourAccent + nl + Code;\n \nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -227,7 +227,7 @@
       "id": "3f3ece15-fd2a-45ea-8837-0158e01d995a",
       "name": "Marco-Advanced URI",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "macroId": "53ecac6f-b86b-4a3a-a249-8f40baea304e"
     }
   ],
