@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
       "basename": "2022-09-04_Sun",
       "path": "006-DailyNote/2022-09-04_Sun.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "AHK-GUI控件相關",
@@ -53,20 +65,12 @@
       "path": "000-index/!dict.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
       "basename": "●投資理財及創業待辦事項",
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
       "basename": "Daily Note Tasks",
       "path": "001-Template/Daily Note Tasks.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "學會如何換電容",
@@ -161,10 +165,6 @@
       "path": "●首頁.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
       "basename": "熟練行銷文章架構",
       "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "2022-08-30_Tue",
       "path": "006-DailyNote/2022-08-30_Tue.md"
-    },
-    {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
     }
   ],
   "omittedPaths": [],
