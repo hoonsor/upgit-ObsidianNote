@@ -155,7 +155,7 @@
       "Two Space Linebreak": false
     }
   },
-  "lintOnSave": true,
+  "lintOnSave": false,
   "displayChanged": true,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
