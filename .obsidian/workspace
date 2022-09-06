@@ -4,26 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "02fe4cf270a6e645",
+        "id": "c309beda9c96aa2d",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "02fe4cf270a6e645",
+              "leaf": "c309beda9c96aa2d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -160,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +175,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +188,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,7 +259,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,10 +293,10 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "02fe4cf270a6e645",
+  "active": "c309beda9c96aa2d",
   "lastOpenFiles": [
-    "006-DailyNote/2022-09-05_Mon.md",
     "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-09-05_Mon.md",
     "006-DailyNote/2022-09-04_Sun.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md",
