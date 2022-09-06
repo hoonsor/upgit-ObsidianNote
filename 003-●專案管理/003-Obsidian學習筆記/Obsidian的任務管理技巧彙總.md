@@ -11,9 +11,16 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Wednesday, July 20th 2022, 7:01:49 pm
-modified: Sunday, September 4th 2022, 10:50:49 pm
+modified: Monday, September 5th 2022, 9:02:41 pm
 ---
-# Obsidian 的任務管理技巧彙總
+# Obsidian 的任務管理技巧彙總 ^toc
+
+- [[#Obsidian 的任務管理技巧彙總 ^toc|Obsidian 的任務管理技巧彙總]]
+	- [[#1. Tasks 外掛|1. Tasks 外掛]]
+		- [[#1.1. [查詢語法 (第三人稱)](http://jdev.tw/blog/6858#top "Back to top")|1.1. [查詢語法 (第三人稱)](http://jdev.tw/blog/6858#top "Back to top")]]
+			- [[#1.1.1. 練習|1.1.1. 練習]]
+	- [[#2. Reminder 外掛|2. Reminder 外掛]]
+
 
 ## 1. Tasks 外掛
 - ctrl+alt+enter，可以對待辦事項輸入到期日及是否循環出現
@@ -51,31 +58,35 @@ modified: Sunday, September 4th 2022, 10:50:49 pm
 - ![01|250](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/20/upgit_20220720_1658316731.png)
 
 #### 1.1.1. 練習
-- 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「健康知識」
+- 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「保健」
 ````
 ```tasks
 not done
-heading includes 健康知識
+heading includes 保健
 path includes 006-DailyNote/2022-09-04_Sun.md
 ```
 ````
 ```tasks
 not done
-heading includes 健康知識
+heading includes 保健
 path includes 006-DailyNote/2022-09-04_Sun.md
 ```
-- 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box
+- 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box，並且隱藏編輯按鈕及檔案路徑連結
 ````
 ```tasks
 done
 no due date 
 path includes 006-DailyNote/2022-09-04_Sun.md
+hide edit button 
+hide backlink
 ```
 ````
 ```tasks
 done
 no due date 
 path includes 006-DailyNote/2022-09-04_Sun.md
+hide edit button 
+hide backlink
 ```
 
 ## 2. Reminder 外掛

@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Monday, September 5th 2022, 8:50:26 pm
+modified: Monday, September 5th 2022, 8:57:54 pm
 ---
 
 [[●專案管理]]
@@ -148,28 +148,28 @@ where file.starred
 ````
 ```dataview
 table AHK_Tips from ""
-where AHK_Tips!=null
+where AHK_Tips
 flatten AHK_Tips
 ```
 ````
 
 ```dataview
 table AHK_Tips from ""
-where AHK_Tips!=null
+where AHK_Tips
 flatten AHK_Tips
 ```
 - 列出所有筆記中的 ExcelTips（且 ExcelTips 欄位不等於空值），並且使用 flatten 方式呈現
 ````
 ```dataview
 	table ExcelTips from ""
-	where ExcelTips!=null
+	where ExcelTips
 	flatten ExcelTips
 ```
 ````
 
 ```dataview
 	table ExcelTips from ""
-	where ExcelTips!=null
+	where ExcelTips
 	flatten ExcelTips
 ```
 - 依照不同筆記狀態區分筆記
