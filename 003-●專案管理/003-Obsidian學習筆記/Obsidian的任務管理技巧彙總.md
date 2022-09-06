@@ -19,6 +19,8 @@ modified: Monday, September 5th 2022, 9:02:41 pm
 	- [[#1. Tasks 外掛|1. Tasks 外掛]]
 		- [[#1.1. [查詢語法 (第三人稱)](http://jdev.tw/blog/6858#top "Back to top")|1.1. [查詢語法 (第三人稱)](http://jdev.tw/blog/6858#top "Back to top")]]
 			- [[#1.1.1. 練習|1.1.1. 練習]]
+				- [[#1.1.1.1. 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「保健」|1.1.1.1. 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「保健」]]
+				- [[#1.1.1.2. 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box，並且隱藏編輯按鈕及檔案路徑連結|1.1.1.2. 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box，並且隱藏編輯按鈕及檔案路徑連結]]
 	- [[#2. Reminder 外掛|2. Reminder 外掛]]
 
 
@@ -58,7 +60,7 @@ modified: Monday, September 5th 2022, 9:02:41 pm
 - ![01|250](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/20/upgit_20220720_1658316731.png)
 
 #### 1.1.1. 練習
-- 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「保健」
+##### 1.1.1.1. 在指定之路徑檔案中列出尚未完成之 check box，最近的標題包含「保健」
 ````
 ```tasks
 not done
@@ -71,7 +73,7 @@ not done
 heading includes 保健
 path includes 006-DailyNote/2022-09-04_Sun.md
 ```
-- 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box，並且隱藏編輯按鈕及檔案路徑連結
+##### 1.1.1.2. 在指定路徑檔案中列出沒有指定到期日且已經完成之 check box，並且隱藏編輯按鈕及檔案路徑連結
 ````
 ```tasks
 done
