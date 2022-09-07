@@ -10,7 +10,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Tuesday, September 6th 2022, 10:24:11 pm
-modified: Tuesday, September 6th 2022, 11:12:37 pm
+modified: Wednesday, September 7th 2022, 9:35:42 pm
 ---
 # 1110906-Obsidian 快捷鍵
 
@@ -18,7 +18,7 @@ modified: Tuesday, September 6th 2022, 11:12:37 pm
 增加行內按鈕	ctrl+1
 關閉目前筆記	ctrl+W
 cMenu 顯示/隱藏	ctrl+alt+shift+Z
-將選擇範圍變成「引用」欄位	ctrl+alt+`
+將選擇範圍變成「引用」欄位	ctrl+alt+\`
 將選擇範圍增加底線（html 語法）	ctrl+U
 複製選取行並在下一行貼上	ctrl+D
 刪除選取行	ctrl+Y
