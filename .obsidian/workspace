@@ -4,40 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5b5cd86cf9952d",
+        "id": "c8c98f89a2cfd82c",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "5b5b5cd86cf9952d",
+              "leaf": "c8c98f89a2cfd82c",
               "group": null,
-<<<<<<< HEAD
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-07_Wed.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-=======
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "5b5b5cd86cf9952d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "5b5b5cd86cf9952d",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":26},\"to\":{\"line\":43,\"ch\":26}},\"scroll\":18.612864755803862}"
->>>>>>> origin/main
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+            "file": "006-DailyNote/2022-09-07_Wed.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Obsidian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -177,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+                "file": "006-DailyNote/2022-09-07_Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+                "file": "006-DailyNote/2022-09-07_Wed.md"
               }
             }
           },
@@ -212,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+                "file": "006-DailyNote/2022-09-07_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+                "file": "006-DailyNote/2022-09-07_Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,17 +301,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "fe3c39a4541e59bd",
+  "active": "c8c98f89a2cfd82c",
   "lastOpenFiles": [
-    "●.md",
-    "★測試各類功能.md",
+    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
+    "006-DailyNote/2022-09-07_Wed.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "000-index/!dict.md",
-    "006-DailyNote/2022-09-06_Tue.md",
-    "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md",
-    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
+    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+    "●Disco Diffusion-AI運算繪圖工具.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md",
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
+    "★測試各類功能.md",
+    "006-DailyNote/2022-09-05_Mon.md"
   ]
 }
