@@ -1,44 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "1110804-提醒新進短期臨工注意事項",
-      "path": "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
-    },
-    {
-      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
     {
-      "basename": "2022-09-05_Mon",
-      "path": "006-DailyNote/2022-09-05_Mon.md"
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
     },
     {
-      "basename": "1110731-DataView插件筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "1110806-Git及Obsidian同步至手機學習",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
-    },
-    {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
-      "basename": "2022-09-04_Sun",
-      "path": "006-DailyNote/2022-09-04_Sun.md"
-    },
-    {
-      "basename": "AHK-GUI控件相關",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
+      "basename": "2022-09-06_Tue",
+      "path": "006-DailyNote/2022-09-06_Tue.md"
     },
     {
       "basename": "1110717-告別讓人困擾的失眠問題",
@@ -53,40 +29,68 @@
       "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
     },
     {
+      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+    },
+    {
       "basename": "1110821-手機錄影技巧",
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
+    },
+    {
+      "basename": "AHK-GUI控件相關",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
     },
     {
       "basename": "1110904-Excel比對找尋資料",
       "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
     },
     {
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
       "basename": "1110814-Thinkorswim軟體學習心得",
       "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
-    },
-    {
-      "basename": "Obsidian概述",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "●投資理財及創業待辦事項",
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "Daily Note Tasks",
-      "path": "001-Template/Daily Note Tasks.md"
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "2022-09-05_Mon",
+      "path": "006-DailyNote/2022-09-05_Mon.md"
+    },
+    {
+      "basename": "2022-09-04_Sun",
+      "path": "006-DailyNote/2022-09-04_Sun.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "1110806-Git及Obsidian同步至手機學習",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
+    },
+    {
+      "basename": "Obsidian概述",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+    },
+    {
+      "basename": "Daily Note Tasks",
+      "path": "001-Template/Daily Note Tasks.md"
     },
     {
       "basename": "學會如何換電容",
@@ -191,14 +195,6 @@
     {
       "basename": "2022-05-31_Tue",
       "path": "006-DailyNote/2022-05-31_Tue.md"
-    },
-    {
-      "basename": "2022-06-14_Tue",
-      "path": "006-DailyNote/2022-06-14_Tue.md"
-    },
-    {
-      "basename": "2022-05-30_Mon",
-      "path": "006-DailyNote/2022-05-30_Mon.md"
     }
   ],
   "omittedPaths": [],

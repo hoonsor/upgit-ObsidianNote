@@ -80,9 +80,7 @@ cssClasses: +=table-lines, table-nowrap, row-alt|YAML 表格 CSS|ppp
 粗體褐紅 */#h/maroon **!END!**|粗體褐紅|-bm
 
 
-%% 其他快捷字典 %%
-
-
+%% 其他快捷字典 Dataview自訂欄位%%
 Tips（DataView）*/> Tips:: !END!|Tips（DataView）|-09
 ExcelTips（DataView）*/> ExcelTips:: !END!|ExcelTips（DataView）|-09
 AHK_Tips（DataView）*/> AHK_Tips:: !END!|AHK_Tips（DataView）|-09
@@ -90,11 +88,15 @@ AHK_Function（DataView）*/> AHK_Function:: !END!|AHK_Function（DataView）|-0
 TD_Tips（DataView）*/> TD_Tips:: !END!|TD_Tips（DataView）|-09
 OB_Tips（DataView）*/> OB_Tips:: !END!|OB_Tips（DataView）|-09
 
+Tips*/Tips!END!|Tips|--0
+ExcelTips*/ExcelTips!END!|ExcelTips|--0
+AHK_Tips*/AHK_Tips!END!|AHK_Tips|--0
+AHK_Function*/AHK_Function!END!|AHK_Function|--0
+TD_Tips*/TD_Tips!END!|TD_Tips|--0
+OB_Tips*/OB_Tips!END!|OB_Tips|--0
 
 %% Templater 時間函數快捷字典 %%
 時間函數（Templater）*/(@<% tp.date.now() %> !END!:)|時間函數（Templater）|-00
 
 
-%% YAML 區 %%
-顯示模式（預覽模式）*/obsidianUIMode: preview|顯示模式（預覽模式）|-00
 

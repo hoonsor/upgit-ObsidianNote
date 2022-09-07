@@ -24,6 +24,11 @@ modified: Monday, September 5th 2022, 8:57:54 pm
 		- [[#2.2. 內置變數|2.2. 內置變數]]
 		- [[#2.3. 參考資料|2.3. 參考資料]]
 		- [[#2.4. 範例|2.4. 範例]]
+			- [[#2.4.1. 列出檔名包含 111072 的 table|2.4.1. 列出檔名包含 111072 的 table]]
+			- [[#2.4.2. 列出檔名包含 1110731 的 table，並且將tag欄位使用 flatten 方式呈現|2.4.2. 列出檔名包含 1110731 的 table，並且將tag欄位使用 flatten 方式呈現]]
+			- [[#2.4.3. 列出包含星號的 file List|2.4.3. 列出包含星號的 file List]]
+			- [[#2.4.4. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現|2.4.4. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現]]
+			- [[#2.4.5. 依照不同筆記status（狀態）區分筆記，並顯示檔名連結及建檔時間|2.4.5. 依照不同筆記status（狀態）區分筆記，並顯示檔名連結及建檔時間]]
 
 ## 1. 概述
 
@@ -51,7 +56,7 @@ FLATTEN \<field>
 - Where 是設定搜尋條件，可同時設定許多組，後面接的是布林值
 	- #h/maroon ==where contains(file.name, "Obsidian") 這段話代表列出檔名有 Obsidian 的筆記==
 - Sort 是排序依據， #h/maroon ==ASC 是升冪排序；DESC 是降冪排序==
-- Group by 是將呈現的資料依據特定註釋欄位分類，將同樣數值的部分集合在一起，如下圖
+- Group by 是將呈現的資料依據特定註釋欄位分類，將同樣數值的部分集合在一起，如下圖。另外使用groub by 時，欄位前面要加rows，例如 rows.file.name、rows.file.ctime，這樣才可以顯示出想要的樣式
 	- ![01|400](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/31/upgit_20220731_1659268341.png)
 - Flatten 是在如果所設定的註釋欄位有多筆資料時將呈現的資料一筆一筆列出，不要集合在一起，如下圖
 	- ![01|400](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/31/upgit_20220731_1659268396.png)
@@ -64,7 +69,7 @@ Dataview 會自動為每個頁面添加大量元數據：
 - `file.name`：文件標題（字符串）。
 - `file.folder`：該文件所屬文件夾的路徑。
 - `file.path`：完整的文件路徑（字符串）。
-- `file.ext`: 文件類型的擴展名；通常是“.md”（一個字符串）。
+- `file.ext`：文件類型的擴展名；通常是“.md”（一個字符串）。
 - `file.link`：文件的鏈接（鏈接）。
 - `file.size`：文件的大小（以字節為單位）（一個數字）。
 - `file.ctime`：文件的創建日期（日期 + 時間）。
@@ -103,7 +108,7 @@ Dataview 會自動為每個頁面添加大量元數據：
 
 ### 2.4. 範例
 
-- 列出檔名包含 111072 的 table
+#### 2.4.1. 列出檔名包含 111072 的 table
 ````
 ```dataview
 table file.ctime as 建檔時間 from ""
@@ -117,7 +122,7 @@ table file.ctime as 建檔時間 from ""
 where contains(file.name, "111072")
 sort ASC
 ```
-- 列出檔名包含 1110731 的 table，並且使用 flatten 方式呈現
+#### 2.4.2. 列出檔名包含 1110731 的 table，並且將tag欄位使用 flatten 方式呈現
 
 ````
 ```dataview
@@ -132,7 +137,7 @@ table tags as 標籤,file.ctime as 建檔時間 from ""
 where contains(file.name, "1110731")
 flatten tags
 ```
-- 列出包含星號的 file List
+#### 2.4.3. 列出包含星號的 file List
 ````
 ```dataview
 list from ""
@@ -144,7 +149,7 @@ where file.starred
 list from ""
 where file.starred
 ```
-- 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現
+#### 2.4.4. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現
 ````
 ```dataview
 table AHK_Tips from ""
@@ -158,32 +163,18 @@ table AHK_Tips from ""
 where AHK_Tips
 flatten AHK_Tips
 ```
-- 列出所有筆記中的 ExcelTips（且 ExcelTips 欄位不等於空值），並且使用 flatten 方式呈現
-````
-```dataview
-	table ExcelTips from ""
-	where ExcelTips
-	flatten ExcelTips
-```
-````
-
-```dataview
-	table ExcelTips from ""
-	where ExcelTips
-	flatten ExcelTips
-```
-- 依照不同筆記狀態區分筆記
+#### 2.4.5. 依照不同筆記status（狀態）區分筆記，並顯示檔名連結及建檔時間
 
 ````
 ```dataview
-	table rows.file.name as 檔名,rows.file.ctime as 建檔時間 from ""
+	table rows.file.link as 檔名連結,rows.file.ctime as 建檔時間 from ""
 	where status
 	group by status
 ```
 ````
 
 ```dataview
-	table rows.file.name as 檔名,rows.file.ctime as 建檔時間 from ""
+	table rows.file.link as 檔名連結,rows.file.ctime as 建檔時間 from ""
 	where status
 	group by status
 ```
