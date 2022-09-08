@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c98f89a2cfd82c",
+        "id": "cf835caaac2dc521",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "c8c98f89a2cfd82c",
+              "leaf": "cf835caaac2dc521",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-07_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cf835caaac2dc521",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-08_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":11.31625}"
+            },
+            {
+              "leaf": "cf835caaac2dc521",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":51.26658767772512}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-09-07_Wed.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-09-07_Wed.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-09-07_Wed.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-09-07_Wed.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-09-07_Wed.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -301,17 +313,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "fe3c39a4541e59bd",
+  "active": "cf835caaac2dc521",
   "lastOpenFiles": [
-    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
-    "006-DailyNote/2022-09-07_Wed.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "006-DailyNote/2022-09-08_Thu.md",
     "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-09-07_Wed.md",
+    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
     "●Disco Diffusion-AI運算繪圖工具.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md",
-    "★測試各類功能.md",
-    "006-DailyNote/2022-09-05_Mon.md"
+    "★測試各類功能.md"
   ]
 }
