@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
+    },
+    {
       "basename": "2022-09-09_Fri",
       "path": "006-DailyNote/2022-09-09_Fri.md"
+    },
+    {
+      "basename": "1110717-能量運動指南",
+      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
+    },
+    {
+      "basename": "1110716-甲狀腺失調調理及預防指南",
+      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
+    },
+    {
+      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+    },
+    {
+      "basename": "1110821-手機錄影技巧",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
+    },
+    {
+      "basename": "AHK-GUI控件相關",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
+    },
+    {
+      "basename": "1110904-Excel比對找尋資料",
+      "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
+    },
+    {
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "1110814-Thinkorswim軟體學習心得",
+      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
     },
     {
       "basename": "●投資理財及創業待辦事項",
@@ -21,34 +73,6 @@
       "path": "006-DailyNote/2022-09-07_Wed.md"
     },
     {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "1110821-手機錄影技巧",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
-    },
-    {
-      "basename": "AHK-GUI控件相關",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
-    },
-    {
-      "basename": "1110904-Excel比對找尋資料",
-      "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
-    },
-    {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
-      "basename": "1110731-DataView插件筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
       "basename": "!dict",
       "path": "000-index/!dict.md"
     },
@@ -59,22 +83,6 @@
     {
       "basename": "1110717-告別讓人困擾的失眠問題",
       "path": "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md"
-    },
-    {
-      "basename": "1110716-甲狀腺失調調理及預防指南",
-      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
-    },
-    {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
-    },
-    {
-      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
-    },
-    {
-      "basename": "1110814-Thinkorswim軟體學習心得",
-      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
     },
     {
       "basename": "Daily Note Template",
@@ -145,10 +153,6 @@
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
     },
     {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
-    },
-    {
       "basename": "1110813-Thinkorswim軟體介面大綱",
       "path": "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "●首頁",
       "path": "●首頁.md"
-    },
-    {
-      "basename": "熟練行銷文章架構",
-      "path": "003-●專案管理/002-練習撰寫文章行銷課程/熟練行銷文章架構.md"
     }
   ],
   "omittedPaths": [],

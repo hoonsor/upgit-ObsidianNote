@@ -408,5 +408,20 @@
       ],
       "key": "S"
     }
+  ],
+  "editor:follow-link": [],
+  "format-hotkeys-obsidian:fho-todo": [],
+  "format-hotkeys-obsidian:fho-ol": [],
+  "format-hotkeys-obsidian:fho-ul": [],
+  "format-hotkeys-obsidian:fho-quote": [],
+  "obsidian-linter:lint-file": [],
+  "obsidian-git:clone-repo": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
