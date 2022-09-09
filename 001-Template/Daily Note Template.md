@@ -1,10 +1,4 @@
----
-parent: 
-sibling: 
-child: 
-created: Sunday, August 28th 2022, 11:54:37 pm
-modified: Sunday, September 4th 2022, 8:02:03 pm
----
+
 # 本日筆記
 <%*
 function getWeek() {
@@ -45,6 +39,7 @@ if (week == 1 || week == 3 || week == 5 || week == 0) {
 - [ ] [[003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關]](@<% tp.date.now() %> 20:42)
 - [ ] [[004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧]](@<% tp.date.now() %> 20:45)
 - [ ] [[004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具]](@<% tp.date.now() %> 20:47)
+- [ ] [[1110906-Obsidian快捷鍵]](@<% tp.date.now() %> 20:48)
 
 ### 4.2. 健康知識
 - [ ] [[004-●日常生活/005-健康知識/1110717-能量運動指南]](@<% tp.date.now() %> 20:50)

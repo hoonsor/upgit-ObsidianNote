@@ -415,13 +415,36 @@
   "format-hotkeys-obsidian:fho-ul": [],
   "format-hotkeys-obsidian:fho-quote": [],
   "obsidian-linter:lint-file": [],
-  "obsidian-git:clone-repo": [
+  "obsidian-git:clone-repo": [],
+  "pane-relief:go-1st": [],
+  "pane-relief:go-2nd": [],
+  "pane-relief:go-3rd": [],
+  "pane-relief:go-4th": [],
+  "pane-relief:go-5th": [],
+  "pane-relief:go-6th": [],
+  "pane-relief:go-8th": [],
+  "pane-relief:go-last": [],
+  "pane-relief:go-7th": [],
+  "pane-relief:put-2nd": [],
+  "pane-relief:put-1st": [],
+  "pane-relief:put-3rd": [],
+  "pane-relief:put-4th": [],
+  "pane-relief:put-5th": [],
+  "pane-relief:put-6th": [],
+  "pane-relief:put-7th": [],
+  "pane-relief:put-8th": [],
+  "pane-relief:put-last": [],
+  "pane-relief:swap-next": [],
+  "pane-relief:swap-prev": [],
+  "obsidian-reminder-plugin:show-date-chooser": [
     {
       "modifiers": [
+        "Alt",
         "Mod",
         "Shift"
       ],
-      "key": "E"
+      "key": "A"
     }
-  ]
+  ],
+  "obsidian-reminder-plugin:toggle-checklist-status": []
 }

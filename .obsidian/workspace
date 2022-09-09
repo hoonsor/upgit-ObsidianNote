@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "60e67c39a2c2cd18",
+        "id": "58964778e664e97d",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "60e67c39a2c2cd18",
+              "leaf": "58964778e664e97d",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -293,17 +293,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "60e67c39a2c2cd18",
+  "active": "58964778e664e97d",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "006-DailyNote/2022-09-09_Fri.md",
+    "001-Template/Daily Note Template.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "005-工作相關/●工作待辦事項.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "★測試各類功能.md",
     "●子彈筆記.md",
     "●專案管理.md",
-    "006-DailyNote/2022-09-09_Fri.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
-    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md",
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
   ]
 }
