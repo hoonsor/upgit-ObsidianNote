@@ -13,7 +13,7 @@
               "leaf": "cf835caaac2dc521",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "cf835caaac2dc521",
@@ -313,7 +313,7 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "cf835caaac2dc521",
+  "active": "160f3b019890d626",
   "lastOpenFiles": [
     "006-DailyNote/2022-09-08_Thu.md",
     "005-工作相關/●工作待辦事項.md",
