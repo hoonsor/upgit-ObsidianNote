@@ -97,6 +97,6 @@ OB_Tips*/OB_Tips!END!|OB_Tips|--0
 
 %% Templater 時間函數快捷字典 %%
 時間函數（Templater）*/(@<% tp.date.now() %> !END!:)|時間函數（Templater）|-00
-
+多欄語法（Columns）*/- !!!col\n\t- 1\n\t\t!END!欄位內容\n\t- 1\n\t\t欄位內容|多欄語法（Columns）|-00
 
 

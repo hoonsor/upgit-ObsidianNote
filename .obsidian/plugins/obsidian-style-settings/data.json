@@ -55,5 +55,10 @@
   "minimal-style@@title-color-inactive@@dark": "#351039",
   "minimal-style@@show-grabber": false,
   "minimal-style@@blockquote-style": "normal",
-  "minimal-style@@tag-border-width": "2px"
+  "minimal-style@@tag-border-width": "2px",
+  "minimal-style@@tx2@@light": "#FFFFFF00",
+  "minimal-style@@tx3@@dark": "#988FFE",
+  "minimal-style@@accent@@light": "#FF0000",
+  "minimal-style@@accent@@dark": "#FF0000",
+  "minimal-style@@ax2@@dark": "#00FF2C"
 }

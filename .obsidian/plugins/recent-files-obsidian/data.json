@@ -1,52 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-09-09_Fri",
-      "path": "006-DailyNote/2022-09-09_Fri.md"
+      "basename": "2022-09-11_Sun",
+      "path": "006-DailyNote/2022-09-11_Sun.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
     },
     {
       "basename": "1110906-Obsidian快捷鍵",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
+      "basename": "1110904-Excel比對找尋資料",
+      "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
     },
     {
       "basename": "Obsidian的任務管理技巧彙總",
       "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
     },
     {
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "Obsidian概述",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+    },
+    {
+      "basename": "2022-09-10_Sat",
+      "path": "006-DailyNote/2022-09-10_Sat.md"
+    },
+    {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
     {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "●專案管理",
       "path": "●專案管理.md"
     },
     {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
+      "basename": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     },
     {
-      "basename": "1110716-甲狀腺失調調理及預防指南",
-      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
     },
     {
-      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+      "basename": "2022-09-07_Wed",
+      "path": "006-DailyNote/2022-09-07_Wed.md"
     },
     {
       "basename": "1110821-手機錄影技巧",
@@ -57,32 +77,8 @@
       "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
     },
     {
-      "basename": "1110904-Excel比對找尋資料",
-      "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
-    },
-    {
-      "basename": "1110731-DataView插件筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "1110814-Thinkorswim軟體學習心得",
-      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
-      "basename": "2022-09-08_Thu",
-      "path": "006-DailyNote/2022-09-08_Thu.md"
-    },
-    {
-      "basename": "2022-09-07_Wed",
-      "path": "006-DailyNote/2022-09-07_Wed.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "2022-09-06_Tue",
@@ -93,6 +89,22 @@
       "path": "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md"
     },
     {
+      "basename": "1110716-甲狀腺失調調理及預防指南",
+      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
+    },
+    {
+      "basename": "1110717-能量運動指南",
+      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
+    },
+    {
+      "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+    },
+    {
+      "basename": "1110814-Thinkorswim軟體學習心得",
+      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
+    },
+    {
       "basename": "2022-09-05_Mon",
       "path": "006-DailyNote/2022-09-05_Mon.md"
     },
@@ -101,12 +113,12 @@
       "path": "006-DailyNote/2022-09-04_Sun.md"
     },
     {
-      "basename": "1110806-Git及Obsidian同步至手機學習",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "Obsidian概述",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+      "basename": "1110806-Git及Obsidian同步至手機學習",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
     },
     {
       "basename": "Daily Note Tasks",
@@ -153,6 +165,10 @@
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
     },
     {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
       "basename": "1110813-Thinkorswim軟體介面大綱",
       "path": "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "Template-Travel",
       "path": "001-Template/Template-Travel.md"
-    },
-    {
-      "basename": "Template-Temporary Mission",
-      "path": "001-Template/Template-Temporary Mission.md"
-    },
-    {
-      "basename": "Template-SubItem",
-      "path": "001-Template/Template-SubItem.md"
-    },
-    {
-      "basename": "Template-Excel",
-      "path": "001-Template/Template-Excel.md"
-    },
-    {
-      "basename": "1110813-九份行",
-      "path": "007-旅遊/1110813-九份行.md"
-    },
-    {
-      "basename": "●首頁",
-      "path": "●首頁.md"
     }
   ],
   "omittedPaths": [],

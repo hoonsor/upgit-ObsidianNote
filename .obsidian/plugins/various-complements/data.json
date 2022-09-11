@@ -43,14 +43,6 @@
   "insertCommaAfterFrontMatterCompletion": false,
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "-0m": {
-      "褐紅底白字 ": {
-        "customDictionary": {
-          "count": 15,
-          "lastUpdated": 1660058306009
-        }
-      }
-    },
     "-09": {
       "Tips（DataView 欄位）": {
         "customDictionary": {
@@ -60,8 +52,8 @@
       },
       "ExcelTips（DataView）": {
         "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1662295348429
+          "count": 6,
+          "lastUpdated": 1662869574121
         }
       },
       "TD_Tips（DataView）": {
@@ -134,14 +126,20 @@
       },
       "時間函數（Templater）": {
         "customDictionary": {
-          "count": 20,
-          "lastUpdated": 1662384425163
+          "count": 22,
+          "lastUpdated": 1662902531336
         }
       },
       "顯示模式（預覽模式）": {
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1662279946753
+        }
+      },
+      "多欄語法（Columns）": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1662903837894
         }
       }
     },
@@ -190,6 +188,46 @@
         "customDictionary": {
           "count": 2,
           "lastUpdated": 1662474095927
+        }
+      }
+    },
+    "2022-09-12_Mon": {
+      "2022-09-12_Mon": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1662858930927
+        }
+      }
+    },
+    "Library": {
+      "Library": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1662867169024
+        }
+      }
+    },
+    "Display": {
+      "Display": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662869968016
+        }
+      }
+    },
+    "Attachment": {
+      "Attachment": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662870805113
+        }
+      }
+    },
+    "Columns": {
+      "Columns": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1662898108390
         }
       }
     }

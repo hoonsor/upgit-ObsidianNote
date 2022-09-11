@@ -109,6 +109,21 @@
       "type": "file",
       "title": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
+      "type": "file",
+      "title": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
+    },
+    {
+      "type": "file",
+      "title": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "type": "file",
+      "title": "Obsidian概述",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
     }
   ]
 }

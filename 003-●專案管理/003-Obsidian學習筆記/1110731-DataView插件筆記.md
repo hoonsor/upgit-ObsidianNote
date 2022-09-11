@@ -122,7 +122,7 @@ table file.ctime as 建檔時間 from ""
 where contains(file.name, "111072")
 sort ASC
 ```
-#### 2.4.2. 列出檔名包含 1110731 的 table，並且將tag欄位使用 flatten 方式呈現
+#### 2.4.2. 列出檔名包含 1110731 的 table，並且將tags欄位使用 flatten 方式呈現
 
 ````
 ```dataview

@@ -446,5 +446,14 @@
       "key": "A"
     }
   ],
-  "obsidian-reminder-plugin:toggle-checklist-status": []
+  "obsidian-reminder-plugin:toggle-checklist-status": [],
+  "markdown-table-editor:markdown-table-editor-open-horizontal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ]
 }
