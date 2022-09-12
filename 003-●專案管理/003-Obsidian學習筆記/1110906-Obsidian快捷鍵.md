@@ -10,7 +10,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Tuesday, September 6th 2022, 10:24:11 pm
-modified: Sunday, September 11th 2022, 10:21:44 pm
+modified: Monday, September 12th 2022, 9:07:15 pm
 ---
 # 1110906-Obsidian 快捷鍵
 
@@ -44,12 +44,12 @@ cMenu 顯示/隱藏	ctrl+alt+shift+Z
 減少選取標題之 level	ctrl+shift+-
 移除所有格式	ctrl+alt+0
 打開連結視圖	ctrl+G
-回到上一則筆記（瀏覽紀錄）	ctrl+shift+1
-前往下一則筆記（瀏覽記錄）	ctrl+shift+2
+回到上一則筆記（瀏覽紀錄）	ctrl+PageUp
+前往下一則筆記（瀏覽記錄）	ctrl+PageDown
 幫助	F1
 打開設定	ctrl+,
-切換至同視窗下一個 pane	ctrl+PageDown
-切換至同視窗上一個 pane	ctrl+PageUp
+切換至同視窗上一個 pane	ctrl+alt+PageUp
+切換至同視窗下一個 pane	ctrl+alt+PageDown
 將本項目（包含子項目）往上移動一行/層	ctrl+shift+↑
 將本項目（包含子項目）往下移動一行/層	ctrl+shift+↓
 Marco-Advanced URI	alt+W
@@ -89,12 +89,12 @@ Run QuickAdd	ctrl+Q
 |   減少選取標題之 level         |   ctrl+shift+-                   |
 |   移除所有格式                |   ctrl+alt+0                     |
 |   打開連結視圖                |   ctrl+G                         |
-|   回到上一則筆記（瀏覽紀錄）         |   ctrl+shift+1                   |
-|   前往下一則筆記（瀏覽記錄）         |   ctrl+shift+2                   |
+|   回到上一則筆記（瀏覽紀錄）         |   ctrl+PageUp                   |
+|   前往下一則筆記（瀏覽記錄）         |   ctrl+PageDown                   |
 |   幫助                    |   F1                             |
 |   打開設定                  |   ctrl+\,                        |
-|   切換至同視窗下一個 pane             |   ctrl+PageDown              |
-|   切換至同視窗上一個 pane             |   ctrl+PageUp                |
+|   切換至同視窗上一個 pane             |   ctrl+alt+PageUp                |
+|   切換至同視窗下一個 pane             |   ctrl+alt+PageDown              |
 |   將本項目（包含子項目）往上移動一行/層   |   ctrl+shift+↑                   |
 |   將本項目（包含子項目）往下移動一行/層   |   ctrl+shift+↓                   |
 |   Marco-Advanced URI    |   alt+W                          |
