@@ -4,66 +4,26 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "3b87f3ea9ab52f7d",
-=======
-        "id": "63b488520ee5c9e0",
->>>>>>> origin/main
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-<<<<<<< HEAD
               "leaf": "3b87f3ea9ab52f7d",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
-=======
-              "leaf": "63b488520ee5c9e0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-12_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":48},\"to\":{\"line\":27,\"ch\":48}},\"scroll\":13.860405748864444}"
-            },
-            {
-              "leaf": "63b488520ee5c9e0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-11_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":5},\"to\":{\"line\":33,\"ch\":5}},\"scroll\":32.19991741758405}"
-            },
-            {
-              "leaf": "63b488520ee5c9e0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":8.733333333333333}"
-            },
-            {
-              "leaf": "63b488520ee5c9e0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-10_Sat.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":10},\"to\":{\"line\":28,\"ch\":10}},\"scroll\":0}"
-            },
-            {
-              "leaf": "63b488520ee5c9e0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":0},\"to\":{\"line\":66,\"ch\":0}},\"scroll\":23.616249923706054}"
->>>>>>> origin/main
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-<<<<<<< HEAD
-          "type": "empty",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-09-12_Mon.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
->>>>>>> origin/main
         }
       }
     ],
@@ -111,22 +71,20 @@
                 "sortOrder": "alphabetical"
               }
             }
-<<<<<<< HEAD
-          },
-=======
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "6f59fa83aadd5d4c",
+        "id": "0dae351df8d96039",
         "type": "tabs",
-        "dimension": 49.33234421364986,
         "children": [
->>>>>>> origin/main
           {
             "id": "66d569e8194d9369",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "starred",
               "state": {}
@@ -136,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 188
   },
   "right": {
     "id": "e34ce482714cf128",
@@ -164,10 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "006-DailyNote/2022-09-12_Mon.md",
->>>>>>> origin/main
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,34 +136,10 @@
           {
             "id": "72b00fe9a3b1cfc6",
             "type": "leaf",
-<<<<<<< HEAD
             "state": {
               "type": "outgoing-link",
               "state": {
-=======
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "006-DailyNote/2022-09-12_Mon.md"
-              }
-            }
-          },
-          {
-            "id": "95b42c6ce66892a2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "006-DailyNote/2022-09-12_Mon.md",
->>>>>>> origin/main
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,9 +161,49 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md"
+              }
+            }
+          },
+          {
+            "id": "f771ac5a87bc988d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           },
+          {
+            "id": "e82830cbb2d103fd",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6a6acf47fb366c9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1303ff258592626e",
+        "type": "tabs",
+        "children": [
           {
             "id": "a0d4fa0fba50b150",
             "type": "leaf",
@@ -240,70 +211,14 @@
               "type": "reminder-list",
               "state": {}
             }
-          },
-          {
-            "id": "f771ac5a87bc988d",
-            "type": "leaf",
-            "state": {
-<<<<<<< HEAD
-              "type": "git-view",
-              "state": {}
-=======
-              "type": "localgraph",
-              "state": {
-                "file": "006-DailyNote/2022-09-12_Mon.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.184053587375208,
-                  "close": false
-                }
-              }
->>>>>>> origin/main
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "3b87f3ea9ab52f7d",
+  "active": "a6a6acf47fb366c9",
   "lastOpenFiles": []
-=======
-  "active": "63b488520ee5c9e0",
-  "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
-    "006-DailyNote/2022-09-12_Mon.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "006-DailyNote/2022-09-11_Sun.md"
-  ]
->>>>>>> origin/main
 }
