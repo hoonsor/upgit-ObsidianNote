@@ -11,19 +11,17 @@
   "app:go-back": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "1"
+      "key": "PageUp"
     }
   ],
   "app:go-forward": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "2"
+      "key": "PageDown"
     }
   ],
   "editor:insert-link": [
@@ -454,6 +452,24 @@
         "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "pane-relief:go-next": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "pane-relief:go-prev": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "PageDown"
     }
   ]
 }
