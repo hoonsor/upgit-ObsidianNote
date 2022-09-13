@@ -13,7 +13,7 @@
               "leaf": "051ac3b2965c6b2b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-13_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":12.443573764589734}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.443573764589734}"
             }
           ]
         },
@@ -21,29 +21,6 @@
           "type": "markdown",
           "state": {
             "file": "006-DailyNote/2022-09-13_Tue.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "820e4b5b45a4c665",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "820e4b5b45a4c665",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -194,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-09-13_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "006-DailyNote/2022-09-13_Tue.md"
               }
             }
           },
@@ -229,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-09-13_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-09-13_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,11 +313,11 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "820e4b5b45a4c665",
+  "active": "051ac3b2965c6b2b",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-09-13_Tue.md",
     "004-●日常生活/●日常生活紀錄.md",
-    "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-09-12_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
