@@ -13,7 +13,7 @@
               "leaf": "051ac3b2965c6b2b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-14_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":33},\"to\":{\"line\":51,\"ch\":33}},\"scroll\":25.16737001751541}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "051ac3b2965c6b2b",
@@ -319,7 +319,7 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "051ac3b2965c6b2b",
+  "active": "fe3c39a4541e59bd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-09-14_Wed.md",
