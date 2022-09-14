@@ -10,7 +10,17 @@
           "pos": 0,
           "stack": [
             {
+<<<<<<< HEAD
               "leaf": "051ac3b2965c6b2b",
+=======
+              "leaf": "53f35529d90b60cd",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "53f35529d90b60cd",
+>>>>>>> origin/main
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-14_Wed.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
