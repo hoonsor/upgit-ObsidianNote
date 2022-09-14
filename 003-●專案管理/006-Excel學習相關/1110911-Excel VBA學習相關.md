@@ -10,7 +10,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Monday, September 12th 2022, 8:56:04 pm
+modified: Wednesday, September 14th 2022, 8:35:35 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -139,7 +139,7 @@ Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roa
 - 新郵件.To = "hoonsor@hotmail.com"
 #### 4.4.4. CC：設定副本收件人
 - 新郵件.CC = "hoonsor@gmail.com"
-#### 4.4.5. Attachments：新增附件
+#### 4.4.5. Attachments.Add()：新增附件
 - 新郵件.Attachments.Add (``"D:\02- 學習\03-Obsidian\Hoonsor\003-●專案管理\006-Excel 學習相關\●練習範例檔\Excel 54\王小明.pdf"``)
 - 新郵件.Attachments.Add Cells(2,5).value
 #### 4.4.6. HTMLBody：信件內容
