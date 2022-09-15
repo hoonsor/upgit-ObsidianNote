@@ -10,7 +10,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Wednesday, September 14th 2022, 8:35:35 pm
+modified: Thursday, September 15th 2022, 9:13:23 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -37,9 +37,10 @@ modified: Wednesday, September 14th 2022, 8:35:35 pm
 			- [[#4.4.2. subject：設定主旨|4.4.2. subject：設定主旨]]
 			- [[#4.4.3. to：設定收件人|4.4.3. to：設定收件人]]
 			- [[#4.4.4. CC：設定副本收件人|4.4.4. CC：設定副本收件人]]
-			- [[#4.4.5. Attachments：新增附件|4.4.5. Attachments：新增附件]]
+			- [[#4.4.5. Attachments.Add()：新增附件|4.4.5. Attachments.Add()：新增附件]]
 			- [[#4.4.6. HTMLBody：信件內容|4.4.6. HTMLBody：信件內容]]
 			- [[#4.4.7. close olsave：儲存於草稿匣|4.4.7. close olsave：儲存於草稿匣]]
+			- [[#4.4.8. Send：寄送郵件|4.4.8. Send：寄送郵件]]
 	- [[#5. 錯誤視窗|5. 錯誤視窗]]
 
 ## 1. 基本注意事項
@@ -147,6 +148,9 @@ Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roa
 
 #### 4.4.7. close olsave：儲存於草稿匣
 - 新郵件.close olSave
+
+#### 4.4.8. Send：寄送郵件
+- 新郵件.send
 
 
 ## 5. 錯誤視窗
