@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8b4da883c79f3f27",
+        "id": "3cabf6bcce839ae8",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8b4da883c79f3f27",
+              "leaf": "3cabf6bcce839ae8",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-15_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8b4da883c79f3f27",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-14_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8b4da883c79f3f27",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/004-遊戲相關/XGPU遊戲下載.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":165.5706548276155}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-09-15_Thu.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4da1558a37506296",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "4da1558a37506296",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":35},\"to\":{\"line\":72,\"ch\":35}},\"scroll\":47.92481999971838}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-            "mode": "source",
+            "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -206,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-09-15_Thu.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-09-15_Thu.md"
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
               }
             }
           },
@@ -241,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-09-15_Thu.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-09-15_Thu.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,12 +311,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
-  "active": "8b4da883c79f3f27",
+  "active": "3cabf6bcce839ae8",
   "lastOpenFiles": [
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "006-DailyNote/2022-09-15_Thu.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
     "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md",

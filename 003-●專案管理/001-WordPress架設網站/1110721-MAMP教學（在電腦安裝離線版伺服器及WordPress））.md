@@ -203,4 +203,4 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 	- 帳號：hoonsor002
 	- 密碼：dmuharwf
 - WordPress 後台網址
-	- http://localhost:80/hoonsor_offline/wp-admin/
+	- [http://localhost:80/hoonsor_offline/wp-admin/](http://localhost:80/hoonsor_offline/wp-admin/)
