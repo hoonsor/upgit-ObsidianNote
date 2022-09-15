@@ -12,16 +12,22 @@
             {
               "leaf": "3cabf6bcce839ae8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.7246376535166865}"
+            },
+            {
+              "leaf": "3cabf6bcce839ae8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":165.5706548276155}"
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
-            "mode": "preview",
+            "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -171,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
               }
             }
           },
@@ -206,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,6 +322,7 @@
   },
   "active": "3cabf6bcce839ae8",
   "lastOpenFiles": [
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
     "006-DailyNote/2022-09-15_Thu.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
@@ -324,7 +331,6 @@
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "006-DailyNote/2022-09-14_Wed.md"
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
   ]
 }

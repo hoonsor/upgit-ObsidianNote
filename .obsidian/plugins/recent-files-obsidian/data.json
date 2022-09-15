@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "●子彈筆記",
       "path": "●子彈筆記.md"
-    },
-    {
-      "basename": "1110813-Thinkorswim軟體介面大綱",
-      "path": "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
     }
   ],
   "omittedPaths": [],
