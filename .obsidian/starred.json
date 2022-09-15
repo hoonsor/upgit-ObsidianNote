@@ -52,6 +52,11 @@
     },
     {
       "type": "file",
+      "title": "XGPU遊戲下載",
+      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
+    },
+    {
+      "type": "file",
       "title": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
@@ -129,11 +134,6 @@
       "type": "file",
       "title": "Obsidian概述",
       "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
-    },
-    {
-      "type": "file",
-      "title": "XGPU雙人遊戲下載",
-      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
     }
   ]
 }
