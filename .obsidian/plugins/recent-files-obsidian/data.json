@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-09-16_Fri",
+      "path": "006-DailyNote/2022-09-16_Fri.md"
+    },
+    {
       "basename": "2022-09-15_Thu",
       "path": "006-DailyNote/2022-09-15_Thu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AHK-概述",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
-    },
-    {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
     }
   ],
   "omittedPaths": [],
