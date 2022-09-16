@@ -5,8 +5,8 @@
       "path": "006-DailyNote/2022-09-16_Fri.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "2022-09-08_Thu",
+      "path": "006-DailyNote/2022-09-08_Thu.md"
     },
     {
       "basename": "2022-09-15_Thu",
@@ -195,10 +195,6 @@
     {
       "basename": "正則表達式",
       "path": "004-●日常生活/003-電腦知識/正則表達式.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
     }
   ],
   "omittedPaths": [],
