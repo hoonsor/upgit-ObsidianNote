@@ -12,8 +12,14 @@
             {
               "leaf": "3cabf6bcce839ae8",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-16_Fri.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "3cabf6bcce839ae8",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":16.048148091634115}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":18},\"to\":{\"line\":29,\"ch\":18}},\"scroll\":11.821548770172427}"
             },
             {
               "leaf": "3cabf6bcce839ae8",
@@ -56,7 +62,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
+            "file": "006-DailyNote/2022-09-16_Fri.md",
             "mode": "source",
             "source": false
           }
@@ -207,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-09-16_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "006-DailyNote/2022-09-16_Fri.md"
               }
             }
           },
@@ -242,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-09-16_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-09-16_Fri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,11 +353,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "active": "3cabf6bcce839ae8",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-09-16_Fri.md",
     "006-DailyNote/2022-09-08_Thu.md",
     "conflict-files-obsidian-git.md",
@@ -360,7 +366,6 @@
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
-    "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
+    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
   ]
 }
