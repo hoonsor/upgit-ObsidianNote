@@ -4,22 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cff88f805262fae9",
+        "id": "d16a0e90b7b4ee6b",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "cff88f805262fae9",
+              "leaf": "d16a0e90b7b4ee6b",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":235,\"ch\":0},\"to\":{\"line\":235,\"ch\":0}},\"scroll\":200.85714285714286}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "005-工作相關/●工作待辦事項.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -167,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +191,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md"
+              }
             }
           },
           {
@@ -199,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,6 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,19 +311,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
-  "active": "cff88f805262fae9",
+  "active": "d16a0e90b7b4ee6b",
   "lastOpenFiles": [
+    "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md",
+    "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-09-17_Sat.md",
+    "006-DailyNote/2022-09-10_Sat.md",
     "006-DailyNote/2022-09-16_Fri.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-09-08_Thu.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-09-15_Thu.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
   ]
 }
