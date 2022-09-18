@@ -10,7 +10,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Thursday, September 15th 2022, 9:13:23 pm
+modified: Sunday, September 18th 2022, 10:41:40 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -41,7 +41,7 @@ modified: Thursday, September 15th 2022, 9:13:23 pm
 			- [[#4.4.6. HTMLBody：信件內容|4.4.6. HTMLBody：信件內容]]
 			- [[#4.4.7. close olsave：儲存於草稿匣|4.4.7. close olsave：儲存於草稿匣]]
 			- [[#4.4.8. Send：寄送郵件|4.4.8. Send：寄送郵件]]
-	- [[#5. 錯誤視窗|5. 錯誤視窗]]
+	- [[#5. 小技巧|5. 小技巧]]
 
 ## 1. 基本注意事項
 - String 使用時一定要前後加上雙引號
@@ -153,6 +153,8 @@ Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roa
 - 新郵件.send
 
 
-## 5. 錯誤視窗
+## 5. 小技巧
 
 > ExcelTips:: Excel VBA 在執行時出現「編譯錯誤：使用者自訂型態尚未定義」，代表變數類型尚未定義，可能是沒有設定引用對應的 Library，至 (上方選單) 工具→設定引用項目→勾選對應變數的 Library 應該就可以解決了
+
+> ExcelTips:: 物件一定要使用 Set 去賦值，不然會出現編譯錯誤
