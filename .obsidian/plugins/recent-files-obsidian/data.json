@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-09-18_Sun",
+      "path": "006-DailyNote/2022-09-18_Sun.md"
+    },
+    {
+      "basename": "2022-09-17_Sat",
+      "path": "006-DailyNote/2022-09-17_Sat.md"
+    },
+    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "獨立樂團",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
-    },
-    {
-      "basename": "2022-09-17_Sat",
-      "path": "006-DailyNote/2022-09-17_Sat.md"
     },
     {
       "basename": "2022-09-10_Sat",
@@ -195,10 +199,6 @@
     {
       "basename": "建構程式語言快捷查詢方式",
       "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
-    },
-    {
-      "basename": "正則表達式",
-      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
     }
   ],
   "omittedPaths": [],
