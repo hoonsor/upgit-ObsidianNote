@@ -1,70 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "2022-09-19_Mon",
-      "path": "006-DailyNote/2022-09-19_Mon.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "1110904-Excel比對找尋資料",
-      "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
-    },
-    {
-      "basename": "Template-Travel",
-      "path": "001-Template/Template-Travel.md"
-    },
-    {
-      "basename": "Template-SubItem",
-      "path": "001-Template/Template-SubItem.md"
-    },
-    {
-      "basename": "Template-Excel",
-      "path": "001-Template/Template-Excel.md"
-    },
-    {
-      "basename": "1110911-Excel快速合併寄送郵件",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "2022-09-18_Sun",
-      "path": "006-DailyNote/2022-09-18_Sun.md"
-    },
-    {
-      "basename": "2022-09-17_Sat",
-      "path": "006-DailyNote/2022-09-17_Sat.md"
-    },
-    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
@@ -73,28 +9,44 @@
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "獨立樂團",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
+      "basename": "2022-09-19_Mon",
+      "path": "006-DailyNote/2022-09-19_Mon.md"
     },
     {
-      "basename": "2022-09-10_Sat",
-      "path": "006-DailyNote/2022-09-10_Sat.md"
+      "basename": "2022-09-18_Sun",
+      "path": "006-DailyNote/2022-09-18_Sun.md"
     },
     {
       "basename": "2022-09-16_Fri",
       "path": "006-DailyNote/2022-09-16_Fri.md"
     },
     {
-      "basename": "2022-09-08_Thu",
-      "path": "006-DailyNote/2022-09-08_Thu.md"
-    },
-    {
       "basename": "2022-09-15_Thu",
       "path": "006-DailyNote/2022-09-15_Thu.md"
     },
     {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
       "basename": "AHK-GUI控件相關",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
     {
       "basename": "2022-09-14_Wed",
@@ -129,6 +81,14 @@
       "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
     },
     {
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "1110904-Excel比對找尋資料",
+      "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
+    },
+    {
       "basename": "1110821-手機錄影技巧",
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md"
     },
@@ -149,12 +109,24 @@
       "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
     },
     {
+      "basename": "2022-09-10_Sat",
+      "path": "006-DailyNote/2022-09-10_Sat.md"
+    },
+    {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
     {
       "basename": "!dict",
       "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     },
     {
       "basename": "歌手",
@@ -199,6 +171,30 @@
     {
       "basename": "VX3211-4k-mhd相關注意事項",
       "path": "004-●日常生活/003-電腦知識/VX3211-4k-mhd相關注意事項.md"
+    },
+    {
+      "basename": "Secure Shell（SSH）",
+      "path": "004-●日常生活/003-電腦知識/Secure Shell（SSH）.md"
+    },
+    {
+      "basename": "Port（通訊埠）",
+      "path": "004-●日常生活/003-電腦知識/Port（通訊埠）.md"
+    },
+    {
+      "basename": "電腦疑難雜症",
+      "path": "004-●日常生活/003-電腦知識/電腦疑難雜症.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "建構程式語言快捷查詢方式",
+      "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
     }
   ],
   "omittedPaths": [],
