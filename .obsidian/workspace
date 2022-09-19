@@ -4,74 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fe55545859c8d537",
+        "id": "d2bb37d4661e48a7",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "fe55545859c8d537",
+              "leaf": "d2bb37d4661e48a7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-16_Fri.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-15_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":11},\"to\":{\"line\":48,\"ch\":11}},\"scroll\":18.48471615720524}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-16_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.444573130377233}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-15_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-16_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":10},\"to\":{\"line\":21,\"ch\":10}},\"scroll\":17.17576318223867}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":88.4869029275809}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":18},\"to\":{\"line\":53,\"ch\":35}},\"scroll\":43.76010101010101}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":101.86363636363636}"
-            },
-            {
-              "leaf": "fe55545859c8d537",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-16_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.811879549966909}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "006-DailyNote/2022-09-16_Fri.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -219,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-09-16_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,9 +186,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "006-DailyNote/2022-09-16_Fri.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-09-16_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +270,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-09-16_Fri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -361,10 +304,10 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "fe55545859c8d537",
+  "active": "d2bb37d4661e48a7",
   "lastOpenFiles": [
-    "006-DailyNote/2022-09-15_Thu.md",
     "006-DailyNote/2022-09-16_Fri.md",
+    "006-DailyNote/2022-09-15_Thu.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
