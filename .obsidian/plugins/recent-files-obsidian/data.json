@@ -5,16 +5,24 @@
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "2022-09-19_Mon",
+      "path": "006-DailyNote/2022-09-19_Mon.md"
+    },
+    {
+      "basename": "2022-09-18_Sun",
+      "path": "006-DailyNote/2022-09-18_Sun.md"
+    },
+    {
       "basename": "2022-09-16_Fri",
       "path": "006-DailyNote/2022-09-16_Fri.md"
     },
     {
       "basename": "2022-09-15_Thu",
       "path": "006-DailyNote/2022-09-15_Thu.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "WordPress學習及筆記",
@@ -191,14 +199,6 @@
     {
       "basename": "正則表達式",
       "path": "004-●日常生活/003-電腦知識/正則表達式.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
-    },
-    {
-      "basename": "AHK-概述",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
     }
   ],
   "omittedPaths": [],
