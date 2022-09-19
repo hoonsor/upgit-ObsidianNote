@@ -1,52 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-09-18_Sun",
-      "path": "006-DailyNote/2022-09-18_Sun.md"
-    },
-    {
-      "basename": "1110911-Excel快速合併寄送郵件",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "2022-09-17_Sat",
-      "path": "006-DailyNote/2022-09-17_Sat.md"
-    },
-    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
-      "basename": "獨立樂團",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
-    },
-    {
-      "basename": "2022-09-10_Sat",
-      "path": "006-DailyNote/2022-09-10_Sat.md"
     },
     {
       "basename": "2022-09-16_Fri",
       "path": "006-DailyNote/2022-09-16_Fri.md"
     },
     {
-      "basename": "2022-09-08_Thu",
-      "path": "006-DailyNote/2022-09-08_Thu.md"
-    },
-    {
       "basename": "2022-09-15_Thu",
       "path": "006-DailyNote/2022-09-15_Thu.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "WordPress學習及筆記",
@@ -63,6 +31,18 @@
     {
       "basename": "AHK-GUI控件相關",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
     {
       "basename": "2022-09-14_Wed",
@@ -125,6 +105,10 @@
       "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
     },
     {
+      "basename": "2022-09-10_Sat",
+      "path": "006-DailyNote/2022-09-10_Sat.md"
+    },
+    {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
@@ -135,6 +119,10 @@
     {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     },
     {
       "basename": "歌手",
@@ -199,6 +187,18 @@
     {
       "basename": "建構程式語言快捷查詢方式",
       "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
+    },
+    {
+      "basename": "UniversalNote",
+      "path": "001-Template/UniversalNote.md"
+    },
+    {
+      "basename": "AHK-概述",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
     }
   ],
   "omittedPaths": [],
