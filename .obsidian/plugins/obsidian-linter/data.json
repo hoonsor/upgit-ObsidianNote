@@ -157,7 +157,9 @@
   },
   "lintOnSave": true,
   "displayChanged": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "001-Template"
+  ],
   "linterLocale": "system-default",
   "logLevel": 4
 }
