@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd6486518987df3",
+        "id": "2fb5e2785b115c39",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "2bd6486518987df3",
+              "leaf": "2fb5e2785b115c39",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":67.81018004238595}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
+            "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
             "mode": "source",
             "source": false
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,17 +314,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "2bd6486518987df3",
+  "active": "2fb5e2785b115c39",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-09-20_Tue.md",
-    "006-DailyNote/2022-09-19_Mon.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "006-DailyNote/2022-09-20_Tue.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md",
+    "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-09-19_Mon.md",
     "001-Template/Daily Note Template.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
   ]
 }

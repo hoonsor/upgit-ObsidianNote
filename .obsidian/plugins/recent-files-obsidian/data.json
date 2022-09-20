@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
       "basename": "2022-09-20_Tue",
       "path": "006-DailyNote/2022-09-20_Tue.md"
     },
     {
-      "basename": "2022-09-19_Mon",
-      "path": "006-DailyNote/2022-09-19_Mon.md"
+      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
     },
     {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "2022-09-19_Mon",
+      "path": "006-DailyNote/2022-09-19_Mon.md"
     },
     {
       "basename": "Daily Note Template",
@@ -195,10 +199,6 @@
     {
       "basename": "建構程式語言快捷查詢方式",
       "path": "004-●日常生活/003-電腦知識/建構程式語言快捷查詢方式.md"
-    },
-    {
-      "basename": "正則表達式",
-      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
     }
   ],
   "omittedPaths": [],
