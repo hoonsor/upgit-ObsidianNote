@@ -1,19 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-09-20_Tue.md": [
-      {
-        "title": "[[004-●日常生活/005-健康知識/1110717-能量運動指南]]",
-        "time": "2022-09-20 20:55",
-        "rowNumber": 41
-      },
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-09-20 21:30",
-        "rowNumber": 49
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
