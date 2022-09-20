@@ -12,14 +12,18 @@
             {
               "leaf": "1d5e2eb0ccc30ef3",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-20_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "006-DailyNote/2022-09-20_Tue.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -167,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "006-DailyNote/2022-09-20_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +191,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "006-DailyNote/2022-09-20_Tue.md"
+              }
             }
           },
           {
@@ -199,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "006-DailyNote/2022-09-20_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,6 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "006-DailyNote/2022-09-20_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,8 +311,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "active": "1d5e2eb0ccc30ef3",
   "lastOpenFiles": [
