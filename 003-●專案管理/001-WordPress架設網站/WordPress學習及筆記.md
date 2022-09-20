@@ -2,8 +2,9 @@
 parent: 
 sibling: 
 child: 
+obsidianUIMode: preview
 created: Sunday, July 31st 2022, 9:47:59 pm
-modified: Thursday, September 15th 2022, 11:28:23 pm
+modified: Tuesday, September 20th 2022, 8:51:08 pm
 ---
 [[●專案管理]]
 # WordPress 學習及筆記 ^toc
@@ -65,14 +66,13 @@ modified: Thursday, September 15th 2022, 11:28:23 pm
 			- [[#1.10.2. 新增使用者|1.10.2. 新增使用者]]
 			- [[#1.10.3. 個人資料|1.10.3. 個人資料]]
 		- [[#1.11. 工具|1.11. 工具]]
-			- [[#1.11.1. 可用程式|1.11.1. 可用程式]]
+			- [[#1.11.1. 可用工具|1.11.1. 可用工具]]
 			- [[#1.11.2. 匯入程式|1.11.2. 匯入程式]]
 			- [[#1.11.3. 匯出程式|1.11.3. 匯出程式]]
 			- [[#1.11.4. 網站狀態|1.11.4. 網站狀態]]
-			- [[#1.11.5. 匯入個人資料|1.11.5. 匯入個人資料]]
-			- [[#1.11.6. 匯出個人資料|1.11.6. 匯出個人資料]]
-			- [[#1.11.7. 清除個人資料|1.11.7. 清除個人資料]]
-			- [[#1.11.8. 匯入翻譯|1.11.8. 匯入翻譯]]
+			- [[#1.11.5. 匯出個人資料|1.11.5. 匯出個人資料]]
+			- [[#1.11.6. 清除個人資料|1.11.6. 清除個人資料]]
+			- [[#1.11.7. 匯入翻譯|1.11.7. 匯入翻譯]]
 		- [[#1.12. 設定|1.12. 設定]]
 			- [[#1.12.1. 一般|1.12.1. 一般]]
 			- [[#1.12.2. 寫作|1.12.2. 寫作]]
@@ -84,6 +84,11 @@ modified: Thursday, September 15th 2022, 11:28:23 pm
 			- [[#1.12.8. Spectra|1.12.8. Spectra]]
 			- [[#1.12.9. UABB|1.12.9. UABB]]
 			- [[#1.12.10. Beaver Builder|1.12.10. Beaver Builder]]
+		- [[#1.13. Gutenberg|1.13. Gutenberg]]
+			- [[#1.13.1. 示範內容|1.13.1. 示範內容]]
+			- [[#1.13.2. 技術支援|1.13.2. 技術支援]]
+			- [[#1.13.3. 線上說明|1.13.3. 線上說明]]
+			- [[#1.13.4. 實驗性功能|1.13.4. 實驗性功能]]
 	- [[#2. 提示|2. 提示]]
 		- [[#2.1. 雜筆記|2.1. 雜筆記]]
 
@@ -93,91 +98,262 @@ modified: Thursday, September 15th 2022, 11:28:23 pm
 
 ### 1.1. 控制台
 #### 1.1.1. 首頁
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675589.png)
+
 #### 1.1.2. 更新
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675611.png)
+
 ### 1.2. 文章
 #### 1.2.1. 全部文章
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675636.png)
+
 #### 1.2.2. 新增文章
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675659.png)
+
 #### 1.2.3. 分類
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675677.png)
+
 #### 1.2.4. 標籤
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675694.png)
+
 ### 1.3. 媒體
 #### 1.3.1. 媒體庫
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675715.png)
+
 #### 1.3.2. 新增媒體
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675730.png)
 
 ### 1.4. 頁面
 #### 1.4.1. 全部頁面
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675747.png)
+
 #### 1.4.2. 新增頁面
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675765.png)
 
 ### 1.5. 留言
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675825.png)
 
 ### 1.6. WP Portfolio
 #### 1.6.1. All Portfolio Items
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675844.png)
+
 #### 1.6.2. Add New
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675863.png)
+
 #### 1.6.3. Categories
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675879.png)
+
 #### 1.6.4. Other Categories
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675892.png)
+
 #### 1.6.5. Tags
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675905.png)
+
 #### 1.6.6. Settings
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675918.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675930.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675944.png)
 
 ### 1.7. WPForms
 #### 1.7.1. All Forms
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663675990.png)
+
 #### 1.7.2. Add New
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676009.png)
+
 #### 1.7.3. Entries
+要 PRO 版本才有此功能
 #### 1.7.4. Settings
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676049.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676068.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676082.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676100.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676114.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676128.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676140.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676154.png)
+
 #### 1.7.5. Tools
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676169.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676226.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676241.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676256.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676290.png)
+
 #### 1.7.6. Addons
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676315.png)
+
 #### 1.7.7. Analaytics
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676629.png)
+
 #### 1.7.8. SMTP
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676689.png)
+
 #### 1.7.9. About us
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676667.png)
+
+
 #### 1.7.10. Community
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676750.png)
 
 ### 1.8. 外觀
 #### 1.8.1. 佈景主題
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676778.png)
+
 #### 1.8.2. 自訂
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676800.png)
+
 #### 1.8.3. 小工具
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676827.png)
+
 #### 1.8.4. 選單
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676845.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676862.png)
+
 #### 1.8.5. Starter Templates
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676900.png)
+
 #### 1.8.6. Astra 選項
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676953.png)
+
 ##### 1.8.6.1. 自訂版面配置
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676970.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663676984.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677032.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677042.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677054.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677068.png)
+
 ##### 1.8.6.2. 頁面頁首
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677088.png)
+
 ##### 1.8.6.3. Custom Fonts
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677169.png)
+
 ##### 1.8.6.4. Adobe Fonts
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677120.png)
+
 ##### 1.8.6.5. Sidebars
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677198.png)
+
 #### 1.8.7. 佈景主題檔案編輯器
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677225.png)
 
 ### 1.9. 外掛
 #### 1.9.1. 已安裝的外掛
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677255.png)
+
 #### 1.9.2. 安裝外掛
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677277.png)
+
 #### 1.9.3. 外掛檔案編輯器
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677295.png)
 
 ### 1.10. 使用者
 #### 1.10.1. 全部使用者
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677311.png)
+
 #### 1.10.2. 新增使用者
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677343.png)
+
 #### 1.10.3. 個人資料
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677388.png)
 
 ### 1.11. 工具
-#### 1.11.1. 可用程式
+#### 1.11.1. 可用工具
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677483.png)
+
 #### 1.11.2. 匯入程式
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677501.png)
+
 #### 1.11.3. 匯出程式
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677513.png)
+
 #### 1.11.4. 網站狀態
-#### 1.11.5. 匯入個人資料
-#### 1.11.6. 匯出個人資料
-#### 1.11.7. 清除個人資料
-#### 1.11.8. 匯入翻譯
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677539.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677554.png)
+
+#### 1.11.5. 匯出個人資料
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677571.png)
+
+#### 1.11.6. 清除個人資料
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677583.png)
+
+#### 1.11.7. 匯入翻譯
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677595.png)
 
 ### 1.12. 設定
 #### 1.12.1. 一般
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677690.png)
+
 #### 1.12.2. 寫作
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677705.png)
+
 #### 1.12.3. 閱讀
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677718.png)
+
 #### 1.12.4. 討論
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677739.png)
+
 #### 1.12.5. 媒體
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677755.png)
+
 #### 1.12.6. 永久連結
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677769.png)
+
 #### 1.12.7. 隱私權
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677783.png)
+
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677794.png)
+
 #### 1.12.8. Spectra
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677813.png)
+
 #### 1.12.9. UABB
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677825.png)
+
 #### 1.12.10. Beaver Builder
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663677839.png)
+
+
+### 1.13. Gutenberg
+#### 1.13.1. 示範內容
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663678007.png)
+
+#### 1.13.2. 技術支援
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663678025.png)
+
+#### 1.13.3. 線上說明
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663678041.png)
+
+#### 1.13.4. 實驗性功能
+![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663678057.png)
 
 ## 2. 提示
 ### 2.1. 雜筆記
-在 WordPress 內，修改介面語言會同時影響到，網站的主要目標用戶搜尋結果，所以要依照網站的主要目標用戶來設定。
+> WordPress Tips:: 在 WordPress 內，修改介面語言會同時影響到，網站的主要目標用戶搜尋結果，所以要依照網站的主要目標用戶來設定。
 
 > WordPress Tips:: 雖然在 CSS 裡，也是有關於圖片的相關設定方法的，但為何我們不提及呢?這是因為在 WordPress 裡，圖片大小是會受到 WordPress 的設定影響，假若要修改，就需要加入額外的 php 編碼，並重置一下 WordPress 的設定，才能夠讓圖片的大小，和你設定的相符。假若使用 CSS，就會出現圖片修改了，但又不符合你設定這樣的情況。這也是為何在 WordPress 的圖片，即使設定好，但也還是很難每個圖片大小都一樣的真正原因。
 
