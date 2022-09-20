@@ -4,78 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bd12cb1018378c85",
+        "id": "7b77645eb11a5751",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "bd12cb1018378c85",
+              "leaf": "7b77645eb11a5751",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-19_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":19.39300559499381}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "006-DailyNote/2022-09-19_Mon.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "392efb5542a89333",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "392efb5542a89333",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cff190fa87c7b580",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 1,
-          "stack": [
-            {
-              "leaf": "cff190fa87c7b580",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":26},\"to\":{\"line\":6,\"ch\":26}},\"scroll\":0}"
-            },
-            {
-              "leaf": "cff190fa87c7b580",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":59},\"to\":{\"line\":39,\"ch\":59}},\"scroll\":16.473956289302546}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "001-Template/Daily Note Template.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -223,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,9 +186,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-              }
+              "state": {}
             }
           },
           {
@@ -258,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +270,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -365,17 +304,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "392efb5542a89333",
+  "active": "7b77645eb11a5751",
   "lastOpenFiles": [
-    "001-Template/Daily Note Template.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "006-DailyNote/2022-09-20_Tue.md",
     "006-DailyNote/2022-09-19_Mon.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "001-Template/Daily Note Template.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
-    "001-Template/UniversalNote.md",
-    "001-Template/Template-Travel.md"
+    "001-Template/UniversalNote.md"
   ]
 }
