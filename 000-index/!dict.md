@@ -3,7 +3,7 @@ parent:
 sibling: 
 child: 
 created: Tuesday, August 9th 2022, 5:13:52 pm
-modified: Sunday, September 4th 2022, 8:48:56 pm
+modified: Wednesday, September 21st 2022, 9:36:21 pm
 ---
 # !dict
 %% https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt %%
@@ -80,13 +80,14 @@ cssClasses: +=table-lines, table-nowrap, row-alt|YAML 表格 CSS|ppp
 粗體褐紅 */#h/maroon **!END!**|粗體褐紅|-bm
 
 
-%% 其他快捷字典 Dataview自訂欄位%%
+%% 其他快捷字典 Dataview 自訂欄位%%
 Tips（DataView）*/> Tips:: !END!|Tips（DataView）|-09
 ExcelTips（DataView）*/> ExcelTips:: !END!|ExcelTips（DataView）|-09
 AHK_Tips（DataView）*/> AHK_Tips:: !END!|AHK_Tips（DataView）|-09
 AHK_Function（DataView）*/> AHK_Function:: !END!|AHK_Function（DataView）|-09
 TD_Tips（DataView）*/> TD_Tips:: !END!|TD_Tips（DataView）|-09
 OB_Tips（DataView）*/> OB_Tips:: !END!|OB_Tips（DataView）|-09
+WordPressTips（DataView）*/> WordPressTips:: !END!|WordPressTips（DataView）|-09
 
 Tips*/Tips!END!|Tips|--0
 ExcelTips*/ExcelTips!END!|ExcelTips|--0
@@ -94,9 +95,9 @@ AHK_Tips*/AHK_Tips!END!|AHK_Tips|--0
 AHK_Function*/AHK_Function!END!|AHK_Function|--0
 TD_Tips*/TD_Tips!END!|TD_Tips|--0
 OB_Tips*/OB_Tips!END!|OB_Tips|--0
+WordPressTips*/WordPressTips!END!|WordPressTips|--0
 
 %% Templater 時間函數快捷字典 %%
 時間函數（Templater）*/(@<% tp.date.now() %> !END!:)|時間函數（Templater）|-00
-多欄語法（Columns）*/- !!!col\n\t- 1\n\t\t!END!欄位內容\n\t- 1\n\t\t欄位內容|多欄語法（Columns）|-00
-
+多欄語法（Columns）*/- !!!col\n\t- 1\n\t\t!END!欄位內容\n\t- 1\n\t\t 欄位內容|多欄語法（Columns）|-00
 

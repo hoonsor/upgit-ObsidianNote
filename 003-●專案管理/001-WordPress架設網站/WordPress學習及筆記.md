@@ -4,7 +4,7 @@ sibling:
 child: 
 obsidianUIMode: preview
 created: Sunday, July 31st 2022, 9:47:59 pm
-modified: Tuesday, September 20th 2022, 8:51:08 pm
+modified: Wednesday, September 21st 2022, 9:41:34 pm
 ---
 [[●專案管理]]
 # WordPress 學習及筆記 ^toc
@@ -353,8 +353,8 @@ modified: Tuesday, September 20th 2022, 8:51:08 pm
 
 ## 2. 提示
 ### 2.1. 雜筆記
-> WordPress Tips:: 在 WordPress 內，修改介面語言會同時影響到，網站的主要目標用戶搜尋結果，所以要依照網站的主要目標用戶來設定。
+> WordPressTips:: 在 WordPress 內，修改介面語言會同時影響到，網站的主要目標用戶搜尋結果，所以要依照網站的主要目標用戶來設定。
 
-> WordPress Tips:: 雖然在 CSS 裡，也是有關於圖片的相關設定方法的，但為何我們不提及呢?這是因為在 WordPress 裡，圖片大小是會受到 WordPress 的設定影響，假若要修改，就需要加入額外的 php 編碼，並重置一下 WordPress 的設定，才能夠讓圖片的大小，和你設定的相符。假若使用 CSS，就會出現圖片修改了，但又不符合你設定這樣的情況。這也是為何在 WordPress 的圖片，即使設定好，但也還是很難每個圖片大小都一樣的真正原因。
+> WordPressTips:: 雖然在 CSS 裡，也是有關於圖片的相關設定方法的，但為何我們不提及呢?這是因為在 WordPress 裡，圖片大小是會受到 WordPress 的設定影響，假若要修改，就需要加入額外的 php 編碼，並重置一下 WordPress 的設定，才能夠讓圖片的大小，和你設定的相符。假若使用 CSS，就會出現圖片修改了，但又不符合你設定這樣的情況。這也是為何在 WordPress 的圖片，即使設定好，但也還是很難每個圖片大小都一樣的真正原因。
 
-
+> WordPressTips:: 如果想要將網站超連結的文字底線去掉的話，可以在「Astra 選項→版面配置選項→排版樣式（Customizing→排版樣式）→內容連結底線」這邊將選項關閉即可
