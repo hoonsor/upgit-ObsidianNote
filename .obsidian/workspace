@@ -13,7 +13,7 @@
               "leaf": "3939d756e7f66ce0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":21},\"to\":{\"line\":28,\"ch\":21}},\"scroll\":14.359242953978022}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":48},\"to\":{\"line\":30,\"ch\":48}},\"scroll\":14.359242953978022}"
             }
           ]
         },
@@ -27,23 +27,23 @@
         }
       },
       {
-        "id": "cb74dea1d80c9ba7",
+        "id": "8ede16ecbbf18cd5",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "cb74dea1d80c9ba7",
+              "leaf": "8ede16ecbbf18cd5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":171.13330078125}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0.96}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+            "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
             "mode": "preview",
             "source": false
           }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,17 +336,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "cb74dea1d80c9ba7",
+  "active": "8ede16ecbbf18cd5",
   "lastOpenFiles": [
     "006-DailyNote/2022-09-21_Wed.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "000-index/!dict.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md",
-    "★測試各類功能.md",
-    "●專案管理.md",
-    "conflict-files-obsidian-git.md"
+    "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
   ]
 }
