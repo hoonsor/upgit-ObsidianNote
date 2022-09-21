@@ -12,37 +12,20 @@
             {
               "leaf": "2bd6486518987df3",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":283.16117698726396}"
+            },
+            {
+              "leaf": "2bd6486518987df3",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":20.15625}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":31},\"to\":{\"line\":44,\"ch\":31}},\"scroll\":26.06389578163772}"
             },
             {
               "leaf": "2bd6486518987df3",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":32},\"to\":{\"line\":13,\"ch\":32}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "006-DailyNote/2022-09-21_Wed.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3507a28440cf7544",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "3507a28440cf7544",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":153,\"ch\":22},\"to\":{\"line\":153,\"ch\":22}},\"scroll\":55.40587823652904}"
             }
           ]
         },
@@ -340,9 +323,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
-  "active": "3507a28440cf7544",
+  "active": "2bd6486518987df3",
   "lastOpenFiles": [
     "006-DailyNote/2022-09-21_Wed.md",
     "005-工作相關/●工作待辦事項.md",
