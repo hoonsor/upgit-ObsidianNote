@@ -12,8 +12,14 @@
             {
               "leaf": "112144cafecb009b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "112144cafecb009b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":31.74388394148458}"
             },
             {
               "leaf": "112144cafecb009b",
@@ -26,9 +32,30 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-09-21_Wed.md",
+            "file": "★測試各類功能.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "e98a57835a292b0f",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e98a57835a292b0f",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "●專案管理.md"
           }
         }
       }
@@ -177,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-09-21_Wed.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-09-21_Wed.md"
+                "file": "★測試各類功能.md"
               }
             }
           },
@@ -212,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-09-21_Wed.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +311,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-09-21_Wed.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -321,15 +348,15 @@
   },
   "active": "112144cafecb009b",
   "lastOpenFiles": [
+    "006-DailyNote/2022-09-21_Wed.md",
+    "●專案管理.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-09-21_Wed.md",
     "006-DailyNote/2022-09-20_Tue.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
   ]
 }
