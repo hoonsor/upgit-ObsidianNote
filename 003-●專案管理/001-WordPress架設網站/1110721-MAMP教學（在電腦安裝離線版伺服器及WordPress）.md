@@ -1,13 +1,17 @@
 ---
+parent: 
+sibling: 
+child: 
 aliases:    
 tags: [專案筆記, 創業]
 status: 🌱
 author: 阿德 
 source: https://adersaytech.com/wordpress-teach/mamp-wordpress-tutorial.html 
 template-output: 002-Inbox
+obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 21st 2022, 7:31:28 pm
-modified: Sunday, July 31st 2022, 8:35:50 pm
+modified: Wednesday, September 21st 2022, 9:57:12 pm
 ---
 # 1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress） ^toc
 
@@ -122,7 +126,7 @@ MAMP 安裝完成後會有兩個，我們開啟「MAMP」，不是「MAMP PRO」
 
 到這邊 MAMP 的設定就大致完成了，接下來我們必須下載 WordPress 的安裝檔，[點我](https://tw.wordpress.org/download/) 前往 WordPress 下載頁面，並下載最新版本即可。
 
-下載回電腦後，把它解壓縮出來成資料夾，自己再重新命名資料夾，這個資料夾名稱請以**英文命名**，方便自己辨識即可，會等於你的網址名稱。
+下載回電腦後，把它解壓縮出來成資料夾，自己再重新命名資料夾，這個資料夾名稱請以 **英文命名**，方便自己辨識即可，會等於你的網址名稱。
 
 像是我自己就取名為「ader\_offline」，這樣在安裝完成後，我的 WordPress 後台網址會像是以下：
 
@@ -169,11 +173,11 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 
 **供應者:**
 
-*   MAMP+WordPress
+* MAMP+WordPress
 
 **使用工具:**
 
-*   MAMP,
+* MAMP,
 
 
 
@@ -196,11 +200,11 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 	- 密碼：dmuharwf
 - 下載 WordPress
 - 將資料夾解壓縮後放至 htdoc 資料夾
-	- 資料夾名稱：hoonsor_offline
+	- 資料夾名稱更改為之後離線版網址之名稱（可自訂），在此我命名為 hoonsor_offline
 - 安裝 WordPress
 - 連結資料庫（輸入資料庫名稱、帳密）
 - 建立 WordPress 使用者帳密
 	- 帳號：hoonsor002
 	- 密碼：dmuharwf
-- WordPress 後台網址
+- WordPress 後台網址（網址跟放在 htdoc 裡面的資料夾名稱有關連）
 	- [http://localhost:80/hoonsor_offline/wp-admin/](http://localhost:80/hoonsor_offline/wp-admin/)

@@ -4,48 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "112144cafecb009b",
+        "id": "3939d756e7f66ce0",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "112144cafecb009b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":360,\"ch\":0},\"to\":{\"line\":360,\"ch\":0}},\"scroll\":348.84057240532957}"
-            },
-            {
-              "leaf": "112144cafecb009b",
+              "leaf": "3939d756e7f66ce0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "112144cafecb009b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":0},\"to\":{\"line\":67,\"ch\":0}},\"scroll\":41.194553530131}"
-            },
-            {
-              "leaf": "112144cafecb009b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":31.74388394148458}"
-            },
-            {
-              "leaf": "112144cafecb009b",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-20_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":21},\"to\":{\"line\":28,\"ch\":21}},\"scroll\":14.359242953978022}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+            "file": "006-DailyNote/2022-09-21_Wed.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cb74dea1d80c9ba7",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "cb74dea1d80c9ba7",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":171.13330078125}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -195,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
               }
             }
           },
@@ -230,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -337,17 +336,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "112144cafecb009b",
+  "active": "cb74dea1d80c9ba7",
   "lastOpenFiles": [
+    "006-DailyNote/2022-09-21_Wed.md",
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "000-index/!dict.md",
     "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md",
-    "006-DailyNote/2022-09-21_Wed.md",
     "★測試各類功能.md",
     "●專案管理.md",
-    "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-09-20_Tue.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
