@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "2022-09-21_Wed",
+      "path": "006-DailyNote/2022-09-21_Wed.md"
+    },
+    {
       "basename": "2022-09-20_Tue",
       "path": "006-DailyNote/2022-09-20_Tue.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "1110906-Obsidian快捷鍵",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
       "basename": "1110814-Thinkorswim軟體學習心得",
@@ -191,14 +199,6 @@
     {
       "basename": "Port（通訊埠）",
       "path": "004-●日常生活/003-電腦知識/Port（通訊埠）.md"
-    },
-    {
-      "basename": "電腦疑難雜症",
-      "path": "004-●日常生活/003-電腦知識/電腦疑難雜症.md"
-    },
-    {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     }
   ],
   "omittedPaths": [],

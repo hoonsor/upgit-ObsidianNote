@@ -1,6 +1,89 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "006-DailyNote/2022-09-21_Wed.md": [
+      {
+        "title": "[[003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項]]",
+        "time": "2022-09-21 20:30",
+        "rowNumber": 25
+      },
+      {
+        "title": "[[003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記]]",
+        "time": "2022-09-21 20:35",
+        "rowNumber": 26
+      },
+      {
+        "title": "[[Obsidian的任務管理技巧彙總]]",
+        "time": "2022-09-21 20:38",
+        "rowNumber": 27
+      },
+      {
+        "title": "[[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]",
+        "time": "2022-09-21 20:42",
+        "rowNumber": 28
+      },
+      {
+        "title": "[[WordPress學習及筆記]]",
+        "time": "2022-09-21 20:45",
+        "rowNumber": 29
+      },
+      {
+        "title": "[[1110906-Obsidian快捷鍵]]",
+        "time": "2022-09-21 20:48",
+        "rowNumber": 30
+      },
+      {
+        "title": "[[1110911-Excel快速合併寄送郵件]]",
+        "time": "2022-09-21 20:50",
+        "rowNumber": 31
+      },
+      {
+        "title": "[[1110911-Excel VBA學習相關]]",
+        "time": "2022-09-21 20:52",
+        "rowNumber": 32
+      },
+      {
+        "title": "[[004-●日常生活/005-健康知識/1110717-能量運動指南]]",
+        "time": "2022-09-21 20:55",
+        "rowNumber": 35
+      },
+      {
+        "title": "使用呼吸訓練器",
+        "time": "2022-09-21 17:30",
+        "rowNumber": 39
+      },
+      {
+        "title": "吃維他命",
+        "time": "2022-09-21 20:00",
+        "rowNumber": 40
+      },
+      {
+        "title": "吊單槓 10 秒",
+        "time": "2022-09-21 21:03",
+        "rowNumber": 41
+      },
+      {
+        "title": "使用生髮水",
+        "time": "2022-09-21 21:05",
+        "rowNumber": 42
+      },
+      {
+        "title": "使用瘦臉器",
+        "time": "2022-09-21 21:30",
+        "rowNumber": 43
+      },
+      {
+        "title": "使用雷射帽",
+        "time": "2022-09-21 21:35",
+        "rowNumber": 44
+      },
+      {
+        "title": "電療額頭",
+        "time": "2022-09-21 21:40",
+        "rowNumber": 45
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
