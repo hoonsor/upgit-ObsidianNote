@@ -1,0 +1,20 @@
+2022-09-22 09:24:54: -- 分析開始 User Command
+2022-09-22 09:24:54: /003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md: 衝突：檔兩側都進行了改動
+2022-09-22 09:24:54: 分析完畢並發現衝突情況。請選擇正確的同步方向解決衝突，然後按一下同步
+2022-09-22 09:24:54: 變更：8， 衝突：1， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 570
+2022-09-22 09:24:54: Left to Right: Copy File: 7 
+2022-09-22 09:24:54: == 同步開始由 User Command
+2022-09-22 09:24:54: /003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress））.md: unresolved conflict results in No Copy
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md' (17,117)
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/000-index/!dict.md' -> 'P:/Obsidian/Hoonsor/000-index/!dict.md' (3,654)
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md' (10,889)
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' (21,794)
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md' (4,520)
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-21_Wed.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-21_Wed.md' (1,786)
+2022-09-22 09:24:54: 覆蓋複製 'D:/Obsidian/Hoonsor/★測試各類功能.md' -> 'P:/Obsidian/Hoonsor/★測試各類功能.md' (1,661)
+2022-09-22 09:24:54: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md
+2022-09-22 09:24:54: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/004-●日常生活/●激勵影片.md
+2022-09-22 09:24:54: Deleted Recycled: D:/Obsidian/Hoonsor/_gsdata_/_saved_/●首頁.md
+2022-09-22 09:24:54: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/004-●日常生活/002-隨手不錯的音樂紀錄
+2022-09-22 09:24:54: GsDeleteEmptyFoldersFS: /_gsdata_/_saved_/004-●日常生活
+2022-09-22 09:24:54: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 7, 錯誤: 0, Conflicts: 1
