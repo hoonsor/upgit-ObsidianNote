@@ -13,7 +13,7 @@
               "leaf": "3939d756e7f66ce0",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":157,\"ch\":6},\"to\":{\"line\":157,\"ch\":45}},\"scroll\":56.399739583333336}"
+              "eState": "{\"scroll\":53.286458333333336}"
             },
             {
               "leaf": "3939d756e7f66ce0",
@@ -347,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "active": "3939d756e7f66ce0",
   "lastOpenFiles": [
