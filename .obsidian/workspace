@@ -7,13 +7,19 @@
         "id": "fdcb92b69fdbc9e9",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "fdcb92b69fdbc9e9",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":27},\"to\":{\"line\":12,\"ch\":27}},\"scroll\":0}"
+            },
+            {
+              "leaf": "fdcb92b69fdbc9e9",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.96}"
             }
           ]
         },
@@ -27,24 +33,24 @@
         }
       },
       {
-        "id": "1f9dda6225d8b6ca",
+        "id": "c1a7c2ab1a8939c9",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "1f9dda6225d8b6ca",
+              "leaf": "c1a7c2ab1a8939c9",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-            "mode": "preview",
+            "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -194,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
               }
             }
           },
@@ -229,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +307,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,17 +342,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "1f9dda6225d8b6ca",
+  "active": "c1a7c2ab1a8939c9",
   "lastOpenFiles": [
     "006-DailyNote/2022-09-22_Thu.md",
-    "006-DailyNote/2022-09-21_Wed.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "005-工作相關/●工作待辦事項.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
+    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-09-21_Wed.md"
   ]
 }
