@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-09-22_Thu.md": [
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-09-22 21:30",
-        "rowNumber": 49
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
