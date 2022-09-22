@@ -12,8 +12,26 @@
             {
               "leaf": "3939d756e7f66ce0",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":149.8601895734597}"
+            },
+            {
+              "leaf": "3939d756e7f66ce0",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9583333333333334}"
+            },
+            {
+              "leaf": "3939d756e7f66ce0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "3939d756e7f66ce0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-22_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":10},\"to\":{\"line\":29,\"ch\":10}},\"scroll\":23.198083403538334}"
             },
             {
               "leaf": "3939d756e7f66ce0",
@@ -26,7 +44,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-09-22_Thu.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -177,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-09-22_Thu.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-09-22_Thu.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -212,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-09-22_Thu.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-09-22_Thu.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,10 +335,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "active": "3939d756e7f66ce0",
   "lastOpenFiles": [
+    "006-DailyNote/2022-09-22_Thu.md",
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-09-21_Wed.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
@@ -328,8 +349,6 @@
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "000-index/!dict.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
   ]
 }
