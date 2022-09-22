@@ -5,6 +5,10 @@
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
       "basename": "2022-09-22_Thu",
       "path": "006-DailyNote/2022-09-22_Thu.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "2022-09-18_Sun",
