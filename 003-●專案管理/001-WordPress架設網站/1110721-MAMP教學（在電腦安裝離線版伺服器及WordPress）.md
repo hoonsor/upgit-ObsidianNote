@@ -11,7 +11,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 21st 2022, 7:31:28 pm
-modified: Wednesday, September 21st 2022, 10:11:04 pm
+modified: Thursday, September 22nd 2022, 9:05:31 pm
 ---
 # 1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress） ^toc
 
@@ -194,8 +194,8 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 - Open Web Start Page
 	- Tools＼phpmyadmin＼
 - 建立資料庫（英文名稱）：
-	- 資料庫名稱：hoonsor
-- 設定 php 後台使用者帳密及權限
+	- 自訂資料庫名稱：hoonsor
+- 設定資料庫後台使用者帳密及權限
 	- 帳號：hoonsor001
 	- 密碼：dmuharwf
 - 下載 WordPress
