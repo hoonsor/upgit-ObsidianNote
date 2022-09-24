@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-09-24_Sat",
+      "path": "006-DailyNote/2022-09-24_Sat.md"
+    },
+    {
       "basename": "2022-09-23_Fri",
       "path": "006-DailyNote/2022-09-23_Fri.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VX3211-4k-mhd相關注意事項",
       "path": "004-●日常生活/003-電腦知識/VX3211-4k-mhd相關注意事項.md"
-    },
-    {
-      "basename": "Secure Shell（SSH）",
-      "path": "004-●日常生活/003-電腦知識/Secure Shell（SSH）.md"
     }
   ],
   "omittedPaths": [],
