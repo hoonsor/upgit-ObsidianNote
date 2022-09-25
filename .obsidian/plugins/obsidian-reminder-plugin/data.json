@@ -1,39 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-09-25_Sun.md": [
-      {
-        "title": "[[003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項]]",
-        "time": "2022-09-25 20:30",
-        "rowNumber": 32
-      },
-      {
-        "title": "[[003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記]]",
-        "time": "2022-09-25 20:35",
-        "rowNumber": 33
-      },
-      {
-        "title": "[[WordPress學習及筆記]]",
-        "time": "2022-09-25 20:45",
-        "rowNumber": 36
-      },
-      {
-        "title": "[[1110906-Obsidian快捷鍵]]",
-        "time": "2022-09-25 20:48",
-        "rowNumber": 37
-      },
-      {
-        "title": "[[1110911-Excel快速合併寄送郵件]]",
-        "time": "2022-09-25 20:50",
-        "rowNumber": 38
-      },
-      {
-        "title": "[[1110911-Excel VBA學習相關]]",
-        "time": "2022-09-25 20:52",
-        "rowNumber": 39
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
