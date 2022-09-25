@@ -4,29 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f8af6cd24c85a0",
+        "id": "b5df84480a59a275",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "c8f8af6cd24c85a0",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "c8f8af6cd24c85a0",
+              "leaf": "b5df84480a59a275",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-25_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":8.019211525977523}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+            "file": "006-DailyNote/2022-09-25_Sun.md",
             "mode": "source",
             "source": false
           }
@@ -177,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+                "file": "006-DailyNote/2022-09-25_Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
+                "file": "006-DailyNote/2022-09-25_Sun.md"
               }
             }
           },
@@ -212,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+                "file": "006-DailyNote/2022-09-25_Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +278,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+                "file": "006-DailyNote/2022-09-25_Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,8 +313,9 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "c8f8af6cd24c85a0",
+  "active": "b5df84480a59a275",
   "lastOpenFiles": [
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
     "006-DailyNote/2022-09-25_Sun.md",
     "006-DailyNote/2022-09-24_Sat.md",
     "006-DailyNote/2022-09-23_Fri.md",
@@ -329,7 +324,6 @@
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
   ]
 }
