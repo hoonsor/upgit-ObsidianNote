@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b5df84480a59a275",
+        "id": "11b44c0a9b9ba275",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "b5df84480a59a275",
+              "leaf": "11b44c0a9b9ba275",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-25_Sun.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "11b44c0a9b9ba275",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-26_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "11b44c0a9b9ba275",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-25_Sun.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "11b44c0a9b9ba275",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-26_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             }
           ]
         },
@@ -21,48 +39,6 @@
           "type": "markdown",
           "state": {
             "file": "006-DailyNote/2022-09-25_Sun.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "03be3996b0825985",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "03be3996b0825985",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "556ace57b0130c6c",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "556ace57b0130c6c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -213,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-09-25_Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "006-DailyNote/2022-09-25_Sun.md"
               }
             }
           },
@@ -248,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-09-25_Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +296,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-09-25_Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,17 +331,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "556ace57b0130c6c",
+  "active": "11b44c0a9b9ba275",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-09-26_Mon.md",
     "006-DailyNote/2022-09-25_Sun.md",
+    "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
-    "006-DailyNote/2022-09-24_Sat.md",
-    "006-DailyNote/2022-09-23_Fri.md"
+    "006-DailyNote/2022-09-24_Sat.md"
   ]
 }

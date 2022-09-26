@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
       "basename": "2022-09-25_Sun",
       "path": "006-DailyNote/2022-09-25_Sun.md"
+    },
+    {
+      "basename": "2022-09-26_Mon",
+      "path": "006-DailyNote/2022-09-26_Mon.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "1110906-Obsidian快捷鍵",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-04_Sun",
       "path": "006-DailyNote/2022-09-04_Sun.md"
-    },
-    {
-      "basename": "1110806-Git及Obsidian同步至手機學習",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
     }
   ],
   "omittedPaths": [],
