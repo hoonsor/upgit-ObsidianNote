@@ -4,34 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "cfc6244963172354",
+        "id": "b5df84480a59a275",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "cfc6244963172354",
+              "leaf": "b5df84480a59a275",
               "group": null,
-<<<<<<< HEAD
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-25_Sun.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-=======
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cfc6244963172354",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-26_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":16.975752508361204}"
->>>>>>> origin/main
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
+            "file": "006-DailyNote/2022-09-25_Sun.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "03be3996b0825985",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "03be3996b0825985",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "556ace57b0130c6c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "556ace57b0130c6c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -182,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -217,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,21 +355,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-<<<<<<< HEAD
-  "active": "fe3c39a4541e59bd",
-=======
-  "active": "cfc6244963172354",
->>>>>>> origin/main
+  "active": "556ace57b0130c6c",
   "lastOpenFiles": [
-    "006-DailyNote/2022-09-26_Mon.md",
-    "006-DailyNote/2022-09-23_Fri.md",
     "conflict-files-obsidian-git.md",
-    "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-09-22_Thu.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-09-21_Wed.md",
+    "006-DailyNote/2022-09-25_Sun.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+    "006-DailyNote/2022-09-24_Sat.md",
+    "006-DailyNote/2022-09-23_Fri.md"
   ]
 }
