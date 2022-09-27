@@ -4,7 +4,7 @@ sibling:
 child: 
 obsidianUIMode: preview
 created: Sunday, July 31st 2022, 9:47:59 pm
-modified: Wednesday, September 21st 2022, 9:41:34 pm
+modified: Monday, September 26th 2022, 10:21:58 pm
 ---
 [[●專案管理]]
 # WordPress 學習及筆記 ^toc
@@ -90,7 +90,9 @@ modified: Wednesday, September 21st 2022, 9:41:34 pm
 			- [[#1.13.3. 線上說明|1.13.3. 線上說明]]
 			- [[#1.13.4. 實驗性功能|1.13.4. 實驗性功能]]
 	- [[#2. 提示|2. 提示]]
-		- [[#2.1. 雜筆記|2.1. 雜筆記]]
+	- [[#3. 學習心得|3. 學習心得]]
+		- [[#3.1. 上傳字型|3.1. 上傳字型]]
+		- [[#3.2. 字型變更設定|3.2. 字型變更設定]]
 
 
 
@@ -352,9 +354,15 @@ modified: Wednesday, September 21st 2022, 9:41:34 pm
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/20/upgit_20220920_1663678057.png)
 
 ## 2. 提示
-### 2.1. 雜筆記
 > WordPressTips:: 在 WordPress 內，修改介面語言會同時影響到，網站的主要目標用戶搜尋結果，所以要依照網站的主要目標用戶來設定。
 
 > WordPressTips:: 雖然在 CSS 裡，也是有關於圖片的相關設定方法的，但為何我們不提及呢?這是因為在 WordPress 裡，圖片大小是會受到 WordPress 的設定影響，假若要修改，就需要加入額外的 php 編碼，並重置一下 WordPress 的設定，才能夠讓圖片的大小，和你設定的相符。假若使用 CSS，就會出現圖片修改了，但又不符合你設定這樣的情況。這也是為何在 WordPress 的圖片，即使設定好，但也還是很難每個圖片大小都一樣的真正原因。
 
 > WordPressTips:: 如果想要將網站超連結的文字底線去掉的話，可以在「Astra 選項→版面配置選項→排版樣式（Customizing→排版樣式）→內容連結底線」這邊將選項關閉即可
+
+## 3. 學習心得
+### 3.1. 上傳字型
+外觀→Astra 選項→Custom Fonts，在此上傳字型檔案，即可在「Customize Theme→全域→排版樣式」中看到該新增之字型選項
+
+### 3.2. 字型變更設定
+Beaver builder 頁面→WordPress Admin →Customize Theme→全域→排版樣式→基本字型或標題字型，選取自己想要呈現的字型即可
