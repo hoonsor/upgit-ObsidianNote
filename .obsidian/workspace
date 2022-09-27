@@ -31,29 +31,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "533be36ba1b35339",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "533be36ba1b35339",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -200,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-09-27_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "006-DailyNote/2022-09-27_Tue.md"
               }
             }
           },
@@ -235,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-09-27_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-09-27_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -342,10 +319,10 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "533be36ba1b35339",
+  "active": "fe3c39a4541e59bd",
   "lastOpenFiles": [
-    "006-DailyNote/2022-09-27_Tue.md",
     "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-09-27_Tue.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "006-DailyNote/2022-09-26_Mon.md",
