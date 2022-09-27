@@ -12,6 +12,12 @@
             {
               "leaf": "cfc6244963172354",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-27_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "cfc6244963172354",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
@@ -26,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
+            "file": "006-DailyNote/2022-09-27_Tue.md",
             "mode": "source",
             "source": false
           }
@@ -177,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-09-27_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "006-DailyNote/2022-09-27_Tue.md"
               }
             }
           },
@@ -212,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-09-27_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-09-27_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -321,10 +327,10 @@
   },
   "active": "cfc6244963172354",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-09-26_Mon.md",
     "006-DailyNote/2022-09-23_Fri.md",
     "conflict-files-obsidian-git.md",
-    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-09-22_Thu.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "004-●日常生活/●日常生活待辦事項.md",
