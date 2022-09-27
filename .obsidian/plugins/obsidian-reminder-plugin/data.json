@@ -1,6 +1,18 @@
 {
   "scanned": true,
   "reminders": {
+    "006-DailyNote/2022-09-26_Mon.md": [
+      {
+        "title": "使用瘦臉器",
+        "time": "2022-09-26 21:30",
+        "rowNumber": 49
+      },
+      {
+        "title": "電療額頭",
+        "time": "2022-09-26 21:40",
+        "rowNumber": 51
+      }
+    ],
     "006-DailyNote/2022-09-27_Tue.md": [
       {
         "title": "[[003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項]]",
@@ -48,39 +60,29 @@
         "rowNumber": 34
       },
       {
-        "title": "使用呼吸訓練器",
-        "time": "2022-09-27 17:30",
-        "rowNumber": 38
-      },
-      {
-        "title": "吃維他命",
-        "time": "2022-09-27 20:00",
-        "rowNumber": 39
-      },
-      {
         "title": "拔罐",
         "time": "2022-09-27 20:10",
-        "rowNumber": 40
+        "rowNumber": 39
       },
       {
         "title": "吊單槓 10 秒",
         "time": "2022-09-27 21:03",
-        "rowNumber": 41
+        "rowNumber": 40
       },
       {
         "title": "使用生髮水",
         "time": "2022-09-27 21:05",
-        "rowNumber": 42
+        "rowNumber": 41
       },
       {
         "title": "使用瘦臉器",
         "time": "2022-09-27 21:30",
-        "rowNumber": 43
+        "rowNumber": 42
       },
       {
         "title": "電療額頭",
         "time": "2022-09-27 21:40",
-        "rowNumber": 44
+        "rowNumber": 43
       }
     ]
   },
