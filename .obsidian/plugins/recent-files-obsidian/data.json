@@ -5,6 +5,10 @@
       "path": "006-DailyNote/2022-09-27_Tue.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-05_Mon",
       "path": "006-DailyNote/2022-09-05_Mon.md"
-    },
-    {
-      "basename": "2022-09-04_Sun",
-      "path": "006-DailyNote/2022-09-04_Sun.md"
     }
   ],
   "omittedPaths": [],
