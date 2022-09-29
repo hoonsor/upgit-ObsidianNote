@@ -1,0 +1,22 @@
+2022-09-29 15:26:10: -- 分析開始 User Command
+2022-09-29 15:26:10: Do Not Propagate Deletions in 2-way job is not allowed and therefore ignored, as Deletions are always propagated in 2-way jobs
+2022-09-29 15:26:10: 變更：16， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 579
+2022-09-29 15:26:10: Left to Right: Copy File: 16 
+2022-09-29 15:26:10: == 同步開始由 User Command
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md' (17,587)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md' (10,897)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md' (7,889)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md' (2,872)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md' (4,341)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' (2,021)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' (12,314)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md' (964)
+2022-09-29 15:26:10: 覆蓋複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-22_Thu.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-22_Thu.md' (1,876)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-23_Fri.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-23_Fri.md' (810)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-24_Sat.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-24_Sat.md' (624)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-25_Sun.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-25_Sun.md' (1,442)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-26_Mon.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-26_Mon.md' (1,663)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-27_Tue.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-27_Tue.md' (1,543)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-28_Wed.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-28_Wed.md' (798)
+2022-09-29 15:26:10: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-09-29_Thu.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-09-29_Thu.md' (1,533)
+2022-09-29 15:26:10: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 16, 錯誤: 0
