@@ -7,38 +7,26 @@
         "id": "d62a612b21b60087",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 3,
+          "pos": 0,
           "stack": [
             {
               "leaf": "d62a612b21b60087",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-29_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d62a612b21b60087",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-28_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.133017492711371}"
-            },
-            {
-              "leaf": "d62a612b21b60087",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-21_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.378960194963444}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "d62a612b21b60087",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.9583333333333334}"
+              "eState": "{\"scroll\":148.84123222748815}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
+            "file": "006-DailyNote/2022-09-29_Thu.md",
             "mode": "source",
             "source": false
           }
@@ -189,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-09-29_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "006-DailyNote/2022-09-29_Thu.md"
               }
             }
           },
@@ -224,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-09-29_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-09-29_Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -333,10 +321,10 @@
   },
   "active": "d62a612b21b60087",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-09-21_Wed.md",
     "006-DailyNote/2022-09-28_Wed.md",
     "006-DailyNote/2022-09-29_Thu.md",
-    "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "006-DailyNote/2022-09-27_Tue.md",
     "006-DailyNote/2022-09-26_Mon.md",
