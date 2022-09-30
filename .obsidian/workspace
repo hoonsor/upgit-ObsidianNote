@@ -4,22 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d62a612b21b60087",
+        "id": "434e0a4c31c848f5",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d62a612b21b60087",
+              "leaf": "434e0a4c31c848f5",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-29_Thu.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "d62a612b21b60087",
+              "leaf": "434e0a4c31c848f5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":148.84123222748815}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-28_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "434e0a4c31c848f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-27_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":13.704575619857906}"
+            },
+            {
+              "leaf": "434e0a4c31c848f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-26_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
@@ -319,17 +331,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "d62a612b21b60087",
+  "active": "434e0a4c31c848f5",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-09-21_Wed.md",
     "006-DailyNote/2022-09-28_Wed.md",
-    "006-DailyNote/2022-09-29_Thu.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "006-DailyNote/2022-09-27_Tue.md",
-    "006-DailyNote/2022-09-26_Mon.md",
-    "006-DailyNote/2022-09-23_Fri.md",
     "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-09-22_Thu.md"
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "006-DailyNote/2022-09-26_Mon.md",
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
   ]
 }
