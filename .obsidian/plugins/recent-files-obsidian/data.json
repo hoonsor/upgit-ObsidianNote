@@ -1,68 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "1110930-種植青花椰苗相關",
+      "path": "004-●日常生活/005-健康知識/1110930-種植青花椰苗相關.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
       "basename": "2022-09-29_Thu",
       "path": "006-DailyNote/2022-09-29_Thu.md"
+    },
+    {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "2022-09-21_Wed",
+      "path": "006-DailyNote/2022-09-21_Wed.md"
     },
     {
       "basename": "2022-09-28_Wed",
       "path": "006-DailyNote/2022-09-28_Wed.md"
     },
     {
-      "basename": "2022-09-27_Tue",
-      "path": "006-DailyNote/2022-09-27_Tue.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "2022-09-26_Mon",
-      "path": "006-DailyNote/2022-09-26_Mon.md"
-    },
-    {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "1110911-Excel快速合併寄送郵件",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
-    },
-    {
-      "basename": "2022-09-25_Sun",
-      "path": "006-DailyNote/2022-09-25_Sun.md"
-    },
-    {
       "basename": "1110731-DataView插件筆記",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
     },
     {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+      "basename": "2022-09-27_Tue",
+      "path": "006-DailyNote/2022-09-27_Tue.md"
     },
     {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "1110925-老屋翻修估價相關",
-      "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
-    },
-    {
-      "basename": "2022-09-24_Sat",
-      "path": "006-DailyNote/2022-09-24_Sat.md"
+      "basename": "2022-09-26_Mon",
+      "path": "006-DailyNote/2022-09-26_Mon.md"
     },
     {
       "basename": "2022-09-23_Fri",
@@ -73,20 +45,28 @@
       "path": "006-DailyNote/2022-09-22_Thu.md"
     },
     {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
     },
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
     },
     {
-      "basename": "2022-09-21_Wed",
-      "path": "006-DailyNote/2022-09-21_Wed.md"
+      "basename": "1110717-能量運動指南",
+      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
       "basename": "!dict",
@@ -107,6 +87,14 @@
     {
       "basename": "2022-09-20_Tue",
       "path": "006-DailyNote/2022-09-20_Tue.md"
+    },
+    {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
     },
     {
       "basename": "1110814-Thinkorswim軟體學習心得",
@@ -185,6 +173,10 @@
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     },
     {
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
       "basename": "2022-09-07_Wed",
       "path": "006-DailyNote/2022-09-07_Wed.md"
     },
@@ -199,6 +191,14 @@
     {
       "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
+    },
+    {
+      "basename": "2022-09-05_Mon",
+      "path": "006-DailyNote/2022-09-05_Mon.md"
+    },
+    {
+      "basename": "2022-09-04_Sun",
+      "path": "006-DailyNote/2022-09-04_Sun.md"
     }
   ],
   "omittedPaths": [],
