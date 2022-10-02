@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c023a7c7e3e21a57",
+        "id": "0ddb63f958a16d9b",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "c023a7c7e3e21a57",
+              "leaf": "0ddb63f958a16d9b",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -304,17 +304,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "c023a7c7e3e21a57",
+  "active": "0ddb63f958a16d9b",
   "lastOpenFiles": [
+    "001-Template/Daily Note Template.md",
+    "001-Template/Daily Note Tasks.md",
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-02_Sun.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
-    "006-DailyNote/2022-09-30_Fri.md",
-    "006-DailyNote/2022-09-29_Thu.md"
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
   ]
 }
