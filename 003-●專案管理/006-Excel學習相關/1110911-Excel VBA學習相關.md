@@ -11,14 +11,14 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Sunday, October 2nd 2022, 11:09:00 pm
+modified: Tuesday, October 4th 2022, 9:09:04 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
 - [[#1110911-Excel VBA 學習相關 ^toc|1110911-Excel VBA 學習相關]]
 	- [[#1. 基本注意事項|1. 基本注意事項]]
 	- [[#2. 思考邏輯|2. 思考邏輯]]
-		- [[#2.1. 從大到小的思考方式，WorkSheet→Range、→屬性|2.1. 從大到小的思考方式，WorkSheet→Range、→屬性]]
+		- [[#2.1. 從大到小的思考方式，WorkSheet→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheet→Range、Selection→屬性]]
 	- [[#3. 物件類型|3. 物件類型]]
 		- [[#3.1. Outlook 應用程式|3.1. Outlook 應用程式]]
 			- [[#3.1.1. Outlook 郵件|3.1.1. Outlook 郵件]]
@@ -30,6 +30,7 @@ modified: Sunday, October 2nd 2022, 11:09:00 pm
 		- [[#4.5. Replace（取代）|4.5. Replace（取代）]]
 		- [[#4.6. End（Range 物件之屬性）|4.6. End（Range 物件之屬性）]]
 		- [[#4.7. Row（Range 物件之屬性）|4.7. Row（Range 物件之屬性）]]
+		- [[#4.8. Msgbox（提示文字視窗）|4.8. Msgbox（提示文字視窗）]]
 	- [[#5. Outlook 操作相關|5. Outlook 操作相關]]
 		- [[#5.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|5.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
 		- [[#5.2. 定義及設定郵件物件變數（MailItem）|5.2. 定義及設定郵件物件變數（MailItem）]]
@@ -129,6 +130,10 @@ Next 月份
 
 > [!INFO]+ 資訊
 > [Range.Row 屬性 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.row)
+
+### 4.8. Msgbox（提示文字視窗）
+%% 會跳出一個提示視窗並顯示自訂之文字或數值 %%
+Msgbox " 對話窗訊息。"
 
 
 ## 5. Outlook 操作相關
