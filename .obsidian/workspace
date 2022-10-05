@@ -12,15 +12,21 @@
             {
               "leaf": "713ce72e076bb418",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "713ce72e076bb418",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-05_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":18.88556443479145}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-10-05_Wed.md",
+            "file": "004-●日常生活/●日常生活待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -172,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-05_Wed.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-05_Wed.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           },
@@ -207,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-05_Wed.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +285,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-05_Wed.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,8 +322,8 @@
   },
   "active": "713ce72e076bb418",
   "lastOpenFiles": [
-    "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-10-05_Wed.md",
+    "001-Template/Daily Note Template.md",
     "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
