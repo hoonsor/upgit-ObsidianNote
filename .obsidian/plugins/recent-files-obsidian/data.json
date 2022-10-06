@@ -5,24 +5,64 @@
       "path": "006-DailyNote/2022-10-06_Thu.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "2022-10-05_Wed",
+      "path": "006-DailyNote/2022-10-05_Wed.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "1110814-Thinkorswim軟體學習心得",
+      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "電腦疑難雜症",
+      "path": "004-●日常生活/003-電腦知識/電腦疑難雜症.md"
     },
     {
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    },
+    {
+      "basename": "2022-10-04_Tue",
+      "path": "006-DailyNote/2022-10-04_Tue.md"
+    },
+    {
       "basename": "2022-10-03_Mon",
       "path": "006-DailyNote/2022-10-03_Mon.md"
     },
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
       "basename": "Daily Note Tasks",
@@ -41,24 +81,8 @@
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
       "basename": "1110911-Excel VBA學習相關",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "1110911-Excel快速合併寄送郵件",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
     },
     {
       "basename": "2022-09-30_Fri",
@@ -89,14 +113,6 @@
       "path": "006-DailyNote/2022-09-25_Sun.md"
     },
     {
-      "basename": "1110731-DataView插件筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
       "basename": "2022-09-24_Sat",
       "path": "006-DailyNote/2022-09-24_Sat.md"
     },
@@ -111,6 +127,10 @@
     {
       "basename": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "2022-09-21_Wed",
@@ -135,10 +155,6 @@
     {
       "basename": "2022-09-20_Tue",
       "path": "006-DailyNote/2022-09-20_Tue.md"
-    },
-    {
-      "basename": "1110814-Thinkorswim軟體學習心得",
-      "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
     },
     {
       "basename": "2022-09-19_Mon",
@@ -183,22 +199,6 @@
     {
       "basename": "2022-09-13_Tue",
       "path": "006-DailyNote/2022-09-13_Tue.md"
-    },
-    {
-      "basename": "2022-09-12_Mon",
-      "path": "006-DailyNote/2022-09-12_Mon.md"
-    },
-    {
-      "basename": "2022-09-11_Sun",
-      "path": "006-DailyNote/2022-09-11_Sun.md"
-    },
-    {
-      "basename": "Obsidian概述",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
-    },
-    {
-      "basename": "2022-09-10_Sat",
-      "path": "006-DailyNote/2022-09-10_Sat.md"
     }
   ],
   "omittedPaths": [],
