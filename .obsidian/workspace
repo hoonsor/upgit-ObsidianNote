@@ -4,32 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "713ce72e076bb418",
+        "id": "47a0f795bcbe0117",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "713ce72e076bb418",
+              "leaf": "47a0f795bcbe0117",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "713ce72e076bb418",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-05_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:電腦",
+                "query": "file:obsidia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -178,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +186,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,7 +199,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +270,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,17 +304,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "713ce72e076bb418",
+  "active": "47a0f795bcbe0117",
   "lastOpenFiles": [
-    "006-DailyNote/2022-10-05_Wed.md",
-    "001-Template/Daily Note Template.md",
-    "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "004-●日常生活/003-電腦知識/電腦疑難雜症.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
+    "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-10-03_Mon.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-10-04_Tue.md"
+    "004-●日常生活/●日常生活紀錄.md",
+    "001-Template/Daily Note Template.md",
+    "001-Template/Daily Note Tasks.md",
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-10-02_Sun.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
 }
