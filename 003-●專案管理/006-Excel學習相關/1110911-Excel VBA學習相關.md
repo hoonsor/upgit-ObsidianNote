@@ -11,7 +11,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, October 7th 2022, 9:50:40 pm
+modified: Friday, October 7th 2022, 10:16:36 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -24,8 +24,8 @@ modified: Friday, October 7th 2022, 9:50:40 pm
 			- [[#3.1.1. Outlook 郵件|3.1.1. Outlook 郵件]]
 	- [[#4. 運算子|4. 運算子]]
 		- [[#4.1. Mod 運算子|4.1. Mod 運算子]]
-		- [[#4.2. `\` 運算子|4.2. `\` 運算子]]
-		- [[#4.3. `/` 運算子|4.3. `/` 運算子]]
+		- [[#4.2. `\` 運算子（回傳整數商數）|4.2. `\` 運算子（回傳整數商數）]]
+		- [[#4.3. `/` 運算子（回傳浮點數商數）|4.3. `/` 運算子（回傳浮點數商數）]]
 	- [[#5. 通用語法或函式|5. 通用語法或函式]]
 		- [[#5.1. With（省略重複的物件名稱）|5.1. With（省略重複的物件名稱）]]
 		- [[#5.2. Cells（Applacation 物件之屬性）|5.2. Cells（Applacation 物件之屬性）]]
@@ -74,11 +74,11 @@ result = number1 Mod number2
 number1 是被除數 number2 是除數，回傳餘數
 例如，運算式 14 Mod 4，評估為 2
 
-### 4.2. `\` 運算子
+### 4.2. `\` 運算子（回傳整數商數）
 %% 會傳回除法的整數商。 %%
 例如，運算式 14 \ 4 ，評估為 3
 
-### 4.3. `/` 運算子
+### 4.3. `/` 運算子（回傳浮點數商數）
 %% 傳回完整商數，包括餘數，以浮點數表示 %%
 例如，運算式 14 / 4 ，評估為 3.5
 
