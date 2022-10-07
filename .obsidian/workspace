@@ -37,6 +37,48 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "785d8bc17865681b",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "785d8bc17865681b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "35bbaa0698e9239e",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "35bbaa0698e9239e",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -184,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-06_Thu.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-06_Thu.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -219,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-06_Thu.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-06_Thu.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,17 +368,17 @@
     "direction": "horizontal",
     "width": 341.5
   },
-  "active": "713ce72e076bb418",
+  "active": "fe3c39a4541e59bd",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-06_Thu.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-05_Wed.md",
     "001-Template/Daily Note Template.md",
     "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md",
     "004-●日常生活/003-電腦知識/電腦疑難雜症.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    "004-●日常生活/●日常生活紀錄.md"
   ]
 }
