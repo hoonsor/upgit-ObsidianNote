@@ -13,7 +13,7 @@
               "leaf": "3e690590e9dc280a",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":52.11538461538461}"
+              "eState": "{\"scroll\":31.620853080568722}"
             },
             {
               "leaf": "3e690590e9dc280a",
@@ -317,8 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "active": "3e690590e9dc280a",
   "lastOpenFiles": [
