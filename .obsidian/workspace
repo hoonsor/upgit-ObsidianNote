@@ -12,8 +12,8 @@
             {
               "leaf": "3e690590e9dc280a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":52.11538461538461}"
             },
             {
               "leaf": "3e690590e9dc280a",
@@ -27,7 +27,7 @@
           "type": "markdown",
           "state": {
             "file": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
