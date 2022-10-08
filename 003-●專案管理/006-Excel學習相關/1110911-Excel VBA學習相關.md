@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: 
 parent: 
 sibling: 
 child: 
@@ -10,8 +9,9 @@ author:
 source: 
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
+obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, October 7th 2022, 10:16:36 pm
+modified: Saturday, October 8th 2022, 9:37:52 am
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
