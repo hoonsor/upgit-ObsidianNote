@@ -13,7 +13,7 @@
               "leaf": "855a0e7a2f944e0c",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"scroll\":125.16087962962963}"
             },
             {
               "leaf": "855a0e7a2f944e0c",
@@ -324,8 +324,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "active": "855a0e7a2f944e0c",
   "lastOpenFiles": [
