@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "d707b9a03ac7cf4f",
+=======
+        "id": "c6165c1024b0287a",
+>>>>>>> origin/main
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
+<<<<<<< HEAD
               "leaf": "d707b9a03ac7cf4f",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+=======
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-08_Sat.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":13},\"to\":{\"line\":11,\"ch\":13}}}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-07_Fri.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":44.16140414288036}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "c6165c1024b0287a",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":154,\"ch\":43},\"to\":{\"line\":154,\"ch\":43}},\"scroll\":14.786503364147416}"
+>>>>>>> origin/main
             }
           ]
         },
         "state": {
+<<<<<<< HEAD
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "006-DailyNote/2022-10-08_Sat.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "61d904005b63b498",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "61d904005b63b498",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":91,\"ch\":26},\"to\":{\"line\":91,\"ch\":26}},\"scroll\":0}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+            "mode": "source",
+            "source": false
+          }
+>>>>>>> origin/main
         }
       }
     ],
@@ -68,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:obsidia",
+                "query": "file:電腦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,6 +252,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +275,13 @@
             },
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+              }
+>>>>>>> origin/main
             }
           },
           {
@@ -199,6 +294,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,6 +369,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+>>>>>>> origin/main
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,6 +407,7 @@
     "direction": "horizontal",
     "width": 341.5
   },
+<<<<<<< HEAD
   "active": "d707b9a03ac7cf4f",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活紀錄.md",
@@ -316,5 +420,19 @@
     "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "006-DailyNote/2022-09-26_Mon.md"
+=======
+  "active": "61d904005b63b498",
+  "lastOpenFiles": [
+    "006-DailyNote/2022-10-08_Sat.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "006-DailyNote/2022-10-07_Fri.md",
+    "004-●日常生活/003-電腦知識/電腦知識.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "004-●日常生活/●日常生活紀錄.md"
+>>>>>>> origin/main
   ]
 }

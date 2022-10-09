@@ -44,28 +44,10 @@
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
     "-09": {
-      "Tips（DataView 欄位）": {
-        "customDictionary": {
-          "count": 5,
-          "lastUpdated": 1662256313792
-        }
-      },
       "ExcelTips（DataView）": {
         "customDictionary": {
-          "count": 7,
-          "lastUpdated": 1663512073673
-        }
-      },
-      "TD_Tips（DataView）": {
-        "customDictionary": {
-          "count": 11,
-          "lastUpdated": 1662296320444
-        }
-      },
-      "AHK_Tips（DataView）": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662295107372
+          "count": 8,
+          "lastUpdated": 1664981310675
         }
       },
       "OB_Tips（DataView）": {
@@ -81,55 +63,11 @@
         }
       }
     },
-    "Tips（DataView 欄位）": {
-      "Tips（DataView 欄位）": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662255901485
-        }
-      }
-    },
-    "Daily Note Template": {
-      "Daily Note Template": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1662272535906
-        }
-      }
-    },
-    "buttons": {
-      "buttons": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662272592784
-        }
-      }
-    },
-    "button": {
-      "button": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1662382828624
-        }
-      }
-    },
     "-00": {
-      "時間函數（Templater）/ (@<% tp.date.now() %> !END!)": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1662276875578
-        }
-      },
       "時間函數（Templater）": {
         "customDictionary": {
           "count": 23,
           "lastUpdated": 1663593471449
-        }
-      },
-      "顯示模式（預覽模式）": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1662279946753
         }
       },
       "多欄語法（Columns）": {
@@ -139,51 +77,11 @@
         }
       }
     },
-    "tomorrow": {
-      "tomorrow": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662277706816
-        }
-      }
-    },
-    "from": {
-      "from": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662294267034
-        }
-      }
-    },
-    "source": {
-      "source": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1662294741106
-        }
-      }
-    },
     "preview": {
       "preview": {
         "frontMatter": {
-          "count": 5,
-          "lastUpdated": 1664097961272
-        }
-      }
-    },
-    "status": {
-      "status": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1662378169045
-        }
-      }
-    },
-    "--0": {
-      "Tips": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1662474095927
+          "count": 6,
+          "lastUpdated": 1665193034070
         }
       }
     },
