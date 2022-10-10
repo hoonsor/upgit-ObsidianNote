@@ -11,31 +11,37 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Saturday, October 8th 2022, 10:17:43 am
+modified: Monday, October 10th 2022, 3:37:25 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
 - [[#1110911-Excel VBA 學習相關 ^toc|1110911-Excel VBA 學習相關]]
 	- [[#1. 基本注意事項|1. 基本注意事項]]
 	- [[#2. 思考邏輯|2. 思考邏輯]]
-		- [[#2.1. 從大到小的思考方式，WorkSheet→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheet→Range、Selection→屬性]]
+		- [[#2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性]]
 	- [[#3. 物件類型|3. 物件類型]]
-		- [[#3.1. Outlook 應用程式|3.1. Outlook 應用程式]]
-			- [[#3.1.1. Outlook 郵件|3.1.1. Outlook 郵件]]
+		- [[#3.1. Excel 本身之物件類型|3.1. Excel 本身之物件類型]]
+			- [[#3.1.1. WorkSheets（工作表）|3.1.1. WorkSheets（工作表）]]
+			- [[#3.1.2. Range 物件|3.1.2. Range 物件]]
+		- [[#3.2. Outlook 應用程式|3.2. Outlook 應用程式]]
+			- [[#3.2.1. Outlook 郵件|3.2.1. Outlook 郵件]]
 	- [[#4. 運算子|4. 運算子]]
 		- [[#4.1. Mod 運算子|4.1. Mod 運算子]]
 		- [[#4.2. `\` 運算子（回傳整數商數）|4.2. `\` 運算子（回傳整數商數）]]
 		- [[#4.3. `/` 運算子（回傳浮點數商數）|4.3. `/` 運算子（回傳浮點數商數）]]
-	- [[#5. 通用語法或函式|5. 通用語法或函式]]
-		- [[#5.1. With（省略重複的物件名稱）|5.1. With（省略重複的物件名稱）]]
-		- [[#5.2. Cells（Applacation 物件之屬性）|5.2. Cells（Applacation 物件之屬性）]]
-		- [[#5.3. For（迴圈）|5.3. For（迴圈）]]
-		- [[#5.4. For Each（迴圈）|5.4. For Each（迴圈）]]
-		- [[#5.5. Replace（取代）|5.5. Replace（取代）]]
-		- [[#5.6. End（Range 物件之屬性）|5.6. End（Range 物件之屬性）]]
-		- [[#5.7. Row（Range 物件之屬性）|5.7. Row（Range 物件之屬性）]]
-		- [[#5.8. Msgbox（提示文字視窗）|5.8. Msgbox（提示文字視窗）]]
-		- [[#5.9. Select Case（判斷式為文字或數值皆可）|5.9. Select Case（判斷式為文字或數值皆可）]]
+	- [[#5. 語法或函式|5. 語法或函式]]
+		- [[#5.1. Msgbox（提示文字視窗）|5.1. Msgbox（提示文字視窗）]]
+		- [[#5.2. InputBox（變數輸入視窗）|5.2. InputBox（變數輸入視窗）]]
+		- [[#5.3. With（省略重複的物件名稱）|5.3. With（省略重複的物件名稱）]]
+		- [[#5.4. Cells（Applacation 物件之屬性）|5.4. Cells（Applacation 物件之屬性）]]
+		- [[#5.5. Selection（選擇之範圍，回傳 Range 物件）|5.5. Selection（選擇之範圍，回傳 Range 物件）]]
+		- [[#5.6. OffSet（Range 之屬性）|5.6. OffSet（Range 之屬性）]]
+		- [[#5.7. For（迴圈）|5.7. For（迴圈）]]
+		- [[#5.8. For Each（迴圈）|5.8. For Each（迴圈）]]
+		- [[#5.9. Replace（取代）|5.9. Replace（取代）]]
+		- [[#5.10. End（Range 物件之屬性）|5.10. End（Range 物件之屬性）]]
+		- [[#5.11. Row（Range 物件之屬性）|5.11. Row（Range 物件之屬性）]]
+		- [[#5.12. Select Case（判斷式為文字或數值皆可）|5.12. Select Case（判斷式為文字或數值皆可）]]
 	- [[#6. Outlook 操作相關|6. Outlook 操作相關]]
 		- [[#6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
 		- [[#6.2. 定義及設定郵件物件變數（MailItem）|6.2. 定義及設定郵件物件變數（MailItem）]]
@@ -58,13 +64,24 @@ modified: Saturday, October 8th 2022, 10:17:43 am
 - 注意一下運算子運算順序，舉例來說 `12 / 3 * 2 ＝ 8`，`( 12 / 3 ) * 2 = 6`，那天在寫想記計算法定合理員額的程式時計算錯誤就是因為這樣的原因
 
 ## 2. 思考邏輯
-### 2.1. 從大到小的思考方式，WorkSheet→Range、Selection→屬性
+### 2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性
 
 ## 3. 物件類型
-### 3.1. Outlook 應用程式
+
+### 3.1. Excel 本身之物件類型
+#### 3.1.1. WorkSheets（工作表）
+例如：WorkSheets("1 月 ")、WorkSheets(2)（此為往左數來第 2 個工作表，Worksheets 索引號是從 1 開始編列）
+#h/red **常會搭配 Active 屬性使用**，例如 WorkSheets(1).Activate
+
+#### 3.1.2. Range 物件
+例如 Range("A2")、Range("A4:B5")
+
+### 3.2. Outlook 應用程式
 Dim 小信差 As Outlook.Application
-#### 3.1.1. Outlook 郵件
+#### 3.2.1. Outlook 郵件
 Dim 新郵件 As MailItem
+
+
 
 ## 4. 運算子
 ### 4.1. Mod 運算子
@@ -77,14 +94,28 @@ number1 是被除數 number2 是除數，回傳餘數
 
 ### 4.2. `\` 運算子（回傳整數商數）
 %% 會傳回除法的整數商。 %%
-例如，運算式 14 \ 4 ，評估為 3
+例如，運算式 14 `\` 4 ，評估為 3
 
 ### 4.3. `/` 運算子（回傳浮點數商數）
 %% 傳回完整商數，包括餘數，以浮點數表示 %%
-例如，運算式 14 / 4 ，評估為 3.5
+例如，運算式 14 `/` 4 ，評估為 3.5
 
-## 5. 通用語法或函式
-### 5.1. With（省略重複的物件名稱）
+## 5. 語法或函式
+
+### 5.1. Msgbox（提示文字視窗）
+%% 會跳出一個提示視窗並顯示自訂之文字或數值 %%
+Msgbox " 對話窗訊息。"
+
+### 5.2. InputBox（變數輸入視窗）
+%% 跳出一個可輸入變數的視窗，變數類型不限 %%
+例如：
+```VB
+姓名 = InputBox("請輸入員工姓名")
+```
+
+
+
+### 5.3. With（省略重複的物件名稱）
 - !!!col
 	- 1
 		#### 加上 With 前
@@ -101,7 +132,7 @@ number1 是被除數 number2 是除數，回傳餘數
 			.Display
 		End With
 	- 5
-### 5.2. Cells（Applacation 物件之屬性）
+### 5.4. Cells（Applacation 物件之屬性）
 %% 會傳回 **[Range](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range(object))** 物件，代表現用工作表上的所有儲存格。 如果使用中的檔不是工作表，則此屬性會失敗。%%
 %% 先列後欄 %%
 - Cells(3,2).value = 小美
@@ -109,7 +140,23 @@ number1 是被除數 number2 是除數，回傳餘數
 > [!INFO]+ 資訊
 > [(Excel 應用程式的 Cells 屬性) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.application.cells)
 
-### 5.3. For（迴圈）
+### 5.5. Selection（選擇之範圍，回傳 Range 物件）
+例如，Selection.value = 200，會將所有滑鼠已選取起來之儲存格範圍之儲存格數值變更成 200
+
+### 5.6. OffSet（Range 之屬性）
+%% 表示位移之屬性，先列後欄，Offset(1,3) 代表將原 Range 物件之位置再往下 1 往右 3 位移 %%
+例如，Range("A1").Offset(, 3).Select、Range("A1").Offset(4).Select
+
+#h/red **常會搭配 Select 及 Selection 使用**，例如以下範例：
+```VB
+Cells(3, 2).Offset(4).Select
+Selection.Value = 300
+```
+
+> [!INFO]+ 資訊
+> [Range.Offset 屬性 (Excel) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/api/excel.range.offset)
+
+### 5.7. For（迴圈）
 %% 一定要設定「等於」、「起始值」及「結束值」 %%
 For 列數 = 2 to 6
 	程式內容……
@@ -118,7 +165,7 @@ Next 列數
 > [!INFO]+ 資訊
 > [For .。。VBA) (Next 語句 | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/fornext-statement)
 
-### 5.4. For Each（迴圈）
+### 5.8. For Each（迴圈）
 %% 可使用在工作表上 %%
 Dim 月份 As WorkSheet
 
@@ -128,7 +175,7 @@ For Each 月份 in WorkSheets
 	Next x
 Next 月份
 
-### 5.5. Replace（取代）
+### 5.9. Replace（取代）
 %% 回傳值為取代運算完成後之字串，所以記得一定要設定一個變數去接收 %%
 %% Replace(「搜尋範圍」,「被取代字串」,「取代字串」) %%
 - 新郵件.HTMLBody = Replace(新郵件.HTMLBody, " 教師名單 ", Cells(2, 1).Value)
@@ -137,7 +184,7 @@ Next 月份
 > [!INFO]+ 資訊
 > [Replace 方法 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.replace)
 
-### 5.6. End（Range 物件之屬性）
+### 5.10. End（Range 物件之屬性）
 %% 回傳 Range 物件 %%
 - Range("B4").End(xlUp).Select
 - Range("B4").End(xlDown).Select
@@ -147,19 +194,14 @@ Next 月份
 > [!INFO]+ 資訊
 > [Range.End 屬性 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.end)
 
-### 5.7. Row（Range 物件之屬性）
+### 5.11. Row（Range 物件之屬性）
 %% 會傳回範圍中第一個區域中的第一列的列號。 唯讀的 **Long**。 %%
 - 總列數 = Cells(1000, 1).End(xlUp).Row
 
 > [!INFO]+ 資訊
 > [Range.Row 屬性 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.row)
 
-### 5.8. Msgbox（提示文字視窗）
-%% 會跳出一個提示視窗並顯示自訂之文字或數值 %%
-Msgbox " 對話窗訊息。"
-
-
-### 5.9. Select Case（判斷式為文字或數值皆可）
+### 5.12. Select Case（判斷式為文字或數值皆可）
 %% 多重選擇執行對應程式碼之語法 %%
 Dim 判斷式 As String
 Select Case 判斷式
@@ -218,3 +260,5 @@ Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roa
 > ExcelTips:: Excel VBA 在執行時出現「編譯錯誤：使用者自訂型態尚未定義」，代表變數類型尚未定義，可能是沒有設定引用對應的 Library，至 (上方選單) 工具→設定引用項目→勾選對應變數的 Library 應該就可以解決了
 
 > ExcelTips:: 物件一定要使用 Set 去賦值，不然會出現編譯錯誤
+
+> ExcelTips:: 如果想要避免變數未宣告造成日後程式撰寫錯誤，可在「工具→選項→（勾選）要求變數宣告」此處設定即可

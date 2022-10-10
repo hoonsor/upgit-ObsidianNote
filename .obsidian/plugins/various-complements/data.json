@@ -85,46 +85,6 @@
         }
       }
     },
-    "2022-09-12_Mon": {
-      "2022-09-12_Mon": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1662858930927
-        }
-      }
-    },
-    "Library": {
-      "Library": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1662867169024
-        }
-      }
-    },
-    "Display": {
-      "Display": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662869968016
-        }
-      }
-    },
-    "Attachment": {
-      "Attachment": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662870805113
-        }
-      }
-    },
-    "Columns": {
-      "Columns": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1662898108390
-        }
-      }
-    },
     "2022-09-15_Thu": {
       "2022-09-15_Thu": {
         "internalLink": {
@@ -170,6 +130,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1664552981917
+        }
+      }
+    },
+    "-br": {
+      "粗體紅字 ": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1665386894569
         }
       }
     }
