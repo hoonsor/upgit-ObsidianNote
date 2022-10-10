@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "2022-10-10_Mon",
+      "path": "006-DailyNote/2022-10-10_Mon.md"
+    },
+    {
       "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
       "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "●工作待辦事項",
@@ -35,14 +47,6 @@
     {
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     },
     {
       "basename": "1110717-能量運動指南",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-14_Wed",
       "path": "006-DailyNote/2022-09-14_Wed.md"
-    },
-    {
-      "basename": "XGPU遊戲下載",
-      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
     }
   ],
   "omittedPaths": [],
