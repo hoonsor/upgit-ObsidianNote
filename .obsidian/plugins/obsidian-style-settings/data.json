@@ -28,7 +28,7 @@
   "minimal-style@@checkbox-shape": "checkbox-square",
   "minimal-style@@ui3@@dark": "#AF2AFF",
   "minimal-style@@text-blockquote@@dark": "#E893FF",
-  "minimal-style@@ax1@@dark": "#B48CFF",
+  "minimal-style@@ax1@@dark": "#3DFFF6",
   "minimal-style@@row-lines": true,
   "minimal-style@@col-lines": true,
   "minimal-style@@table-lines": true,
@@ -60,5 +60,5 @@
   "minimal-style@@tx3@@dark": "#988FFE",
   "minimal-style@@accent@@light": "#FF0000",
   "minimal-style@@accent@@dark": "#FF0000",
-  "minimal-style@@ax2@@dark": "#00FF2C"
+  "minimal-style@@ax2@@dark": "#FF9FEA"
 }
