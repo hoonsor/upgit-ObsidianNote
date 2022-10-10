@@ -11,18 +11,20 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Monday, October 10th 2022, 4:04:06 pm
+modified: Monday, October 10th 2022, 4:22:21 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
 - [[#1110911-Excel VBA 學習相關 ^toc|1110911-Excel VBA 學習相關]]
 	- [[#1. 基本注意事項|1. 基本注意事項]]
+		- [[#1.1. 宣告變數|1.1. 宣告變數]]
 	- [[#2. 思考邏輯|2. 思考邏輯]]
 		- [[#2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性]]
 	- [[#3. 物件類型|3. 物件類型]]
 		- [[#3.1. Excel 本身之物件類型|3.1. Excel 本身之物件類型]]
-			- [[#3.1.1. WorkSheets（工作表）|3.1.1. WorkSheets（工作表）]]
-			- [[#3.1.2. Range 物件|3.1.2. Range 物件]]
+			- [[#3.1.1. WorkSheet（工作表）|3.1.1. WorkSheet（工作表）]]
+			- [[#3.1.2. WorkSheets（工作表集合）|3.1.2. WorkSheets（工作表集合）]]
+			- [[#3.1.3. Range 物件|3.1.3. Range 物件]]
 		- [[#3.2. Outlook 應用程式|3.2. Outlook 應用程式]]
 			- [[#3.2.1. Outlook 郵件|3.2.1. Outlook 郵件]]
 	- [[#4. 運算子|4. 運算子]]
@@ -65,25 +67,30 @@ modified: Monday, October 10th 2022, 4:04:06 pm
 - String 使用時一定要前後加上雙引號，最近一次撰寫時發現使用 Select Case 語法沒有反應，後續 Debug 才發現是因為 String 沒加上雙引號
 - 注意一下運算子運算順序，舉例來說 `12 / 3 * 2 ＝ 8`，`( 12 / 3 ) * 2 = 6`，那天在寫想記計算法定合理員額的程式時計算錯誤就是因為這樣的原因
 
+### 1.1. 宣告變數
+#h/red **宣告變數可以將不同宣告式或變數放在同一行**，如下範例：
+Dim 總列數, 獎金加總 As Integer, 月份 As Worksheet
 ## 2. 思考邏輯
 ### 2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性
 
 ## 3. 物件類型
-
 ### 3.1. Excel 本身之物件類型
-#### 3.1.1. WorkSheets（工作表）
+
+#### 3.1.1. WorkSheet（工作表）
+例如：Dim 月份 as Worksheet
+
+#### 3.1.2. WorkSheets（工作表集合）
+%% Worksheet 之集合 %%
 例如：WorkSheets("1 月 ")、WorkSheets(2)（此為往左數來第 2 個工作表，Worksheets 索引號是從 1 開始編列）
 #h/red **常會搭配 Active 屬性使用**，例如 WorkSheets(1).Activate
 
-#### 3.1.2. Range 物件
+#### 3.1.3. Range 物件
 例如 Range("A2")、Range("A4:B5")
 
 ### 3.2. Outlook 應用程式
 Dim 小信差 As Outlook.Application
 #### 3.2.1. Outlook 郵件
 Dim 新郵件 As MailItem
-
-
 
 ## 4. 運算子
 ### 4.1. Mod 運算子
@@ -107,6 +114,9 @@ number1 是被除數 number2 是除數，回傳餘數
 ### 5.1. Msgbox（提示文字視窗）
 %% 會跳出一個提示視窗並顯示自訂之文字或數值 %%
 Msgbox " 對話窗訊息。"
+#h/red **可以使用「&」符號搭配前後空格去連接不同的變數、字元或字串**
+例如：MsgBox 姓名 & " 三個月份之總獎金合計為 " & 獎金加總 & " 元！"
+%% 姓名在此為變數名稱 %%
 
 ### 5.2. InputBox（變數輸入視窗）
 %% 跳出一個可輸入變數的視窗，變數類型不限 %%
@@ -163,22 +173,39 @@ Selection.Value = 300
 
 ### 5.8. For（迴圈）
 %% 一定要設定「等於」、「起始值」及「結束值」 %%
+```VB
 For 列數 = 2 to 6
 	程式內容……
 Next 列數
+```
 
 > [!INFO]+ 資訊
 > [For .。。VBA) (Next 語句 | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/fornext-statement)
 
 ### 5.9. For Each（迴圈）
-%% 可使用在工作表上 %%
-Dim 月份 As WorkSheet %% 在此是 WorkSheet，並非 WorkSheets%%
-
+%% 可使用在工作表集合上，讓程式在每一個工作表中運行 %%
+%% 特別注意！在此是宣告為 「WorkSheet」，並非 「WorkSheets」 %%
+```VB
+Dim 月份 As WorkSheet 
 For Each 月份 in WorkSheets
 	For x=3 To 月份.Range("b3").End(xlDown).Row
 	...
 	Next x
 Next 月份
+```
+
+```VB
+Sub Add10ToAllCellsInRange()
+	Dim rng As Range 
+	For Each rng In Range("A1:A10") 
+		rng.Value = rng.Value + 10 
+	Next End 
+Sub
+```
+
+
+> [!INFO]+ 資訊
+> [使用 For Each...Next 陳述式 (VBA) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/language/concepts/getting-started/using-for-eachnext-statements)
 
 ### 5.10. Replace（取代）
 %% 回傳值為取代運算完成後之字串，所以記得一定要設定一個變數去接收 %%
@@ -218,6 +245,8 @@ End If
 
 ### 5.14. Select Case（判斷式為文字或數值皆可）
 %% 多重選擇執行對應程式碼之語法 %%
+
+```VB
 Dim 判斷式 As String
 Select Case 判斷式
 	Case " 星期一 "," 星期四 "
@@ -227,6 +256,7 @@ Select Case 判斷式
 	Case Else
 	…
 End Select
+```
 
 > [!INFO]+ 資訊
 > [Select Case 陳述式 (VBA) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/select-case-statement)
