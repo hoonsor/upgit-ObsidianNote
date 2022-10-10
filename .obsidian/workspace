@@ -12,15 +12,27 @@
             {
               "leaf": "be055b17d76f7b97",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":35},\"to\":{\"line\":40,\"ch\":35}},\"scroll\":12}"
+            },
+            {
+              "leaf": "be055b17d76f7b97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "be055b17d76f7b97",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":256,\"ch\":0},\"to\":{\"line\":256,\"ch\":0}},\"scroll\":236.01258182525635}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":13},\"to\":{\"line\":69,\"ch\":13}},\"scroll\":81.64958056156028}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+            "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
             "mode": "source",
             "source": false
           }
@@ -81,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -172,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
               }
             }
           },
@@ -207,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,15 +328,15 @@
   },
   "active": "be055b17d76f7b97",
   "lastOpenFiles": [
-    "000-index/!dict.md",
+    "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "000-index/!dict.md",
     "006-DailyNote/2022-10-09_Sun.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-08_Sat.md",
     "006-DailyNote/2022-10-07_Fri.md",
     "004-●日常生活/●日常生活紀錄.md",
-    "001-Template/Daily Note Template.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md"
+    "001-Template/Daily Note Template.md"
   ]
 }
