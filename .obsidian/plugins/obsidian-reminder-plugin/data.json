@@ -12,6 +12,7 @@
         "time": "2022-09-26 21:40",
         "rowNumber": 51
       }
+<<<<<<< HEAD
     ],
     "006-DailyNote/2022-10-09_Sun.md": [
       {
@@ -59,6 +60,8 @@
         "time": "2022-10-09 20:55",
         "rowNumber": 43
       }
+=======
+>>>>>>> origin/main
     ]
   },
   "debug": false,

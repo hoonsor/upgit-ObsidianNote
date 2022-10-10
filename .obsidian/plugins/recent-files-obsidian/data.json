@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
       "basename": "2022-10-09_Sun",
       "path": "006-DailyNote/2022-10-09_Sun.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "2022-10-08_Sat",
+      "path": "006-DailyNote/2022-10-08_Sat.md"
+    },
+    {
+      "basename": "2022-10-07_Fri",
+      "path": "006-DailyNote/2022-10-07_Fri.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "Daily Note Template",
@@ -15,10 +31,6 @@
     {
       "basename": "電腦知識",
       "path": "004-●日常生活/003-電腦知識/電腦知識.md"
-    },
-    {
-      "basename": "2022-10-08_Sat",
-      "path": "006-DailyNote/2022-10-08_Sat.md"
     },
     {
       "basename": "1110911-Excel VBA學習相關",
@@ -37,16 +49,8 @@
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "2022-10-07_Fri",
-      "path": "006-DailyNote/2022-10-07_Fri.md"
-    },
-    {
       "basename": "1110911-Excel快速合併寄送郵件",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "●工作待辦事項",
@@ -195,10 +199,6 @@
     {
       "basename": "XGPU遊戲下載",
       "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
-    },
-    {
-      "basename": "1110716-甲狀腺失調調理及預防指南",
-      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
     }
   ],
   "omittedPaths": [],
