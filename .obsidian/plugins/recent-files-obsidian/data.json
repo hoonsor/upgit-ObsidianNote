@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
       "basename": "2022-10-09_Sun",
       "path": "006-DailyNote/2022-10-09_Sun.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     },
     {
       "basename": "2022-10-08_Sat",
@@ -29,20 +41,12 @@
       "path": "006-DailyNote/2022-10-07_Fri.md"
     },
     {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
-    },
-    {
       "basename": "1110911-Excel快速合併寄送郵件",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "●工作待辦事項",
@@ -59,10 +63,6 @@
     {
       "basename": "2022-10-05_Wed",
       "path": "006-DailyNote/2022-10-05_Wed.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "1110814-Thinkorswim軟體學習心得",
