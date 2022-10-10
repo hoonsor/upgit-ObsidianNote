@@ -4,22 +4,54 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "320bef0062b57cd5",
+=======
+        "id": "855a0e7a2f944e0c",
+>>>>>>> origin/main
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
+<<<<<<< HEAD
               "leaf": "320bef0062b57cd5",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+=======
+              "leaf": "855a0e7a2f944e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":125.16087962962963}"
+            },
+            {
+              "leaf": "855a0e7a2f944e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-09_Sun.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":28.091299019607842}"
+            },
+            {
+              "leaf": "855a0e7a2f944e0c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-08_Sat.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":10},\"to\":{\"line\":28,\"ch\":10}},\"scroll\":0}"
+>>>>>>> origin/main
             }
           ]
         },
         "state": {
+<<<<<<< HEAD
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+            "mode": "source",
+            "source": false
+          }
+>>>>>>> origin/main
         }
       }
     ],
@@ -68,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:電腦",
+                "query": "file:老屋",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -167,6 +200,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +223,13 @@
             },
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
+=======
+              "state": {
+                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
+              }
+>>>>>>> origin/main
             }
           },
           {
@@ -199,6 +242,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,6 +317,10 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+>>>>>>> origin/main
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,17 +355,21 @@
     "direction": "horizontal",
     "width": 341.5
   },
+<<<<<<< HEAD
   "active": "fe3c39a4541e59bd",
+=======
+  "active": "855a0e7a2f944e0c",
+>>>>>>> origin/main
   "lastOpenFiles": [
+    "006-DailyNote/2022-10-09_Sun.md",
     "006-DailyNote/2022-10-08_Sat.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "006-DailyNote/2022-10-07_Fri.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "004-●日常生活/●日常生活紀錄.md",
+    "006-DailyNote/2022-09-30_Fri.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "006-DailyNote/2022-09-29_Thu.md",
+    "006-DailyNote/2022-09-28_Wed.md",
+    "006-DailyNote/2022-09-27_Tue.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
