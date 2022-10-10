@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Saturday, October 8th 2022, 10:05:56 am
+modified: Saturday, October 8th 2022, 10:17:43 am
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -55,7 +55,7 @@ modified: Saturday, October 8th 2022, 10:05:56 am
 
 ## 1. 基本注意事項
 - String 使用時一定要前後加上雙引號，最近一次撰寫時發現使用 Select Case 語法沒有反應，後續 Debug 才發現是因為 String 沒加上雙引號
-- 注意一下運算子
+- 注意一下運算子運算順序，舉例來說 `12 / 3 * 2 ＝ 8`，`( 12 / 3 ) * 2 = 6`，那天在寫想記計算法定合理員額的程式時計算錯誤就是因為這樣的原因
 
 ## 2. 思考邏輯
 ### 2.1. 從大到小的思考方式，WorkSheet→Range、Selection→屬性
