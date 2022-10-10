@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Monday, October 10th 2022, 3:37:25 pm
+modified: Monday, October 10th 2022, 4:04:06 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -32,16 +32,18 @@ modified: Monday, October 10th 2022, 3:37:25 pm
 	- [[#5. 語法或函式|5. 語法或函式]]
 		- [[#5.1. Msgbox（提示文字視窗）|5.1. Msgbox（提示文字視窗）]]
 		- [[#5.2. InputBox（變數輸入視窗）|5.2. InputBox（變數輸入視窗）]]
-		- [[#5.3. With（省略重複的物件名稱）|5.3. With（省略重複的物件名稱）]]
-		- [[#5.4. Cells（Applacation 物件之屬性）|5.4. Cells（Applacation 物件之屬性）]]
-		- [[#5.5. Selection（選擇之範圍，回傳 Range 物件）|5.5. Selection（選擇之範圍，回傳 Range 物件）]]
-		- [[#5.6. OffSet（Range 之屬性）|5.6. OffSet（Range 之屬性）]]
-		- [[#5.7. For（迴圈）|5.7. For（迴圈）]]
-		- [[#5.8. For Each（迴圈）|5.8. For Each（迴圈）]]
-		- [[#5.9. Replace（取代）|5.9. Replace（取代）]]
-		- [[#5.10. End（Range 物件之屬性）|5.10. End（Range 物件之屬性）]]
-		- [[#5.11. Row（Range 物件之屬性）|5.11. Row（Range 物件之屬性）]]
-		- [[#5.12. Select Case（判斷式為文字或數值皆可）|5.12. Select Case（判斷式為文字或數值皆可）]]
+		- [[#5.3. Dubug.Print（Debug 語法）|5.3. Dubug.Print（Debug 語法）]]
+		- [[#5.4. With（省略重複的物件名稱）|5.4. With（省略重複的物件名稱）]]
+		- [[#5.5. Cells（Applacation 物件之屬性）|5.5. Cells（Applacation 物件之屬性）]]
+		- [[#5.6. Selection（選擇之範圍，回傳 Range 物件）|5.6. Selection（選擇之範圍，回傳 Range 物件）]]
+		- [[#5.7. OffSet（Range 之屬性）|5.7. OffSet（Range 之屬性）]]
+		- [[#5.8. For（迴圈）|5.8. For（迴圈）]]
+		- [[#5.9. For Each（迴圈）|5.9. For Each（迴圈）]]
+		- [[#5.10. Replace（取代）|5.10. Replace（取代）]]
+		- [[#5.11. End（Range 物件之屬性）|5.11. End（Range 物件之屬性）]]
+		- [[#5.12. Row（Range 物件之屬性）|5.12. Row（Range 物件之屬性）]]
+		- [[#5.13. If…ElseIf…Else（條件判斷式）|5.13. If…ElseIf…Else（條件判斷式）]]
+		- [[#5.14. Select Case（判斷式為文字或數值皆可）|5.14. Select Case（判斷式為文字或數值皆可）]]
 	- [[#6. Outlook 操作相關|6. Outlook 操作相關]]
 		- [[#6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
 		- [[#6.2. 定義及設定郵件物件變數（MailItem）|6.2. 定義及設定郵件物件變數（MailItem）]]
@@ -113,9 +115,12 @@ Msgbox " 對話窗訊息。"
 姓名 = InputBox("請輸入員工姓名")
 ```
 
+### 5.3. Dubug.Print（Debug 語法）
+%% Dubug.Print 空格並加上「變數名稱」後，就可以在底下的視窗監看變數數值變化情形，是很方便的 Debug 工具 %%
+例如：Debug.Print x，會在底下顯示出變數 x 變化的情形
+#h/red **需要搭配「檢視→即時運算視窗」（Ctrl+G）使用**
 
-
-### 5.3. With（省略重複的物件名稱）
+### 5.4. With（省略重複的物件名稱）
 - !!!col
 	- 1
 		#### 加上 With 前
@@ -132,7 +137,7 @@ Msgbox " 對話窗訊息。"
 			.Display
 		End With
 	- 5
-### 5.4. Cells（Applacation 物件之屬性）
+### 5.5. Cells（Applacation 物件之屬性）
 %% 會傳回 **[Range](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range(object))** 物件，代表現用工作表上的所有儲存格。 如果使用中的檔不是工作表，則此屬性會失敗。%%
 %% 先列後欄 %%
 - Cells(3,2).value = 小美
@@ -140,10 +145,10 @@ Msgbox " 對話窗訊息。"
 > [!INFO]+ 資訊
 > [(Excel 應用程式的 Cells 屬性) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.application.cells)
 
-### 5.5. Selection（選擇之範圍，回傳 Range 物件）
+### 5.6. Selection（選擇之範圍，回傳 Range 物件）
 例如，Selection.value = 200，會將所有滑鼠已選取起來之儲存格範圍之儲存格數值變更成 200
 
-### 5.6. OffSet（Range 之屬性）
+### 5.7. OffSet（Range 之屬性）
 %% 表示位移之屬性，先列後欄，Offset(1,3) 代表將原 Range 物件之位置再往下 1 往右 3 位移 %%
 例如，Range("A1").Offset(, 3).Select、Range("A1").Offset(4).Select
 
@@ -156,7 +161,7 @@ Selection.Value = 300
 > [!INFO]+ 資訊
 > [Range.Offset 屬性 (Excel) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/api/excel.range.offset)
 
-### 5.7. For（迴圈）
+### 5.8. For（迴圈）
 %% 一定要設定「等於」、「起始值」及「結束值」 %%
 For 列數 = 2 to 6
 	程式內容……
@@ -165,9 +170,9 @@ Next 列數
 > [!INFO]+ 資訊
 > [For .。。VBA) (Next 語句 | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/fornext-statement)
 
-### 5.8. For Each（迴圈）
+### 5.9. For Each（迴圈）
 %% 可使用在工作表上 %%
-Dim 月份 As WorkSheet
+Dim 月份 As WorkSheet %% 在此是 WorkSheet，並非 WorkSheets%%
 
 For Each 月份 in WorkSheets
 	For x=3 To 月份.Range("b3").End(xlDown).Row
@@ -175,7 +180,7 @@ For Each 月份 in WorkSheets
 	Next x
 Next 月份
 
-### 5.9. Replace（取代）
+### 5.10. Replace（取代）
 %% 回傳值為取代運算完成後之字串，所以記得一定要設定一個變數去接收 %%
 %% Replace(「搜尋範圍」,「被取代字串」,「取代字串」) %%
 - 新郵件.HTMLBody = Replace(新郵件.HTMLBody, " 教師名單 ", Cells(2, 1).Value)
@@ -184,7 +189,7 @@ Next 月份
 > [!INFO]+ 資訊
 > [Replace 方法 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.replace)
 
-### 5.10. End（Range 物件之屬性）
+### 5.11. End（Range 物件之屬性）
 %% 回傳 Range 物件 %%
 - Range("B4").End(xlUp).Select
 - Range("B4").End(xlDown).Select
@@ -194,14 +199,24 @@ Next 月份
 > [!INFO]+ 資訊
 > [Range.End 屬性 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.end)
 
-### 5.11. Row（Range 物件之屬性）
+### 5.12. Row（Range 物件之屬性）
 %% 會傳回範圍中第一個區域中的第一列的列號。 唯讀的 **Long**。 %%
 - 總列數 = Cells(1000, 1).End(xlUp).Row
 
 > [!INFO]+ 資訊
 > [Range.Row 屬性 (Excel) | Microsoft Docs](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range.row)
 
-### 5.12. Select Case（判斷式為文字或數值皆可）
+### 5.13. If…ElseIf…Else（條件判斷式）
+%% 常見的條件判斷式 %%
+If 判斷式 Then
+…
+ElseIf 判斷式 Then
+…
+Else
+…
+End If
+
+### 5.14. Select Case（判斷式為文字或數值皆可）
 %% 多重選擇執行對應程式碼之語法 %%
 Dim 判斷式 As String
 Select Case 判斷式
