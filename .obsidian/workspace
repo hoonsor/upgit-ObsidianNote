@@ -13,7 +13,31 @@
               "leaf": "9270b589936cb499",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-11_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":14},\"to\":{\"line\":47,\"ch\":14}},\"scroll\":27.189668973286945}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9270b589936cb499",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-26_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":47},\"to\":{\"line\":47,\"ch\":47}},\"scroll\":14.915423270018382}"
+            },
+            {
+              "leaf": "9270b589936cb499",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-11_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9270b589936cb499",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-09-26_Mon.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9270b589936cb499",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-11_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":10},\"to\":{\"line\":30,\"ch\":10}},\"scroll\":0}"
             }
           ]
         },
@@ -21,29 +45,6 @@
           "type": "markdown",
           "state": {
             "file": "006-DailyNote/2022-10-11_Tue.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7ef31cb9606cba9c",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "7ef31cb9606cba9c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "004-●日常生活/●日常生活紀錄.md",
             "mode": "source",
             "source": false
           }
@@ -194,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活紀錄.md",
+                "file": "006-DailyNote/2022-10-11_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活紀錄.md"
+                "file": "006-DailyNote/2022-10-11_Tue.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活紀錄.md",
+                "file": "006-DailyNote/2022-10-11_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活紀錄.md",
+                "file": "006-DailyNote/2022-10-11_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,17 +337,17 @@
     "direction": "horizontal",
     "width": 420.5
   },
-  "active": "7ef31cb9606cba9c",
+  "active": "fe3c39a4541e59bd",
   "lastOpenFiles": [
+    "006-DailyNote/2022-09-26_Mon.md",
     "006-DailyNote/2022-10-11_Tue.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "004-●日常生活/●日常生活紀錄.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
     "001-Template/Daily Note Template.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "●投資理財及創業待辦事項_image_1.png"
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
   ]
 }
