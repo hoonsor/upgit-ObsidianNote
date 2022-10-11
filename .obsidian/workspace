@@ -12,8 +12,14 @@
             {
               "leaf": "db58d7e53fd1b955",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.725118483412322}"
+            },
+            {
+              "leaf": "db58d7e53fd1b955",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":10.454976303317535}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":18},\"to\":{\"line\":28,\"ch\":18}},\"scroll\":10.454976303317535}"
             },
             {
               "leaf": "db58d7e53fd1b955",
@@ -38,7 +44,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -190,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -225,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +303,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -335,6 +341,7 @@
   },
   "active": "db58d7e53fd1b955",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "004-●日常生活/●日常生活紀錄.md",
     "005-工作相關/●工作待辦事項.md",
@@ -343,7 +350,6 @@
     "006-DailyNote/2022-10-09_Sun.md",
     "006-DailyNote/2022-09-26_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    "004-●日常生活/003-電腦知識/電腦知識.md"
   ]
 }
