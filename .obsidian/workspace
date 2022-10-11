@@ -13,7 +13,7 @@
               "leaf": "8a98ffe04d5aa6dd",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-10_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
             },
             {
               "leaf": "8a98ffe04d5aa6dd",
@@ -326,7 +326,7 @@
     "direction": "horizontal",
     "width": 420.5
   },
-  "active": "fe3c39a4541e59bd",
+  "active": "8a98ffe04d5aa6dd",
   "lastOpenFiles": [
     "006-DailyNote/2022-10-09_Sun.md",
     "006-DailyNote/2022-10-10_Mon.md",
