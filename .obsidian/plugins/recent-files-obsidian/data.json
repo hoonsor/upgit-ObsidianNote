@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "2022-10-11_Tue",
+      "path": "006-DailyNote/2022-10-11_Tue.md"
+    },
+    {
       "basename": "2022-10-10_Mon",
       "path": "006-DailyNote/2022-10-10_Mon.md"
     },
     {
       "basename": "2022-10-09_Sun",
       "path": "006-DailyNote/2022-10-09_Sun.md"
+    },
+    {
+      "basename": "2022-09-26_Mon",
+      "path": "006-DailyNote/2022-09-26_Mon.md"
     },
     {
       "basename": "1110906-Obsidian快捷鍵",
@@ -23,10 +35,6 @@
     {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "1110911-Excel VBA學習相關",
@@ -133,10 +141,6 @@
       "path": "006-DailyNote/2022-09-27_Tue.md"
     },
     {
-      "basename": "2022-09-26_Mon",
-      "path": "006-DailyNote/2022-09-26_Mon.md"
-    },
-    {
       "basename": "2022-09-25_Sun",
       "path": "006-DailyNote/2022-09-25_Sun.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AHK-GUI控件相關",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
-    },
-    {
-      "basename": "2022-09-14_Wed",
-      "path": "006-DailyNote/2022-09-14_Wed.md"
     }
   ],
   "omittedPaths": [],

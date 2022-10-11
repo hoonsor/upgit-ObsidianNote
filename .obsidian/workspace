@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8a98ffe04d5aa6dd",
+        "id": "db58d7e53fd1b955",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "8a98ffe04d5aa6dd",
+              "leaf": "db58d7e53fd1b955",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-10_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "8a98ffe04d5aa6dd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-09_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":0},\"to\":{\"line\":44,\"ch\":0}},\"scroll\":14.546299220912275}"
-            },
-            {
-              "leaf": "8a98ffe04d5aa6dd",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-10_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":10.997829755147299}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-10-10_Mon.md",
+            "file": "005-工作相關/●工作待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -184,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-10_Mon.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-10_Mon.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-10_Mon.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-10_Mon.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,17 +314,17 @@
     "direction": "horizontal",
     "width": 420.5
   },
-  "active": "fe3c39a4541e59bd",
+  "active": "db58d7e53fd1b955",
   "lastOpenFiles": [
-    "006-DailyNote/2022-10-09_Sun.md",
+    "006-DailyNote/2022-10-11_Tue.md",
     "006-DailyNote/2022-10-10_Mon.md",
+    "006-DailyNote/2022-10-09_Sun.md",
+    "006-DailyNote/2022-09-26_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
     "001-Template/Daily Note Template.md",
     "Pasted image 20221010204206.png",
-    "005-工作相關/●工作待辦事項.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "000-index/!dict.md"
+    "005-工作相關/●工作待辦事項.md"
   ]
 }
