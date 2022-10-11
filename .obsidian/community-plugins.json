@@ -29,7 +29,6 @@
   "templater-obsidian",
   "obsidian-find-and-replace-in-selection",
   "obsidian-tasks-plugin",
-  "obsidian-reminder-plugin",
   "obsidian-kanban",
   "obsidian-columns",
   "obsidian-image-toolkit",
@@ -44,5 +43,6 @@
   "review-obsidian",
   "nldates-obsidian",
   "markdown-table-editor",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-reminder-plugin"
 ]
