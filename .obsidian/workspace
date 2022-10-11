@@ -4,65 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "d88aa66e0505942c",
+        "id": "6b6a14ee995f3c31",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d88aa66e0505942c",
+              "leaf": "6b6a14ee995f3c31",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.311364916834062}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "d88aa66e0505942c",
+              "leaf": "6b6a14ee995f3c31",
               "group": null,
-              "state": "{\"type\":\"image\",\"state\":{\"file\":\"●投資理財及創業待辦事項_image_1.png\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "6b6a14ee995f3c31",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":4},\"to\":{\"line\":80,\"ch\":4}},\"scroll\":68.93309705962372}"
+            },
+            {
+              "leaf": "6b6a14ee995f3c31",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":181.89583333333334}"
+            },
+            {
+              "leaf": "6b6a14ee995f3c31",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "d88aa66e0505942c",
+              "leaf": "6b6a14ee995f3c31",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":0},\"to\":{\"line\":75,\"ch\":0}},\"scroll\":37.48414513732993}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":168.79591836734693}"
             },
             {
-              "leaf": "d88aa66e0505942c",
+              "leaf": "6b6a14ee995f3c31",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.97000784520926}"
-            },
-            {
-              "leaf": "d88aa66e0505942c",
-              "group": null,
-              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
-              "leaf": "d88aa66e0505942c",
+              "leaf": "6b6a14ee995f3c31",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":17},\"to\":{\"line\":26,\"ch\":17}},\"scroll\":8}"
-            },
-            {
-              "leaf": "d88aa66e0505942c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-11_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":16},\"to\":{\"line\":61,\"ch\":16}},\"scroll\":28.36603740433876}"
-            },
-            {
-              "leaf": "d88aa66e0505942c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":15},\"to\":{\"line\":31,\"ch\":15}},\"scroll\":25.706787236869896}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+            "file": "004-●日常生活/●日常生活待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -123,8 +123,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           },
@@ -249,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -357,17 +356,17 @@
     "width": 420.5,
     "collapsed": true
   },
-  "active": "d88aa66e0505942c",
+  "active": "6b6a14ee995f3c31",
   "lastOpenFiles": [
-    "●投資理財及創業待辦事項_image_1.png",
+    "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "006-DailyNote/2022-10-11_Tue.md",
+    "●投資理財及創業待辦事項_image_1.png",
     "004-●日常生活/●日常生活待辦事項.md",
     "●專案管理.md",
-    "006-DailyNote/2022-10-11_Tue.md",
-    "006-DailyNote/2022-10-10_Mon.md",
-    "006-DailyNote/2022-10-09_Sun.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    "006-DailyNote/2022-10-10_Mon.md"
   ]
 }
