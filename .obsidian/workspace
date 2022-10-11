@@ -13,7 +13,7 @@
               "leaf": "db58d7e53fd1b955",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":10.454976303317535}"
             },
             {
               "leaf": "db58d7e53fd1b955",
@@ -138,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 262
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -330,7 +330,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "active": "db58d7e53fd1b955",
   "lastOpenFiles": [
