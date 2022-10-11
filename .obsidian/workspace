@@ -4,65 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "6b6a14ee995f3c31",
+        "id": "9270b589936cb499",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "6b6a14ee995f3c31",
+              "leaf": "9270b589936cb499",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":43},\"to\":{\"line\":21,\"ch\":43}}}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":4},\"to\":{\"line\":80,\"ch\":4}},\"scroll\":68.93309705962372}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":181.89583333333334}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":168.79591836734693}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "6b6a14ee995f3c31",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-11_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":14},\"to\":{\"line\":47,\"ch\":14}},\"scroll\":27.189668973286945}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
+            "file": "006-DailyNote/2022-10-11_Tue.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7ef31cb9606cba9c",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "7ef31cb9606cba9c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2.053333282470703}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "004-●日常生活/●日常生活紀錄.md",
             "mode": "source",
             "source": false
           }
@@ -213,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日常生活紀錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "004-●日常生活/●日常生活紀錄.md"
               }
             }
           },
@@ -248,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日常生活紀錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日常生活紀錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,20 +334,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
-  "active": "6b6a14ee995f3c31",
+  "active": "7ef31cb9606cba9c",
   "lastOpenFiles": [
+    "006-DailyNote/2022-10-11_Tue.md",
+    "004-●日常生活/003-電腦知識/電腦知識.md",
+    "001-Template/Daily Note Template.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "006-DailyNote/2022-10-11_Tue.md",
-    "●投資理財及創業待辦事項_image_1.png",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "●專案管理.md",
-    "006-DailyNote/2022-10-10_Mon.md"
+    "●投資理財及創業待辦事項_image_1.png"
   ]
 }
