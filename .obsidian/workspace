@@ -13,7 +13,7 @@
               "leaf": "5b2cd4cac816c447",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-12_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":50},\"to\":{\"line\":39,\"ch\":50}},\"scroll\":25.32719964129941}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":11},\"to\":{\"line\":62,\"ch\":11}},\"scroll\":32.09999923228071}"
             }
           ]
         },
@@ -36,7 +36,7 @@
               "leaf": "72dff7c580b75466",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":62.625852000956634}"
             }
           ]
         },
@@ -339,6 +339,7 @@
   "active": "72dff7c580b75466",
   "lastOpenFiles": [
     "006-DailyNote/2022-10-12_Wed.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "★測試各類功能.md",
     "000-index/!dict.md",
@@ -346,7 +347,6 @@
     "004-●日常生活/●日常生活紀錄.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
     "006-DailyNote/2022-09-26_Mon.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "006-DailyNote/2022-10-11_Tue.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
   ]
 }
