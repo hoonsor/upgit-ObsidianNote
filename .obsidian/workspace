@@ -7,19 +7,19 @@
         "id": "f636e4bf853d5f5d",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "f636e4bf853d5f5d",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-12_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "f636e4bf853d5f5d",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":8.217730530030394}"
+              "eState": "{\"scroll\":10.099052685743116}"
             },
             {
               "leaf": "f636e4bf853d5f5d",
@@ -62,7 +62,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+            "file": "006-DailyNote/2022-10-12_Wed.md",
             "mode": "source",
             "source": false
           }
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+                "file": "006-DailyNote/2022-10-12_Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
+                "file": "006-DailyNote/2022-10-12_Wed.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+                "file": "006-DailyNote/2022-10-12_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+                "file": "006-DailyNote/2022-10-12_Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -353,13 +353,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "active": "f636e4bf853d5f5d",
   "lastOpenFiles": [
-    "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "004-●日常生活/●日常生活紀錄.md",
     "●專案管理.md",
