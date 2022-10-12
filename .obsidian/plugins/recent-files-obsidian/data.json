@@ -1,24 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
     },
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
+      "basename": "2022-09-26_Mon",
+      "path": "006-DailyNote/2022-09-26_Mon.md"
     },
     {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "2022-10-11_Tue",
+      "path": "006-DailyNote/2022-10-11_Tue.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
     },
     {
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
-      "basename": "2022-10-11_Tue",
-      "path": "006-DailyNote/2022-10-11_Tue.md"
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
     },
     {
       "basename": "2022-10-10_Mon",
@@ -29,24 +65,12 @@
       "path": "006-DailyNote/2022-10-09_Sun.md"
     },
     {
-      "basename": "2022-09-26_Mon",
-      "path": "006-DailyNote/2022-09-26_Mon.md"
-    },
-    {
       "basename": "1110906-Obsidian快捷鍵",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
-    },
-    {
       "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
       "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "1110911-Excel VBA學習相關",
@@ -101,18 +125,6 @@
       "path": "006-DailyNote/2022-10-03_Mon.md"
     },
     {
-      "basename": "Obsidian的任務管理技巧彙總",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
       "basename": "Daily Note Tasks",
       "path": "001-Template/Daily Note Tasks.md"
     },
@@ -165,18 +177,6 @@
       "path": "006-DailyNote/2022-09-21_Wed.md"
     },
     {
-      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
-    },
-    {
       "basename": "2022-09-20_Tue",
       "path": "006-DailyNote/2022-09-20_Tue.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "2022-09-15_Thu",
       "path": "006-DailyNote/2022-09-15_Thu.md"
-    },
-    {
-      "basename": "AHK-GUI控件相關",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
     }
   ],
   "omittedPaths": [],
