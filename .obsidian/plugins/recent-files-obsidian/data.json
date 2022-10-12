@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "1111012-WordPress架站心得",
+      "path": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
       "basename": "●專案管理",
       "path": "●專案管理.md"
     },
     {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "●投資理財及創業待辦事項",
@@ -23,10 +35,6 @@
     {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
       "basename": "Daily Note Template",
@@ -67,10 +75,6 @@
     {
       "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
       "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
-    },
-    {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "2022-09-26_Mon",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-16_Fri",
       "path": "006-DailyNote/2022-09-16_Fri.md"
-    },
-    {
-      "basename": "2022-09-15_Thu",
-      "path": "006-DailyNote/2022-09-15_Thu.md"
     }
   ],
   "omittedPaths": [],

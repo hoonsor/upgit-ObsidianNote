@@ -7,8 +7,32 @@
         "id": "f636e4bf853d5f5d",
         "type": "leaf",
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
+            {
+              "leaf": "f636e4bf853d5f5d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f636e4bf853d5f5d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":22},\"to\":{\"line\":15,\"ch\":22}},\"scroll\":8.217730530030394}"
+            },
+            {
+              "leaf": "f636e4bf853d5f5d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":82.74223034734918}"
+            },
+            {
+              "leaf": "f636e4bf853d5f5d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":58.99392239252726}"
+            },
             {
               "leaf": "f636e4bf853d5f5d",
               "group": null,
@@ -36,9 +60,11 @@
           ]
         },
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "●專案管理.md"
+            "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -187,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●專案管理.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●專案管理.md"
+                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
               }
             }
           },
@@ -222,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●專案管理.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●專案管理.md",
+                "file": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -332,15 +358,15 @@
   },
   "active": "f636e4bf853d5f5d",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
+    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "●專案管理.md",
+    "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "006-DailyNote/2022-10-12_Wed.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "001-Template/Daily Note Template.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md"
+    "001-Template/Daily Note Template.md"
   ]
 }
