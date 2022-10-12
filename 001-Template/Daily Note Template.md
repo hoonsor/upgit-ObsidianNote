@@ -32,8 +32,6 @@ if (week == 1 || week == 3 || week == 5 || week == 0) {
 ## 4. 筆記複習
 ### 4.1. 興趣、學習
 - [ ] [[●投資理財及創業待辦事項]](@<% tp.date.now() %> 20:30)
-- [ ] [[1110731-DataView插件筆記]](@<% tp.date.now() %> 20:35)
-- [ ] [[Obsidian的任務管理技巧彙總]](@<% tp.date.now() %> 20:38)
 - [ ] [[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]](@<% tp.date.now() %> 20:42)
 - [ ] [[WordPress學習及筆記]](@<% tp.date.now() %> 20:45)
 - [ ] [[1110906-Obsidian快捷鍵]](@<% tp.date.now() %> 20:48)
