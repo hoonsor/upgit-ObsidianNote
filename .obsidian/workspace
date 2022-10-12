@@ -35,8 +35,8 @@
             {
               "leaf": "0fe59d64d9215254",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":72.57351053078328}"
             }
           ]
         },
@@ -44,7 +44,7 @@
           "type": "markdown",
           "state": {
             "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
