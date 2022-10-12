@@ -13,7 +13,7 @@
               "leaf": "5b2cd4cac816c447",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-12_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":0},\"to\":{\"line\":42,\"ch\":0}},\"scroll\":23.426629012614338}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":50},\"to\":{\"line\":39,\"ch\":50}},\"scroll\":25.32719964129941}"
             }
           ]
         },
@@ -27,47 +27,24 @@
         }
       },
       {
-        "id": "af877b992081067a",
+        "id": "72dff7c580b75466",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "af877b992081067a",
+              "leaf": "72dff7c580b75466",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":152.015869140625}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+            "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
             "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f8ccbf9e2be99e94",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "f8ccbf9e2be99e94",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "★測試各類功能.md",
-            "mode": "source",
             "source": false
           }
         }
@@ -217,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
               }
             }
           },
@@ -252,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -359,12 +336,12 @@
     "direction": "horizontal",
     "width": 420.5
   },
-  "active": "f8ccbf9e2be99e94",
+  "active": "72dff7c580b75466",
   "lastOpenFiles": [
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "000-index/!dict.md",
-    "★測試各類功能.md",
     "006-DailyNote/2022-10-12_Wed.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "★測試各類功能.md",
+    "000-index/!dict.md",
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
     "004-●日常生活/●日常生活紀錄.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
