@@ -12,8 +12,8 @@
             {
               "leaf": "db58d7e53fd1b955",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":180.43364928909952}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":198,\"ch\":100},\"to\":{\"line\":198,\"ch\":100}},\"scroll\":25.898245614035087}"
             },
             {
               "leaf": "db58d7e53fd1b955",
@@ -45,7 +45,7 @@
           "type": "markdown",
           "state": {
             "file": "005-工作相關/●工作待辦事項.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
