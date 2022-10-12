@@ -12,14 +12,24 @@
             {
               "leaf": "d1b1f23a074b71cf",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d1b1f23a074b71cf",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         },
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -167,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +197,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+              }
             }
           },
           {
@@ -199,6 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,6 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -302,10 +317,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "active": "d1b1f23a074b71cf",
   "lastOpenFiles": [
+    "Untitled.md",
     "006-DailyNote/2022-10-12_Wed.md",
     "005-工作相關/法規紀錄測試.md",
     "005-工作相關/●工作待辦事項.md",
@@ -314,7 +331,6 @@
     "004-●日常生活/●日常生活紀錄.md",
     "006-DailyNote/2022-10-11_Tue.md",
     "006-DailyNote/2022-10-10_Mon.md",
-    "006-DailyNote/2022-10-09_Sun.md",
-    "006-DailyNote/2022-09-26_Mon.md"
+    "006-DailyNote/2022-10-09_Sun.md"
   ]
 }
