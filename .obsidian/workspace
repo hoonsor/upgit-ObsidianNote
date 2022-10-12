@@ -4,30 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b1f23a074b71cf",
+        "id": "5b2cd4cac816c447",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d1b1f23a074b71cf",
+              "leaf": "5b2cd4cac816c447",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d1b1f23a074b71cf",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-12_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":48},\"to\":{\"line\":38,\"ch\":48}},\"scroll\":23.426629012614338}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+            "file": "006-DailyNote/2022-10-12_Wed.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0fe59d64d9215254",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "0fe59d64d9215254",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -125,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -177,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
               }
             }
           },
@@ -212,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +280,7 @@
         "dimension": 39.540059347181014,
         "children": [
           {
-            "id": "160f3b019890d626",
+            "id": "26789cd53172f5d5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -284,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,20 +334,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
-  "active": "d1b1f23a074b71cf",
+  "active": "0fe59d64d9215254",
   "lastOpenFiles": [
-    "Untitled.md",
     "006-DailyNote/2022-10-12_Wed.md",
-    "005-工作相關/法規紀錄測試.md",
-    "005-工作相關/●工作待辦事項.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "004-●日常生活/●日常生活紀錄.md",
+    "004-●日常生活/003-電腦知識/電腦知識.md",
+    "★測試各類功能.md",
+    "006-DailyNote/2022-09-26_Mon.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
     "006-DailyNote/2022-10-11_Tue.md",
-    "006-DailyNote/2022-10-10_Mon.md",
-    "006-DailyNote/2022-10-09_Sun.md"
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "001-Template/Daily Note Template.md",
+    "004-●日常生活/●日常生活待辦事項.md"
   ]
 }
