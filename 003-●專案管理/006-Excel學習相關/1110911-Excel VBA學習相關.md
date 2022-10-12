@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Monday, October 10th 2022, 4:22:21 pm
+modified: Wednesday, October 12th 2022, 7:29:14 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -95,7 +95,7 @@ Dim 新郵件 As MailItem
 ## 4. 運算子
 ### 4.1. Mod 運算子
 %% 回傳餘數 %%
-```
+```VB
 result = number1 Mod number2
 ```
 number1 是被除數 number2 是除數，回傳餘數

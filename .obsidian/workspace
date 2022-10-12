@@ -13,7 +13,7 @@
               "leaf": "5b2cd4cac816c447",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-12_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":48},\"to\":{\"line\":38,\"ch\":48}},\"scroll\":23.426629012614338}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":0},\"to\":{\"line\":42,\"ch\":0}},\"scroll\":23.426629012614338}"
             }
           ]
         },
@@ -27,23 +27,46 @@
         }
       },
       {
-        "id": "0fe59d64d9215254",
+        "id": "af877b992081067a",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "0fe59d64d9215254",
+              "leaf": "af877b992081067a",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":72.57351053078328}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":152.015869140625}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+            "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f8ccbf9e2be99e94",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f8ccbf9e2be99e94",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "★測試各類功能.md",
             "mode": "source",
             "source": false
           }
@@ -194,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+                "file": "★測試各類功能.md"
               }
             }
           },
@@ -229,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,17 +359,17 @@
     "direction": "horizontal",
     "width": 420.5
   },
-  "active": "0fe59d64d9215254",
+  "active": "f8ccbf9e2be99e94",
   "lastOpenFiles": [
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "000-index/!dict.md",
+    "★測試各類功能.md",
     "006-DailyNote/2022-10-12_Wed.md",
+    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
     "004-●日常生活/●日常生活紀錄.md",
     "004-●日常生活/003-電腦知識/電腦知識.md",
-    "★測試各類功能.md",
     "006-DailyNote/2022-09-26_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md",
-    "006-DailyNote/2022-10-11_Tue.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "001-Template/Daily Note Template.md",
-    "004-●日常生活/●日常生活待辦事項.md"
+    "006-DailyNote/2022-10-11_Tue.md"
   ]
 }
