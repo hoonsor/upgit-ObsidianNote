@@ -13,7 +13,7 @@
               "leaf": "cac8fc4e06eb7780",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法-1080605.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}},\"scroll\":10.70677599009901}"
+              "eState": "{\"scroll\":4.545454545454545}"
             },
             {
               "leaf": "cac8fc4e06eb7780",
@@ -318,8 +318,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 297.5
   },
   "active": "cac8fc4e06eb7780",
   "lastOpenFiles": [
