@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
     },
     {
       "basename": "法規紀錄測試",
@@ -43,10 +55,6 @@
     {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "●專案管理",
@@ -191,14 +199,6 @@
     {
       "basename": "2022-09-22_Thu",
       "path": "006-DailyNote/2022-09-22_Thu.md"
-    },
-    {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "basename": "2022-09-21_Wed",
-      "path": "006-DailyNote/2022-09-21_Wed.md"
     }
   ],
   "omittedPaths": [],
