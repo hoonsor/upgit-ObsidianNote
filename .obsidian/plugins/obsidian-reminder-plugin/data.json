@@ -3,79 +3,74 @@
   "reminders": {
     "006-DailyNote/2022-10-13_Thu.md": [
       {
-        "title": "[[●投資理財及創業待辦事項]]",
-        "time": "2022-10-13 20:30",
-        "rowNumber": 24
-      },
-      {
-        "title": "[[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]",
-        "time": "2022-10-13 20:42",
-        "rowNumber": 25
-      },
-      {
-        "title": "[[WordPress學習及筆記]]",
-        "time": "2022-10-13 20:45",
-        "rowNumber": 26
-      },
-      {
-        "title": "[[1110906-Obsidian快捷鍵]]",
-        "time": "2022-10-13 20:48",
-        "rowNumber": 27
-      },
-      {
-        "title": "[[1110911-Excel快速合併寄送郵件]]",
-        "time": "2022-10-13 20:50",
-        "rowNumber": 28
-      },
-      {
-        "title": "[[1110911-Excel VBA學習相關]]",
-        "time": "2022-10-13 20:52",
-        "rowNumber": 29
-      },
-      {
-        "title": "[[1110717-能量運動指南]]",
-        "time": "2022-10-13 20:55",
-        "rowNumber": 33
-      },
-      {
-        "title": "[[電腦知識]]",
-        "time": "2022-10-13 20:57",
-        "rowNumber": 40
-      },
-      {
-        "title": "在學校使用膝蓋熱敷器",
-        "time": "2022-10-13 11:00",
-        "rowNumber": 44
-      },
-      {
         "title": "使用呼吸訓練器",
         "time": "2022-10-13 17:30",
-        "rowNumber": 45
+        "rowNumber": 53
       },
       {
         "title": "吃維他命",
         "time": "2022-10-13 20:00",
-        "rowNumber": 46
+        "rowNumber": 54
+      },
+      {
+        "title": "[[●投資理財及創業待辦事項]]",
+        "time": "2022-10-13 20:30",
+        "rowNumber": 32
+      },
+      {
+        "title": "[[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]",
+        "time": "2022-10-13 20:42",
+        "rowNumber": 33
+      },
+      {
+        "title": "[[WordPress學習及筆記]]",
+        "time": "2022-10-13 20:45",
+        "rowNumber": 34
+      },
+      {
+        "title": "[[1110906-Obsidian快捷鍵]]",
+        "time": "2022-10-13 20:48",
+        "rowNumber": 35
+      },
+      {
+        "title": "[[1110911-Excel快速合併寄送郵件]]",
+        "time": "2022-10-13 20:50",
+        "rowNumber": 36
+      },
+      {
+        "title": "[[1110911-Excel VBA學習相關]]",
+        "time": "2022-10-13 20:52",
+        "rowNumber": 37
+      },
+      {
+        "title": "[[1110717-能量運動指南]]",
+        "time": "2022-10-13 20:55",
+        "rowNumber": 41
+      },
+      {
+        "title": "[[電腦知識]]",
+        "time": "2022-10-13 20:57",
+        "rowNumber": 48
       },
       {
         "title": "吊單槓 10 秒",
         "time": "2022-10-13 21:03",
-        "rowNumber": 47
+        "rowNumber": 55
       },
       {
         "title": "使用生髮水",
         "time": "2022-10-13 21:05",
-        "rowNumber": 48
+        "rowNumber": 56
       },
       {
         "title": "使用瘦臉器",
         "time": "2022-10-13 21:30",
-        "rowNumber": 49
+        "rowNumber": 57
       },
       {
         "title": "電療額頭",
         "time": "2022-10-13 21:40",
-        "rowNumber": 50
+        "rowNumber": 58
       }
     ]
   },
