@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-10-12_Wed",
       "path": "006-DailyNote/2022-10-12_Wed.md"
     },
     {
       "basename": "1111012-WordPress架站心得",
       "path": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "WordPress學習及筆記",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-18_Sun",
       "path": "006-DailyNote/2022-09-18_Sun.md"
-    },
-    {
-      "basename": "2022-09-16_Fri",
-      "path": "006-DailyNote/2022-09-16_Fri.md"
     }
   ],
   "omittedPaths": [],

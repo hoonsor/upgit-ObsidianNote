@@ -12,8 +12,14 @@
             {
               "leaf": "f636e4bf853d5f5d",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":19},\"to\":{\"line\":78,\"ch\":19}},\"scroll\":58.90529010762974}"
+            },
+            {
+              "leaf": "f636e4bf853d5f5d",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-12_Wed.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":3},\"to\":{\"line\":0,\"ch\":3}}}"
+              "eState": "{}"
             },
             {
               "leaf": "f636e4bf853d5f5d",
@@ -62,7 +68,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "006-DailyNote/2022-10-12_Wed.md",
+            "file": "004-●日常生活/●日常生活待辦事項.md",
             "mode": "source",
             "source": false
           }
@@ -213,7 +219,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-12_Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,9 +238,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "006-DailyNote/2022-10-12_Wed.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,7 +251,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-12_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +322,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-12_Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -357,15 +358,15 @@
   },
   "active": "f636e4bf853d5f5d",
   "lastOpenFiles": [
-    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+    "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
+    "006-DailyNote/2022-10-12_Wed.md",
+    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "004-●日常生活/●日常生活紀錄.md",
     "●專案管理.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "006-DailyNote/2022-10-12_Wed.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "001-Template/Daily Note Template.md"
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
   ]
 }
