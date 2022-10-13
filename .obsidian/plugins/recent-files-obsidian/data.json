@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
       "basename": "教師法",
       "path": "教師法.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "正則表達式",
@@ -195,10 +195,6 @@
     {
       "basename": "2022-09-23_Fri",
       "path": "006-DailyNote/2022-09-23_Fri.md"
-    },
-    {
-      "basename": "2022-09-22_Thu",
-      "path": "006-DailyNote/2022-09-22_Thu.md"
     }
   ],
   "omittedPaths": [],
