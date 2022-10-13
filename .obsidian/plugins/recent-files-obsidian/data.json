@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "●激勵影片",
+      "path": "004-●日常生活/●激勵影片.md"
+    },
+    {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "Obsidian概述",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+    },
+    {
       "basename": "教師法",
       "path": "教師法.md"
     },
@@ -9,12 +33,12 @@
       "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
     },
     {
-      "basename": "法規紀錄測試",
-      "path": "005-工作相關/法規紀錄測試.md"
-    },
-    {
       "basename": "2022-10-13_Thu",
       "path": "006-DailyNote/2022-10-13_Thu.md"
+    },
+    {
+      "basename": "法規紀錄測試",
+      "path": "005-工作相關/法規紀錄測試.md"
     },
     {
       "basename": "●日常生活待辦事項",
@@ -91,14 +115,6 @@
     {
       "basename": "1110911-Excel VBA學習相關",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
     },
     {
       "basename": "2022-09-26_Mon",
@@ -183,18 +199,6 @@
     {
       "basename": "2022-09-27_Tue",
       "path": "006-DailyNote/2022-09-27_Tue.md"
-    },
-    {
-      "basename": "2022-09-25_Sun",
-      "path": "006-DailyNote/2022-09-25_Sun.md"
-    },
-    {
-      "basename": "2022-09-24_Sat",
-      "path": "006-DailyNote/2022-09-24_Sat.md"
-    },
-    {
-      "basename": "2022-09-23_Fri",
-      "path": "006-DailyNote/2022-09-23_Fri.md"
     }
   ],
   "omittedPaths": [],

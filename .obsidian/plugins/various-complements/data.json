@@ -136,8 +136,8 @@
     "-br": {
       "粗體紅字 ": {
         "customDictionary": {
-          "count": 16,
-          "lastUpdated": 1665403918554
+          "count": 17,
+          "lastUpdated": 1665648787541
         }
       }
     },
@@ -154,6 +154,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1665502102229
+        }
+      }
+    },
+    "-bg": {
+      "粗體綠字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665648808463
+        }
+      }
+    },
+    "-0m": {
+      "褐紅底白字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1665648824049
         }
       }
     }

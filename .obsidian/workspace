@@ -4,141 +4,111 @@
     "type": "split",
     "children": [
       {
-        "id": "69a4ec05caf797df",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+        "id": "ba26ad6508096ef7",
+        "type": "split",
+        "children": [
+          {
+            "id": "263f45965950b12d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":37},\"to\":{\"line\":14,\"ch\":37}},\"scroll\":77.15104166666667}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":48.117283950617285}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●激勵影片.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":4.166666666666667}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●子彈筆記.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"scroll\":37.09478672985782}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":55},\"to\":{\"line\":53,\"ch\":55}},\"scroll\":43.845052083333336}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "leaf": "263f45965950b12d",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000-index/!dict.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":23},\"to\":{\"line\":69,\"ch\":23}},\"scroll\":51.984375}"
+                }
+              ]
             },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}},\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/法規紀錄測試.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-13_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":73,\"ch\":0},\"to\":{\"line\":73,\"ch\":0}},\"scroll\":48.040284360189574}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●日常生活待辦事項^999.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":18.599020293911828}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●日常生活待辦事項^123.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":22.150473933649288}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":21},\"to\":{\"line\":38,\"ch\":21}},\"scroll\":30.246445497630333}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":22},\"to\":{\"line\":55,\"ch\":22}},\"scroll\":101.033203125}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/正則表達式.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":63},\"to\":{\"line\":50,\"ch\":63}},\"scroll\":0}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":40.54739336492891}"
-            },
-            {
-              "leaf": "69a4ec05caf797df",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":102.87438768369489}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-index/!dict.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "教師法.md",
-            "mode": "source",
-            "source": false
+          },
+          {
+            "id": "cac8fc4e06eb7780",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "cac8fc4e06eb7780",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":219},\"to\":{\"line\":72,\"ch\":219}},\"scroll\":69.90865384615384}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★測試各類功能.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -186,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:表達",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,8 +165,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -286,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "教師法.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "教師法.md"
+                "file": "★測試各類功能.md"
               }
             }
           },
@@ -321,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "教師法.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -393,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "教師法.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -429,17 +398,17 @@
     "width": 420.5,
     "collapsed": true
   },
-  "active": "69a4ec05caf797df",
+  "active": "cac8fc4e06eb7780",
   "lastOpenFiles": [
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
-    "005-工作相關/法規紀錄測試.md",
-    "006-DailyNote/2022-10-13_Thu.md",
+    "000-index/!dict.md",
+    "★測試各類功能.md",
+    "004-●日常生活/●激勵影片.md",
+    "●日常生活.md",
+    "●子彈筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md",
     "教師法.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "●日常生活待辦事項^999.md",
-    "●日常生活待辦事項^123.md",
-    "005-工作相關/●工作待辦事項.md",
-    "●首頁.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+    "006-DailyNote/2022-10-13_Thu.md",
+    "005-工作相關/法規紀錄測試.md"
   ]
 }
