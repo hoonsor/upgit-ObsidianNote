@@ -47,23 +47,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dad1eb204b657e5c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -358,7 +343,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dad1eb204b657e5c",
+  "active": "232e4976928dd9ff",
   "lastOpenFiles": [
     "教師法.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
