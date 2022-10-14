@@ -4,22 +4,42 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "84cc9c3ddcec61a7",
+=======
+        "id": "8178fae93b762c41",
+>>>>>>> origin/main
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
+<<<<<<< HEAD
               "leaf": "84cc9c3ddcec61a7",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
+=======
+              "leaf": "8178fae93b762c41",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-13_Thu.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+>>>>>>> origin/main
             }
           ]
         },
         "state": {
+<<<<<<< HEAD
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "006-DailyNote/2022-10-13_Thu.md",
+            "mode": "source",
+            "source": false
+          }
+>>>>>>> origin/main
         }
       }
     ],
@@ -68,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:電腦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -116,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -303,8 +322,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 420.5
   },
+<<<<<<< HEAD
   "active": "84cc9c3ddcec61a7",
   "lastOpenFiles": [
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
@@ -317,5 +337,19 @@
     "●子彈筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md",
     "006-DailyNote/2022-10-13_Thu.md"
+=======
+  "active": "8178fae93b762c41",
+  "lastOpenFiles": [
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-10-12_Wed.md",
+    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "●專案管理.md",
+    "005-工作相關/●工作待辦事項.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+>>>>>>> origin/main
   ]
 }
