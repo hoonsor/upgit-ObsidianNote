@@ -4,58 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9298b3f3212f0967",
+        "id": "9e1274bc552c047b",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "9298b3f3212f0967",
+              "leaf": "9e1274bc552c047b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":16.584449404761905}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9298b3f3212f0967",
+              "leaf": "9e1274bc552c047b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":21},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":10.32153965785381}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "9298b3f3212f0967",
+              "leaf": "9e1274bc552c047b",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":9.340471092077088}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9e1274bc552c047b",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/1110810-新進教師研習.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":63},\"to\":{\"line\":12,\"ch\":63}}}"
+            },
+            {
+              "leaf": "9e1274bc552c047b",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "教師法.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "867031f3650a1bd6",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "867031f3650a1bd6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":34},\"to\":{\"line\":15,\"ch\":34}},\"scroll\":4.545454545454545}"
-            }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+            "file": "Untitled 1.md",
             "mode": "source",
             "source": false
           }
@@ -116,8 +105,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -207,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -242,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "Untitled 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -349,17 +337,17 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "867031f3650a1bd6",
+  "active": "9e1274bc552c047b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "005-工作相關/1110810-新進教師研習.md",
+    "●專案管理.md",
     "教師法.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "006-DailyNote/2022-10-14_Fri.md",
-    "Untitled.md",
     "000-index/!dict.md",
     "★測試各類功能.md",
-    "004-●日常生活/●激勵影片.md",
-    "●日常生活.md",
-    "●子彈筆記.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+    "004-●日常生活/●激勵影片.md"
   ]
 }
