@@ -1,16 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-10-13_Thu",
-      "path": "006-DailyNote/2022-10-13_Thu.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "●高中以下人事法規彙整",
       "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
     },
     {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "2022-10-14_Fri",
+      "path": "006-DailyNote/2022-10-14_Fri.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "教師法",
+      "path": "教師法.md"
+    },
+    {
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
+      "basename": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
+      "basename": "Daily Note Tasks",
+      "path": "001-Template/Daily Note Tasks.md"
+    },
+    {
+      "basename": "1110810-新進教師研習",
+      "path": "005-工作相關/1110810-新進教師研習.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "●激勵影片",
+      "path": "004-●日常生活/●激勵影片.md"
+    },
+    {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "Obsidian概述",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md"
+    },
+    {
+      "basename": "2022-10-13_Thu",
+      "path": "006-DailyNote/2022-10-13_Thu.md"
+    },
+    {
+      "basename": "法規紀錄測試",
+      "path": "005-工作相關/法規紀錄測試.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
+    },
+    {
+      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
+      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
     },
     {
       "basename": "2022-10-12_Wed",
@@ -25,28 +113,8 @@
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "Obsidian的任務管理技巧彙總",
@@ -71,18 +139,6 @@
     {
       "basename": "1110911-Excel VBA學習相關",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
-      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
     },
     {
       "basename": "2022-09-26_Mon",
@@ -141,64 +197,8 @@
       "path": "006-DailyNote/2022-10-03_Mon.md"
     },
     {
-      "basename": "Daily Note Tasks",
-      "path": "001-Template/Daily Note Tasks.md"
-    },
-    {
       "basename": "1110925-老屋翻修估價相關",
       "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
-    },
-    {
-      "basename": "2022-10-02_Sun",
-      "path": "006-DailyNote/2022-10-02_Sun.md"
-    },
-    {
-      "basename": "2022-09-30_Fri",
-      "path": "006-DailyNote/2022-09-30_Fri.md"
-    },
-    {
-      "basename": "2022-09-29_Thu",
-      "path": "006-DailyNote/2022-09-29_Thu.md"
-    },
-    {
-      "basename": "2022-09-28_Wed",
-      "path": "006-DailyNote/2022-09-28_Wed.md"
-    },
-    {
-      "basename": "2022-09-27_Tue",
-      "path": "006-DailyNote/2022-09-27_Tue.md"
-    },
-    {
-      "basename": "2022-09-25_Sun",
-      "path": "006-DailyNote/2022-09-25_Sun.md"
-    },
-    {
-      "basename": "2022-09-24_Sat",
-      "path": "006-DailyNote/2022-09-24_Sat.md"
-    },
-    {
-      "basename": "2022-09-23_Fri",
-      "path": "006-DailyNote/2022-09-23_Fri.md"
-    },
-    {
-      "basename": "2022-09-22_Thu",
-      "path": "006-DailyNote/2022-09-22_Thu.md"
-    },
-    {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "basename": "2022-09-21_Wed",
-      "path": "006-DailyNote/2022-09-21_Wed.md"
-    },
-    {
-      "basename": "2022-09-20_Tue",
-      "path": "006-DailyNote/2022-09-20_Tue.md"
-    },
-    {
-      "basename": "2022-09-19_Mon",
-      "path": "006-DailyNote/2022-09-19_Mon.md"
     }
   ],
   "omittedPaths": [],
