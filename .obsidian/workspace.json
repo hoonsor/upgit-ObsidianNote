@@ -4,45 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "232e4976928dd9ff",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "232e4976928dd9ff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":31},\"to\":{\"line\":10,\"ch\":31}}}"
+        "id": "5a2e230832ee98ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232e4976928dd9ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "232e4976928dd9ff",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":31},\"to\":{\"line\":10,\"ch\":31}}}"
+                },
+                {
+                  "leaf": "232e4976928dd9ff",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "232e4976928dd9ff",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "leaf": "232e4976928dd9ff",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
             },
-            {
-              "leaf": "232e4976928dd9ff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "232e4976928dd9ff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "232e4976928dd9ff",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled 1.md",
-            "mode": "source",
-            "source": false
+          },
+          {
+            "id": "dad1eb204b657e5c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +86,9 @@
             },
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -332,7 +355,10 @@
     "width": 297.5,
     "collapsed": true
   },
-  "active": "232e4976928dd9ff",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "dad1eb204b657e5c",
   "lastOpenFiles": [
     "教師法.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
