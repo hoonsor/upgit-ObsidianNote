@@ -4,7 +4,6 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "565d31d6596f31e9",
         "type": "tabs",
         "children": [
@@ -25,47 +24,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-10-13_Thu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce37134806f0f0f2",
-=======
-        "id": "772e46fc1f15f405",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb657da5522348e3",
->>>>>>> origin/main
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-<<<<<<< HEAD
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-=======
-              "type": "markdown",
-              "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-10-14_Fri.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
->>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -115,11 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "file:電腦",
-=======
-                "query": "",
->>>>>>> origin/main
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,11 +127,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 322
-=======
-    "width": 278
->>>>>>> origin/main
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -222,10 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "005-工作相關/●工作待辦事項.md",
->>>>>>> origin/main
+                "file": "006-DailyNote/2022-10-14_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,13 +199,9 @@
             },
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "006-DailyNote/2022-10-14_Fri.md"
               }
->>>>>>> origin/main
             }
           },
           {
@@ -264,10 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "005-工作相關/●工作待辦事項.md",
->>>>>>> origin/main
+                "file": "006-DailyNote/2022-10-14_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,10 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "005-工作相關/●工作待辦事項.md",
->>>>>>> origin/main
+                "file": "006-DailyNote/2022-10-14_Fri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -375,42 +319,22 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 420.5
-=======
-    "width": 297.5,
-    "collapsed": true
->>>>>>> origin/main
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-<<<<<<< HEAD
-  "active": "ce37134806f0f0f2",
+  "active": "8178fae93b762c41",
   "lastOpenFiles": [
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "006-DailyNote/2022-10-14_Fri.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "004-●日常生活/003-電腦知識/電腦知識.md",
     "006-DailyNote/2022-10-13_Thu.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-10-12_Wed.md",
-    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "●專案管理.md",
-    "005-工作相關/●工作待辦事項.md"
-=======
-  "active": "bb657da5522348e3",
-  "lastOpenFiles": [
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "●首頁.md",
-    "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-10-14_Fri.md",
-    "Untitled 1.md",
-    "教師法.md",
-    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
-    "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md",
-    "001-Template/Daily Note Template.md"
->>>>>>> origin/main
+    "006-DailyNote/2022-10-12_Wed.md"
   ]
 }
