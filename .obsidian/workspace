@@ -4,38 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "11a3ac3bc3b8ef7c",
+        "id": "84cc9c3ddcec61a7",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "11a3ac3bc3b8ef7c",
+              "leaf": "84cc9c3ddcec61a7",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "11a3ac3bc3b8ef7c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":647,\"ch\":9},\"to\":{\"line\":647,\"ch\":9}},\"scroll\":636.1941813261163}"
-            },
-            {
-              "leaf": "11a3ac3bc3b8ef7c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"教師法-1080605.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":27},\"to\":{\"line\":12,\"ch\":27}},\"scroll\":1.0454545454545454}"
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -184,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,9 +187,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,7 +200,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +271,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,8 +305,9 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "11a3ac3bc3b8ef7c",
+  "active": "84cc9c3ddcec61a7",
   "lastOpenFiles": [
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "Untitled.md",
     "教師法-1080605.md",
     "000-index/!dict.md",
@@ -336,7 +316,6 @@
     "●日常生活.md",
     "●子彈筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md",
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "006-DailyNote/2022-10-13_Thu.md"
   ]
 }
