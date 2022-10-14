@@ -13,7 +13,7 @@
               "leaf": "9e1274bc552c047b",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled 1.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":26.706454121306376}"
             },
             {
               "leaf": "9e1274bc552c047b",
@@ -335,7 +335,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "active": "9e1274bc552c047b",
   "lastOpenFiles": [
