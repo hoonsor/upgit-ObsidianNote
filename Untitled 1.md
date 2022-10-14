@@ -1,12 +1,3 @@
----
-parent: 
-sibling: 
-child: 
-obsidianUIMode: 
-created: Friday, October 14th 2022, 8:51:22 am
-modified: Friday, October 14th 2022, 8:51:40 am
----
-# Untitled 1
 > #h/maroon ==第 一 章 總則==^10
 > #h/maroon ==第 一 節 通例==^10
 ## 1. 第 1 條
