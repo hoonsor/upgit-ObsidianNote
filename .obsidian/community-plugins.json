@@ -17,7 +17,6 @@
   "obsidian-mind-map",
   "number-headings-obsidian",
   "obsidian-outliner",
-  "pane-relief",
   "recent-files-obsidian",
   "obsidian-shellcommands",
   "obsidian-show-file-path",
@@ -44,5 +43,6 @@
   "nldates-obsidian",
   "markdown-table-editor",
   "better-word-count",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "pane-relief"
 ]

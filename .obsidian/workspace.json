@@ -22,8 +22,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e27a898da975a67e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "104bc1eb457b4cf3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -207,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +308,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,17 +346,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bb657da5522348e3",
+  "active": "104bc1eb457b4cf3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "005-工作相關/●工作待辦事項.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
     "●首頁.md",
-    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-10-14_Fri.md",
     "Untitled 1.md",
     "教師法.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
-    "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md",
-    "001-Template/Daily Note Template.md"
+    "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
   ]
 }
