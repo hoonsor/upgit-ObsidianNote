@@ -39,6 +39,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "★測試各類功能",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":12},\"to\":{\"line\":85,\"ch\":12}},\"scroll\":76.33990183546346}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -55,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -286,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "●首頁.md"
               }
             }
           },
@@ -331,7 +337,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,7 +383,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,8 +422,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "26789cd53172f5d5",
+  "active": "06f3a2fe169c553a",
   "lastOpenFiles": [
+    "★測試各類功能.md",
     "●首頁.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
@@ -426,7 +433,6 @@
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-10-14_Fri.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    "006-DailyNote/2022-10-14_Fri.md"
   ]
 }
