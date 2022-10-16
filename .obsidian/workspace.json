@@ -12,7 +12,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "markdown",
@@ -28,12 +33,29 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":30.977272727272727}"
+                },
+                {
+                  "title": "●高中以下人事法規彙整",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":6},\"to\":{\"line\":21,\"ch\":6}},\"scroll\":0}"
+                }
+              ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+                "file": "★測試各類功能.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +81,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "file-explorer",
@@ -73,7 +100,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "recent-files",
@@ -85,7 +117,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "search",
@@ -111,7 +148,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "starred",
@@ -123,7 +165,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "tag",
@@ -153,7 +200,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "calendar",
@@ -165,7 +217,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "advanced-tables-toolbar",
@@ -175,6 +232,15 @@
           {
             "id": "67a9990d596fae9b",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "BC-matrix",
               "state": {}
@@ -185,7 +251,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "BC-tree",
@@ -205,12 +276,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,12 +302,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "★測試各類功能.md"
               }
             }
           },
@@ -240,12 +321,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +350,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "reminder-list",
@@ -276,12 +367,17 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -314,12 +410,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 420.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0ca561f2d506290d",
+  "active": "26789cd53172f5d5",
   "lastOpenFiles": [
     "●首頁.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
