@@ -5,6 +5,10 @@
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
+      "basename": "2022-10-16_Sun",
+      "path": "006-DailyNote/2022-10-16_Sun.md"
+    },
+    {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-22_Thu",
       "path": "006-DailyNote/2022-09-22_Thu.md"
-    },
-    {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
     }
   ],
   "omittedPaths": [],
