@@ -342,9 +342,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e9507294602dbe3b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "cbed48977d048501",
@@ -416,13 +424,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 420.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "06f3a2fe169c553a",
+  "active": "87952d7fb3f0c20e",
   "lastOpenFiles": [
     "★測試各類功能.md",
     "●首頁.md",
