@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "●高中以下人事法規彙整",
+      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "校長遴選座談會及後續工作",
+      "path": "005-工作相關/●已完成/校長遴選座談會及後續工作.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
+      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
@@ -33,20 +57,12 @@
       "path": "006-DailyNote/2022-10-13_Thu.md"
     },
     {
-      "basename": "●高中以下人事法規彙整",
-      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
-    },
-    {
       "basename": "2022-10-12_Wed",
       "path": "006-DailyNote/2022-10-12_Wed.md"
     },
     {
       "basename": "1111012-WordPress架站心得",
       "path": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     },
     {
       "basename": "●專案管理",
@@ -79,14 +95,6 @@
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
-      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
     },
     {
       "basename": "2022-09-26_Mon",
@@ -191,14 +199,6 @@
     {
       "basename": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "basename": "2022-09-21_Wed",
-      "path": "006-DailyNote/2022-09-21_Wed.md"
-    },
-    {
-      "basename": "2022-09-20_Tue",
-      "path": "006-DailyNote/2022-09-20_Tue.md"
     }
   ],
   "omittedPaths": [],

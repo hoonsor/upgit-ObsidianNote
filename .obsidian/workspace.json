@@ -17,13 +17,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06f3a2fe169c553a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
               }
             }
           },
@@ -207,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +296,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,17 +334,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "df295c4a234b4665",
+  "active": "06f3a2fe169c553a",
   "lastOpenFiles": [
+    "●首頁.md",
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "005-工作相關/●已完成/校長遴選座談會及後續工作.md",
+    "000-index/!dict.md",
+    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-10-14_Fri.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "006-DailyNote/2022-10-13_Thu.md",
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "conflict-files-obsidian-git.md"
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
   ]
 }
