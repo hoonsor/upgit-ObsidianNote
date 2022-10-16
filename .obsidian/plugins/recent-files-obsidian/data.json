@@ -5,6 +5,10 @@
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
       "basename": "1110911-Excel VBA學習相關",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "Obsidian的任務管理技巧彙總",

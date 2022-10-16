@@ -62,6 +62,33 @@
             }
           },
           {
+            "id": "a503aa992a366df4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Daily Note Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":31},\"to\":{\"line\":47,\"ch\":31}},\"scroll\":30.587239424387615}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "06f3a2fe169c553a",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -101,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -470,8 +497,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "aaaa5ad08a2ea012",
+  "active": "a503aa992a366df4",
   "lastOpenFiles": [
+    "001-Template/Daily Note Template.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "●首頁.md",
     "006-DailyNote/2022-10-14_Fri.md",
@@ -479,8 +508,6 @@
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "005-工作相關/●已完成/校長遴選座談會及後續工作.md",
-    "000-index/!dict.md",
-    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-    "004-●日常生活/●日常生活待辦事項.md"
+    "000-index/!dict.md"
   ]
 }
