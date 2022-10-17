@@ -43,12 +43,8 @@
               "stack": []
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -201,7 +197,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,9 +216,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,7 +229,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +300,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
