@@ -3,44 +3,14 @@
   "reminders": {
     "006-DailyNote/2022-10-17_Mon.md": [
       {
-        "title": "[[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]",
-        "time": "2022-10-17 20:42",
-        "rowNumber": 34
-      },
-      {
-        "title": "[[1110911-Excel快速合併寄送郵件]]",
-        "time": "2022-10-17 20:50",
-        "rowNumber": 37
-      },
-      {
-        "title": "[[1110911-Excel VBA學習相關]]",
-        "time": "2022-10-17 20:52",
-        "rowNumber": 38
-      },
-      {
-        "title": "[[1110717-能量運動指南]]",
-        "time": "2022-10-17 20:55",
-        "rowNumber": 42
-      },
-      {
         "title": "吊單槓 10 秒",
         "time": "2022-10-17 21:03",
-        "rowNumber": 54
+        "rowNumber": 52
       },
       {
         "title": "使用瘦臉器",
         "time": "2022-10-17 21:30",
-        "rowNumber": 56
-      },
-      {
-        "title": "使用雷射帽",
-        "time": "2022-10-17 21:35",
-        "rowNumber": 57
-      },
-      {
-        "title": "電療額頭",
-        "time": "2022-10-17 21:40",
-        "rowNumber": 58
+        "rowNumber": 54
       }
     ]
   },
