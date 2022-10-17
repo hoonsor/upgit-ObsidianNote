@@ -50,8 +50,10 @@
   "minimal-style@@h3-color@@dark": "#FFA405",
   "minimal-style@@blockquote-color@@dark": "#C09054",
   "minimal-style@@bg2@@dark": "#000000",
-  "minimal-style@@bg3@@dark": "#40493B",
-  "minimal-style@@ui1@@dark": "#476F41",
+  "minimal-style@@bg3@@dark": "#492424",
+  "minimal-style@@ui1@@dark": "#6B7BD2",
   "minimal-style@@ui2@@dark": "#A773AC",
-  "minimal-style@@workspace-background-translucent@@dark": "#FF0000"
+  "minimal-style@@workspace-background-translucent@@dark": "#000000",
+  "minimal-style@@frame-background@@dark": "#00FFDB",
+  "minimal-style@@titlebar-text-color@@dark": "#000000"
 }

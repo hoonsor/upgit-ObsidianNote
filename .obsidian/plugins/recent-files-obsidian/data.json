@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
       "basename": "2022-10-17_Mon",
       "path": "006-DailyNote/2022-10-17_Mon.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●投資理財及創業待辦事項",
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "●美食",
@@ -23,10 +35,6 @@
     {
       "basename": "2022-10-16_Sun",
       "path": "006-DailyNote/2022-10-16_Sun.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
       "basename": "1110911-Excel快速合併寄送郵件",
@@ -95,10 +103,6 @@
     {
       "basename": "●專案管理",
       "path": "●專案管理.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
     },
     {
       "basename": "Obsidian的任務管理技巧彙總",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-09-25_Sun",
       "path": "006-DailyNote/2022-09-25_Sun.md"
-    },
-    {
-      "basename": "2022-09-24_Sat",
-      "path": "006-DailyNote/2022-09-24_Sat.md"
     }
   ],
   "omittedPaths": [],
