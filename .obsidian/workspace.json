@@ -23,8 +23,30 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "1344b91a1b350b3f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,6 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +294,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -289,6 +314,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,6 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -388,7 +415,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e9507294602dbe3b",
+  "active": "1344b91a1b350b3f",
   "lastOpenFiles": [
     "006-DailyNote/2022-10-16_Sun.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
