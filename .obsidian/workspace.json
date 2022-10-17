@@ -65,6 +65,18 @@
                 {
                   "title": "●首頁",
                   "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":41.98776609088303}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}}}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":36},\"to\":{\"line\":15,\"ch\":36}},\"scroll\":0}"
                 },
@@ -79,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -309,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           },
@@ -354,7 +366,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,7 +429,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -456,7 +468,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "87952d7fb3f0c20e",
+  "active": "4368430dde3fc5a7",
   "lastOpenFiles": [
     "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
