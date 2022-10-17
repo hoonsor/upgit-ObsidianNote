@@ -450,12 +450,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4368430dde3fc5a7",
+  "active": "87952d7fb3f0c20e",
   "lastOpenFiles": [
     "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
