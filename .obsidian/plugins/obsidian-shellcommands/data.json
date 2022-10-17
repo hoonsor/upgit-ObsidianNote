@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.15.0",
+  "settings_version": "0.16.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -9,6 +9,7 @@
   "environment_variable_path_augmentations": {},
   "error_message_duration": 20,
   "notification_message_duration": 10,
+  "execution_notification_mode": "disabled",
   "output_channel_clipboard_also_outputs_to_notification": true,
   "enable_events": true,
   "approve_modals_by_pressing_enter_key": true,
@@ -32,7 +33,11 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "0"
+      "id": "0",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     },
     {
       "platform_specific_commands": {
@@ -52,7 +57,11 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "1"
+      "id": "1",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     },
     {
       "platform_specific_commands": {
@@ -72,7 +81,11 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "2"
+      "id": "2",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     },
     {
       "platform_specific_commands": {
@@ -92,7 +105,11 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "3"
+      "id": "3",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     },
     {
       "platform_specific_commands": {
@@ -112,7 +129,11 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "4"
+      "id": "4",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     },
     {
       "platform_specific_commands": {
@@ -132,7 +153,11 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "5"
+      "id": "5",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     },
     {
       "platform_specific_commands": {
@@ -152,9 +177,14 @@
       "preactions": [],
       "variable_default_values": {},
       "icon": null,
-      "id": "6"
+      "id": "6",
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      }
     }
   ],
   "prompts": [],
-  "custom_variables": []
+  "custom_variables": [],
+  "output_wrappers": []
 }

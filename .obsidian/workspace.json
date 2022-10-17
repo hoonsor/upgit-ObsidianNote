@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "772e46fc1f15f405",
         "type": "tabs",
         "children": [
@@ -21,6 +22,26 @@
                 "mode": "source",
                 "source": false
               }
+=======
+        "id": "33dfe131ce9eef2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b532ffdde8c69414",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+>>>>>>> origin/main
             }
           },
           {
@@ -67,7 +88,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "file-explorer",
@@ -81,7 +107,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "recent-files",
@@ -93,7 +124,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "search",
@@ -119,7 +155,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "starred",
@@ -131,7 +172,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "tag",
@@ -161,7 +207,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "calendar",
@@ -173,10 +224,49 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "67a9990d596fae9b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ca561f2d506290d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
               "state": {}
             }
           }
@@ -192,7 +282,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "backlink",
@@ -212,7 +307,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outline",
@@ -224,7 +324,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "outgoing-link",
@@ -235,35 +340,16 @@
             }
           },
           {
-            "id": "6c49aa35af27fa79",
+            "id": "e9507294602dbe3b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "d911f10bf26305ef",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe3c39a4541e59bd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "git-view",
@@ -271,7 +357,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "cbed48977d048501",
@@ -283,7 +369,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "reminder-list",
@@ -295,7 +386,12 @@
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
-              "stack": []
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
             "state": {
               "type": "localgraph",
@@ -332,11 +428,16 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 297.5
+=======
+    "width": 408.5
+>>>>>>> origin/main
   },
   "ribbon": {
     "mostRecentAction": ""
   },
+<<<<<<< HEAD
   "active": "fe3c39a4541e59bd",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
@@ -349,5 +450,19 @@
     "教師法.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
+=======
+  "active": "b532ffdde8c69414",
+  "lastOpenFiles": [
+    "006-DailyNote/2022-10-16_Sun.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "004-●日常生活/003-電腦知識/電腦知識.md",
+    "006-DailyNote/2022-10-14_Fri.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "●首頁.md"
+>>>>>>> origin/main
   ]
 }
