@@ -33,8 +33,36 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db0f1ff1fd374666",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "●美食",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊、景點、美食/●美食.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":94},\"to\":{\"line\":13,\"ch\":94}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006-DailyNote/2022-10-17_Mon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-17_Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "006-DailyNote/2022-10-17_Mon.md"
               }
             }
           },
@@ -302,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-17_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-17_Mon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -403,8 +431,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b532ffdde8c69414",
+  "active": "db0f1ff1fd374666",
   "lastOpenFiles": [
+    "007-旅遊、景點、美食/●美食.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-16_Sun.md",
@@ -412,8 +442,6 @@
     "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "004-●日常生活/003-電腦知識/電腦知識.md",
-    "006-DailyNote/2022-10-14_Fri.md"
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
   ]
 }
