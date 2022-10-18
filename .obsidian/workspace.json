@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "AHK-概述",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "006-DailyNote/2022-10-18_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "006-DailyNote/2022-10-18_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+                "file": "006-DailyNote/2022-10-18_Tue.md"
               }
             }
           },
@@ -302,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "006-DailyNote/2022-10-18_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "file": "006-DailyNote/2022-10-18_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -405,8 +411,8 @@
   },
   "active": "23a3fc8f02bbec61",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+    "conflict-files-obsidian-git.md",
     "●首頁.md",
     "006-DailyNote/2022-10-17_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
