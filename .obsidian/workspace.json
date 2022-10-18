@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "33dfe131ce9eef2c",
+        "id": "ed969cf8bc45bfd5",
         "type": "tabs",
         "children": [
           {
-            "id": "b532ffdde8c69414",
+            "id": "052f7f0a4ade5ff1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,89 +16,15 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}},\"scroll\":0}"
-                },
-                {
-                  "title": "2022-10-17_Mon",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-17_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":50,\"ch\":0},\"to\":{\"line\":50,\"ch\":0}},\"scroll\":31.555510395495656}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":15},\"to\":{\"line\":26,\"ch\":15}},\"scroll\":0.9803921568627451}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.691396984135942}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2022-10-17_Mon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4368430dde3fc5a7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":41.98776609088303}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}}}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":36},\"to\":{\"line\":15,\"ch\":36}},\"scroll\":0}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":34},\"to\":{\"line\":29,\"ch\":34}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:電腦",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 278
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -264,40 +190,6 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "67a9990d596fae9b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ca561f2d506290d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
         ]
       },
@@ -321,7 +213,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,9 +237,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
-              }
+              "state": {}
             }
           },
           {
@@ -366,14 +255,47 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e9507294602dbe3b",
+            "id": "6c49aa35af27fa79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "d911f10bf26305ef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe3c39a4541e59bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -390,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "cbed48977d048501",
@@ -429,7 +351,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -462,23 +383,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 297.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4368430dde3fc5a7",
+  "active": "052f7f0a4ade5ff1",
   "lastOpenFiles": [
-    "●首頁.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-10-17_Mon.md",
-    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
     "conflict-files-obsidian-git.md",
+    "Untitled 1.md",
+    "教師法.md",
+    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
+    "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md",
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+    "001-Template/Daily Note Template.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    "005-工作相關/●工作待辦事項.md",
+    "004-●日常生活/●日常生活待辦事項.md"
   ]
 }

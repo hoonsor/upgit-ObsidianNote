@@ -1,19 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-10-17_Mon.md": [
-      {
-        "title": "吊單槓 10 秒",
-        "time": "2022-10-17 21:03",
-        "rowNumber": 52
-      },
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-10-17 21:30",
-        "rowNumber": 54
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
