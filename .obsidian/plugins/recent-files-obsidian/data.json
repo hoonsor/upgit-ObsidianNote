@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
-    },
-    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
     },
     {
       "basename": "2022-10-17_Mon",
@@ -51,10 +55,6 @@
     {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "Daily Note Tasks",
