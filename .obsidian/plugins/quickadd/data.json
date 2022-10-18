@@ -220,6 +220,40 @@
           },
           "openFile": false,
           "openFileInMode": "default"
+        },
+        {
+          "id": "ee3405b0-0161-4b2b-8a85-a44afaf34e83",
+          "name": "3. Capture-Embedded",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\nconst lq = String.fromCharCode(60);\nconst rq = String.fromCharCode(62);\nconst tq = String.fromCharCode(34);\nconst eq = String.fromCharCode(61);\nconst sl = String.fromCharCode(47);\n\nresult = lq + \"iframe width\" + eq + tq + \"700\" + tq + \" height\" + eq + tq + \"420\" + tq + \" src\" + eq + tq + selection + tq + \" frameborder\" + eq + tq + \"0\" + tq + \" allow\" + eq + tq + \"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" + tq + \" allowfullscreen\" + rq + lq + sl + \"iframe\" + rq;\n \nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
         }
       ]
     },
