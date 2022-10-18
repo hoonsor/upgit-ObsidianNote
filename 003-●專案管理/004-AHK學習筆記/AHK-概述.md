@@ -1,9 +1,10 @@
 ---
+obsidianUIMode: 
 parent: [[●專案管理]]
 sibling: [[002-Inbox/001-SubItem/AHK-GUI控件相關]]
 child: 
 created: Thursday, August 4th 2022, 8:02:36 pm
-modified: Wednesday, August 10th 2022, 10:28:36 pm
+modified: Tuesday, October 18th 2022, 7:42:37 pm
 ---
 [[●專案管理]]
 # AHK- 概述 ^toc
@@ -52,3 +53,4 @@ flatten Tips
 
 > AHK_Tips:: AHK 的陣列計數是從 1 開始，而非從 0 開始計算！
 > AHK_Tips:: 如果想在迴圈中使用變數（經處理並加上序號後）去取代原本之陣列名稱，必須要這樣寫（陣列長度當作迴圈次數） #h/maroon ====「Loop,% % 變數名稱%.Length(){迴圈內容}」
+
