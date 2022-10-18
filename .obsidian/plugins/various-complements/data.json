@@ -41,6 +41,10 @@
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
     "-09": {
@@ -82,22 +86,6 @@
         "frontMatter": {
           "count": 6,
           "lastUpdated": 1665193034070
-        }
-      }
-    },
-    "2022-09-15_Thu": {
-      "2022-09-15_Thu": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1663247379147
-        }
-      }
-    },
-    "Fonts": {
-      "Fonts": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663250810672
         }
       }
     },
@@ -170,6 +158,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1665648824049
+        }
+      }
+    },
+    "2022-10-18_Tue": {
+      "2022-10-18_Tue": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666097930307
         }
       }
     }

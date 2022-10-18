@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Wednesday, October 12th 2022, 7:29:14 pm
+modified: Tuesday, October 18th 2022, 8:56:24 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -28,7 +28,7 @@ modified: Wednesday, October 12th 2022, 7:29:14 pm
 		- [[#3.2. Outlook 應用程式|3.2. Outlook 應用程式]]
 			- [[#3.2.1. Outlook 郵件|3.2.1. Outlook 郵件]]
 	- [[#4. 運算子|4. 運算子]]
-		- [[#4.1. Mod 運算子|4.1. Mod 運算子]]
+		- [[#4.1. Mod 運算子（回傳餘數）|4.1. Mod 運算子（回傳餘數）]]
 		- [[#4.2. `\` 運算子（回傳整數商數）|4.2. `\` 運算子（回傳整數商數）]]
 		- [[#4.3. `/` 運算子（回傳浮點數商數）|4.3. `/` 運算子（回傳浮點數商數）]]
 	- [[#5. 語法或函式|5. 語法或函式]]
@@ -93,7 +93,7 @@ Dim 小信差 As Outlook.Application
 Dim 新郵件 As MailItem
 
 ## 4. 運算子
-### 4.1. Mod 運算子
+### 4.1. Mod 運算子（回傳餘數）
 %% 回傳餘數 %%
 ```VB
 result = number1 Mod number2
