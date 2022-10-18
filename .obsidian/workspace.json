@@ -33,30 +33,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08a532d3d4e8eee8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
               }
             }
           },
@@ -324,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -425,8 +403,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "08a532d3d4e8eee8",
+  "active": "23a3fc8f02bbec61",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
     "●首頁.md",
     "006-DailyNote/2022-10-17_Mon.md",
@@ -435,7 +414,6 @@
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
-    "conflict-files-obsidian-git.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
 }
