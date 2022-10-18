@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":46.99329901460427}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -251,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
               }
             }
           },
@@ -296,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,9 +405,9 @@
   },
   "active": "23a3fc8f02bbec61",
   "lastOpenFiles": [
+    "●首頁.md",
     "006-DailyNote/2022-10-17_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
