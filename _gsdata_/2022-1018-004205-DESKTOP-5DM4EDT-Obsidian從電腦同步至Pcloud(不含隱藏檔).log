@@ -1,0 +1,16 @@
+2022-10-18 00:42:05: -- 分析開始 User Command
+2022-10-18 00:42:05: 變更：12， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 617
+2022-10-18 00:42:05: Left to Right: Copy File: 8 Delete File: 2 Rename/Move File/Folder: 2 
+2022-10-18 00:42:05: == 同步開始由 User Command
+2022-10-18 00:42:05: 刪除檔 P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian概述.md
+2022-10-18 00:42:05: 創建資料夾 P:/Obsidian/Hoonsor/007-旅遊、景點、美食
+2022-10-18 00:42:05: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md' (5,246)
+2022-10-18 00:42:05: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' (3,141)
+2022-10-18 00:42:05: 移動文件 P:/Obsidian/Hoonsor/007-旅遊/1110813-九份行.md -> P:/Obsidian/Hoonsor/007-旅遊、景點、美食/1110813-九份行.md
+2022-10-18 00:42:05: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/006-DailyNote/2022-10-17_Mon.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-10-17_Mon.md' (1,639)
+2022-10-18 00:42:05: 新建複製 'D:/02-學習/03-Obsidian/Hoonsor/007-旅遊、景點、美食/●美食.md' -> 'P:/Obsidian/Hoonsor/007-旅遊、景點、美食/●美食.md' (348)
+2022-10-18 00:42:05: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/●專案管理.md' -> 'P:/Obsidian/Hoonsor/●專案管理.md' (891)
+2022-10-18 00:42:05: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' (6,440)
+2022-10-18 00:42:05: 覆蓋複製 'D:/02-學習/03-Obsidian/Hoonsor/●首頁.md' -> 'P:/Obsidian/Hoonsor/●首頁.md' (3,451)
+2022-10-18 00:42:05: 刪除資料夾 P:/Obsidian/Hoonsor/007-旅遊
+2022-10-18 00:42:05: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 12, 錯誤: 0
