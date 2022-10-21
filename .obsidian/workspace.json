@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":11},\"to\":{\"line\":53,\"ch\":11}},\"scroll\":30.85359063384478}"
+                },
+                {
                   "title": "2022-10-21_Fri",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-21_Fri.md\",\"mode\":\"source\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-21_Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-21_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "006-DailyNote/2022-10-21_Fri.md"
               }
             }
           },
@@ -302,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-21_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "006-DailyNote/2022-10-21_Fri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -405,10 +411,10 @@
   },
   "active": "d063a5735999fcd8",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-21_Fri.md",
     "★測試各類功能.md",
     "教師法.md",
-    "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-18_Tue.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
