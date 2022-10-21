@@ -422,8 +422,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "ribbon": {
     "mostRecentAction": ""
