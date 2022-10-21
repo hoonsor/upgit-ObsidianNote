@@ -1,39 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-10-21_Fri.md": [
-      {
-        "title": "[[●投資理財及創業待辦事項]]",
-        "time": "2022-10-21 20:30",
-        "rowNumber": 33
-      },
-      {
-        "title": "[[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]",
-        "time": "2022-10-21 20:42",
-        "rowNumber": 34
-      },
-      {
-        "title": "[[WordPress學習及筆記]]",
-        "time": "2022-10-21 20:45",
-        "rowNumber": 35
-      },
-      {
-        "title": "[[1110906-Obsidian快捷鍵]]",
-        "time": "2022-10-21 20:48",
-        "rowNumber": 36
-      },
-      {
-        "title": "[[1110911-Excel快速合併寄送郵件]]",
-        "time": "2022-10-21 20:50",
-        "rowNumber": 37
-      },
-      {
-        "title": "[[1110911-Excel VBA學習相關]]",
-        "time": "2022-10-21 20:52",
-        "rowNumber": 38
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
