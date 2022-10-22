@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":85}"
+                },
+                {
                   "title": "2022-10-22_Sat",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-22_Sat.md\",\"mode\":\"source\",\"source\":false}}",
@@ -40,8 +46,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -269,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
               }
             }
           },
@@ -314,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,7 +383,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -417,6 +423,7 @@
   },
   "active": "98e35d52334f3054",
   "lastOpenFiles": [
+    "●首頁.md",
     "006-DailyNote/2022-10-22_Sat.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "001-Template/Daily Note Template.md",
@@ -425,7 +432,6 @@
     "007-旅遊/1111119-高雄游.md",
     "007-旅遊、景點、美食/1110813-九份行.md",
     "004-●日常生活/●日常生活紀錄.md",
-    "006-DailyNote/2022-10-21_Fri.md",
-    "★測試各類功能.md"
+    "006-DailyNote/2022-10-21_Fri.md"
   ]
 }
