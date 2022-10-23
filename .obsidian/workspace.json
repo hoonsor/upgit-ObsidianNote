@@ -65,7 +65,7 @@
               "type": "markdown",
               "state": {
                 "file": "004-●日常生活/●日常生活待辦事項.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -434,8 +434,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 408.5
   },
   "ribbon": {
     "mostRecentAction": ""
