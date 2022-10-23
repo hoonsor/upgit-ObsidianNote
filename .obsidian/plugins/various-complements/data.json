@@ -53,31 +53,19 @@
           "count": 8,
           "lastUpdated": 1664981310675
         }
-      },
-      "OB_Tips（DataView）": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663767262605
-        }
-      },
-      "WordPressTips（DataView）": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1663767480466
-        }
       }
     },
     "-00": {
-      "時間函數（Templater）": {
-        "customDictionary": {
-          "count": 23,
-          "lastUpdated": 1663593471449
-        }
-      },
       "多欄語法（Columns）": {
         "customDictionary": {
           "count": 5,
           "lastUpdated": 1665574275565
+        }
+      },
+      "時間函數（Templater）": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1666453487349
         }
       }
     },
@@ -86,14 +74,6 @@
         "frontMatter": {
           "count": 6,
           "lastUpdated": 1665193034070
-        }
-      }
-    },
-    "2022-09-18_Sun": {
-      "2022-09-18_Sun": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1663512117253
         }
       }
     },

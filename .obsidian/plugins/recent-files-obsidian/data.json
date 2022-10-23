@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Daily Note Tasks",
       "path": "001-Template/Daily Note Tasks.md"
-    },
-    {
-      "basename": "1110925-老屋翻修估價相關",
-      "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
     }
   ],
   "omittedPaths": [],
