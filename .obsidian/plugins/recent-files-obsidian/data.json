@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "●日記",
+      "path": "004-●日常生活/●日記.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "1111119-高雄游",
-      "path": "007-旅遊/1111119-高雄游.md"
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
+      "basename": "1111119-高雄遊",
+      "path": "007-旅遊、景點、美食/1111119-高雄遊.md"
+    },
+    {
+      "basename": "2022-10-23_Sun",
+      "path": "006-DailyNote/2022-10-23_Sun.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "1110813-九份行",
       "path": "007-旅遊、景點、美食/1110813-九份行.md"
-    },
-    {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "2022-10-21_Fri",
@@ -99,10 +111,6 @@
     {
       "basename": "2022-10-14_Fri",
       "path": "006-DailyNote/2022-10-14_Fri.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "●高中以下人事法規彙整",
@@ -191,10 +199,6 @@
     {
       "basename": "2022-10-03_Mon",
       "path": "006-DailyNote/2022-10-03_Mon.md"
-    },
-    {
-      "basename": "Daily Note Tasks",
-      "path": "001-Template/Daily Note Tasks.md"
     }
   ],
   "omittedPaths": [],

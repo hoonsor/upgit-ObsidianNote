@@ -18,9 +18,39 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "1111119-高雄游",
+                  "title": "●日常生活待辦事項",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊/1111119-高雄游.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":29},\"to\":{\"line\":47,\"ch\":29}},\"scroll\":15.479873609538364}"
+                },
+                {
+                  "title": "●日常生活紀錄",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":8},\"to\":{\"line\":59,\"ch\":8}},\"scroll\":41.28689750335627}"
+                },
+                {
+                  "title": "●日常生活紀錄",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":47},\"to\":{\"line\":6,\"ch\":47}},\"scroll\":0}"
+                },
+                {
+                  "title": "1111119-高雄遊",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊、景點、美食/1111119-高雄遊.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -64,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日記.md",
                 "mode": "source",
                 "source": false
               }
@@ -310,7 +340,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "004-●日常生活/●日記.md"
               }
             }
           },
@@ -355,7 +385,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -418,7 +448,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●日記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -451,22 +481,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "d063a5735999fcd8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "007-旅遊/1111119-高雄游.md",
-    "007-旅遊、景點、美食/1110813-九份行.md",
+    "004-●日常生活/●日記.md",
     "004-●日常生活/●日常生活紀錄.md",
+    "007-旅遊、景點、美食/1111119-高雄遊.md",
+    "006-DailyNote/2022-10-23_Sun.md",
+    "001-Template/Daily Note Template.md",
+    "conflict-files-obsidian-git.md",
+    "007-旅遊、景點、美食/1110813-九份行.md",
     "006-DailyNote/2022-10-21_Fri.md",
-    "★測試各類功能.md",
-    "教師法.md",
-    "006-DailyNote/2022-10-18_Tue.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    "★測試各類功能.md"
   ]
 }
