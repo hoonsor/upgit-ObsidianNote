@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "0ddc59a35388ac6e",
+            "id": "f57ea4568e55ca72",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -125,8 +125,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "001-Template/Daily Note Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -500,15 +504,15 @@
   },
   "active": "d063a5735999fcd8",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活紀錄.md",
+    "006-DailyNote/2022-10-24_Mon.md",
+    "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-10-23_Sun.md",
     "004-●日常生活/●日記.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md",
     "007-旅遊、景點、美食/1111119-高雄遊.md",
-    "001-Template/Daily Note Template.md",
     "conflict-files-obsidian-git.md",
     "007-旅遊、景點、美食/1110813-九份行.md",
-    "006-DailyNote/2022-10-21_Fri.md",
-    "★測試各類功能.md"
+    "006-DailyNote/2022-10-21_Fri.md"
   ]
 }
