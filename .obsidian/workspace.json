@@ -113,7 +113,7 @@
             }
           },
           {
-            "id": "f57ea4568e55ca72",
+            "id": "cd4ebe1b24bca380",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -121,20 +121,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-Template/Daily Note Template.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "aefb77a61724e170",
+            "id": "40c71d967e75c7d8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -148,8 +154,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
-                "mode": "source",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -378,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
               }
             }
           },
@@ -423,7 +429,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -486,7 +492,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -525,17 +531,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "aefb77a61724e170",
+  "active": "40c71d967e75c7d8",
   "lastOpenFiles": [
-    "004-●日常生活/●.md",
-    "001-Template/Daily Note Template.md",
+    "●首頁.md",
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-10-24_Mon.md",
+    "001-Template/Daily Note Template.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
+    "004-●日常生活/●.md",
     "004-●日常生活/●日常生活紀錄.md",
     "006-DailyNote/2022-10-23_Sun.md",
-    "004-●日常生活/●日記.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "007-旅遊、景點、美食/1111119-高雄遊.md",
-    "conflict-files-obsidian-git.md",
-    "007-旅遊、景點、美食/1110813-九份行.md"
+    "004-●日常生活/●日記.md"
   ]
 }
