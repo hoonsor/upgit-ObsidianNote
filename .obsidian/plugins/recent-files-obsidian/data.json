@@ -5,6 +5,30 @@
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "●高中以下人事法規彙整",
+      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+    },
+    {
       "basename": "2022-10-24_Mon",
       "path": "006-DailyNote/2022-10-24_Mon.md"
     },
@@ -17,24 +41,12 @@
       "path": "006-DailyNote/2022-10-18_Tue.md"
     },
     {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
       "basename": "2022-10-17_Mon",
       "path": "006-DailyNote/2022-10-17_Mon.md"
     },
     {
       "basename": "2022-10-16_Sun",
       "path": "006-DailyNote/2022-10-16_Sun.md"
-    },
-    {
-      "basename": "●高中以下人事法規彙整",
-      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
       "basename": "●首頁",
@@ -57,24 +69,12 @@
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
       "basename": "Daily Note Tasks",
       "path": "001-Template/Daily Note Tasks.md"
     },
     {
       "basename": "1110810-新進教師研習",
       "path": "005-工作相關/1110810-新進教師研習.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
     },
     {
       "basename": "★測試各類功能",
