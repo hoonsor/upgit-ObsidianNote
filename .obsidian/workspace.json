@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2022-10-25_Tue",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-25_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":34},\"to\":{\"line\":58,\"ch\":34}},\"scroll\":26.86729100045683}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -262,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -392,13 +398,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "32d5a2b3609f712d",
   "lastOpenFiles": [
+    "006-DailyNote/2022-10-25_Tue.md",
     "006-DailyNote/2022-10-24_Mon.md",
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
@@ -407,7 +415,6 @@
     "●專案管理.md",
     "000-index/!dict.md",
     "001-Template/Daily Note Template.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
 }
