@@ -1,6 +1,10 @@
 ---
+parent: 
+sibling: 
+child: 
+obsidianUIMode: 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Wednesday, August 3rd 2022, 10:27:01 pm
+modified: Monday, October 24th 2022, 10:53:44 pm
 ---
 [[●專案管理]]
 # CSS 的概念及學習 ^toc
@@ -14,12 +18,14 @@ modified: Wednesday, August 3rd 2022, 10:27:01 pm
 		- [[#3.3. 行內設定|3.3. 行內設定]]
 	- [[#4. WordPress 中一些關於 CSS 相關注意事項|4. WordPress 中一些關於 CSS 相關注意事項]]
 	- [[#5. CSS 的一些屬性紀錄|5. CSS 的一些屬性紀錄]]
-	- [[#6. 有關外掛|6. 有關外掛]]
-		- [[#6.1. 查看顏色之瀏覽器外掛|6.1. 查看顏色之瀏覽器外掛]]
+	- [[#6. CSS 學習網站|6. CSS 學習網站]]
+	- [[#7. 有關外掛|7. 有關外掛]]
+		- [[#7.1. 查看顏色之瀏覽器外掛|7.1. 查看顏色之瀏覽器外掛]]
+
 
 
 ## 1. 開啟 WordPress CSS 的設定
-在開始使用 CSS 之前，先來說明在網頁中指定 CSS 格式的方法。對於 WordPress 來説，如果要對於整體網頁做設定，可以在網站的控制台開啟 CSS 的編輯功能，許多佈景主題會提供相關的功能，但是有些沒有。不過，大部份的網站都會安裝 Jetpack 外掛，新版的 Jetpack 外掛本身就有一個設定可以開啟，開啟之後就可以在網站中加上自行設定的 CSS 格式，這些設定可以影響到整個網站。在啟用了 Jetpack 之後，可以在設定的地方找  到此項目，如圖所示。
+在開始使用 CSS 之前，先來說明在網頁中指定 CSS 格式的方法。對於 WordPress 來説，如果要對於整體網頁做設定，可以在網站的控制台開啟 CSS 的編輯功能，許多佈景主題會提供相關的功能，但是有些沒有。不過，大部份的網站都會安裝 Jetpack 外掛，新版的 Jetpack 外掛本身就有一個設定可以開啟，開啟之後就可以在網站中加上自行設定的 CSS 格式，這些設定可以影響到整個網站。在啟用了 Jetpack 之後，可以在設定的地方找 到此項目，如圖所示。
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/29/upgit_20220729_1659101550.png)
 
 ## 2. 標準 CSS 之語法
@@ -106,7 +112,12 @@ tag1 tag2 {
 	- min-width：最小寬度
 
 
-## 6. 有關外掛
-### 6.1. 查看顏色之瀏覽器外掛
+## 6. CSS 學習網站
+- 可以線上練習撰寫 CSS
+> [!INFO]+ 資訊
+> [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+
+## 7. 有關外掛
+### 7.1. 查看顏色之瀏覽器外掛
 - ColorSnapper 2
 - PickEyedropper

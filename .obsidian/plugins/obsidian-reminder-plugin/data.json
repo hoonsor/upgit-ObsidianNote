@@ -1,6 +1,14 @@
 {
-  "scanned": false,
-  "reminders": {},
+  "scanned": true,
+  "reminders": {
+    "006-DailyNote/2022-10-24_Mon.md": [
+      {
+        "title": "使用瘦臉器",
+        "time": "2022-10-24 21:30",
+        "rowNumber": 59
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

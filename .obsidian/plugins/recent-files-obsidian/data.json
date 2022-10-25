@@ -1,28 +1,156 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
+=======
+      "basename": "CSS的概念及學習",
+      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+>>>>>>> origin/main
     },
     {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
+<<<<<<< HEAD
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
+=======
+>>>>>>> origin/main
       "basename": "2022-10-24_Mon",
       "path": "006-DailyNote/2022-10-24_Mon.md"
     },
     {
+<<<<<<< HEAD
+=======
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "●Youtube各類有趣、學習影片匯總",
+      "path": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
+    },
+    {
+>>>>>>> origin/main
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
+<<<<<<< HEAD
       "basename": "●專案管理",
       "path": "●專案管理.md"
+=======
+      "basename": "2022-10-23_Sun",
+      "path": "006-DailyNote/2022-10-23_Sun.md"
+    },
+    {
+      "basename": "●日記",
+      "path": "004-●日常生活/●日記.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "1111119-高雄遊",
+      "path": "007-旅遊、景點、美食/1111119-高雄遊.md"
+    },
+    {
+      "basename": "1110813-九份行",
+      "path": "007-旅遊、景點、美食/1110813-九份行.md"
+    },
+    {
+      "basename": "2022-10-21_Fri",
+      "path": "006-DailyNote/2022-10-21_Fri.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "教師法",
+      "path": "教師法.md"
+    },
+    {
+      "basename": "2022-10-18_Tue",
+      "path": "006-DailyNote/2022-10-18_Tue.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "AHK-概述",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+    },
+    {
+      "basename": "2022-10-17_Mon",
+      "path": "006-DailyNote/2022-10-17_Mon.md"
+    },
+    {
+      "basename": "Obsidian統整筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    },
+    {
+      "basename": "1110717-能量運動指南",
+      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
+    },
+    {
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    },
+    {
+      "basename": "●美食",
+      "path": "007-旅遊、景點、美食/●美食.md"
+    },
+    {
+      "basename": "2022-10-16_Sun",
+      "path": "006-DailyNote/2022-10-16_Sun.md"
+    },
+    {
+      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
+      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "2022-10-14_Fri",
+      "path": "006-DailyNote/2022-10-14_Fri.md"
+    },
+    {
+      "basename": "●高中以下人事法規彙整",
+      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+    },
+    {
+      "basename": "校長遴選座談會及後續工作",
+      "path": "005-工作相關/●已完成/校長遴選座談會及後續工作.md"
+>>>>>>> origin/main
     },
     {
       "basename": "!dict",
@@ -195,10 +323,13 @@
     {
       "basename": "1110814-Thinkorswim軟體學習心得",
       "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
+<<<<<<< HEAD
     },
     {
       "basename": "電腦疑難雜症",
       "path": "004-●日常生活/003-電腦知識/電腦疑難雜症.md"
+=======
+>>>>>>> origin/main
     }
   ],
   "omittedPaths": [],
