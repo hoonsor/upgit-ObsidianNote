@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a54def9a05b820b",
+        "id": "c9f338025dacdcbd",
         "type": "tabs",
         "children": [
           {
-            "id": "d063a5735999fcd8",
+            "id": "66ec3b4ca5685c3a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,101 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "2022-10-24_Mon",
+                  "title": "●首頁",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-24_Mon.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":24.026084233744335}"
-                },
-                {
-                  "title": "2022-10-23_Sun",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-23_Sun.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.4}"
-                },
-                {
-                  "title": "●日記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日記.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":29},\"to\":{\"line\":47,\"ch\":29}},\"scroll\":15.479873609538364}"
-                },
-                {
-                  "title": "●日常生活紀錄",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":8},\"to\":{\"line\":59,\"ch\":8}},\"scroll\":41.28689750335627}"
-                },
-                {
-                  "title": "●日常生活紀錄",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":47},\"to\":{\"line\":6,\"ch\":47}},\"scroll\":0}"
-                },
-                {
-                  "title": "1111119-高雄遊",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊、景點、美食/1111119-高雄遊.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "1110813-九份行",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊、景點、美食/1110813-九份行.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}},\"scroll\":0}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":16},\"to\":{\"line\":30,\"ch\":16}}}"
-                },
-                {
-                  "title": "●日常生活紀錄",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2022-10-21_Fri",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-21_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":11},\"to\":{\"line\":53,\"ch\":11}},\"scroll\":30.85359063384478}"
-                },
-                {
-                  "title": "2022-10-21_Fri",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-21_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":11},\"to\":{\"line\":65,\"ch\":11}},\"scroll\":10.649305979410807}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":31.994253224339978}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "mode": "source",
                 "source": false
               }
@@ -341,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
               }
             }
           },
@@ -386,7 +302,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -449,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -482,22 +398,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 408.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e9507294602dbe3b",
+  "active": "66ec3b4ca5685c3a",
   "lastOpenFiles": [
-    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
-    "006-DailyNote/2022-10-24_Mon.md",
     "●首頁.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
+    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-10-24_Mon.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "005-工作相關/●工作待辦事項.md",
     "001-Template/Daily Note Template.md",
     "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
-    "004-●日常生活/●.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "004-●日常生活/●.md"
   ]
 }

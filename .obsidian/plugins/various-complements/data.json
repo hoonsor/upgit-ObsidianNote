@@ -72,8 +72,8 @@
     "preview": {
       "preview": {
         "frontMatter": {
-          "count": 6,
-          "lastUpdated": 1665193034070
+          "count": 7,
+          "lastUpdated": 1666705764049
         }
       }
     },
@@ -154,6 +154,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1666619575627
+        }
+      }
+    },
+    "background": {
+      "background": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1666706499157
         }
       }
     }

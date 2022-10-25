@@ -2,16 +2,19 @@
 parent: 
 sibling: 
 child: 
-obsidianUIMode: 
+obsidianUIMode: preview 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Monday, October 24th 2022, 10:53:44 pm
+modified: Tuesday, October 25th 2022, 10:03:30 pm
 ---
 [[●專案管理]]
 # CSS 的概念及學習 ^toc
 
 - [[#CSS 的概念及學習 ^toc|CSS 的概念及學習]]
 	- [[#1. 開啟 WordPress CSS 的設定|1. 開啟 WordPress CSS 的設定]]
-	- [[#2. 標準 CSS 之語法|2. 標準 CSS 之語法]]
+	- [[#2. CSS 之語法|2. CSS 之語法]]
+		- [[#2.1. 一般用法|2.1. 一般用法]]
+			- [[#2.1.1. 範例|2.1.1. 範例]]
+		- [[#2.2. Class 及 id 額外指定格式之用法|2.2. Class 及 id 額外指定格式之用法]]
 	- [[#3. CSS 設定碼生效之方法|3. CSS 設定碼生效之方法]]
 		- [[#3.1. 以<link>標記引入|3.1. 以<link>標記引入]]
 		- [[#3.2. 使用\<style>標記|3.2. 使用\<style>標記]]
@@ -28,7 +31,8 @@ modified: Monday, October 24th 2022, 10:53:44 pm
 在開始使用 CSS 之前，先來說明在網頁中指定 CSS 格式的方法。對於 WordPress 來説，如果要對於整體網頁做設定，可以在網站的控制台開啟 CSS 的編輯功能，許多佈景主題會提供相關的功能，但是有些沒有。不過，大部份的網站都會安裝 Jetpack 外掛，新版的 Jetpack 外掛本身就有一個設定可以開啟，開啟之後就可以在網站中加上自行設定的 CSS 格式，這些設定可以影響到整個網站。在啟用了 Jetpack 之後，可以在設定的地方找 到此項目，如圖所示。
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/29/upgit_20220729_1659101550.png)
 
-## 2. 標準 CSS 之語法
+## 2. CSS 之語法
+### 2.1. 一般用法
 
 除非你做的是整體網頁的設定，不然的話每一個 CSS 片段一定要依附在一個標記、id 或 class 之下，此點我們在圖 2-1 中有一個簡單的介紹。標準的的 CSS 語法格式如下：
 
@@ -54,6 +58,34 @@ tag1 tag2 {
 }
 ```
 則表示 tag2 是 tag1 裡面的標記（或是選擇器 selector），也就是我們要設定的屬性值是在 tag1 裡面的 tag2 所屬的內容之格式設定，而不是同時把 tag1 以及 tag2 設定成同樣一組屬性值。
+
+#### 2.1.1. 範例
+
+- `>` 符號代表在該項目巢狀內容中
+```CSS
+div span {
+	background-color: yellow;
+}
+div>span {
+	background-color: rgb(4,170,109);
+	color: white;
+}
+
+```
+
+
+### 2.2. Class 及 id 額外指定格式之用法
+
+```CSS
+#id {
+	background-color: red;
+}
+
+.class{
+	background-color: gray;
+}
+
+```
 
 ## 3. CSS 設定碼生效之方法
 
