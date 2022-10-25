@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "006-DailyNote/2022-10-24_Mon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -213,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "006-DailyNote/2022-10-24_Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +242,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "006-DailyNote/2022-10-24_Mon.md"
+              }
             }
           },
           {
@@ -255,6 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "006-DailyNote/2022-10-24_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,6 +359,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "006-DailyNote/2022-10-24_Mon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
