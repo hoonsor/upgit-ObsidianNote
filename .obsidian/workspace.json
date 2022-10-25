@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CSS的概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":1},\"to\":{\"line\":81,\"ch\":1}},\"scroll\":65.24728355142831}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-10-25_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-10-25_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+                "file": "006-DailyNote/2022-10-25_Tue.md"
               }
             }
           },
@@ -302,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-10-25_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-10-25_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -398,23 +404,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 408.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "66ec3b4ca5685c3a",
   "lastOpenFiles": [
-    "●首頁.md",
+    "001-Template/Daily Note Template.md",
+    "006-DailyNote/2022-10-25_Tue.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "●首頁.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-24_Mon.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "005-工作相關/●工作待辦事項.md",
-    "001-Template/Daily Note Template.md",
-    "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
-    "004-●日常生活/●.md"
+    "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
   ]
 }
