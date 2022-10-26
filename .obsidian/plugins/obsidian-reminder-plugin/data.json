@@ -1,9 +1,57 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "006-DailyNote/2022-10-26_Wed.md": [
+      {
+        "title": "吃維他命",
+        "time": "2022-10-26 20:00",
+        "rowNumber": 47
+      },
+      {
+        "title": "手機相片備份（至電腦或google雲端硬碟）及整理",
+        "time": "2022-10-26 20:30",
+        "rowNumber": 39
+      },
+      {
+        "title": "記帳",
+        "time": "2022-10-26 20:40",
+        "rowNumber": 37
+      },
+      {
+        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
+        "time": "2022-10-26 20:50",
+        "rowNumber": 38
+      },
+      {
+        "title": "吊單槓 10 秒",
+        "time": "2022-10-26 21:03",
+        "rowNumber": 48
+      },
+      {
+        "title": "做增加骨鈣素之運動或做超慢跑",
+        "time": "2022-10-26 21:04",
+        "rowNumber": 49
+      },
+      {
+        "title": "使用瘦臉器",
+        "time": "2022-10-26 21:30",
+        "rowNumber": 51
+      },
+      {
+        "title": "使用雷射帽",
+        "time": "2022-10-26 21:35",
+        "rowNumber": 52
+      },
+      {
+        "title": "電療額頭",
+        "time": "2022-10-26 21:40",
+        "rowNumber": 53
+      }
+    ]
+  },
   "debug": false,
   "settings": {
-    "reminderTime": "09:00",
+    "reminderTime": "10:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
@@ -13,7 +61,7 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
+    "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
