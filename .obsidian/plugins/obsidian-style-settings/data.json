@@ -52,5 +52,10 @@
   "minimal-style@@h4-size": "1.1em",
   "minimal-style@@h5-size": "1.07em",
   "minimal-style@@h6-size": "1.05em",
-  "minimal-style@@blockquote-color@@dark": "#C09054"
+  "minimal-style@@blockquote-color@@dark": "#C09054",
+  "minimal-style@@code-property@@dark": "#000000",
+  "minimal-style@@code-string@@dark": "#000000",
+  "minimal-style@@code-function@@dark": "#000000",
+  "minimal-style@@code-background@@dark": "#000000",
+  "minimal-style@@code-normal@@dark": "#FFFFFF"
 }
