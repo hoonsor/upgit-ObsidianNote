@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f338025dacdcbd",
+        "id": "8f08cb14539bb549",
         "type": "tabs",
         "children": [
           {
-            "id": "66ec3b4ca5685c3a",
+            "id": "32d5a2b3609f712d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "CSS的概念及學習",
+                  "title": "2022-10-25_Tue",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":81,\"ch\":1},\"to\":{\"line\":81,\"ch\":1}},\"scroll\":65.24728355142831}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":31.994253224339978}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-25_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":34},\"to\":{\"line\":58,\"ch\":34}},\"scroll\":26.86729100045683}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:電腦",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 278
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -206,40 +200,6 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "67a9990d596fae9b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ca561f2d506290d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
         ]
       },
@@ -263,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -308,14 +268,48 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e9507294602dbe3b",
+            "id": "6c49aa35af27fa79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "d911f10bf26305ef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe3c39a4541e59bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -332,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "cbed48977d048501",
@@ -371,7 +365,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-25_Tue.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,22 +398,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 297.5,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "66ec3b4ca5685c3a",
+  "active": "32d5a2b3609f712d",
   "lastOpenFiles": [
-    "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-10-25_Tue.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "●首頁.md",
-    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
-    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-24_Mon.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
-    "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
+    "004-●日常生活/●日常生活待辦事項.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "●專案管理.md",
+    "000-index/!dict.md",
+    "001-Template/Daily Note Template.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
 }
