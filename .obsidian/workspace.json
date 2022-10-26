@@ -21,6 +21,36 @@
                   "title": "●日常生活待辦事項",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":29},\"to\":{\"line\":27,\"ch\":29}},\"scroll\":11.957938388625593}"
+                },
+                {
+                  "title": "1111004-性騷擾防治三法講座",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1111004-性騷擾防治三法講座.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "1110925-老屋翻修估價相關_image_2",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"1110925-老屋翻修估價相關_image_2.png\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1111004-性騷擾防治三法講座",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1111004-性騷擾防治三法講座.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":21},\"to\":{\"line\":28,\"ch\":21}},\"scroll\":5.083333333333333}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":16},\"to\":{\"line\":63,\"ch\":16}},\"scroll\":57.61492890995261}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":101,\"ch\":8},\"to\":{\"line\":101,\"ch\":8}},\"scroll\":72.00236966824644}"
                 },
                 {
@@ -419,14 +449,14 @@
   "active": "32d5a2b3609f712d",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
+    "1111004-性騷擾防治三法講座.md",
+    "1110925-老屋翻修估價相關_image_2.png",
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-10-25_Tue.md",
     "006-DailyNote/2022-10-24_Mon.md",
     "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活紀錄.md",
     "●專案管理.md",
-    "000-index/!dict.md",
-    "001-Template/Daily Note Template.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+    "000-index/!dict.md"
   ]
 }
