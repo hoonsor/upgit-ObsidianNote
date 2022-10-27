@@ -4,7 +4,7 @@ sibling:
 child: 
 obsidianUIMode: preview 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Thursday, October 27th 2022, 10:37:55 pm
+modified: Thursday, October 27th 2022, 10:54:08 pm
 ---
 [[●專案管理]]
 # CSS 的概念及學習 ^toc
@@ -132,8 +132,10 @@ div>span {
 
 ## 4. CSS 權重
 - 越特定越重要
+	- 優先順序：Inline > id > class > element 
 - 版本越新越重要
-- #h/red **!imoirtant** 真的很重要
+	- 程式碼在越後方的版本越新
+- #h/red **!important** 真的很重要
 
 ## 5. WordPress 中一些關於 CSS 相關注意事項
 - WordPress 中較少會提供 vw 來設定寬度，相對上更多的會出現在設定文字的大小上。相較而言，設定高度時能夠免去這個問題，所以我們還是可以透過 vh 來設定高度。但實際情況下，設定的多數為最小高度：min-height，這樣及使螢幕高度少於方塊，也不會強制剪裁，會以完整顯示作為目標。
