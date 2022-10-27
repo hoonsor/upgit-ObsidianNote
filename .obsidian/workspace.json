@@ -114,9 +114,28 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8c29f36f136e71d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -482,10 +501,7 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4824222b97e546ae",
+  "active": "c8c29f36f136e71d",
   "lastOpenFiles": [
     "006-DailyNote/2022-10-27_Thu.md",
     "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
