@@ -88,14 +88,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "006-DailyNote/2022-10-27_Thu.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -324,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-10-27_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +356,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "006-DailyNote/2022-10-27_Thu.md"
               }
             }
           },
@@ -369,7 +375,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-10-27_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -432,7 +438,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-10-27_Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -469,11 +475,11 @@
   },
   "active": "ec8b6cfd21ebe882",
   "lastOpenFiles": [
+    "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "000-index/!dict.md",
     "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
     "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
-    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-27_Thu.md",
     "006-DailyNote/2022-10-26_Wed.md",
