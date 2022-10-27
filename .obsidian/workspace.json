@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f08cb14539bb549",
+        "id": "cb44ebaa6a9f0165",
         "type": "tabs",
         "children": [
           {
-            "id": "32d5a2b3609f712d",
+            "id": "0eebcd2f98cd03cc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,72 +16,57 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac8d9be7154f397f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2022-10-26_Wed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-26_Wed.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "HTML概念及學習",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/HTML概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8431372549019608}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":47},\"to\":{\"line\":33,\"ch\":47}},\"scroll\":0.8496731776817172}"
+                },
+                {
+                  "title": "CSS的概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 },
                 {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":13.952471482889734}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":46},\"to\":{\"line\":17,\"ch\":46}}}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":29},\"to\":{\"line\":27,\"ch\":29}},\"scroll\":11.957938388625593}"
-                },
-                {
-                  "title": "1111004-性騷擾防治三法講座",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1111004-性騷擾防治三法講座.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1110925-老屋翻修估價相關_image_2",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"1110925-老屋翻修估價相關_image_2.png\"}}",
                   "eState": "{}"
-                },
-                {
-                  "title": "1111004-性騷擾防治三法講座",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1111004-性騷擾防治三法講座.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":21},\"to\":{\"line\":28,\"ch\":21}},\"scroll\":5.083333333333333}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":16},\"to\":{\"line\":63,\"ch\":16}},\"scroll\":57.61492890995261}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":101,\"ch\":8},\"to\":{\"line\":101,\"ch\":8}},\"scroll\":72.00236966824644}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":38},\"to\":{\"line\":62,\"ch\":38}},\"scroll\":50.40136476426799}"
-                },
-                {
-                  "title": "2022-10-25_Tue",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-25_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":34},\"to\":{\"line\":58,\"ch\":34}},\"scroll\":26.86729100045683}"
                 }
               ]
             },
@@ -95,7 +80,7 @@
             }
           },
           {
-            "id": "4824222b97e546ae",
+            "id": "ec8b6cfd21ebe882",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -109,14 +94,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "c8c29f36f136e71d",
+            "id": "229cca8b9e08a0c4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -128,14 +113,16 @@
               ]
             },
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:電腦",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -301,6 +288,40 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "67a9990d596fae9b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ca561f2d506290d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ]
       },
@@ -324,7 +345,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -350,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
               }
             }
           },
@@ -369,48 +390,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6c49aa35af27fa79",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "d911f10bf26305ef",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "fe3c39a4541e59bd",
+            "id": "e9507294602dbe3b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -427,7 +414,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "cbed48977d048501",
@@ -466,7 +453,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -499,19 +486,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 408.5,
+    "collapsed": true
   },
-  "active": "c8c29f36f136e71d",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "229cca8b9e08a0c4",
   "lastOpenFiles": [
-    "006-DailyNote/2022-10-27_Thu.md",
-    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
     "●首頁.md",
-    "005-工作相關/●工作待辦事項.md",
-    "conflict-files-obsidian-git.md",
+    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
+    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "1111004-性騷擾防治三法講座.md",
-    "1110925-老屋翻修估價相關_image_2.png",
-    "006-DailyNote/2022-10-25_Tue.md",
-    "006-DailyNote/2022-10-24_Mon.md"
+    "006-DailyNote/2022-10-26_Wed.md",
+    "006-DailyNote/2022-10-27_Thu.md",
+    "001-Template/Daily Note Template.md",
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
   ]
 }

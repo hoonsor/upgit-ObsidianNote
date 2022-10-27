@@ -11,7 +11,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Tuesday, October 18th 2022, 8:56:24 pm
+modified: Thursday, October 27th 2022, 9:28:54 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -65,7 +65,7 @@ modified: Tuesday, October 18th 2022, 8:56:24 pm
 
 ## 1. 基本注意事項
 - String 使用時一定要前後加上雙引號，最近一次撰寫時發現使用 Select Case 語法沒有反應，後續 Debug 才發現是因為 String 沒加上雙引號
-- 注意一下運算子運算順序，舉例來說 `12 / 3 * 2 ＝ 8`，`( 12 / 3 ) * 2 = 6`，那天在寫想記計算法定合理員額的程式時計算錯誤就是因為這樣的原因
+- 注意一下運算子運算順序，舉例來說 `12 / 3 * 2 ＝ 8`，` 12 / (3 * 2) = 2`，那天在寫想記計算法定合理員額的程式時計算錯誤就是因為這樣的原因
 
 ### 1.1. 宣告變數
 #h/red **宣告變數可以將不同宣告式或變數放在同一行**，如下範例：
