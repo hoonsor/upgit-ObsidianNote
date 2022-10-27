@@ -4,7 +4,7 @@ sibling:
 child: 
 obsidianUIMode: 
 created: Friday, July 29th 2022, 8:26:44 pm
-modified: Thursday, October 27th 2022, 9:54:22 pm
+modified: Thursday, October 27th 2022, 10:17:24 pm
 ---
 [[●專案管理]]
 # HTML 概念及學習 ^toc
@@ -37,6 +37,7 @@ modified: Thursday, October 27th 2022, 9:54:22 pm
 		- [[#1.8. 加入 CSS 相關|1.8. 加入 CSS 相關]]
 			- [[#1.8.1. 居住在 HTML 附近城鎮的 CSS|1.8.1. 居住在 HTML 附近城鎮的 CSS]]
 			- [[#1.8.2. 跟 HTML 共同居住的 CSS|1.8.2. 跟 HTML 共同居住的 CSS]]
+			- [[#1.8.3. 居住在天界的 CSS|1.8.3. 居住在天界的 CSS]]
 
 
 ## 1. 概觀
@@ -133,5 +134,11 @@ span 的誕生原本是用來標註特定位置使用的，這部分的作用更
 #### 1.8.1. 居住在 HTML 附近城鎮的 CSS
 - CSS 一般並不會居住在 HTML 的地方，更多是存在於 HTML 檔案附近，然後透過連結的方式進入，如 `<link rel="stylesheet" href="style.css">` #h/red **（此行放在 `<head>` 內容中）**，這種設定方式會讓整篇都套用 CSS 風格檔
 - 由於我們是連接 CSS 檔案的，所以「rel」會設定 stylesheet
+-  #h/red **WordPress 不適用**
+
 #### 1.8.2. 跟 HTML 共同居住的 CSS
 - 會使用 style 屬性單獨設定，例如 `<p style="color:red;">A red paragraph.</p>`，此用法無法套用到整篇 HTML 文件中
+
+#### 1.8.3. 居住在天界的 CSS
+- 在 `<head>` 標籤中加入 `<style></style>`，並將設定放在其中， #h/red **w3school 程式學習的網站也都是使用這個方法**
+- #h/red **WordPress 不適用**

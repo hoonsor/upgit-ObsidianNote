@@ -109,13 +109,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "HTML概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/HTML概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":33},\"to\":{\"line\":11,\"ch\":33}},\"scroll\":0.8496731776817172}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e7eb38b9be71ab6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-index/!dict.md",
                 "mode": "source",
                 "source": false
               }
@@ -345,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +398,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
               }
             }
           },
@@ -390,7 +417,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -453,7 +480,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -494,15 +521,15 @@
   },
   "active": "229cca8b9e08a0c4",
   "lastOpenFiles": [
-    "●首頁.md",
-    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
+    "000-index/!dict.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
+    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-10-26_Wed.md",
     "006-DailyNote/2022-10-27_Thu.md",
+    "006-DailyNote/2022-10-26_Wed.md",
     "001-Template/Daily Note Template.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
 }
