@@ -4,7 +4,7 @@ sibling:
 child: 
 obsidianUIMode: preview 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Tuesday, October 25th 2022, 10:03:30 pm
+modified: Wednesday, October 26th 2022, 9:19:59 pm
 ---
 [[●專案管理]]
 # CSS 的概念及學習 ^toc
@@ -21,7 +21,7 @@ modified: Tuesday, October 25th 2022, 10:03:30 pm
 		- [[#3.3. 行內設定|3.3. 行內設定]]
 	- [[#4. WordPress 中一些關於 CSS 相關注意事項|4. WordPress 中一些關於 CSS 相關注意事項]]
 	- [[#5. CSS 的一些屬性紀錄|5. CSS 的一些屬性紀錄]]
-	- [[#6. CSS 學習網站|6. CSS 學習網站]]
+	- [[#6. 練習撰寫 CSS 語法之網站|6. 練習撰寫 CSS 語法之網站]]
 	- [[#7. 有關外掛|7. 有關外掛]]
 		- [[#7.1. 查看顏色之瀏覽器外掛|7.1. 查看顏色之瀏覽器外掛]]
 
@@ -144,7 +144,7 @@ div>span {
 	- min-width：最小寬度
 
 
-## 6. CSS 學習網站
+## 6. 練習撰寫 CSS 語法之網站
 - 可以線上練習撰寫 CSS
 > [!INFO]+ 資訊
 > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
