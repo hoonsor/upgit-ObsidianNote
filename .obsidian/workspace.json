@@ -93,8 +93,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4824222b97e546ae",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-27_Thu.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-27_Thu.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           },
@@ -328,7 +350,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-27_Thu.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -425,7 +447,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-27_Thu.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -463,8 +485,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "32d5a2b3609f712d",
+  "active": "4824222b97e546ae",
   "lastOpenFiles": [
+    "006-DailyNote/2022-10-27_Thu.md",
     "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
     "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
@@ -473,7 +496,6 @@
     "1111004-性騷擾防治三法講座.md",
     "1110925-老屋翻修估價相關_image_2.png",
     "006-DailyNote/2022-10-25_Tue.md",
-    "006-DailyNote/2022-10-24_Mon.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "006-DailyNote/2022-10-24_Mon.md"
   ]
 }
