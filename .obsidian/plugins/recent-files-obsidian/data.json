@@ -5,6 +5,10 @@
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-10-27_Thu",
       "path": "006-DailyNote/2022-10-27_Thu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
-    },
-    {
-      "basename": "2022-10-10_Mon",
-      "path": "006-DailyNote/2022-10-10_Mon.md"
     }
   ],
   "omittedPaths": [],
