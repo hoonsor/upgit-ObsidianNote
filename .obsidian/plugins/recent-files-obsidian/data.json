@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "Daily Note Tasks",
+      "path": "001-Template/Daily Note Tasks.md"
+    },
+    {
+      "basename": "2022-10-28_Fri",
+      "path": "006-DailyNote/2022-10-28_Fri.md"
     },
     {
       "basename": "2022-10-27_Thu",
       "path": "006-DailyNote/2022-10-27_Thu.md"
+    },
+    {
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
     },
     {
       "basename": "●首頁",
@@ -29,16 +45,8 @@
       "path": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
     },
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
       "basename": "2022-10-26_Wed",
       "path": "006-DailyNote/2022-10-26_Wed.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "●投資理財及創業待辦事項",
@@ -67,10 +75,6 @@
     {
       "basename": "1110906-Obsidian快捷鍵",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "2022-10-25_Tue",
@@ -187,18 +191,6 @@
     {
       "basename": "1110731-DataView插件筆記",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
-    },
-    {
-      "basename": "2022-09-26_Mon",
-      "path": "006-DailyNote/2022-09-26_Mon.md"
-    },
-    {
-      "basename": "2022-10-11_Tue",
-      "path": "006-DailyNote/2022-10-11_Tue.md"
-    },
-    {
-      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
     }
   ],
   "omittedPaths": [],
