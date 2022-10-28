@@ -12,7 +12,6 @@
   "minimal-style@@h6-l": true,
   "minimal-cards-style@@cards-background@@dark": "#0096C8",
   "minimal-style@@active-line-on": true,
-  "minimal-style@@active-line-bg@@dark": "#1E1E1E",
   "minimal-style@@minimal-strike-lists": true,
   "minimal-style@@ax3@@dark": "#300000",
   "minimal-style@@checkbox-shape": "checkbox-square",
@@ -48,6 +47,7 @@
   "minimal-style@@h5-size": "1.07em",
   "minimal-style@@h6-size": "1.05em",
   "minimal-style@@blockquote-color@@dark": "#C09054",
+  "minimal-style@@red@@dark": "#2BBCA9",
   "minimal-style@@bg3@@dark": "#352929",
-  "minimal-style@@red@@dark": "#2BBCA9"
+  "minimal-style@@active-line-bg@@dark": "#1E1E1E"
 }
