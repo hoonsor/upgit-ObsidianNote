@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-10-07_Fri",
       "path": "006-DailyNote/2022-10-07_Fri.md"
-    },
-    {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
     }
   ],
   "omittedPaths": [],
