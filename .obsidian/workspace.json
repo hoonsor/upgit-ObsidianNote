@@ -44,17 +44,17 @@
             "id": "ec8202abf84afe6c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":46.99329901460427}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1111029-運鏡技巧學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":32},\"to\":{\"line\":54,\"ch\":32}},\"scroll\":41.834640896055596}"
                 },
                 {
                   "title": "1111004-性騷擾防治三法講座",
@@ -79,8 +79,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
-                "mode": "source",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           },
@@ -354,7 +354,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,7 +417,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -455,9 +455,9 @@
   },
   "active": "ec8202abf84afe6c",
   "lastOpenFiles": [
+    "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "●首頁.md",
-    "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
     "1111029-運鏡技巧學習_image_1.gif",
     "1111004-性騷擾防治三法講座.md",
