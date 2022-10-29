@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: 
+obsidianUIMode: preview 
 parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Tuesday, October 18th 2022, 12:29:26 am
+modified: Saturday, October 29th 2022, 10:23:04 am
 ---
 
 [[●專案管理]]
@@ -16,6 +16,7 @@ modified: Tuesday, October 18th 2022, 12:29:26 am
 		- [[#2.1. Dataview|2.1. Dataview]]
 		- [[#2.2. Columns|2.2. Columns]]
 		- [[#2.3. Obsidian Markdown Table Editor|2.3. Obsidian Markdown Table Editor]]
+		- [[#2.4. upgit（檔案上傳至 github 再將連結複製到剪貼簿上）|2.4. upgit（檔案上傳至 github 再將連結複製到剪貼簿上）]]
 	- [[#3. 各項教學|3. 各項教學]]
 		- [[#3.1. 使用 GitHub 圖床：快速上傳圖檔到 GitHub 並插入圖片網址到 Obsidian|3.1. 使用 GitHub 圖床：快速上傳圖檔到 GitHub 並插入圖片網址到 Obsidian]]
 			- [[#3.1.1. github token 設定|3.1.1. github token 設定]]
@@ -31,7 +32,7 @@ modified: Tuesday, October 18th 2022, 12:29:26 am
 
 ## 2. 插件
 ### 2.1. Dataview
-[[002-Inbox/1110731-DataView插件筆記]]
+[[1110731-DataView插件筆記]]
 
 ### 2.2. Columns 
 
@@ -49,6 +50,27 @@ modified: Tuesday, October 18th 2022, 12:29:26 am
 
 > [!INFO]+ 資訊
 > [(66) [Obs＃75] 千呼萬喚始出來！視覺化表格編輯器(Obsidian Markdown Table Editor)誕生了 🎂 - YouTube](https://www.youtube.com/watch?v=rZX_ZVPOgC8)
+
+### 2.4. upgit（檔案上傳至 github 再將連結複製到剪貼簿上）
+
+> [!INFO]+ 資訊
+> UPGIT 簡體中文說明文件
+> [upgit/README.zh-CN.md at main · pluveto/upgit · GitHub](https://github.com/pluveto/upgit/blob/main/docs/README.zh-CN.md)
+- 以下為搭配 AHK 之範例，當在資料夾中選到我想要上傳的檔案（此範例為 gif），按下 capslock+t 後，就會將檔案透過 upgit 自動上傳，並且將連結依照我自訂的 markdown 格式複製到剪貼簿
+```AHK
+CapsLock & t::
+    Clipboard =
+    Send,^c
+    ClipWait
+    path = %Clipboard%
+    Run, "C:\upgit\upgit.exe" %path% -o clipboard  -f markdown-simple
+    Sleep, 1500
+    ToolTip, 檔案已使用upgit上傳完成！
+    Sleep, 1500
+    ToolTip
+Return
+```
+
 
 ## 3. 各項教學
 
