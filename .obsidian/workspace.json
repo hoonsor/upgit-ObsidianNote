@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -405,6 +405,9 @@
     ],
     "direction": "horizontal",
     "width": 408.5
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "316ee88745af0986",
   "lastOpenFiles": [
