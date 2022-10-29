@@ -11,11 +11,23 @@
             "id": "13c091f1e3ef84d0",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "●專案管理",
+                  "icon": "blocks",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2022-10-29_Sat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-29_Sat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":0},\"to\":{\"line\":28,\"ch\":0}},\"scroll\":16.361153262518968}"
                 },
                 {
                   "title": "1111029-運鏡技巧學習",
@@ -34,24 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-10-29_Sat.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "92b668a508ca8a5e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +242,7 @@
       {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 45.50000000000001,
+        "dimension": 36.199999999999996,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -258,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-10-29_Sat.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-10-29_Sat.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           },
@@ -303,7 +304,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-10-29_Sat.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +333,7 @@
       {
         "id": "cbed48977d048501",
         "type": "tabs",
-        "dimension": 21.200000000000003,
+        "dimension": 30.5,
         "children": [
           {
             "id": "26789cd53172f5d5",
@@ -366,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-10-29_Sat.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -401,17 +402,17 @@
     "direction": "horizontal",
     "width": 359.5
   },
-  "active": "92b668a508ca8a5e",
+  "active": "13c091f1e3ef84d0",
   "lastOpenFiles": [
+    "●專案管理.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "006-DailyNote/2022-10-29_Sat.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md",
     "●首頁.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
     "1111029-運鏡技巧學習_image_1.gif",
     "1111004-性騷擾防治三法講座.md",
-    "1110925-老屋翻修估價相關_image_2.png",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-10-28_Fri.md"
+    "1110925-老屋翻修估價相關_image_2.png"
   ]
 }
