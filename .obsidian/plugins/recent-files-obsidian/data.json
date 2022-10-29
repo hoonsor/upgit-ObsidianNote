@@ -5,6 +5,10 @@
       "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
     {
+      "basename": "1110806-Git及Obsidian同步至手機學習",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md"
+    },
+    {
       "basename": "●專案管理",
       "path": "●專案管理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-10-13_Thu",
       "path": "006-DailyNote/2022-10-13_Thu.md"
-    },
-    {
-      "basename": "2022-10-12_Wed",
-      "path": "006-DailyNote/2022-10-12_Wed.md"
     }
   ],
   "omittedPaths": [],

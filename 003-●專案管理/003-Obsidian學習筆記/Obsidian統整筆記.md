@@ -1,10 +1,10 @@
 ---
-obsidianUIMode: preview 
+obsidianUIMode: sourece  
 parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Saturday, October 29th 2022, 10:00:02 pm
+modified: Saturday, October 29th 2022, 10:20:44 pm
 ---
 
 [[●專案管理]]
@@ -25,6 +25,12 @@ modified: Saturday, October 29th 2022, 10:00:02 pm
 			- [[#2.4.6. 相關連結|2.4.6. 相關連結]]
 	- [[#3. 小技巧|3. 小技巧]]
 	- [[#4. 教學介紹及分享|4. 教學介紹及分享]]
+		- [[#4.1. Obsidian 概述|4.1. Obsidian 概述]]
+		- [[#4.2. 文件準備|4.2. 文件準備]]
+			- [[#4.2.1. 安裝 Obsidan 及有關插件|4.2.1. 安裝 Obsidan 及有關插件]]
+			- [[#4.2.2. 安裝 Github，方便同步不同設備上之資料|4.2.2. 安裝 Github，方便同步不同設備上之資料]]
+			- [[#4.2.3. 安裝 upgit，方便上傳圖檔並取得連結|4.2.3. 安裝 upgit，方便上傳圖檔並取得連結]]
+			- [[#4.2.4. 安裝 Autohotkey，搭配 upgit 使用|4.2.4. 安裝 Autohotkey，搭配 upgit 使用]]
 
 
 ## 1. 語法概述
@@ -51,7 +57,6 @@ modified: Saturday, October 29th 2022, 10:00:02 pm
 > [(66) [Obs＃75] 千呼萬喚始出來！視覺化表格編輯器(Obsidian Markdown Table Editor)誕生了 🎂 - YouTube](https://www.youtube.com/watch?v=rZX_ZVPOgC8)
 
 ### 2.4. upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）
-
 
 - upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能把圖檔上傳到 GitHub，並且直接取得 GitHub 的圖片鏈接網址，方便在筆記或 Blog 裡引用。
 
@@ -135,3 +140,20 @@ Return
 
 ## 4. 教學介紹及分享
 
+### 4.1. Obsidian 概述
+- Obsidian 是一款知識管理軟體，強大的功能及各類插件，可以讓人建立一套完整的系統，並且快速筆記及獲取想要的知識
+- 與其他筆記軟體不同之處在於自由度高且具有反向連結功能，可以如同大腦般的連結各類知識及筆記
+
+### 4.2. 文件準備
+#### 4.2.1. 安裝 Obsidan 及有關插件
+- Obsidian 安裝檔
+- 我目前 Obsidian 資料夾中的檔案
+
+#### 4.2.2. 安裝 Github，方便同步不同設備上之資料
+- 註冊並安裝 [GitHub Desktop](https://desktop.github.com/)，作為在不同設備同步 Obsidian 及上傳各類圖檔文件使用
+- 步驟請參考 [[1110806-Git及Obsidian同步至手機學習]]
+
+#### 4.2.3. 安裝 upgit，方便上傳圖檔並取得連結
+- 下載並安裝 [upgit](https://github.com/pluveto/upgit/releases)，並詳見 [[Obsidian統整筆記#2 4 upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）]]
+
+#### 4.2.4. 安裝 Autohotkey，搭配 upgit 使用
