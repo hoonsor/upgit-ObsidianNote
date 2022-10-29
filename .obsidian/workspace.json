@@ -38,8 +38,14 @@
             "id": "ec8202abf84afe6c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":46.99329901460427}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -441,17 +447,17 @@
     "width": 408.5,
     "collapsed": true
   },
-  "active": "da7154e25a1aeb3e",
+  "active": "ec8202abf84afe6c",
   "lastOpenFiles": [
+    "●首頁.md",
+    "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
+    "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "1111029-運鏡技巧學習_image_1.gif",
     "1111004-性騷擾防治三法講座.md",
-    "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "1110925-老屋翻修估價相關_image_2.png",
-    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-28_Fri.md",
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-    "006-DailyNote/2022-10-29_Sat.md",
-    "005-工作相關/●工作待辦事項.md"
+    "006-DailyNote/2022-10-29_Sat.md"
   ]
 }

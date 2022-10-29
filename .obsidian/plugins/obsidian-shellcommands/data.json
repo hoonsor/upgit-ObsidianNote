@@ -182,6 +182,30 @@
         "stdout": null,
         "stderr": null
       }
+    },
+    {
+      "id": "84ziyubd0c",
+      "platform_specific_commands": {
+        "default": "c:\\upgit\\upgit.exe clipboard -f markdown-simple"
+      },
+      "shells": {},
+      "alias": "upgit-1",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
     }
   ],
   "prompts": [],
