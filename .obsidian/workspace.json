@@ -35,58 +35,12 @@
               "type": "markdown",
               "state": {
                 "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec8202abf84afe6c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Obsidian統整筆記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":55.67424149946733}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1111004-性騷擾防治三法講座",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1111004-性騷擾防治三法講座.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1111029-運鏡技巧學習_image_1",
-                  "icon": "lucide-image",
-                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"1111029-運鏡技巧學習_image_1.gif\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1111029-運鏡技巧學習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":23.655816555023193}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -309,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           },
@@ -354,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -417,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -450,13 +404,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 408.5
   },
-  "active": "ec8202abf84afe6c",
+  "active": "316ee88745af0986",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "●首頁.md",
     "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
     "1111029-運鏡技巧學習_image_1.gif",
