@@ -480,13 +480,15 @@
       "key": "E"
     }
   ],
-  "editor:cycle-list-checklist": [
+  "editor:cycle-list-checklist": [],
+  "obsidian-advanced-uri:copy-uri-current-file-simple": [],
+  "obsidian-attachment-name-formatting:attachments-rescan-command": [],
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Enter"
     }
-  ],
-  "obsidian-advanced-uri:copy-uri-current-file-simple": []
+  ]
 }

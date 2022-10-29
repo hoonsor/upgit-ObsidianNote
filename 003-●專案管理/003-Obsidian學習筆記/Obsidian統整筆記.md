@@ -4,7 +4,7 @@ parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Saturday, October 29th 2022, 10:23:04 am
+modified: Saturday, October 29th 2022, 10:00:02 pm
 ---
 
 [[●專案管理]]
@@ -16,16 +16,15 @@ modified: Saturday, October 29th 2022, 10:23:04 am
 		- [[#2.1. Dataview|2.1. Dataview]]
 		- [[#2.2. Columns|2.2. Columns]]
 		- [[#2.3. Obsidian Markdown Table Editor|2.3. Obsidian Markdown Table Editor]]
-		- [[#2.4. upgit（檔案上傳至 github 再將連結複製到剪貼簿上）|2.4. upgit（檔案上傳至 github 再將連結複製到剪貼簿上）]]
-	- [[#3. 各項教學|3. 各項教學]]
-		- [[#3.1. 使用 GitHub 圖床：快速上傳圖檔到 GitHub 並插入圖片網址到 Obsidian|3.1. 使用 GitHub 圖床：快速上傳圖檔到 GitHub 並插入圖片網址到 Obsidian]]
-			- [[#3.1.1. github token 設定|3.1.1. github token 設定]]
-			- [[#3.1.2. 建立專用的 github repo|3.1.2. 建立專用的 github repo]]
-			- [[#3.1.3. upgit 下載及 config.toml 設定|3.1.3. upgit 下載及 config.toml 設定]]
-			- [[#3.1.4. autohotkey 整合|3.1.4. autohotkey 整合]]
-			- [[#3.1.5. 使用 obsidian shell commands 外掛|3.1.5. 使用 obsidian shell commands 外掛]]
-			- [[#3.1.6. 相關連結|3.1.6. 相關連結]]
-	- [[#4. 小技巧|4. 小技巧]]
+		- [[#2.4. upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）|2.4. upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）]]
+			- [[#2.4.1. github token 設定|2.4.1. github token 設定]]
+			- [[#2.4.2. 建立專用的 github repo|2.4.2. 建立專用的 github repo]]
+			- [[#2.4.3. upgit 下載及 config.toml 設定|2.4.3. upgit 下載及 config.toml 設定]]
+			- [[#2.4.4. 使用 obsidian shell commands 外掛|2.4.4. 使用 obsidian shell commands 外掛]]
+			- [[#2.4.5. 實做上傳 Gif 圖檔並搭配 AHK 複製連結|2.4.5. 實做上傳 Gif 圖檔並搭配 AHK 複製連結]]
+			- [[#2.4.6. 相關連結|2.4.6. 相關連結]]
+	- [[#3. 小技巧|3. 小技巧]]
+	- [[#4. 教學介紹及分享|4. 教學介紹及分享]]
 
 
 ## 1. 語法概述
@@ -51,33 +50,13 @@ modified: Saturday, October 29th 2022, 10:23:04 am
 > [!INFO]+ 資訊
 > [(66) [Obs＃75] 千呼萬喚始出來！視覺化表格編輯器(Obsidian Markdown Table Editor)誕生了 🎂 - YouTube](https://www.youtube.com/watch?v=rZX_ZVPOgC8)
 
-### 2.4. upgit（檔案上傳至 github 再將連結複製到剪貼簿上）
-
-> [!INFO]+ 資訊
-> UPGIT 簡體中文說明文件
-> [upgit/README.zh-CN.md at main · pluveto/upgit · GitHub](https://github.com/pluveto/upgit/blob/main/docs/README.zh-CN.md)
-- 以下為搭配 AHK 之範例，當在資料夾中選到我想要上傳的檔案（此範例為 gif），按下 capslock+t 後，就會將檔案透過 upgit 自動上傳，並且將連結依照我自訂的 markdown 格式複製到剪貼簿
-```AHK
-CapsLock & t::
-    Clipboard =
-    Send,^c
-    ClipWait
-    path = %Clipboard%
-    Run, "C:\upgit\upgit.exe" %path% -o clipboard  -f markdown-simple
-    Sleep, 1500
-    ToolTip, 檔案已使用upgit上傳完成！
-    Sleep, 1500
-    ToolTip
-Return
-```
+### 2.4. upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）
 
 
-## 3. 各項教學
+- upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能把圖檔上傳到 GitHub，並且直接取得 GitHub 的圖片鏈接網址，方便在筆記或 Blog 裡引用。
 
-### 3.1. 使用 GitHub 圖床：快速上傳圖檔到 GitHub 並插入圖片網址到 Obsidian
-upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能把圖檔上傳到 GitHub，並且直接取得 GitHub 的圖片鏈接網址，方便在筆記或 Blog 裡引用。
 
-#### 3.1.1. github token 設定
+#### 2.4.1. github token 設定
 - 右上頭像→Setting→左下指令列「Develop Settings」→左邊指令列「Personal acess tokens」→畫面中間上方「Generate new token」→輸入密碼→輸入 Note 名稱（自訂）→指定有效期限→（授權權限）勾選 repo→「Generate token」→複製「ghp_XXXX」開頭的字串就是我們的 token→複製起來並儲存
 - 注意一下，預設的分支是「main」，分支名稱會影響到底下 upgit 的設定檔文字內容設定！
 
@@ -87,9 +66,9 @@ upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能�
 
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666023125.png)
 
-#### 3.1.2. 建立專用的 github repo
+#### 2.4.2. 建立專用的 github repo
 記得 repo 一定要設定為 public，這樣才有辦法存取
-#### 3.1.3. upgit 下載及 config.toml 設定
+#### 2.4.3. upgit 下載及 config.toml 設定
 - 至下列網站，點擊右邊的 release，至最新版本處下載 upgit_win_amd64.exe（windows 64 位元的執行檔），並下載 Source code.zip，裡面有 config.toml 的範例檔案
 - 下載下來之後將檔名改成 upgit.exe，放在 Obsidian Shell commands PATH 環境變數可以指定的到的路徑中（自訂，路徑不要有中文及空格），就可以做下一步 config.toml 的設定了，影片中的路徑是 `C:\UTIL`
 - 在「branch」輸入分支名稱，在「pat」輸入 token 字串
@@ -108,8 +87,7 @@ upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能�
 > [!INFO]+ 資訊
 > [GitHub - pluveto/upgit: Another Upload Hub, support clipboard, good with Typora, Snipaste, VSCode](https://github.com/pluveto/upgit)
 
-#### 3.1.4. autohotkey 整合
-#### 3.1.5. 使用 obsidian shell commands 外掛
+#### 2.4.4. 使用 obsidian shell commands 外掛
 - 此指令等同於使用命令提示字元去執行 upgit.exe 並使其回傳 markdown 自訂之輸出文字，再將其複製到剪貼簿上並且貼上
 
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666022423.png)
@@ -117,12 +95,43 @@ upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能�
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666022448.png)
 
 
-#### 3.1.6. 相關連結
+#### 2.4.5. 實做上傳 Gif 圖檔並搭配 AHK 複製連結
+- 以下為搭配 AHK 之範例，當在資料夾中選到我想要上傳的檔案（此範例為 gif），按下 Alt+V 後，就會將檔案透過 upgit 自動上傳，並且將連結依照我自訂的 markdown 格式複製到剪貼簿
+```AHK
+!v::
+    Clipboard =
+    Send,^c
+    ClipWait
+    path = %Clipboard%
+    Run, "C:\upgit\upgit.exe" %path% -o clipboard  -f markdown-simple
+    Sleep, 1500
+    ToolTip, 檔案已使用upgit上傳完成！
+    Sleep, 1500
+    ToolTip
+Return
+```
+
+
+
+
+
+#### 2.4.6. 相關連結
 
 
 > [!INFO]+ 資訊
 > [[Obs＃67] upgit－使用GitHub圖床：快速上傳圖檔到GitHub並插入圖片網址到Obsidian - YouTube](https://www.youtube.com/watch?v=nGII-khqm2o&t=152s)
 
-## 4. 小技巧
 
-> OB_Tips:: 想要將程式碼區塊顯示成文字，只要使用四個\`（變音符號）把原本程式碼區塊包住即可顯示！
+> [!INFO]+ 資訊
+> UPGIT 簡體中文說明文件
+> [upgit/README.zh-CN.md at main · pluveto/upgit · GitHub](https://github.com/pluveto/upgit/blob/main/docs/README.zh-CN.md)
+
+
+
+## 3. 小技巧
+
+> OB_Tips:: 想要將程式碼區塊顯示成文字，只要使用四個\`（倒引號）把原本程式碼區塊包住即可顯示！
+
+
+## 4. 教學介紹及分享
+
