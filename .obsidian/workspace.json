@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "1111029-運鏡技巧學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":10},\"to\":{\"line\":17,\"ch\":10}},\"scroll\":0}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -28,13 +34,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "92b668a508ca8a5e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +241,7 @@
       {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 45.5,
+        "dimension": 45.50000000000001,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -241,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
+                "file": "006-DailyNote/2022-10-29_Sat.md"
               }
             }
           },
@@ -286,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +332,7 @@
       {
         "id": "cbed48977d048501",
         "type": "tabs",
-        "dimension": 21.2,
+        "dimension": 21.200000000000003,
         "children": [
           {
             "id": "26789cd53172f5d5",
@@ -349,7 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -384,13 +401,10 @@
     "direction": "horizontal",
     "width": 359.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "13c091f1e3ef84d0",
+  "active": "92b668a508ca8a5e",
   "lastOpenFiles": [
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
