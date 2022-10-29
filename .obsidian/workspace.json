@@ -11,17 +11,17 @@
             "id": "13c091f1e3ef84d0",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "●專案管理",
-                  "icon": "blocks",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●專案管理.md\"}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Obsidian統整筆記",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":162,\"ch\":10},\"to\":{\"line\":162,\"ch\":10}},\"scroll\":137.52083333333334}"
                 },
                 {
                   "title": "2022-10-29_Sat",
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+                "file": "006-DailyNote/2022-10-29_Sat.md"
               }
             }
           },
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,7 +388,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-10-29_Sat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -425,8 +425,8 @@
   },
   "active": "13c091f1e3ef84d0",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110806-Git及Obsidian同步至手機學習.md",
     "●專案管理.md",
     "006-DailyNote/2022-10-29_Sat.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",

@@ -4,7 +4,7 @@ parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Saturday, October 29th 2022, 10:20:44 pm
+modified: Saturday, October 29th 2022, 11:41:54 pm
 ---
 
 [[●專案管理]]
@@ -157,3 +157,7 @@ Return
 - 下載並安裝 [upgit](https://github.com/pluveto/upgit/releases)，並詳見 [[Obsidian統整筆記#2 4 upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）]]
 
 #### 4.2.4. 安裝 Autohotkey，搭配 upgit 使用
+- 下載 [1100123-●AHK+AutoGUI+QTTBar](https://drive.google.com/file/d/1MLlGT2AE2Z1d0RpDOAzDIuX-nppzi6WN/view)
+- 並搭配使用單一介面及 upgit
+
+### 主要功能介紹
