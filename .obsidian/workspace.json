@@ -21,6 +21,18 @@
                   "title": "●日常生活待辦事項",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":38},\"to\":{\"line\":31,\"ch\":38}},\"scroll\":0}"
+                },
+                {
+                  "title": "2022-10-30_Sun",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-10-30_Sun.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":30},\"to\":{\"line\":53,\"ch\":30}},\"scroll\":24.09779126915947}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":27},\"to\":{\"line\":29,\"ch\":27}},\"scroll\":15.151539354053925}"
                 },
                 {
@@ -356,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "cbed48977d048501",
@@ -430,11 +442,11 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "f9127968fab36803",
+  "active": "e9507294602dbe3b",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-30_Sun.md",
     "001-Template/Daily Note Template.md",
-    "004-●日常生活/●日常生活待辦事項.md",
     "★測試各類功能.md",
     "●日常生活.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",

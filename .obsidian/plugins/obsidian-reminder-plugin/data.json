@@ -1,29 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-10-30_Sun.md": [
-      {
-        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
-        "time": "2022-10-30 20:50",
-        "rowNumber": 38
-      },
-      {
-        "title": "手機相片備份（至電腦或google雲端硬碟）及整理",
-        "time": "2022-10-30 20:30",
-        "rowNumber": 39
-      },
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-10-30 21:30",
-        "rowNumber": 51
-      },
-      {
-        "title": "電療額頭",
-        "time": "2022-10-30 21:40",
-        "rowNumber": 53
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
