@@ -4,7 +4,7 @@ parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Saturday, October 29th 2022, 11:41:54 pm
+modified: Sunday, October 30th 2022, 8:53:14 pm
 ---
 
 [[●專案管理]]
@@ -31,6 +31,7 @@ modified: Saturday, October 29th 2022, 11:41:54 pm
 			- [[#4.2.2. 安裝 Github，方便同步不同設備上之資料|4.2.2. 安裝 Github，方便同步不同設備上之資料]]
 			- [[#4.2.3. 安裝 upgit，方便上傳圖檔並取得連結|4.2.3. 安裝 upgit，方便上傳圖檔並取得連結]]
 			- [[#4.2.4. 安裝 Autohotkey，搭配 upgit 使用|4.2.4. 安裝 Autohotkey，搭配 upgit 使用]]
+		- [[#4.3. 主要功能介紹|4.3. 主要功能介紹]]
 
 
 ## 1. 語法概述
@@ -103,16 +104,16 @@ modified: Saturday, October 29th 2022, 11:41:54 pm
 #### 2.4.5. 實做上傳 Gif 圖檔並搭配 AHK 複製連結
 - 以下為搭配 AHK 之範例，當在資料夾中選到我想要上傳的檔案（此範例為 gif），按下 Alt+V 後，就會將檔案透過 upgit 自動上傳，並且將連結依照我自訂的 markdown 格式複製到剪貼簿
 ```AHK
+;●●● 將gif檔案使用upgit上傳後並將連結以markdown的格式貼上剪貼簿
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 !v::
     Clipboard =
     Send,^c
     ClipWait
     path = %Clipboard%
-    Run, "C:\upgit\upgit.exe" %path% -o clipboard  -f markdown-simple
-    Sleep, 1500
-    ToolTip, 檔案已使用upgit上傳完成！
-    Sleep, 1500
-    ToolTip
+    Run, "C:\upgit\upgit.exe" %path% -s 0 -o clipboard  -f markdown-simple
+    Sleep, 2000
+   	Show_Banner("檔案已使用upgit上傳完成！",8,500)
 Return
 ```
 
@@ -137,6 +138,8 @@ Return
 
 > OB_Tips:: 想要將程式碼區塊顯示成文字，只要使用四個\`（倒引號）把原本程式碼區塊包住即可顯示！
 
+> OB_Tips:: Mgit 無法獲取建立檔案的權限時，將 repository 位置改到 emulated/0/documents/中就可以了 (r6p 只給 mgit 存取媒體檔案的權限)
+
 
 ## 4. 教學介紹及分享
 
@@ -160,4 +163,4 @@ Return
 - 下載 [1100123-●AHK+AutoGUI+QTTBar](https://drive.google.com/file/d/1MLlGT2AE2Z1d0RpDOAzDIuX-nppzi6WN/view)
 - 並搭配使用單一介面及 upgit
 
-### 主要功能介紹
+### 4.3. 主要功能介紹

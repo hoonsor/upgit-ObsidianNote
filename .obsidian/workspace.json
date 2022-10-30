@@ -16,12 +16,46 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "★測試各類功能",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "●日常生活",
+                  "icon": "blocks",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1111024-Excel基本操作及函數學習相關",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Obsidian統整筆記",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":142,\"ch\":0},\"to\":{\"line\":142,\"ch\":0}},\"scroll\":106.95038377671014}"
+                },
+                {
+                  "title": "AHK-概述",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":9}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -155,7 +189,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 31.973293768545997,
+        "dimension": 31.96781272860278,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -230,7 +264,7 @@
       {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 28.486646884272997,
+        "dimension": 51.06071689831748,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -247,6 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +306,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md"
+              }
             }
           },
           {
@@ -289,6 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,12 +350,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "cbed48977d048501",
         "type": "tabs",
-        "dimension": 39.540059347181014,
+        "dimension": 16.971470373079736,
         "children": [
           {
             "id": "26789cd53172f5d5",
@@ -351,6 +389,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,15 +426,15 @@
   },
   "active": "f9127968fab36803",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "★測試各類功能.md",
+    "●日常生活.md",
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+    "conflict-files-obsidian-git.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "●首頁.md",
     "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
-    "1111029-運鏡技巧學習_image_1.gif",
-    "1111004-性騷擾防治三法講座.md",
-    "1110925-老屋翻修估價相關_image_2.png",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-10-28_Fri.md"
+    "1111029-運鏡技巧學習_image_1.gif"
   ]
 }
