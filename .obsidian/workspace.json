@@ -225,8 +225,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "eb773b62905c6aaf",
@@ -298,12 +297,22 @@
           {
             "id": "54846e80ca942572",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "cbed48977d048501",
@@ -376,7 +385,7 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "7c0f21ea256eef32",
+  "active": "87952d7fb3f0c20e",
   "lastOpenFiles": [
     "006-DailyNote/2022-10-30_Sun.md",
     "004-●日常生活/●日常生活待辦事項.md",
