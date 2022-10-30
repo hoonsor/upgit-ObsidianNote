@@ -23,8 +23,47 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3d57927999a55158",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5c6082d59c82dc8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,6 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +311,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -289,6 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,6 +394,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,8 +429,9 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "f9127968fab36803",
+  "active": "c5c6082d59c82dc8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "●首頁.md",
@@ -395,7 +440,6 @@
     "1111004-性騷擾防治三法講座.md",
     "1110925-老屋翻修估價相關_image_2.png",
     "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-10-28_Fri.md",
-    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    "006-DailyNote/2022-10-28_Fri.md"
   ]
 }

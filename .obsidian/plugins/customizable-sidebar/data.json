@@ -37,6 +37,12 @@
     "Open command palette",
     "Advanced Tables Toolbar",
     "Open graph view",
-    "Manage workspaces"
+    "Manage workspaces",
+    "Open today's daily note",
+    "Breadcrumbs Visualisation",
+    "Open format converter",
+    "Open quick switcher",
+    "Export Attachments",
+    "Export Unused Attachments"
   ]
 }

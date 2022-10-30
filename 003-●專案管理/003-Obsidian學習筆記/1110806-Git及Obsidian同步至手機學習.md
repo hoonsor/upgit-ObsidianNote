@@ -1,4 +1,5 @@
 ---
+obsidianUIMode: 
 parent: 
 sibling: 
 child: 
@@ -10,31 +11,9 @@ author: MdEditor
 source: https://www.gushiciku.cn/pl/amr6/zh-tw
 template-output: 002-Inbox
 created: Saturday, August 6th 2022, 10:04:19 pm
-modified: Monday, August 8th 2022, 6:24:51 pm
+modified: Saturday, October 29th 2022, 10:10:22 pm
 ---
-# 1110806-Git 及 Obsidian 同步至手機學習 ^toc
-
-- [[#1110806-Git 及 Obsidian 同步至手機學習 ^toc|1110806-Git 及 Obsidian 同步至手機學習]]
-	- [[#前言|前言]]
-	- [[#Windows 桌面端的準備工作|Windows 桌面端的準備工作]]
-		- [[#第一步：安裝 Git|第一步：安裝 Git]]
-		- [[#第二步：在 Git 託管平臺中新建倉庫|第二步：在 Git 託管平臺中新建倉庫]]
-		- [[#第三步：生成 SSH 金鑰|第三步：生成 SSH 金鑰]]
-			- [[#方法一：自動配置|方法一：自動配置]]
-			- [[#注意：|注意：]]
-			- [[#方法二：手動配置|方法二：手動配置]]
-		- [[#第四步：上傳 SSH 公鑰|第四步：上傳 SSH 公鑰]]
-		- [[#第五步：配置本地 Obsidian 倉庫|第五步：配置本地 Obsidian 倉庫]]
-		- [[#第六步：配置 Git 倉庫同步|第六步：配置 Git 倉庫同步]]
-	- [[#Android 端的準備工作|Android 端的準備工作]]
-	- [[#結語|結語]]
-	- [[#個人心得摘要簡化步驟|個人心得摘要簡化步驟]]
-		- [[#安裝 Git|安裝 Git]]
-		- [[#產生密鑰、查詢及上傳至 GitHub|產生密鑰、查詢及上傳至 GitHub]]
-		- [[#配置本機 Obsidian 要同步之資料庫|配置本機 Obsidian 要同步之資料庫]]
-		- [[#配置 Git 倉庫並同步|配置 Git 倉庫並同步]]
-		- [[#如 Obsidian-git Plugin 出現錯誤|如 Obsidian-git Plugin 出現錯誤]]
-
+# 1110806-Git 及 Obsidian 同步至手機學習
 
 ## 前言
 
