@@ -38,11 +38,15 @@
     "Advanced Tables Toolbar",
     "Open graph view",
     "Manage workspaces",
-    "Open today's daily note",
-    "Breadcrumbs Visualisation",
-    "Open format converter",
-    "Open quick switcher",
     "Export Attachments",
-    "Export Unused Attachments"
-  ]
+    "Export Unused Attachments",
+    "Open quick switcher",
+    "Open today's daily note",
+    "Open format converter",
+    "Breadcrumbs Visualisation"
+  ],
+  "pinSidebar": {
+    "right": true,
+    "left": true
+  }
 }

@@ -40,30 +40,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c5c6082d59c82dc8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +265,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,9 +289,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -331,7 +307,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +369,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -429,7 +403,7 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "c5c6082d59c82dc8",
+  "active": "3d57927999a55158",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
