@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-30_Sun",
+      "path": "006-DailyNote/2022-10-30_Sun.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
     },
     {
       "basename": "Daily Note Tasks",
@@ -195,10 +199,6 @@
     {
       "basename": "1111012-WordPress架站心得",
       "path": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
-    },
-    {
-      "basename": "●專案管理",
-      "path": "●專案管理.md"
     }
   ],
   "omittedPaths": [],
