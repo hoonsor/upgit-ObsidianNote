@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "2022-10-31_Mon",
+      "path": "006-DailyNote/2022-10-31_Mon.md"
+    },
+    {
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
       "basename": "2022-10-30_Sun",
@@ -129,10 +133,6 @@
       "path": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
     },
     {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
       "basename": "2022-10-23_Sun",
       "path": "006-DailyNote/2022-10-23_Sun.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "2022-10-13_Thu",
       "path": "006-DailyNote/2022-10-13_Thu.md"
-    },
-    {
-      "basename": "2022-10-12_Wed",
-      "path": "006-DailyNote/2022-10-12_Wed.md"
     }
   ],
   "omittedPaths": [],
