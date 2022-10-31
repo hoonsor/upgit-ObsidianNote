@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af269ca915a4ea65",
+        "id": "0a47e4745d46c22f",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6768f5b69fb1d6",
+            "id": "4cf9d142cc26f865",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -251,7 +247,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,9 +271,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
-              }
+              "state": {}
             }
           },
           {
@@ -296,7 +289,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +351,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -394,10 +385,10 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "bd6768f5b69fb1d6",
+  "active": "4cf9d142cc26f865",
   "lastOpenFiles": [
-    "006-DailyNote/2022-10-30_Sun.md",
     "004-●日常生活/●日常生活待辦事項.md",
+    "006-DailyNote/2022-10-30_Sun.md",
     "001-Template/Daily Note Template.md",
     "★測試各類功能.md",
     "●日常生活.md",
