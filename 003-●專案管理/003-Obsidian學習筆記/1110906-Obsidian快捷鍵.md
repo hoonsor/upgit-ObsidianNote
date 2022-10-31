@@ -11,7 +11,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Tuesday, September 6th 2022, 10:24:11 pm
-modified: Wednesday, September 21st 2022, 10:13:00 pm
+modified: Monday, October 31st 2022, 10:43:29 pm
 ---
 # 1110906-Obsidian 快捷鍵
 
@@ -36,6 +36,7 @@ modified: Wednesday, September 21st 2022, 10:13:00 pm
 |    創建標題 1 至標題 6                     |    ctrl+NumPad 1 至 NumPad 6         |
 |    折疊/展開所有標題 1 至標題 6                |    ctrl+alt+NumPad 1 至 NumPad 6     |
 |    創建新筆記                            |    ctrl+N                           |
+|    開啟連結在新的視窗                       |    ctrl+alt+ 滑鼠左鍵                     |
 |    創建新筆記在新的分頁                       |    ctrl+shift+N                     |
 |    刪除目前的筆記                          |    ctrl+Delete                      |
 |    編輯檔名                             |    F2                               |
@@ -55,6 +56,7 @@ modified: Wednesday, September 21st 2022, 10:13:00 pm
 |    將本項目（包含子項目）往下移動一行/層              |    ctrl+shift+↓                     |
 |    Marco-Advanced URI               |    alt+W                            |
 |    Run QuickAdd                     |    ctrl+Q                           |
+|    開啟快速搜尋筆記視窗                     |    ctrl+O                           |
 |    把本則筆記加到今日筆記的 Review 標題中          |     ctrl+alt+R                      |
 |    插入註解                             |    ctrl+/                           |
 |    插入表格（呼叫表格工具）                     |    ctrl+shift+D                     |

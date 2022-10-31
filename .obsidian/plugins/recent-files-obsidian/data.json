@@ -13,6 +13,26 @@
       "path": "001-Template/Daily Note Template.md"
     },
     {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
+      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    },
+    {
+      "basename": "1111024-Excel基本操作及函數學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "●日常生活",
       "path": "●日常生活.md"
-    },
-    {
-      "basename": "1111024-Excel基本操作及函數學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
     },
     {
       "basename": "Obsidian統整筆記",
@@ -59,10 +75,6 @@
     {
       "basename": "2022-10-28_Fri",
       "path": "006-DailyNote/2022-10-28_Fri.md"
-    },
-    {
-      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
-      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
     },
     {
       "basename": "●工作待辦事項",
@@ -101,24 +113,12 @@
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
     },
     {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
       "basename": "1110911-Excel快速合併寄送郵件",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
       "basename": "2022-10-25_Tue",
