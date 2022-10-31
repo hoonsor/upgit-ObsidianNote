@@ -23,30 +23,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ead7bfa9d1d8f688",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,7 +247,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,9 +271,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -314,7 +289,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,7 +351,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,8 +385,9 @@
     "direction": "horizontal",
     "width": 408.5
   },
-  "active": "ead7bfa9d1d8f688",
+  "active": "4cf9d142cc26f865",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-10-30_Sun.md",
     "001-Template/Daily Note Template.md",
@@ -422,7 +396,6 @@
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
-    "conflict-files-obsidian-git.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
   ]
 }

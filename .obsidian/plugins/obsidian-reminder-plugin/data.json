@@ -3,6 +3,21 @@
   "reminders": {
     "006-DailyNote/2022-10-31_Mon.md": [
       {
+        "title": "記帳",
+        "time": "2022-10-31 20:40",
+        "rowNumber": 45
+      },
+      {
+        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
+        "time": "2022-10-31 20:50",
+        "rowNumber": 46
+      },
+      {
+        "title": "手機相片備份（至電腦或 google 雲端硬碟）及整理",
+        "time": "2022-10-31 20:30",
+        "rowNumber": 47
+      },
+      {
         "title": "在學校使用膝蓋熱敷器",
         "time": "2022-10-31 11:00",
         "rowNumber": 55
@@ -16,21 +31,6 @@
         "title": "吃維他命",
         "time": "2022-10-31 20:00",
         "rowNumber": 57
-      },
-      {
-        "title": "手機相片備份（至電腦或 google 雲端硬碟）及整理",
-        "time": "2022-10-31 20:30",
-        "rowNumber": 47
-      },
-      {
-        "title": "記帳",
-        "time": "2022-10-31 20:40",
-        "rowNumber": 45
-      },
-      {
-        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
-        "time": "2022-10-31 20:50",
-        "rowNumber": 46
       },
       {
         "title": "吊單槓 10 秒",
@@ -66,7 +66,7 @@
   },
   "debug": false,
   "settings": {
-    "reminderTime": "09:00",
+    "reminderTime": "10:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
@@ -76,7 +76,7 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
+    "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
