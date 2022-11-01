@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5e4c0960a5b227",
+        "id": "bf772698ddfeba65",
         "type": "tabs",
         "children": [
           {
-            "id": "1a46e6736d0d53af",
+            "id": "2bff016f31161fff",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,8 +23,30 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f9327f330cdf3b9e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +58,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 37.45427944403804,
+        "dimension": 50.66765578635014,
         "children": [
           {
             "id": "5742df7154023138",
@@ -58,6 +80,23 @@
             }
           },
           {
+            "id": "c05cfab6de97da18",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "2fdf00e2af4a8a46",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -72,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:電腦",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,10 +125,10 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 25.603511338697878,
+        "dimension": 49.33234421364986,
         "children": [
           {
-            "id": "c05cfab6de97da18",
+            "id": "da7154e25a1aeb3e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -101,7 +140,7 @@
               ]
             },
             "state": {
-              "type": "recent-files",
+              "type": "starred",
               "state": {}
             }
           },
@@ -126,34 +165,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "33747b1388fa3a94",
-        "type": "tabs",
-        "dimension": 36.942209217264086,
-        "children": [
-          {
-            "id": "da7154e25a1aeb3e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 278
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -162,7 +177,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 24.506217995610825,
+        "dimension": 31.944444444444443,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -197,71 +212,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "67a9990d596fae9b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ca561f2d506290d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "76cc32aa0b0b1b29",
-        "type": "tabs",
-        "dimension": 18.72713972201902,
-        "children": [
-          {
-            "id": "54846e80ca942572",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 36.5764447695684,
+        "dimension": 48.214285714285715,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -278,6 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +260,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md"
+              }
             }
           },
           {
@@ -320,18 +280,70 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6c49aa35af27fa79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "d911f10bf26305ef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe3c39a4541e59bd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "cbed48977d048501",
         "type": "tabs",
-        "dimension": 20.190197512801756,
+        "dimension": 19.841269841269842,
         "children": [
           {
             "id": "26789cd53172f5d5",
@@ -365,6 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,30 +400,30 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224415,
-                  "close": true
+                  "scale": 1.184053587375208,
+                  "close": false
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 297.5,
+    "collapsed": true
   },
-  "active": "54846e80ca942572",
+  "active": "f9327f330cdf3b9e",
   "lastOpenFiles": [
-    "006-DailyNote/2022-10-31_Mon.md",
-    "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
-    "001-Template/Daily Note Template.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "005-工作相關/●工作待辦事項.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "006-DailyNote/2022-10-31_Mon.md",
+    "006-DailyNote/2022-10-27_Thu.md",
+    "006-DailyNote/2022-10-28_Fri.md",
+    "005-工作相關/1111028-處理性別工作平等法有關事件注意事項.md",
+    "conflict-files-obsidian-git.md",
+    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+    "●首頁.md"
   ]
 }
