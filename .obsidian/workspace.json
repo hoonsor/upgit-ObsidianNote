@@ -23,8 +23,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "dcab6d2606ff5728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,6 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -302,7 +316,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -320,6 +336,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,6 +382,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -400,7 +418,7 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "54846e80ca942572",
+  "active": "dcab6d2606ff5728",
   "lastOpenFiles": [
     "006-DailyNote/2022-10-31_Mon.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
