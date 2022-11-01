@@ -20,24 +20,15 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dcab6d2606ff5728",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +40,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 37.45427944403804,
+        "dimension": 37.5,
         "children": [
           {
             "id": "5742df7154023138",
@@ -99,7 +90,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 25.603511338697878,
+        "dimension": 27.412280701754387,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -143,7 +134,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 36.942209217264086,
+        "dimension": 35.08771929824561,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -291,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "006-DailyNote/2022-11-01_Tue.md"
               }
             }
           },
@@ -336,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -382,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -418,8 +409,9 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "dcab6d2606ff5728",
+  "active": "1a46e6736d0d53af",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-10-31_Mon.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "001-Template/Daily Note Template.md",
@@ -428,7 +420,6 @@
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "004-●日常生活/●日常生活待辦事項.md"
   ]
 }
