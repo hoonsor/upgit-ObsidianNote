@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57f096a2d028c364",
+        "id": "3db6922530b771ff",
         "type": "tabs",
         "children": [
           {
-            "id": "de4cc7ed30a36317",
+            "id": "9aaeab3bdbc0860a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -22,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+                "file": "006-DailyNote/2022-11-01_Tue.md"
               }
             }
           },
@@ -327,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "file": "006-DailyNote/2022-11-01_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -409,17 +415,17 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "de4cc7ed30a36317",
+  "active": "9aaeab3bdbc0860a",
   "lastOpenFiles": [
-    "006-DailyNote/2022-11-01_Tue.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "★測試各類功能.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
+    "006-DailyNote/2022-11-01_Tue.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "★測試各類功能.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-10-31_Mon.md",
-    "001-Template/Daily Note Template.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    "006-DailyNote/2022-10-31_Mon.md"
   ]
 }

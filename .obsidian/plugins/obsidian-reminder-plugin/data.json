@@ -1,34 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-11-01_Tue.md": [
-      {
-        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
-        "time": "2022-11-01 20:50",
-        "rowNumber": 45
-      },
-      {
-        "title": "使用呼吸訓練器",
-        "time": "2022-11-01 17:30",
-        "rowNumber": 55
-      },
-      {
-        "title": "拔罐",
-        "time": "2022-11-01 20:10",
-        "rowNumber": 57
-      },
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-11-01 21:30",
-        "rowNumber": 61
-      },
-      {
-        "title": "電療額頭",
-        "time": "2022-11-01 21:40",
-        "rowNumber": 62
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
