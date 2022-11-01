@@ -11,7 +11,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Tuesday, September 6th 2022, 10:24:11 pm
-modified: Monday, October 31st 2022, 10:43:29 pm
+modified: Tuesday, November 1st 2022, 9:28:12 pm
 ---
 # 1110906-Obsidian 快捷鍵
 
@@ -59,6 +59,7 @@ modified: Monday, October 31st 2022, 10:43:29 pm
 |    開啟快速搜尋筆記視窗                     |    ctrl+O                           |
 |    把本則筆記加到今日筆記的 Review 標題中          |     ctrl+alt+R                      |
 |    插入註解                             |    ctrl+/                           |
+|    插入註腳                             |    ctrl+alt+F                           |
 |    插入表格（呼叫表格工具）                     |    ctrl+shift+D                     |
 | 插入表情符號                              | ctrl+shift+E                        |  
 

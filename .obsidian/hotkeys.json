@@ -192,7 +192,6 @@
       "key": "ArrowUp"
     }
   ],
-  "obsidian-advanced-uri:copy-uri-command": [],
   "cmenu-plugin:underline": [
     {
       "modifiers": [
@@ -488,5 +487,15 @@
       ],
       "key": "Enter"
     }
-  ]
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-attachment-name-formatting:export-unused-attachments-command": []
 }
