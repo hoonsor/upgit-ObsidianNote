@@ -3,7 +3,7 @@
   "reminders": {},
   "debug": false,
   "settings": {
-    "reminderTime": "10:00",
+    "reminderTime": "09:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
     "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
@@ -13,7 +13,7 @@
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": true,
+    "enableTasksPluginReminderFormat": false,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
