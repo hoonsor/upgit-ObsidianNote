@@ -4,7 +4,7 @@ parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Sunday, October 30th 2022, 8:53:14 pm
+modified: Tuesday, November 1st 2022, 9:14:30 pm
 ---
 
 [[●專案管理]]
@@ -12,6 +12,10 @@ modified: Sunday, October 30th 2022, 8:53:14 pm
 
 - [[#Obsidian 統整筆記 ^toc|Obsidian 統整筆記]]
 	- [[#1. 語法概述|1. 語法概述]]
+		- [[#1.1. 區塊引用語法|1.1. 區塊引用語法]]
+			- [[#1.1.1. 自動命名|1.1.1. 自動命名]]
+			- [[#1.1.2. 手動命名|1.1.2. 手動命名]]
+		- [[#1.2. 註腳語法|1.2. 註腳語法]]
 	- [[#2. 插件|2. 插件]]
 		- [[#2.1. Dataview|2.1. Dataview]]
 		- [[#2.2. Columns|2.2. Columns]]
@@ -35,6 +39,31 @@ modified: Sunday, October 30th 2022, 8:53:14 pm
 
 
 ## 1. 語法概述
+
+### 1.1. 區塊引用語法
+#### 1.1.1. 自動命名
+- 內部連結時輸入倒 V 符號，下拉式選單便會自行跳出各個區塊，當選中後，該區塊後面會自行顯示出區塊代碼（僅編輯模式會呈現，檢視模式不會）
+- 範例：[[★測試各類功能#^737aa8]]
+#### 1.1.2. 手動命名
+- 在想要加入命名的區塊句尾，輸入空白 + 倒 V 符號，並且輸入自訂的名稱即可，需注意命名名稱 #h/red **只可以使用數字及英文之組合，不可使用中文**
+- 範例：[[★測試各類功能#^example]]
+
+### 1.2. 註腳語法
+
+這是第一個註腳 [^1]，今天天氣不錯。
+第二段開頭，這是第二個註腳 [^2]，結尾文字。
+
+
+
+
+
+
+
+
+
+---
+[^1]: 今天天氣很好
+[^2]: 註腳測試練習
 
 ## 2. 插件
 ### 2.1. Dataview
@@ -89,6 +118,9 @@ modified: Sunday, October 30th 2022, 8:53:14 pm
 ![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666024040.png)
 
 
+
+
+[[Obsidian統整筆記#^11111010852]]
 
 > [!INFO]+ 資訊
 > [GitHub - pluveto/upgit: Another Upload Hub, support clipboard, good with Typora, Snipaste, VSCode](https://github.com/pluveto/upgit)
@@ -164,3 +196,23 @@ Return
 - 並搭配使用單一介面及 upgit
 
 ### 4.3. 主要功能介紹
+- 標題語法 ^887f66
+	- 快速跳標題
+	- 標題插件等
+- 項目語法
+- 多欄語法
+- 斜體、底線、高亮
+- 其他顏色標註插件
+- 程式碼區塊語法
+- 引用語法
+- 註腳語法
+- 內部連結語法
+- 筆記連結圖
+- 每日筆記
+- 大綱
+- 最近筆記
+- 分頁及版面配置
+- 多視窗運用（編輯及檢視頁面同時顯示）
+- 同步插件 
+- Callout 語法以及 Chrome TabCopy 插件、RoamHighlighter
+- 表格工具

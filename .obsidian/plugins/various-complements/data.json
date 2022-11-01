@@ -77,27 +77,11 @@
         }
       }
     },
-    "Design": {
-      "Design": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1664552835896
-        }
-      }
-    },
-    "Designation": {
-      "Designation": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1664552981917
-        }
-      }
-    },
     "-br": {
       "粗體紅字 ": {
         "customDictionary": {
-          "count": 29,
-          "lastUpdated": 1667013185364
+          "count": 30,
+          "lastUpdated": 1667308117179
         }
       }
     },
