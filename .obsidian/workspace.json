@@ -195,13 +195,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 20.13888888888889,
+        "dimension": 25,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -307,7 +306,7 @@
       {
         "id": "576297b559050848",
         "type": "tabs",
-        "dimension": 28.075396825396826,
+        "dimension": 23.214285714285715,
         "children": [
           {
             "id": "1968b40ba412c9bb",
@@ -402,7 +401,7 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "cf67766b5ba592ff",
+  "active": "87952d7fb3f0c20e",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
