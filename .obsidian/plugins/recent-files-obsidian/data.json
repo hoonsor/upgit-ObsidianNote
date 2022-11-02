@@ -1,128 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-11-01_Tue",
-      "path": "006-DailyNote/2022-11-01_Tue.md"
-    },
-    {
-      "basename": "1111029-運鏡技巧學習",
-      "path": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "1111024-Excel基本操作及函數學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "2022-10-31_Mon",
-      "path": "006-DailyNote/2022-10-31_Mon.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
-      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
-      "basename": "2022-10-30_Sun",
-      "path": "006-DailyNote/2022-10-30_Sun.md"
-    },
-    {
-      "basename": "●日常生活",
-      "path": "●日常生活.md"
-    },
-    {
-      "basename": "AHK-概述",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
-    },
-    {
-      "basename": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
-      "basename": "AHK雜程式碼暫存",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md"
-    },
-    {
-      "basename": "1111004-性騷擾防治三法講座",
-      "path": "1111004-性騷擾防治三法講座.md"
-    },
-    {
-      "basename": "2022-10-28_Fri",
-      "path": "006-DailyNote/2022-10-28_Fri.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "Daily Note Tasks",
-      "path": "001-Template/Daily Note Tasks.md"
+      "basename": "2022-10-31_Mon",
+      "path": "006-DailyNote/2022-10-31_Mon.md"
     },
     {
       "basename": "2022-10-27_Thu",
       "path": "006-DailyNote/2022-10-27_Thu.md"
     },
     {
-      "basename": "歌手",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+      "basename": "2022-10-28_Fri",
+      "path": "006-DailyNote/2022-10-28_Fri.md"
     },
     {
-      "basename": "CSS的概念及學習",
-      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
+      "basename": "1111028-處理性別工作平等法有關事件注意事項",
+      "path": "005-工作相關/1111028-處理性別工作平等法有關事件注意事項.md"
     },
     {
       "basename": "HTML概念及學習",
       "path": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
     },
     {
-      "basename": "2022-10-26_Wed",
-      "path": "006-DailyNote/2022-10-26_Wed.md"
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
+      "basename": "1111004-性騷擾防治三法講座",
+      "path": "1111004-性騷擾防治三法講座.md"
     },
     {
-      "basename": "1110911-Excel快速合併寄送郵件",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+      "basename": "1110925-老屋翻修估價相關_image_2",
+      "path": "1110925-老屋翻修估價相關_image_2.png"
     },
     {
       "basename": "2022-10-25_Tue",
@@ -133,32 +53,24 @@
       "path": "006-DailyNote/2022-10-24_Mon.md"
     },
     {
-      "basename": "●Youtube各類有趣、學習影片匯總",
-      "path": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
+      "basename": "●專案管理",
+      "path": "●專案管理.md"
     },
     {
-      "basename": "2022-10-23_Sun",
-      "path": "006-DailyNote/2022-10-23_Sun.md"
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
     },
     {
-      "basename": "●日記",
-      "path": "004-●日常生活/●日記.md"
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
     },
     {
-      "basename": "1111119-高雄遊",
-      "path": "007-旅遊、景點、美食/1111119-高雄遊.md"
+      "basename": "●投資理財及創業待辦事項",
+      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "1110813-九份行",
-      "path": "007-旅遊、景點、美食/1110813-九份行.md"
-    },
-    {
-      "basename": "2022-10-21_Fri",
-      "path": "006-DailyNote/2022-10-21_Fri.md"
-    },
-    {
-      "basename": "教師法",
-      "path": "教師法.md"
+      "basename": "●高中以下人事法規彙整",
+      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
     },
     {
       "basename": "2022-10-18_Tue",
@@ -169,32 +81,124 @@
       "path": "006-DailyNote/2022-10-17_Mon.md"
     },
     {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
-    },
-    {
-      "basename": "●美食",
-      "path": "007-旅遊、景點、美食/●美食.md"
-    },
-    {
       "basename": "2022-10-16_Sun",
       "path": "006-DailyNote/2022-10-16_Sun.md"
-    },
-    {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     },
     {
       "basename": "2022-10-14_Fri",
       "path": "006-DailyNote/2022-10-14_Fri.md"
     },
     {
-      "basename": "●高中以下人事法規彙整",
-      "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+      "basename": "教師法",
+      "path": "教師法.md"
     },
     {
-      "basename": "校長遴選座談會及後續工作",
-      "path": "005-工作相關/●已完成/校長遴選座談會及後續工作.md"
+      "basename": "歌手",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
+    },
+    {
+      "basename": "獨立樂團",
+      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
+    },
+    {
+      "basename": "Daily Note Tasks",
+      "path": "001-Template/Daily Note Tasks.md"
+    },
+    {
+      "basename": "1110810-新進教師研習",
+      "path": "005-工作相關/1110810-新進教師研習.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "●激勵影片",
+      "path": "004-●日常生活/●激勵影片.md"
+    },
+    {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
+      "basename": "2022-10-13_Thu",
+      "path": "006-DailyNote/2022-10-13_Thu.md"
+    },
+    {
+      "basename": "法規紀錄測試",
+      "path": "005-工作相關/法規紀錄測試.md"
+    },
+    {
+      "basename": "正則表達式",
+      "path": "004-●日常生活/003-電腦知識/正則表達式.md"
+    },
+    {
+      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
+      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    },
+    {
+      "basename": "2022-10-12_Wed",
+      "path": "006-DailyNote/2022-10-12_Wed.md"
+    },
+    {
+      "basename": "1111012-WordPress架站心得",
+      "path": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
+    },
+    {
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    },
+    {
+      "basename": "Obsidian的任務管理技巧彙總",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian的任務管理技巧彙總.md"
+    },
+    {
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
+      "basename": "2022-09-26_Mon",
+      "path": "006-DailyNote/2022-09-26_Mon.md"
+    },
+    {
+      "basename": "2022-10-11_Tue",
+      "path": "006-DailyNote/2022-10-11_Tue.md"
+    },
+    {
+      "basename": "WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress是什麼 ？完整介紹評價＋教學範例（入門指南）.md"
+    },
+    {
+      "basename": "2022-10-10_Mon",
+      "path": "006-DailyNote/2022-10-10_Mon.md"
+    },
+    {
+      "basename": "2022-10-09_Sun",
+      "path": "006-DailyNote/2022-10-09_Sun.md"
     }
   ],
   "omittedPaths": [],
