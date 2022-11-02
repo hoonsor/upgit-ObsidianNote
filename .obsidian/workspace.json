@@ -195,7 +195,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb773b62905c6aaf",
@@ -284,7 +285,7 @@
             }
           },
           {
-            "id": "fe3c39a4541e59bd",
+            "id": "cf67766b5ba592ff",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -401,7 +402,7 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "12d46de89da26918",
+  "active": "cf67766b5ba592ff",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
