@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -213,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +322,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "005-工作相關/●工作待辦事項.md"
+              }
             }
           }
         ]
@@ -358,6 +366,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -392,7 +401,7 @@
     "direction": "horizontal",
     "width": 297.5
   },
-  "active": "cf67766b5ba592ff",
+  "active": "6c8750fea24f6f5e",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
