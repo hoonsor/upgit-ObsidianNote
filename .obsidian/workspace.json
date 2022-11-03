@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "1111103-禪坐&氣功心得",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":15.687224669603523}"
+                },
+                {
                   "title": "2022-11-03_Thu",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-03_Thu.md\",\"mode\":\"source\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
+                "file": "006-DailyNote/2022-11-03_Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -288,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
+                "file": "006-DailyNote/2022-11-03_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md"
+                "file": "006-DailyNote/2022-11-03_Thu.md"
               }
             }
           },
@@ -333,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
+                "file": "006-DailyNote/2022-11-03_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
+                "file": "006-DailyNote/2022-11-03_Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -417,6 +423,7 @@
   },
   "active": "2b3f9cdc3962ab09",
   "lastOpenFiles": [
+    "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
     "006-DailyNote/2022-11-03_Thu.md",
     "001-Template/Daily Note Template.md",
     "●日常生活.md",
@@ -425,7 +432,6 @@
     "006-DailyNote/2022-11-01_Tue.md",
     "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
   ]
 }

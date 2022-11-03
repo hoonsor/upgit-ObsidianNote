@@ -1,34 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-11-03_Thu.md": [
-      {
-        "title": "手機相片備份（至電腦或 google 雲端硬碟）及整理",
-        "time": "2022-11-03 20:30",
-        "rowNumber": 47
-      },
-      {
-        "title": "記帳",
-        "time": "2022-11-03 20:40",
-        "rowNumber": 45
-      },
-      {
-        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
-        "time": "2022-11-03 20:50",
-        "rowNumber": 46
-      },
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-11-03 21:30",
-        "rowNumber": 60
-      },
-      {
-        "title": "電療額頭",
-        "time": "2022-11-03 21:40",
-        "rowNumber": 61
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
