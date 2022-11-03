@@ -5,6 +5,14 @@
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
+      "basename": "●Youtube各類有趣、學習影片匯總",
+      "path": "004-●日常生活/●Youtube各類有趣、學習影片匯總.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "HTML概念及學習",
       "path": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
-    },
-    {
-      "basename": "●首頁",
-      "path": "●首頁.md"
     },
     {
       "basename": "1111004-性騷擾防治三法講座",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-10-10_Mon",
       "path": "006-DailyNote/2022-10-10_Mon.md"
-    },
-    {
-      "basename": "2022-10-09_Sun",
-      "path": "006-DailyNote/2022-10-09_Sun.md"
     }
   ],
   "omittedPaths": [],
