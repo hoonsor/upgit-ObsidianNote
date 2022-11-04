@@ -237,7 +237,7 @@ Return
 - 執行命令：Opeen command palette
 #### 4.4.2. 筆記建立
 - 透過模版創建（可搭配 Templater 插件、QuickAdd 使用）
-- YAML
+- YAML區
 
 #### 4.4.3. 查詢筆記
 - Dataview 插件
