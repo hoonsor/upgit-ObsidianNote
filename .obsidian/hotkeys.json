@@ -130,8 +130,16 @@
       "key": "Numpad5"
     }
   ],
-  "obsidian-editor-shortcuts:insertLineBelow": [],
-  "obsidian-editor-shortcuts:insertLineAbove": [],
+  "obsidian-editor-shortcuts:insertLineBelow": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
   "obsidian-editor-shortcuts:deleteLine": [
     {
       "modifiers": [
@@ -497,5 +505,15 @@
       "key": "F"
     }
   ],
-  "obsidian-attachment-name-formatting:export-unused-attachments-command": []
+  "obsidian-attachment-name-formatting:export-unused-attachments-command": [],
+  "obsidian-editor-shortcuts:insertLineAbove": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
 }

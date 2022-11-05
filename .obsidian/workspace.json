@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1318eefde3dee7bd",
+        "id": "e21ebc820bb50463",
         "type": "tabs",
         "children": [
           {
-            "id": "a7015fb15200a982",
+            "id": "66ba8c177d407866",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,26 +16,16 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●日常生活",
-                  "icon": "lucide-trello",
-                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1111004-性騷擾防治三法講座.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "61c0f4bd4a8ed35f",
+            "id": "f27b64f70b57bbc8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -231,24 +221,15 @@
             }
           },
           {
-            "id": "67a9990d596fae9b",
+            "id": "761e33e004a2b25a",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "BC-matrix",
               "state": {}
             }
           },
           {
-            "id": "0ca561f2d506290d",
+            "id": "809c21e8530ce841",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -264,7 +245,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "eb773b62905c6aaf",
@@ -437,17 +419,17 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "61c0f4bd4a8ed35f",
+  "active": "f27b64f70b57bbc8",
   "lastOpenFiles": [
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "★靈感筆記.md",
+    "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
+    "●專案管理.md",
     "1111004-性騷擾防治三法講座.md",
+    "●首頁.md",
     "●日常生活.md",
     "001-Template/Daily Note Template.md",
     "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
-    "006-DailyNote/2022-11-04_Fri.md",
-    "000-index/!dict.md",
-    "●首頁.md",
-    "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
-    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
-    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
+    "006-DailyNote/2022-11-04_Fri.md"
   ]
 }
