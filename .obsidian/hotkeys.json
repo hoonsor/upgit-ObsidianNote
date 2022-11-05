@@ -437,7 +437,6 @@
   "pane-relief:put-6th": [],
   "pane-relief:put-7th": [],
   "pane-relief:put-8th": [],
-  "pane-relief:put-last": [],
   "pane-relief:swap-next": [],
   "pane-relief:swap-prev": [],
   "obsidian-reminder-plugin:show-date-chooser": [
@@ -524,5 +523,23 @@
       ],
       "key": "L"
     }
-  ]
+  ],
+  "editor:insert-embed": [],
+  "editing-toolbar:header1-text": [],
+  "editing-toolbar:header2-text": [],
+  "editing-toolbar:header3-text": [],
+  "editing-toolbar:header4-text": [],
+  "editing-toolbar:header5-text": [],
+  "editing-toolbar:header6-text": [],
+  "workspace:new-tab": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "workspace:goto-last-tab": [],
+  "pane-relief:put-last": []
 }
