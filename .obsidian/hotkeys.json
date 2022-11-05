@@ -515,5 +515,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "quickadd:choice:ee3405b0-0161-4b2b-8a85-a44afaf34e83": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }

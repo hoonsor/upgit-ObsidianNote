@@ -1,0 +1,22 @@
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+package-lock.json
+
+# build
+main.js
+.DS_Store
+*.js.map
+.env
+
+# obsidian
+data.json
+
+#history
+.history
+
+#DS Store
+.DS_Store

@@ -29,39 +29,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "47c5501e1eb351a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f27b64f70b57bbc8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "★靈感筆記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★靈感筆記.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":101},\"to\":{\"line\":53,\"ch\":101}},\"scroll\":35.523036904859296}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★測試各類功能.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +232,7 @@
       {
         "id": "eb773b62905c6aaf",
         "type": "tabs",
-        "dimension": 22.441520467836256,
+        "dimension": 22.441520467836252,
         "children": [
           {
             "id": "7c0f21ea256eef32",
@@ -435,9 +402,9 @@
   },
   "active": "10c9207239518ba1",
   "lastOpenFiles": [
-    "★測試各類功能.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "★測試各類功能.md",
     "★靈感筆記.md",
     "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
     "●專案管理.md",

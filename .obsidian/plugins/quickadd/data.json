@@ -225,7 +225,7 @@
           "id": "ee3405b0-0161-4b2b-8a85-a44afaf34e83",
           "name": "3. Capture-Embedded",
           "type": "Capture",
-          "command": false,
+          "command": true,
           "appendLink": false,
           "captureTo": "",
           "captureToActiveFile": true,
