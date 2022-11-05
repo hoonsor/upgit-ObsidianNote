@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "1111012-WordPress架站心得",
+      "path": "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md"
+    },
+    {
+      "basename": "HTML概念及學習",
+      "path": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
+    },
+    {
+      "basename": "CSS的概念及學習",
+      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+    },
+    {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
@@ -89,10 +105,6 @@
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
     },
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
       "basename": "AHK雜程式碼暫存",
       "path": "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md"
     },
@@ -117,16 +129,8 @@
       "path": "006-DailyNote/2022-10-27_Thu.md"
     },
     {
-      "basename": "CSS的概念及學習",
-      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
-    },
-    {
       "basename": "!dict",
       "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "HTML概念及學習",
-      "path": "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
     },
     {
       "basename": "2022-10-26_Wed",
@@ -195,10 +199,6 @@
     {
       "basename": "2022-10-16_Sun",
       "path": "006-DailyNote/2022-10-16_Sun.md"
-    },
-    {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     }
   ],
   "omittedPaths": [],

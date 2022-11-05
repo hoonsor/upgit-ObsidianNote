@@ -11,11 +11,23 @@
             "id": "2b3f9cdc3962ab09",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "CSS的概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "★測試各類功能",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":29},\"to\":{\"line\":14,\"ch\":29}},\"scroll\":0.6136986301369863}"
                 },
                 {
                   "title": "2022-11-04_Fri",
@@ -94,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "mode": "source",
                 "source": false
               }
@@ -330,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +368,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -402,7 +414,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -445,7 +457,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -483,15 +495,15 @@
   },
   "active": "2b3f9cdc3962ab09",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+    "●首頁.md",
+    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "★測試各類功能.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "006-DailyNote/2022-11-04_Fri.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/●日常生活紀錄.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
-    "006-DailyNote/2022-11-03_Thu.md",
-    "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
-    "001-Template/Daily Note Template.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
   ]
 }
