@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "●日常生活",
+      "path": "●日常生活.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "1110716-甲狀腺失調調理及預防指南",
+      "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
+    },
+    {
+      "basename": "2022-11-04_Fri",
+      "path": "006-DailyNote/2022-11-04_Fri.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
       "basename": "●首頁",
       "path": "●首頁.md"
+    },
+    {
+      "basename": "1111103-禪坐&氣功心得",
+      "path": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md"
     },
     {
       "basename": "1111012-WordPress架站心得",
@@ -25,10 +49,6 @@
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
-      "basename": "2022-11-04_Fri",
-      "path": "006-DailyNote/2022-11-04_Fri.md"
-    },
-    {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
@@ -47,18 +67,6 @@
     {
       "basename": "2022-11-03_Thu",
       "path": "006-DailyNote/2022-11-03_Thu.md"
-    },
-    {
-      "basename": "1111103-禪坐&氣功心得",
-      "path": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "●日常生活",
-      "path": "●日常生活.md"
     },
     {
       "basename": "歌手",
@@ -129,10 +137,6 @@
       "path": "006-DailyNote/2022-10-27_Thu.md"
     },
     {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
       "basename": "2022-10-26_Wed",
       "path": "006-DailyNote/2022-10-26_Wed.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "●美食",
       "path": "007-旅遊、景點、美食/●美食.md"
-    },
-    {
-      "basename": "2022-10-16_Sun",
-      "path": "006-DailyNote/2022-10-16_Sun.md"
     }
   ],
   "omittedPaths": [],

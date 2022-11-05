@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "-09": {
-      "ExcelTips（DataView）": {
-        "customDictionary": {
-          "count": 8,
-          "lastUpdated": 1664981310675
-        }
-      }
-    },
     "-00": {
       "多欄語法（Columns）": {
         "customDictionary": {
@@ -170,6 +162,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1667141083652
+        }
+      }
+    },
+    "yesterday": {
+      "yesterday": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1667625079361
         }
       }
     }

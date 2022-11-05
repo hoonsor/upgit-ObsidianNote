@@ -4,115 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0f12f8cd48eae52d",
+        "id": "1318eefde3dee7bd",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3f9cdc3962ab09",
+            "id": "8f42c39a6fb23c31",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "CSS的概念及學習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "★測試各類功能",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":29},\"to\":{\"line\":14,\"ch\":29}},\"scroll\":0.6136986301369863}"
-                },
-                {
-                  "title": "2022-11-04_Fri",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-04_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":11},\"to\":{\"line\":40,\"ch\":11}},\"scroll\":14.092054518333985}"
-                },
-                {
-                  "title": "★測試各類功能",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":0},\"to\":{\"line\":97,\"ch\":0}},\"scroll\":89.29532151071531}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":23},\"to\":{\"line\":32,\"ch\":23}},\"scroll\":66.21719546669408}"
-                },
-                {
-                  "title": "●日常生活紀錄",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Obsidian統整筆記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":104,\"ch\":0},\"to\":{\"line\":104,\"ch\":0}},\"scroll\":86.92105211759869}"
-                },
-                {
-                  "title": "★測試各類功能",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":84,\"ch\":0}},\"scroll\":79.98005194316903}"
-                },
-                {
-                  "title": "Obsidian統整筆記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":0},\"to\":{\"line\":89,\"ch\":0}},\"scroll\":60.91621097469737}"
-                },
-                {
-                  "title": "2022-11-04_Fri",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-04_Fri.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":11},\"to\":{\"line\":61,\"ch\":11}},\"scroll\":34.72893350563994}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":8},\"to\":{\"line\":20,\"ch\":8}}}"
-                },
-                {
-                  "title": "2022-11-03_Thu",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-03_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "1111103-禪坐&氣功心得",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":15.687224669603523}"
-                },
-                {
-                  "title": "2022-11-03_Thu",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-03_Thu.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":26.574238036489728}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddb117d3abea9af8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "kanban",
               "state": {
-                "file": "●首頁.md",
-                "mode": "source",
-                "source": false
+                "file": "●日常生活.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:電腦",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -342,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "●日常生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -368,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "●日常生活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "●日常生活.md"
               }
             }
           }
@@ -457,7 +389,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "●日常生活.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -493,17 +425,17 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "2b3f9cdc3962ab09",
+  "active": "ddb117d3abea9af8",
   "lastOpenFiles": [
-    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
-    "●首頁.md",
-    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "★測試各類功能.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "●日常生活.md",
+    "001-Template/Daily Note Template.md",
+    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
     "006-DailyNote/2022-11-04_Fri.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    "000-index/!dict.md",
+    "●首頁.md",
+    "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
+    "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
+    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
   ]
 }
