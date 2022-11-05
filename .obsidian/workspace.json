@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e21ebc820bb50463",
+        "id": "a862eef91d24db94",
         "type": "tabs",
         "children": [
           {
-            "id": "10c9207239518ba1",
+            "id": "d5a1e7f52a7f29f1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "1110906-Obsidian快捷鍵",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "1110906-Obsidian快捷鍵",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Obsidian統整筆記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":192.76596062911185}"
                 }
               ]
             },
@@ -419,10 +401,10 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "10c9207239518ba1",
+  "active": "d5a1e7f52a7f29f1",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "★測試各類功能.md",
     "★靈感筆記.md",
     "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",

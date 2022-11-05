@@ -10,7 +10,7 @@
           "id": "73fd55cc-1a9a-4198-b52c-b40758120895",
           "name": "1. Template-Universal Note",
           "type": "Template",
-          "command": false,
+          "command": true,
           "templatePath": "001-Template/UniversalNote.md",
           "fileNameFormat": {
             "enabled": true,
@@ -38,7 +38,7 @@
           "id": "2a8dee0d-daf4-4c97-addb-a4b3d6f2e9b5",
           "name": "2. Template-SubItem",
           "type": "Template",
-          "command": false,
+          "command": true,
           "templatePath": "001-Template/Template-SubItem.md",
           "fileNameFormat": {
             "enabled": true,
@@ -64,7 +64,7 @@
           "id": "5aa10685-a2b3-4f81-8984-e9fc497e5a0f",
           "name": "3. Template-Temporary Mission",
           "type": "Template",
-          "command": false,
+          "command": true,
           "templatePath": "001-Template/Template-Temporary Mission.md",
           "fileNameFormat": {
             "enabled": true,
@@ -92,7 +92,7 @@
           "id": "afd63dbc-a017-42e7-85e3-7ca42bd4239a",
           "name": "4. Template-Excel",
           "type": "Template",
-          "command": false,
+          "command": true,
           "templatePath": "001-Template/Template-Excel.md",
           "fileNameFormat": {
             "enabled": true,
@@ -120,7 +120,7 @@
           "id": "39b43ce0-7337-462f-a215-eae2fed015a1",
           "name": "5. Template-Travel",
           "type": "Template",
-          "command": false,
+          "command": true,
           "templatePath": "001-Template/Template-Travel.md",
           "fileNameFormat": {
             "enabled": true,
@@ -157,7 +157,7 @@
           "id": "1256e600-4d85-4b89-8694-a1e0f76c0be7",
           "name": "1. Capture-DataviewQuickSearch",
           "type": "Capture",
-          "command": false,
+          "command": true,
           "appendLink": false,
           "captureTo": "",
           "captureToActiveFile": true,
@@ -191,7 +191,7 @@
           "id": "dd523c12-e51d-4dc3-a6f6-45e340971584",
           "name": "2. Capture-CodeDisplay",
           "type": "Capture",
-          "command": false,
+          "command": true,
           "appendLink": false,
           "captureTo": "",
           "captureToActiveFile": true,
