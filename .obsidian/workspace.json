@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -180,57 +184,6 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "3de69be2e671f894",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "761e33e004a2b25a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "809c21e8530ce841",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
         ]
       },
@@ -254,6 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,6 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +278,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
+              }
             }
           }
         ]
@@ -365,6 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,11 +357,11 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "5742df7154023138",
+  "active": "f4b99a8545eee2be",
   "lastOpenFiles": [
+    "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "●首頁.md",
-    "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
     "004-●日常生活/●購物清單.md",
     "★測試各類功能.md",
     "006-DailyNote/2022-11-05_Sat.md",
