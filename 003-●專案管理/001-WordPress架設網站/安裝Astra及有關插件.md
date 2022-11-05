@@ -1,10 +1,8 @@
 ---
-up: [[●專案管理#Wordpress架設網站]]
-same: [[002-Inbox/001-SubItem/安裝Astra及有關插件]]
-down: 
+obsidianUIMode: 
 status: 🌱
 created: Monday, July 25th 2022, 10:01:43 pm
-modified: Monday, August 8th 2022, 12:00:04 am
+modified: Saturday, November 5th 2022, 11:18:37 pm
 ---
 # 安裝 Astra 及有關插件 ^toc
 

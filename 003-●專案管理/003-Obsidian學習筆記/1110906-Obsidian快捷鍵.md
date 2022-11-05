@@ -1,7 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
 aliases: 
 tags: [專案筆記 , 電腦軟體, 工作]
 status: 🌱

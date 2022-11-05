@@ -1,7 +1,5 @@
 ---
-parent: 
-sibling: 
-child: 
+obsidianUIMode: 
 aliases: 
 tags: [專案筆記 , 投資理財]
 status: 🌱
@@ -10,7 +8,7 @@ source:
 template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Saturday, August 13th 2022, 10:18:12 pm
-modified: Sunday, August 14th 2022, 2:28:40 pm
+modified: Saturday, November 5th 2022, 11:21:05 pm
 ---
 # 1110813-Thinkorswim 軟體介面大綱 ^toc
 

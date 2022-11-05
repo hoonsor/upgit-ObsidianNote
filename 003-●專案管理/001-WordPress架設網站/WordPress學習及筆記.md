@@ -1,7 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
 obsidianUIMode: preview
 created: Sunday, July 31st 2022, 9:47:59 pm
 modified: Friday, September 30th 2022, 11:50:55 pm

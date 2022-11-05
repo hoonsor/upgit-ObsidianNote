@@ -1,7 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
 aliases: 
 tags: [專案筆記 , 工作, 電腦軟體]
 status: 🌱
@@ -11,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Thursday, October 27th 2022, 9:28:54 pm
+modified: Saturday, November 5th 2022, 11:21:36 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 

@@ -1,10 +1,7 @@
 ---
 obsidianUIMode: 
-parent: 
-sibling: 
-child: 
-created: 星期二, 九月 20日 2022, 7:52:55 晚上
-modified: 星期六, 十一月 5日 2022, 11:17:13 pm
+created: Tuesday, September 20th 2022, 7:52:55 pm
+modified: Saturday, November 5th 2022, 11:17:30 pm
 ---
 # XGPU 遊戲下載
 ## 1. 待下載遊戲

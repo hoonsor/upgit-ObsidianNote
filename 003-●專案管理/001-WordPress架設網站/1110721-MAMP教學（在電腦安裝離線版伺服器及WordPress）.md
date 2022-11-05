@@ -1,7 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
 aliases:    
 tags: [專案筆記, 創業]
 status: 🌱
@@ -11,7 +8,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 21st 2022, 7:31:28 pm
-modified: Thursday, September 22nd 2022, 9:05:31 pm
+modified: Saturday, November 5th 2022, 11:18:12 pm
 ---
 # 1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress） ^toc
 

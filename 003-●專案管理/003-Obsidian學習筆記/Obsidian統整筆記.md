@@ -1,8 +1,5 @@
 ---
 obsidianUIMode: sourece  
-parent: [[●專案管理]]
-sibling: [[002-Inbox/1110731-DataView插件筆記]]
-child: 
 created: Friday, August 5th 2022, 1:40:01 pm
 modified: Saturday, November 5th 2022, 10:48:30 pm
 ---

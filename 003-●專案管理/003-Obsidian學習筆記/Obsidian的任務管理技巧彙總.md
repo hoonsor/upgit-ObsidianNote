@@ -1,7 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
 aliases:    
 tags: [子彈筆記, 興趣培養, 電腦軟體]
 status: 🌱
@@ -11,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Wednesday, July 20th 2022, 7:01:49 pm
-modified: Monday, September 5th 2022, 9:02:41 pm
+modified: Saturday, November 5th 2022, 11:20:06 pm
 ---
 # Obsidian 的任務管理技巧彙總 ^toc
 

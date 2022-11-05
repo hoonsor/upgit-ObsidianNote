@@ -1,10 +1,7 @@
 ---
-parent: 
-sibling: 
-child: 
 obsidianUIMode: 
 created: Wednesday, October 12th 2022, 9:15:05 pm
-modified: Wednesday, October 12th 2022, 9:20:35 pm
+modified: Saturday, November 5th 2022, 11:17:53 pm
 ---
 # 1111012-WordPress 架站心得
 ## 1. 網站架設遭遇問題

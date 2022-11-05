@@ -1,7 +1,4 @@
 ---
-parent: [[●專案管理]]
-sibling: [[002-Inbox/001-SubItem/Obsidian概述]]
-child: 
 aliases:    
 tags: [專案筆記, 電腦軟體, 興趣培養]
 status: 🌱
@@ -11,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Monday, September 5th 2022, 8:57:54 pm
+modified: Saturday, November 5th 2022, 11:20:11 pm
 ---
 
 [[●專案管理]]
@@ -56,7 +53,7 @@ FLATTEN \<field>
 - Where 是設定搜尋條件，可同時設定許多組，後面接的是布林值
 	- #h/maroon ==where contains(file.name, "Obsidian") 這段話代表列出檔名有 Obsidian 的筆記==
 - Sort 是排序依據， #h/maroon ==ASC 是升冪排序；DESC 是降冪排序==
-- Group by 是將呈現的資料依據特定註釋欄位分類，將同樣數值的部分集合在一起，如下圖。另外使用groub by 時，欄位前面要加rows，例如 rows.file.name、rows.file.ctime，這樣才可以顯示出想要的樣式
+- Group by 是將呈現的資料依據特定註釋欄位分類，將同樣數值的部分集合在一起，如下圖。另外使用 groub by 時，欄位前面要加 rows，例如 rows.file.name、rows.file.ctime，這樣才可以顯示出想要的樣式
 	- ![01|400](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/31/upgit_20220731_1659268341.png)
 - Flatten 是在如果所設定的註釋欄位有多筆資料時將呈現的資料一筆一筆列出，不要集合在一起，如下圖
 	- ![01|400](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/31/upgit_20220731_1659268396.png)
@@ -122,7 +119,7 @@ table file.ctime as 建檔時間 from ""
 where contains(file.name, "111072")
 sort ASC
 ```
-#### 2.4.2. 列出檔名包含 1110731 的 table，並且將tags欄位使用 flatten 方式呈現
+#### 2.4.2. 列出檔名包含 1110731 的 table，並且將 tags 欄位使用 flatten 方式呈現
 
 ````
 ```dataview
@@ -163,7 +160,7 @@ table AHK_Tips from ""
 where AHK_Tips
 flatten AHK_Tips
 ```
-#### 2.4.5. 依照不同筆記status（狀態）區分筆記，並顯示檔名連結及建檔時間
+#### 2.4.5. 依照不同筆記 status（狀態）區分筆記，並顯示檔名連結及建檔時間
 
 ````
 ```dataview

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28c317487e77fe86",
+        "id": "c792bf3e4d962aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b99a8545eee2be",
+            "id": "941bd49805f457a7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -322,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -357,17 +357,17 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "f4b99a8545eee2be",
+  "active": "941bd49805f457a7",
   "lastOpenFiles": [
-    "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
+    "Home.md",
+    "007-旅遊、景點、美食/●美食.md",
     "●首頁.md",
-    "004-●日常生活/●購物清單.md",
-    "★測試各類功能.md",
-    "006-DailyNote/2022-11-05_Sat.md",
+    "007-旅遊、景點、美食/1110813-九份行.md",
+    "007-旅遊、景點、美食/1111119-高雄遊.md",
+    "005-工作相關/●已完成/校長遴選座談會及後續工作.md",
     "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+    "004-●日常生活/007-修繕、工具知識/學會如何換電容.md",
+    "004-●日常生活/006-婚紗相關/1110709-婚紗拍攝事前確認事項.md"
   ]
 }

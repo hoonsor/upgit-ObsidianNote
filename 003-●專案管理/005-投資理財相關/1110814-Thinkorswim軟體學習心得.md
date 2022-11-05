@@ -1,7 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
 aliases: 
 tags: [專案筆記 , 投資理財]
 status: 🌱
@@ -11,10 +8,13 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, August 14th 2022, 2:29:16 pm
-modified: Sunday, September 4th 2022, 8:37:03 pm
+modified: Saturday, November 5th 2022, 11:21:09 pm
 ---
 
 # 1110814-Thinkorswim 軟體學習心得 ^toc
+
+- [[#1110814-Thinkorswim 軟體學習心得 ^toc|1110814-Thinkorswim 軟體學習心得]]
+	- [[#1. 觀察列表|1. 觀察列表]]
 
 - [[#1110814-Thinkorswim 軟體學習心得 ^toc|1110814-Thinkorswim 軟體學習心得]]
 	- [[#1. 觀察列表|1. 觀察列表]]

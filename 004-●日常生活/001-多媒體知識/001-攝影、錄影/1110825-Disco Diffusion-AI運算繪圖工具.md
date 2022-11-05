@@ -1,8 +1,4 @@
 ---
-parent: 
-sibling: 
-child: 
-
 aliases: 
 tags: [專案筆記 , 電腦軟體, 興趣培養]
 status: 🌱
@@ -12,9 +8,11 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview
 created: Thursday, August 25th 2022, 7:33:52 pm
-modified: Sunday, September 4th 2022, 11:02:38 pm
+modified: Saturday, November 5th 2022, 11:22:39 pm
 ---
 # 1110825-Disco Diffusion-AI 運算繪圖工具 ^toc
+
+- [[#1110825-Disco Diffusion-AI 運算繪圖工具 ^toc|1110825-Disco Diffusion-AI 運算繪圖工具]]
 
 - [[#1110825-Disco Diffusion-AI 運算繪圖工具 ^toc|1110825-Disco Diffusion-AI 運算繪圖工具]]
 	- [[#1. 我的 Disco Diffusion 副本連結網址（hoonsorasus 帳戶）|1. 我的 Disco Diffusion 副本連結網址（hoonsorasus 帳戶）]]

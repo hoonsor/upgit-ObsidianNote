@@ -1,8 +1,5 @@
 ---
 obsidianUIMode: 
-parent: 
-sibling: 
-child: 
 number headings: auto, first-level 2, max 6, contents ^toc, _.1.1.
 aliases: 
 tags: [專案筆記 , 電腦軟體]
@@ -11,7 +8,7 @@ author: MdEditor
 source: https://www.gushiciku.cn/pl/amr6/zh-tw
 template-output: 002-Inbox
 created: Saturday, August 6th 2022, 10:04:19 pm
-modified: Saturday, October 29th 2022, 10:10:22 pm
+modified: Saturday, November 5th 2022, 11:20:00 pm
 ---
 # 1110806-Git 及 Obsidian 同步至手機學習
 
