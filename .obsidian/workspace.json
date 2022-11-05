@@ -354,6 +354,15 @@
           {
             "id": "810c6f89a76522d4",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -437,15 +446,15 @@
   },
   "active": "2b3f9cdc3962ab09",
   "lastOpenFiles": [
-    "★測試各類功能.md",
+    "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "★測試各類功能.md",
     "006-DailyNote/2022-11-04_Fri.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-11-03_Thu.md",
     "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
     "001-Template/Daily Note Template.md",
     "●日常生活.md",
-    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md",
-    "conflict-files-obsidian-git.md"
+    "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
   ]
 }
