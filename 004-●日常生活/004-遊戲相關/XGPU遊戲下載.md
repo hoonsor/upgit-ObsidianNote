@@ -1,9 +1,10 @@
 ---
+obsidianUIMode: 
 parent: 
 sibling: 
 child: 
 created: Tuesday, August 9th 2022, 5:13:52 pm
-modified: Thursday, September 15th 2022, 12:23:07 pm
+modified: Saturday, November 5th 2022, 11:09:13 pm
 ---
 # XGPU 遊戲下載
 ## 1. 待下載遊戲
@@ -23,4 +24,4 @@ modified: Thursday, September 15th 2022, 12:23:07 pm
 - [ ] Despot's Game: Dystopian Army Builder
 
 ## 2. 單人遊戲
-- [ ] Opus Magnum（邏輯益智遊戲）
+- [x] Opus Magnum（邏輯益智遊戲）

@@ -67,8 +67,13 @@
     },
     {
       "type": "file",
-      "title": "XGPU遊戲下載",
-      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
+      "title": "Obsidian統整筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    },
+    {
+      "type": "file",
+      "title": "●購物清單",
+      "path": "004-●日常生活/●購物清單.md"
     },
     {
       "type": "file",
@@ -109,6 +114,11 @@
       "type": "file",
       "title": "●日記",
       "path": "004-●日常生活/●日記.md"
+    },
+    {
+      "type": "file",
+      "title": "XGPU遊戲下載",
+      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
     },
     {
       "type": "file",
@@ -169,11 +179,6 @@
       "type": "file",
       "title": "1111103-禪坐&氣功心得",
       "path": "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md"
-    },
-    {
-      "type": "file",
-      "title": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     }
   ]
 }

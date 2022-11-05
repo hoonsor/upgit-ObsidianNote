@@ -4,7 +4,7 @@ parent: [[●專案管理]]
 sibling: [[002-Inbox/1110731-DataView插件筆記]]
 child: 
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Saturday, November 5th 2022, 5:12:11 pm
+modified: Saturday, November 5th 2022, 10:48:30 pm
 ---
 
 [[●專案管理]]
@@ -264,3 +264,10 @@ Return
 > [(26) [Obs＃82] 用Obsidian學會Markdown--完整Markdown教學 - YouTube](https://www.youtube.com/watch?v=lnsQsFCYhNc&t=1636s)
 
 
+## 5. 目前思考可繼續增強之功能
+- [ ] 嵌入 excel 工作表
+- [ ] 更方便的多欄顯示語法
+- [ ] 搭配 python 或可爬蟲更新特定網站資訊（例如法規檔案之最近一次修法日期）
+- [ ] 每日筆記可將每篇筆記複習的次數紀錄並且顯示
+- [ ] dataview 可搭配 kanban 使用，或是 dataview 可變成卡片之方式顯示
+- [ ] 更強大的心智圖插件

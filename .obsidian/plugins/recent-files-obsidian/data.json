@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "XGPU遊戲下載",
+      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
+    },
+    {
+      "basename": "●購物清單",
+      "path": "004-●日常生活/●購物清單.md"
     },
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
     {
-      "basename": "★靈感筆記",
-      "path": "★靈感筆記.md"
+      "basename": "2022-11-05_Sat",
+      "path": "006-DailyNote/2022-11-05_Sat.md"
     },
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
+      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
+      "basename": "1111029-運鏡技巧學習",
+      "path": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
     },
     {
       "basename": "Obsidian統整筆記",
@@ -23,6 +43,22 @@
     {
       "basename": "1110906-Obsidian快捷鍵",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "★靈感筆記",
+      "path": "★靈感筆記.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "2022-11-04_Fri",
+      "path": "006-DailyNote/2022-11-04_Fri.md"
+    },
+    {
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "●專案管理",
@@ -37,16 +73,8 @@
       "path": "●日常生活.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
       "basename": "1110716-甲狀腺失調調理及預防指南",
       "path": "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md"
-    },
-    {
-      "basename": "2022-11-04_Fri",
-      "path": "006-DailyNote/2022-11-04_Fri.md"
     },
     {
       "basename": "!dict",
@@ -73,10 +101,6 @@
       "path": "004-●日常生活/●日常生活紀錄.md"
     },
     {
-      "basename": "XGPU遊戲下載",
-      "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
-    },
-    {
       "basename": "2022-11-03_Thu",
       "path": "006-DailyNote/2022-11-03_Thu.md"
     },
@@ -87,10 +111,6 @@
     {
       "basename": "2022-11-01_Tue",
       "path": "006-DailyNote/2022-11-01_Tue.md"
-    },
-    {
-      "basename": "1111029-運鏡技巧學習",
-      "path": "004-●日常生活/001-多媒體知識/1111029-運鏡技巧學習.md"
     },
     {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
@@ -107,14 +127,6 @@
     {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "1111010-電路板維修（三用電表操作使用）新手教學",
-      "path": "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
     {
       "basename": "2022-10-30_Sun",
@@ -187,14 +199,6 @@
     {
       "basename": "教師法",
       "path": "教師法.md"
-    },
-    {
-      "basename": "2022-10-18_Tue",
-      "path": "006-DailyNote/2022-10-18_Tue.md"
-    },
-    {
-      "basename": "2022-10-17_Mon",
-      "path": "006-DailyNote/2022-10-17_Mon.md"
     }
   ],
   "omittedPaths": [],
