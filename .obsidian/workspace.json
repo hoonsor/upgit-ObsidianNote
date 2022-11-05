@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c792bf3e4d962aa6",
+        "id": "9181b9dbd0cde400",
         "type": "tabs",
         "children": [
           {
-            "id": "941bd49805f457a7",
+            "id": "c19368f009c45418",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -27,36 +27,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c7bc0bc4d0ba40c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Obsidian統整筆記",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":188,\"ch\":9},\"to\":{\"line\":188,\"ch\":9}},\"scroll\":169.84316046463815}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2022-11-05_Sat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-11-05_Sat.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-11-05_Sat.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-11-05_Sat.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -350,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-11-05_Sat.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,17 +357,17 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "4c7bc0bc4d0ba40c",
+  "active": "810c6f89a76522d4",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
+    "006-DailyNote/2022-11-05_Sat.md",
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "●首頁.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "Home.md",
     "007-旅遊、景點、美食/●美食.md",
     "007-旅遊、景點、美食/1110813-九份行.md",
     "007-旅遊、景點、美食/1111119-高雄遊.md",
-    "005-工作相關/●已完成/校長遴選座談會及後續工作.md",
-    "004-●日常生活/007-修繕、工具知識/1111010-電路板維修（三用電表操作使用）新手教學.md",
-    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
-    "004-●日常生活/007-修繕、工具知識/學會如何換電容.md"
+    "005-工作相關/●已完成/校長遴選座談會及後續工作.md"
   ]
 }

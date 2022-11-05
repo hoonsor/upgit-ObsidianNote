@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
       "basename": "2022-11-05_Sat",
       "path": "006-DailyNote/2022-11-05_Sat.md"
     },
     {
-      "basename": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+      "basename": "1111024-Excel基本操作及函數學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
     },
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "WordPress學習及筆記",
+      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "Obsidian統整筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
     {
       "basename": "●美食",
@@ -165,10 +173,6 @@
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
     {
-      "basename": "1111024-Excel基本操作及函數學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
-    },
-    {
       "basename": "1110911-Excel快速合併寄送郵件",
       "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1110906-Obsidian快捷鍵",
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "1110731-DataView插件筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
     }
   ],
   "omittedPaths": [],
