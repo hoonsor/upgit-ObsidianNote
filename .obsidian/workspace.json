@@ -8,24 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66ba8c177d407866",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f27b64f70b57bbc8",
+            "id": "10c9207239518ba1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,14 +22,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★靈感筆記.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "47c5501e1eb351a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27b64f70b57bbc8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "★靈感筆記",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★靈感筆記.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":101},\"to\":{\"line\":53,\"ch\":101}},\"scroll\":35.523036904859296}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★測試各類功能.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,8 +260,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "eb773b62905c6aaf",
@@ -268,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★靈感筆記.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★靈感筆記.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -340,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★靈感筆記.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           }
@@ -383,7 +397,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★靈感筆記.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -419,8 +433,10 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "f27b64f70b57bbc8",
+  "active": "10c9207239518ba1",
   "lastOpenFiles": [
+    "★測試各類功能.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "★靈感筆記.md",
     "004-●日常生活/●Youtube各類有趣、學習影片匯總.md",
@@ -428,8 +444,6 @@
     "1111004-性騷擾防治三法講座.md",
     "●首頁.md",
     "●日常生活.md",
-    "001-Template/Daily Note Template.md",
-    "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
-    "006-DailyNote/2022-11-04_Fri.md"
+    "001-Template/Daily Note Template.md"
   ]
 }

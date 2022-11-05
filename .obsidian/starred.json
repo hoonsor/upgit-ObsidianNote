@@ -17,6 +17,11 @@
     },
     {
       "type": "file",
+      "title": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "type": "file",
       "title": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
@@ -69,11 +74,6 @@
       "type": "file",
       "title": "XGPU遊戲下載",
       "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
-    },
-    {
-      "type": "file",
-      "title": "★測試各類功能",
-      "path": "★測試各類功能.md"
     },
     {
       "type": "file",
