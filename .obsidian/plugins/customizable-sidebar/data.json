@@ -11,6 +11,11 @@
       "icon": "keyboard-glyph"
     },
     {
+      "id": "obsidian-shellcommands:shell-command-ery9ik2oml",
+      "name": "Shell commands: Execute: Obsidian Editing Toolbar",
+      "icon": "create-new"
+    },
+    {
       "id": "obsidian-shellcommands:shell-command-2",
       "name": "Shell commands: Execute: Linter",
       "icon": "number-list-glyph"

@@ -184,12 +184,12 @@
       }
     },
     {
-      "id": "84ziyubd0c",
+      "id": "ery9ik2oml",
       "platform_specific_commands": {
-        "default": "c:\\upgit\\upgit.exe clipboard -f markdown-simple"
+        "default": "start obsidian://advanced-uri?vault=hoonsor^&settingid=editing-toolbar"
       },
       "shells": {},
-      "alias": "upgit-1",
+      "alias": "Editing Toolbar",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
