@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f42c39a6fb23c31",
+            "id": "a7015fb15200a982",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,16 +16,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●日常生活",
+                  "icon": "lucide-trello",
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"●日常生活.md\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1111004-性騷擾防治三法講座.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "ddb117d3abea9af8",
+            "id": "61c0f4bd4a8ed35f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -37,9 +47,11 @@
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "●日常生活.md"
+                "file": "★靈感筆記.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -274,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●日常生活.md",
+                "file": "★靈感筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●日常生活.md",
+                "file": "★靈感筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●日常生活.md"
+                "file": "★靈感筆記.md"
               }
             }
           }
@@ -389,7 +401,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●日常生活.md",
+                "file": "★靈感筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -425,8 +437,9 @@
     "direction": "horizontal",
     "width": 405.5
   },
-  "active": "ddb117d3abea9af8",
+  "active": "61c0f4bd4a8ed35f",
   "lastOpenFiles": [
+    "1111004-性騷擾防治三法講座.md",
     "●日常生活.md",
     "001-Template/Daily Note Template.md",
     "004-●日常生活/005-健康知識/1110716-甲狀腺失調調理及預防指南.md",
@@ -435,7 +448,6 @@
     "●首頁.md",
     "004-●日常生活/005-健康知識/1111103-禪坐&氣功心得.md",
     "003-●專案管理/001-WordPress架設網站/1111012-WordPress架站心得.md",
-    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+    "003-●專案管理/001-WordPress架設網站/HTML概念及學習.md"
   ]
 }
