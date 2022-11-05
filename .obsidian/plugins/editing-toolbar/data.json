@@ -13,11 +13,6 @@
       "icon": "redo-glyph"
     },
     {
-      "id": "editing-toolbar:editor:toggle-strikethrough",
-      "name": "Toggle strikethrough",
-      "icon": "strikethrough-glyph"
-    },
-    {
       "id": "SubmenuCommands-la3pg9z1i",
       "name": "submenu",
       "icon": "add-note-glyph",
@@ -70,6 +65,11 @@
           "icon": "remix-ComputerLine"
         }
       ]
+    },
+    {
+      "id": "editing-toolbar:editor:toggle-strikethrough",
+      "name": "Toggle strikethrough",
+      "icon": "strikethrough-glyph"
     },
     {
       "id": "SubmenuCommands-mdcmder",
@@ -191,16 +191,6 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "workplace-Fullscreen ",
       "icon": "remix-SplitCellsHorizontal"
-    },
-    {
-      "id": "starred:star-current-file",
-      "name": "Starred: Star/unstar current file",
-      "icon": "lucide-star"
-    },
-    {
-      "id": "workspace:export-pdf",
-      "name": "Export to PDF",
-      "icon": "remix-FilePdfFill"
     }
   ],
   "appendMethod": "workspace",
@@ -208,7 +198,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 400,
+  "cMenuWidth": 348,
   "cMenuFontColor": "#ffc000",
   "cMenuBackgroundColor": "rgba(92, 92, 92, 0.2)"
 }

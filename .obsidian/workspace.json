@@ -16,16 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Obsidian統整筆記",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":0},\"to\":{\"line\":83,\"ch\":0}},\"scroll\":82.80441611065405}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -250,7 +251,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +276,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,9 +320,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -365,7 +362,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -403,6 +399,7 @@
   },
   "active": "d5a1e7f52a7f29f1",
   "lastOpenFiles": [
+    "005-●日常生活/001-購物清單/88節購物清單.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "★測試各類功能.md",
@@ -411,7 +408,6 @@
     "●專案管理.md",
     "1111004-性騷擾防治三法講座.md",
     "●首頁.md",
-    "●日常生活.md",
-    "001-Template/Daily Note Template.md"
+    "●日常生活.md"
   ]
 }

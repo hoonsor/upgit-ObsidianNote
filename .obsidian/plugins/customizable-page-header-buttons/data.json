@@ -1,10 +1,16 @@
 {
   "enabledButtons": [
     {
+      "id": "starred:star-current-file",
+      "icon": "lucide-star",
+      "name": "Starred: Star/unstar current file",
+      "showButtons": "desktop"
+    },
+    {
       "id": "workspace:export-pdf",
       "icon": "pdf-file",
       "name": "Export to PDF",
-      "showButtons": "both"
+      "showButtons": "desktop"
     }
   ],
   "desktop": true,

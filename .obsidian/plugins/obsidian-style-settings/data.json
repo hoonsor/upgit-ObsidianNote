@@ -49,5 +49,6 @@
   "minimal-style@@blockquote-color@@dark": "#C09054",
   "minimal-style@@red@@dark": "#2BBCA9",
   "minimal-style@@bg3@@dark": "#352929",
-  "minimal-style@@active-line-bg@@dark": "#1E1E1E"
+  "minimal-style@@active-line-bg@@dark": "#1E1E1E",
+  "customizable-page-header-buttons@@page-header-spacing-desktop": 20
 }
