@@ -4,25 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "cc81e74559d14ffc",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "state": "{}",
-              "eState": "{}"
+        "id": "9749b536d9c69468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9d00e5bd97fcce1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "●首頁.md",
-            "mode": "preview",
-            "source": false
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md"
               }
             }
           }
@@ -316,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -351,17 +357,17 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "cc81e74559d14ffc",
+  "active": "b9d00e5bd97fcce1",
   "lastOpenFiles": [
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-手機錄影技巧.md",
+    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-人物攝影構圖標竿學習.md",
+    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
+    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "●首頁.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "006-DailyNote/2022-11-05_Sat.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "Home.md",
-    "007-旅遊、景點、美食/●美食.md",
-    "007-旅遊、景點、美食/1110813-九份行.md",
-    "007-旅遊、景點、美食/1111119-高雄遊.md"
+    "007-旅遊、景點、美食/●美食.md"
   ]
 }

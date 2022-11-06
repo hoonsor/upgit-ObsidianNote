@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Saturday, November 5th 2022, 11:40:57 pm
+modified: Sunday, November 6th 2022, 10:31:35 am
 ---
 
 [[●專案管理]]
@@ -268,3 +268,4 @@ Return
 - [ ] 每日筆記可將每篇筆記複習的次數紀錄並且顯示
 - [ ] dataview 可搭配 kanban 使用，或是 dataview 可變成卡片之方式顯示
 - [ ] 更強大的心智圖插件
+- [ ] 快速將文件中所有標題降一級
