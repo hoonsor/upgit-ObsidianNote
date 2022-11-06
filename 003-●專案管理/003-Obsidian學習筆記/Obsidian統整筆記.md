@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Sunday, November 6th 2022, 10:31:35 am
+modified: Sunday, November 6th 2022, 7:53:32 pm
 ---
 
 [[●專案管理]]
@@ -269,3 +269,4 @@ Return
 - [ ] dataview 可搭配 kanban 使用，或是 dataview 可變成卡片之方式顯示
 - [ ] 更強大的心智圖插件
 - [ ] 快速將文件中所有標題降一級
+- [ ] 快速選取圖片或程式碼該行整行或整段（編輯模式時使用）

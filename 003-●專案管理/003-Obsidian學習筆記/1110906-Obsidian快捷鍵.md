@@ -63,5 +63,8 @@ modified: Saturday, November 5th 2022, 4:28:43 pm
 | 在本行下方插入空白行                              | ctrl+alt+shift+↓                        |  
 | 多重指標                              | alt 不放 + 滑鼠左鍵                        |  
 | Capture-Embeded                              | ctrl+alt+L                        |  
+| 指標移到上一行                              | ctrl+alt+1                        |  
+| 指標移到下一行                              | ctrl+alt+2                        |  
+| 指標選取整行（持續點選會往下再選一行）                        | ctrl+alt+3                        |  
 
 

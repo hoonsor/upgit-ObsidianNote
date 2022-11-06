@@ -393,7 +393,15 @@
       "key": "R"
     }
   ],
-  "obsidian-editor-shortcuts:selectLine": [],
+  "obsidian-editor-shortcuts:selectLine": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
   "obsidian-editor-shortcuts:selectWordOrNextOccurrence": [],
   "obsidian-editor-shortcuts:duplicateLine": [
     {
@@ -541,5 +549,23 @@
   "workspace:goto-tab-7": [],
   "workspace:goto-tab-8": [],
   "workspace:goto-last-tab": [],
-  "pane-relief:put-last": []
+  "pane-relief:put-last": [],
+  "obsidian-editor-shortcuts:goToPrevLine": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-editor-shortcuts:goToNextLine": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ]
 }

@@ -4,7 +4,7 @@ parent:
 sibling: 
 child: 
 created: Tuesday, August 9th 2022, 5:13:52 pm
-modified: Thursday, October 13th 2022, 4:30:15 pm
+modified: Sunday, November 6th 2022, 8:33:13 pm
 ---
 # !dict
 %% https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt %%
@@ -101,5 +101,5 @@ WordPressTips*/WordPressTips!END!|WordPressTips|--0
 %% Templater 時間函數快捷字典 %%
 時間函數（Templater）*/(@<% tp.date.now() %> !END!:)|時間函數（Templater）|-00
 多欄語法（Columns）*/- !!!col\n\t- 1\n\t\t!END!欄位內容\n\t- 1\n\t\t 欄位內容|多欄語法（Columns）|-00
-
+增加一欄（Column）*/\t- 1\n\t\t 欄位內容|增加一欄（Column）|-00
 

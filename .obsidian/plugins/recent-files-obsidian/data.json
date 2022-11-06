@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
       "basename": "1111029-運鏡、手機錄影技巧學習",
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md"
+    },
+    {
+      "basename": "★按鈕範例",
+      "path": "★按鈕範例.md"
+    },
+    {
+      "basename": "DashBoard CSS-自行測試",
+      "path": "DashBoard CSS-自行測試.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "Obsidian統整筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
     {
       "basename": "●首頁",
@@ -19,10 +43,6 @@
     {
       "basename": "1110825-Disco Diffusion-AI運算繪圖工具",
       "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110825-Disco Diffusion-AI運算繪圖工具.md"
-    },
-    {
-      "basename": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
     {
       "basename": "2022-11-05_Sat",
@@ -179,26 +199,6 @@
     {
       "basename": "1110814-Thinkorswim軟體學習心得",
       "path": "003-●專案管理/005-投資理財相關/1110814-Thinkorswim軟體學習心得.md"
-    },
-    {
-      "basename": "1110813-Thinkorswim軟體介面大綱",
-      "path": "003-●專案管理/005-投資理財相關/1110813-Thinkorswim軟體介面大綱.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
-      "basename": "AHK-GUI控件相關",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
-    },
-    {
-      "basename": "AHK雜程式碼暫存",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     }
   ],
   "omittedPaths": [],
