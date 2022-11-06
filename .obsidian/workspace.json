@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44b9717c97cda093",
+        "id": "f5524f84e01b8e4d",
         "type": "tabs",
         "children": [
           {
-            "id": "26bbd7a7c109f593",
+            "id": "9c11762903f78c65",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,64 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "1110906-Obsidian快捷鍵",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "1111029-運鏡、手機錄影技巧學習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":96,\"ch\":8},\"to\":{\"line\":96,\"ch\":8}},\"scroll\":98.09116713133086}"
-                },
-                {
-                  "title": "★按鈕範例",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★按鈕範例.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "DashBoard CSS-自行測試",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"DashBoard CSS-自行測試.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "undefined",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"undefined.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "1111029-運鏡、手機錄影技巧學習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":143,\"ch\":0},\"to\":{\"line\":143,\"ch\":0}},\"scroll\":123.89823833264802}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -255,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +228,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,9 +272,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -370,7 +314,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -405,10 +348,10 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "26bbd7a7c109f593",
+  "active": "9c11762903f78c65",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
