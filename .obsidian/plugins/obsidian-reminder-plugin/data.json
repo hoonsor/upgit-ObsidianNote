@@ -1,44 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-11-06_Sun.md": [
-      {
-        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
-        "time": "2022-11-06 20:50",
-        "rowNumber": 37
-      },
-      {
-        "title": "手機相片備份（至電腦或google雲端硬碟）及整理",
-        "time": "2022-11-06 20:30",
-        "rowNumber": 38
-      },
-      {
-        "title": "吃維他命",
-        "time": "2022-11-06 20:00",
-        "rowNumber": 47
-      },
-      {
-        "title": "做增加骨鈣素之運動（包含深蹲）或做超慢跑",
-        "time": "2022-11-06 21:04",
-        "rowNumber": 49
-      },
-      {
-        "title": "使用生髮水",
-        "time": "2022-11-06 21:05",
-        "rowNumber": 50
-      },
-      {
-        "title": "使用瘦臉器",
-        "time": "2022-11-06 21:30",
-        "rowNumber": 51
-      },
-      {
-        "title": "電療額頭",
-        "time": "2022-11-06 21:40",
-        "rowNumber": 52
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
