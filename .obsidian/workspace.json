@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "5c844cd9a4c4e488",
+            "id": "b073120c71826121",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "mode": "source",
                 "source": false
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +337,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-index/!dict.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           }
@@ -380,7 +380,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -413,11 +413,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
-  "active": "5c844cd9a4c4e488",
+  "active": "b073120c71826121",
   "lastOpenFiles": [
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
+    "005-工作相關/●工作待辦事項.md",
     "000-index/!dict.md",
     "★按鈕範例.md",
     "DashBoard CSS-自行測試.md",
@@ -425,7 +427,6 @@
     "README.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "●首頁.md",
-    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1110821-人物攝影構圖標竿學習.md"
+    "●首頁.md"
   ]
 }
