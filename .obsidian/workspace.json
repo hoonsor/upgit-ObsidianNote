@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0087daa4348c9e95",
+        "id": "6881c7c39a932608",
         "type": "tabs",
         "children": [
           {
-            "id": "942f12d2bf4a7dbb",
+            "id": "8e984c19b18bf819",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,70 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a59ef2ac6975291",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":20},\"to\":{\"line\":29,\"ch\":20}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2022-11-07_Mon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0308b3465488307",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":21},\"to\":{\"line\":32,\"ch\":21}},\"scroll\":8.953317712854457}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2022-11-07_Mon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,7 +203,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-11-07_Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +228,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-11-07_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,9 +272,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "006-DailyNote/2022-11-07_Mon.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -377,7 +314,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-11-07_Mon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -412,11 +348,11 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "3a59ef2ac6975291",
+  "active": "8e984c19b18bf819",
   "lastOpenFiles": [
-    "004-●日常生活/●日常生活待辦事項.md",
-    "●首頁.md",
     "006-DailyNote/2022-11-07_Mon.md",
+    "●首頁.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-06_Sun.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
