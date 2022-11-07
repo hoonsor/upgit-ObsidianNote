@@ -186,7 +186,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 30.190058479532162,
+        "dimension": 26.242690058479536,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -208,10 +208,51 @@
         ]
       },
       {
-        "id": "eb773b62905c6aaf",
+        "id": "452f0d097eb96927",
         "type": "tabs",
-        "dimension": 22.441520467836252,
+        "dimension": 45.02923976608187,
         "children": [
+          {
+            "id": "1968b40ba412c9bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cbed48977d048501",
+        "type": "tabs",
+        "dimension": 28.728070175438596,
+        "children": [
+          {
+            "id": "26789cd53172f5d5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
           {
             "id": "7c0f21ea256eef32",
             "type": "leaf",
@@ -255,55 +296,6 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "452f0d097eb96927",
-        "type": "tabs",
-        "dimension": 29.385964912280706,
-        "children": [
-          {
-            "id": "1968b40ba412c9bb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "cbed48977d048501",
-        "type": "tabs",
-        "dimension": 17.982456140350877,
-        "children": [
-          {
-            "id": "26789cd53172f5d5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reminder-list",
-              "state": {}
             }
           },
           {
@@ -349,13 +341,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "5742df7154023138",
+  "active": "95b42c6ce66892a2",
   "lastOpenFiles": [
     "006-DailyNote/2022-11-07_Mon.md",
     "●首頁.md",
