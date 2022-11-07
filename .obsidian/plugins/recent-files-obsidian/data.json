@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-11-06_Sun",
       "path": "006-DailyNote/2022-11-06_Sun.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "●激勵影片",
       "path": "004-●日常生活/●激勵影片.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     }
   ],
   "omittedPaths": [],
