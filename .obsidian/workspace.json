@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b20f92a249cfbb00",
+        "id": "c17bd02fd8e969cb",
         "type": "tabs",
         "children": [
           {
-            "id": "8afcc44a856edd30",
+            "id": "13bdffd8c8f5e23a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -357,10 +357,10 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "8afcc44a856edd30",
+  "active": "13bdffd8c8f5e23a",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
+    "005-工作相關/●工作待辦事項.md",
     "★測試各類功能.md",
     "006-DailyNote/2022-11-06_Sun.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
