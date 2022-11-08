@@ -1,6 +1,49 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "006-DailyNote/2022-11-08_Tue.md": [
+      {
+        "title": "[[●日常生活紀錄]]（人際關係、行程紀錄、工作紀錄等）",
+        "time": "2022-11-08 20:50",
+        "rowNumber": 36
+      },
+      {
+        "title": "手機相片備份（至電腦或google雲端硬碟）及整理",
+        "time": "2022-11-08 20:30",
+        "rowNumber": 37
+      },
+      {
+        "title": "使用呼吸訓練器",
+        "time": "2022-11-08 17:30",
+        "rowNumber": 47
+      },
+      {
+        "title": "吃維他命",
+        "time": "2022-11-08 20:00",
+        "rowNumber": 48
+      },
+      {
+        "title": "拔罐",
+        "time": "2022-11-08 20:10",
+        "rowNumber": 49
+      },
+      {
+        "title": "使用生髮水",
+        "time": "2022-11-08 21:05",
+        "rowNumber": 52
+      },
+      {
+        "title": "使用瘦臉器",
+        "time": "2022-11-08 21:30",
+        "rowNumber": 53
+      },
+      {
+        "title": "電療額頭",
+        "time": "2022-11-08 21:40",
+        "rowNumber": 54
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
