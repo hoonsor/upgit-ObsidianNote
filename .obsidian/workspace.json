@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -384,9 +385,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
-  "active": "26789cd53172f5d5",
+  "active": "d0de34d2d9c8dd57",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
