@@ -62,7 +62,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 37.5,
+        "dimension": 32.21343873517787,
         "children": [
           {
             "id": "5742df7154023138",
@@ -112,7 +112,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 27.41228070175439,
+        "dimension": 24.604743083003953,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -156,7 +156,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 35.08771929824561,
+        "dimension": 23.418972332015812,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -172,6 +172,30 @@
             },
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "24e58fc0bec174af",
+        "type": "tabs",
+        "dimension": 19.76284584980237,
+        "children": [
+          {
+            "id": "810c6f89a76522d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -260,26 +284,9 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "810c6f89a76522d4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "452f0d097eb96927",
@@ -379,17 +386,17 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "d0de34d2d9c8dd57",
+  "active": "26789cd53172f5d5",
   "lastOpenFiles": [
-    "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
+    "●首頁.md",
     "★測試各類功能.md",
     "006-DailyNote/2022-11-06_Sun.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/●日常生活紀錄.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "000-index/!dict.md"
+    "004-●日常生活/●日常生活待辦事項.md"
   ]
 }
