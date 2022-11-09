@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a735cec30394842",
+        "id": "70cacd6c5825d0de",
         "type": "tabs",
         "children": [
           {
-            "id": "66191985643c6551",
+            "id": "57fc56747dd57fad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -359,7 +359,7 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "66191985643c6551",
+  "active": "57fc56747dd57fad",
   "lastOpenFiles": [
     "●首頁.md",
     "006-DailyNote/2022-11-08_Tue.md",
