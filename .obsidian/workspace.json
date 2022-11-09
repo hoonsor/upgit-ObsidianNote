@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70cacd6c5825d0de",
+        "id": "e94acbdbd1b67371",
         "type": "tabs",
         "children": [
           {
-            "id": "57fc56747dd57fad",
+            "id": "dba30ccbf1fc4f58",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -275,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -359,7 +358,7 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "57fc56747dd57fad",
+  "active": "dba30ccbf1fc4f58",
   "lastOpenFiles": [
     "●首頁.md",
     "006-DailyNote/2022-11-08_Tue.md",
