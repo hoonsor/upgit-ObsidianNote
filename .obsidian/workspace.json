@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":55,\"ch\":27},\"to\":{\"line\":55,\"ch\":27}},\"scroll\":40.37847222222222}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -46,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-09_Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -255,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "006-DailyNote/2022-11-09_Wed.md"
               }
             }
           }
@@ -298,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-09_Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-09_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-09_Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -379,14 +385,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "active": "dba30ccbf1fc4f58",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-11-08_Tue.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-07_Mon.md",
