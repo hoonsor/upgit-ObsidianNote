@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cf54bf70810c593",
+        "id": "4b5d7c389db628fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce8fd46b2dea20e",
+            "id": "5680371c047a23ab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -357,10 +357,10 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "0ce8fd46b2dea20e",
+  "active": "5680371c047a23ab",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-08_Tue.md",
     "006-DailyNote/2022-11-07_Mon.md",
     "004-●日常生活/●日常生活待辦事項.md",
