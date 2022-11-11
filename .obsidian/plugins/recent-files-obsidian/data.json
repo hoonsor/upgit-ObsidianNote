@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "●購物清單",
-      "path": "004-●日常生活/●購物清單.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "2022-11-11_Fri",
+      "path": "006-DailyNote/2022-11-11_Fri.md"
     },
     {
       "basename": "2022-11-09_Wed",
       "path": "006-DailyNote/2022-11-09_Wed.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
       "basename": "●首頁",
       "path": "●首頁.md"
+    },
+    {
+      "basename": "●購物清單",
+      "path": "004-●日常生活/●購物清單.md"
     },
     {
       "basename": "2022-11-08_Tue",
@@ -195,10 +199,6 @@
     {
       "basename": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "basename": "獨立樂團",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     }
   ],
   "omittedPaths": [],
