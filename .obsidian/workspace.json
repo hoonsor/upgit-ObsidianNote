@@ -33,8 +33,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6f58714297c35d6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●購物清單.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-11-12_Sat.md"
+                "file": "004-●日常生活/●購物清單.md"
               }
             }
           }
@@ -280,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-11-12_Sat.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-11-12_Sat.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-11-12_Sat.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -362,8 +384,10 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "4ea039cdcb194064",
+  "active": "e6f58714297c35d6",
   "lastOpenFiles": [
+    "006-DailyNote/2022-11-12_Sat.md",
+    "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-11-11_Fri.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
@@ -371,8 +395,6 @@
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-11-08_Tue.md",
     "006-DailyNote/2022-11-07_Mon.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-11-06_Sun.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    "004-●日常生活/●日常生活待辦事項.md"
   ]
 }
