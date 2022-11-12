@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●購物清單",
       "path": "004-●日常生活/●購物清單.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "歌手",
       "path": "004-●日常生活/002-隨手不錯的音樂紀錄/歌手.md"
-    },
-    {
-      "basename": "獨立樂團",
-      "path": "004-●日常生活/002-隨手不錯的音樂紀錄/獨立樂團.md"
     }
   ],
   "omittedPaths": [],
