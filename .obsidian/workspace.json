@@ -26,8 +26,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "006-DailyNote/2022-11-12_Sat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -232,7 +236,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "006-DailyNote/2022-11-12_Sat.md"
+              }
             }
           }
         ]
@@ -274,6 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "006-DailyNote/2022-11-12_Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,6 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "006-DailyNote/2022-11-12_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,6 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "006-DailyNote/2022-11-12_Sat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
