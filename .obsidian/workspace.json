@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":42},\"to\":{\"line\":31,\"ch\":42}},\"scroll\":12.728070004111842}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
+                "file": "004-●日常生活/●購物清單.md"
               }
             }
           }
@@ -280,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "004-●日常生活/●購物清單.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -364,6 +370,7 @@
   },
   "active": "0fd0d21cd73f3d25",
   "lastOpenFiles": [
+    "004-●日常生活/●日常生活待辦事項.md",
     "●首頁.md",
     "004-●日常生活/●購物清單.md",
     "006-DailyNote/2022-11-12_Sat.md",
@@ -372,7 +379,6 @@
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-09_Wed.md",
     "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-11-08_Tue.md",
-    "006-DailyNote/2022-11-07_Mon.md"
+    "006-DailyNote/2022-11-08_Tue.md"
   ]
 }
