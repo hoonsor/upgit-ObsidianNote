@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4aee508a3ef2d810",
+        "id": "9b14306378876cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a34c4e6c3458201",
+            "id": "8aefb172a4691c63",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -204,6 +204,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ccf8318becd6ed32",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       },
@@ -236,23 +244,6 @@
         "type": "tabs",
         "dimension": 21.125730994152047,
         "children": [
-          {
-            "id": "26789cd53172f5d5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
           {
             "id": "7c0f21ea256eef32",
             "type": "leaf",
@@ -347,17 +338,17 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "4a34c4e6c3458201",
+  "active": "8aefb172a4691c63",
   "lastOpenFiles": [
+    "006-DailyNote/2022-11-13_Sun.md",
+    "006-DailyNote/2022-11-14_Mon.md",
+    "006-DailyNote/2022-11-12_Sat.md",
+    "●首頁.md",
     "晚點讀.md",
     "read.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "★測試各類功能.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-11-12_Sat.md",
-    "004-●日常生活/●購物清單.md",
-    "●首頁.md",
-    "001-Template/Daily Note Template.md",
-    "006-DailyNote/2022-11-11_Fri.md"
+    "004-●日常生活/●購物清單.md"
   ]
 }
