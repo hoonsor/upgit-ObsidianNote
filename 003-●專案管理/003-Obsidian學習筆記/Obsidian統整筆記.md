@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Sunday, November 13th 2022, 7:54:22 pm
+modified: Sunday, November 13th 2022, 9:43:47 pm
 ---
 
 [[●專案管理]]
@@ -158,9 +158,16 @@ Return
 
 
 #### 2.5.3. 教學影片及文章
+##### 2.5.3.1. API 語法文件
+
+> [!INFO]+ 資訊
+> [Local Rest API for Obsidian: Interactive API Documentation](https://coddingtonbear.github.io/obsidian-local-rest-api/#/)
+##### 2.5.3.2. youtube 影片
 
 > [!INFO]+ 資訊
 > [(23) [Obs＃105] Local REST API外掛：提供Obsidian HTTP調用整合服務 - YouTube](https://www.youtube.com/watch?v=sPqgHcuT_Sw&t=175s)
+
+##### 2.5.3.3. 教學文章
 
 > [!INFO]+ 資訊
 > [[Obs＃105] Obsidian外掛 Local REST API 提供外部整合服務 – 簡睿隨筆](https://jdev.tw/blog/7785)
