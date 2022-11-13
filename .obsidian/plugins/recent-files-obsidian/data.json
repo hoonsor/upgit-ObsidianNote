@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
       "basename": "●購物清單",
       "path": "004-●日常生活/●購物清單.md"
+    },
+    {
+      "basename": "晚點讀",
+      "path": "晚點讀.md"
     },
     {
       "basename": "2022-11-12_Sat",
@@ -11,10 +19,6 @@
     {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "●首頁",
-      "path": "●首頁.md"
     },
     {
       "basename": "2022-11-09_Wed",
@@ -195,10 +199,6 @@
     {
       "basename": "VX3211-4k-mhd相關注意事項",
       "path": "004-●日常生活/003-電腦知識/VX3211-4k-mhd相關注意事項.md"
-    },
-    {
-      "basename": "Port（通訊埠）",
-      "path": "004-●日常生活/003-電腦知識/Port（通訊埠）.md"
     }
   ],
   "omittedPaths": [],

@@ -46,5 +46,6 @@
   "pane-relief",
   "obsidian-footnotes",
   "editing-toolbar",
-  "homepage"
+  "homepage",
+  "obsidian-local-rest-api"
 ]
