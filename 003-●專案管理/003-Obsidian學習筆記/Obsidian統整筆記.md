@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Sunday, November 13th 2022, 12:39:59 pm
+modified: Sunday, November 13th 2022, 7:54:22 pm
 ---
 
 [[●專案管理]]
@@ -140,24 +140,30 @@ Return
 > [!INFO]+ 資訊
 > [Obsidian Web - Chrome 線上應用程式商店](https://chrome.google.com/webstore/detail/obsidian-web/edoacekkjanmingkbkgjndndibhkegad)
 
-#### 2.5.2. 設定API Key及安裝憑證
+#### 2.5.2. 設定 API Key 及安裝憑證
 
-- 打開Local rest API Option，將API Key 複製並且貼到chrome Obsidian Web 插件中
+- 打開 Local rest API Option，將 API Key 複製並且貼到 chrome Obsidian Web 插件中
 
 ![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668314894.png)
 
 ![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668314943.png)
 
+- 至 Local rest API 的 Option 中下載憑證檔案
+![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668340248.png)
+- 雙擊並且安裝憑證
+![01|100](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668340368.png)
 
 
 
 
 
-#### 2.5.3. 教學影片
+#### 2.5.3. 教學影片及文章
 
 > [!INFO]+ 資訊
 > [(23) [Obs＃105] Local REST API外掛：提供Obsidian HTTP調用整合服務 - YouTube](https://www.youtube.com/watch?v=sPqgHcuT_Sw&t=175s)
 
+> [!INFO]+ 資訊
+> [[Obs＃105] Obsidian外掛 Local REST API 提供外部整合服務 – 簡睿隨筆](https://jdev.tw/blog/7785)
 ## 3. 小技巧
 
 > OB_Tips:: 想要將程式碼區塊顯示成文字，只要使用四個\`（倒引號）把原本程式碼區塊包住即可顯示！
