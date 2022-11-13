@@ -21,6 +21,24 @@
                   "title": "●日常生活待辦事項",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2022-11-12_Sat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-12_Sat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":1.0987493632795557}"
+                },
+                {
+                  "title": "●購物清單",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●購物清單.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":8},\"to\":{\"line\":27,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":42},\"to\":{\"line\":31,\"ch\":42}},\"scroll\":12.728070004111842}"
                 },
                 {
@@ -34,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●購物清單.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●購物清單.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           }
@@ -286,7 +304,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●購物清單.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●購物清單.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●購物清單.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,9 +389,9 @@
   "active": "0fd0d21cd73f3d25",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
-    "●首頁.md",
-    "004-●日常生活/●購物清單.md",
     "006-DailyNote/2022-11-12_Sat.md",
+    "004-●日常生活/●購物清單.md",
+    "●首頁.md",
     "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-11-11_Fri.md",
     "conflict-files-obsidian-git.md",

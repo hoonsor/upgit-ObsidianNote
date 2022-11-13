@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Sunday, November 6th 2022, 10:57:23 pm
+modified: Sunday, November 13th 2022, 12:39:59 pm
 ---
 
 [[●專案管理]]
@@ -129,6 +129,34 @@ Return
 > [upgit/README.zh-CN.md at main · pluveto/upgit · GitHub](https://github.com/pluveto/upgit/blob/main/docs/README.zh-CN.md)
 
 
+
+
+### 2.5. Local Rest API（可透過瀏覽器控制 Obsidian 資料庫內容及動作）
+
+#### 2.5.1. Obsidian、Chrome 下載並安裝插件
+- 至 commnity plugin 頁面搜尋 Local rest api 外掛，下載並安裝完成
+- 至 Chome 應用商店下載配合使用之插件 Obsidian Web，網址如下
+
+> [!INFO]+ 資訊
+> [Obsidian Web - Chrome 線上應用程式商店](https://chrome.google.com/webstore/detail/obsidian-web/edoacekkjanmingkbkgjndndibhkegad)
+
+#### 2.5.2. 設定API Key及安裝憑證
+
+- 打開Local rest API Option，將API Key 複製並且貼到chrome Obsidian Web 插件中
+
+![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668314894.png)
+
+![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668314943.png)
+
+
+
+
+
+
+#### 2.5.3. 教學影片
+
+> [!INFO]+ 資訊
+> [(23) [Obs＃105] Local REST API外掛：提供Obsidian HTTP調用整合服務 - YouTube](https://www.youtube.com/watch?v=sPqgHcuT_Sw&t=175s)
 
 ## 3. 小技巧
 

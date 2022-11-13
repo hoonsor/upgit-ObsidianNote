@@ -83,38 +83,6 @@
         }
       }
     },
-    "2022-10-10_Mon": {
-      "2022-10-10_Mon": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1665414347874
-        }
-      }
-    },
-    "2022-10-11_Tue": {
-      "2022-10-11_Tue": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1665502102229
-        }
-      }
-    },
-    "-bg": {
-      "粗體綠字 ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1665648808463
-        }
-      }
-    },
-    "-0m": {
-      "褐紅底白字 ": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1665648824049
-        }
-      }
-    },
     "2022-10-18_Tue": {
       "2022-10-18_Tue": {
         "internalLink": {
@@ -184,6 +152,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1667628816100
+        }
+      }
+    },
+    "plugin": {
+      "plugin": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1668314330811
         }
       }
     }
