@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b14306378876cf6",
+        "id": "f701aa1860e2b3ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8aefb172a4691c63",
+            "id": "78112f469e7314bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Daily Note Template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":93,\"ch\":13},\"to\":{\"line\":93,\"ch\":13}},\"scroll\":70.4333341899671}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "001-Template/Daily Note Template.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -239,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "001-Template/Daily Note Template.md"
               }
             }
           }
@@ -265,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "001-Template/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "001-Template/Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +318,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "001-Template/Daily Note Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,17 +353,17 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "8aefb172a4691c63",
+  "active": "78112f469e7314bd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "●首頁.md",
-    "006-DailyNote/2022-11-13_Sun.md",
     "006-DailyNote/2022-11-14_Mon.md",
+    "001-Template/Daily Note Template.md",
+    "●首頁.md",
+    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-11-13_Sun.md",
     "006-DailyNote/2022-11-12_Sat.md",
     "晚點讀.md",
     "read.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "★測試各類功能.md",
-    "004-●日常生活/●日常生活待辦事項.md"
+    "★測試各類功能.md"
   ]
 }

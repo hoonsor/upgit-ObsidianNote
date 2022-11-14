@@ -1,4 +1,10 @@
 
+---
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
+---
+
+
 # 本日筆記
 <%*
 function getWeek() {
@@ -83,3 +89,4 @@ if (week == 1 || week == 3 || week == 5 || week == 0) {
 if (week == 1 || week == 3 || week == 5 || week == 0) {
 -%>
 <%* } %>
+
