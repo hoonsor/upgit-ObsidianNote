@@ -1,19 +1,11 @@
----
-obsidianUIMode: 
-created: Monday, November 14th 2022, 8:49:16 pm
-modified: Monday, November 14th 2022, 8:49:31 pm
----
-
 # 本日筆記
-<%*
-function getWeek() {
+<%* function getWeek() {
 var d = new Date();
 var n = d.getDay();
 return n;
-}
-let week = getWeek();
-if (week == 1 || week == 3 || week == 5 || week == 0) {
-%>
+} %>
+<%* let week = getWeek(); %>
+<%* if (week == 1 || week == 3 || week == 5 || week == 0) { %>
 <%* } %>
 ## 1. 已完成之事項：
 ```tasks
@@ -60,32 +52,18 @@ if (week == 1 || week == 3 || week == 5 || week == 0) {
 ## 5. 每日保健
 - [ ] 在學校使用膝蓋熱敷器 (@<% tp.date.now() %> 11:00)
 - [ ] 使用呼吸訓練器
-- [ ] 吃維他命
-<%-*
-if (week == 2 || week == 5) {
--%>
-
-- [ ] 拔罐
+- [ ] 吃維他命<%* if (week == 2 || week == 5) { %>
+- [ ] 拔罐 <%* } %>
 - [ ] 吊單槓 10 秒 (@<% tp.date.now() %> 21:05)
 - [ ] 做增加骨鈣素之運動（包含深蹲）或做超慢跑 (@<% tp.date.now() %> 21:10)
 - [ ] 使用生髮水
-- [ ] 使用瘦臉器
-<%-*
-if (week == 1 || week == 3 || week == 5 || week == 0) {
--%>
-
-- [ ] 使用雷射帽
+- [ ] 使用瘦臉器<%* if (week == 1 || week == 3 || week == 5 || week == 0) {  %>
+- [ ] 使用雷射帽<%* } %>
 - [ ] 電療額頭
-- [ ] 轉手 108次
+- [ ] 轉手 108 次
 - [ ] 吃一把胡桃及一匙芝麻
 - [ ] 喝乳清蛋白
 - [ ] 使用滾輪
 - [ ] 使用面膜毛巾敷臉
 - [ ] 使用敷臉機
 - [ ] 使用彈力繩
-
-<%-*
-if (week == 1 || week == 3 || week == 5 || week == 0) {
--%>
-<%* } %>
-
