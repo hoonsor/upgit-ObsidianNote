@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TEMPLATE-1",
+      "path": "TEMPLATE-1.md"
+    },
+    {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "2022-11-12_Sat",
       "path": "006-DailyNote/2022-11-12_Sat.md"
-    },
-    {
-      "basename": "晚點讀",
-      "path": "晚點讀.md"
     },
     {
       "basename": "read",
