@@ -8,7 +8,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Tuesday, September 6th 2022, 10:24:11 pm
-modified: Sunday, November 6th 2022, 11:41:45 pm
+modified: Monday, November 14th 2022, 11:01:19 pm
 ---
 # 1110906-Obsidian 快捷鍵
 
@@ -33,6 +33,7 @@ modified: Sunday, November 6th 2022, 11:41:45 pm
 |    創建標題 1 至標題 6                     |    ctrl+NumPad 1 至 NumPad 6         |
 |    折疊/展開所有標題 1 至標題 6                |    ctrl+alt+NumPad 1 至 NumPad 6     |
 |    創建新筆記                            |    ctrl+N                           |
+|    從模版創建新筆記                            |    alt+N                           |
 |    開啟連結在新的視窗                       |    ctrl+alt+ 滑鼠左鍵                     |
 |    創建新筆記在新的分頁                       |    ctrl+shift+N                     |
 |    刪除目前的筆記                          |    ctrl+Delete                      |
