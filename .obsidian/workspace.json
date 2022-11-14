@@ -29,6 +29,33 @@
             }
           }
         ]
+      },
+      {
+        "id": "b9e93b059a503069",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d92e3a31883c9e7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "晚點讀.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "晚點讀.md"
               }
             }
           }
@@ -265,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "晚點讀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +318,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "晚點讀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "晚點讀.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,12 +374,12 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "8aefb172a4691c63",
+  "active": "9d92e3a31883c9e7",
   "lastOpenFiles": [
+    "●首頁.md",
     "006-DailyNote/2022-11-13_Sun.md",
     "006-DailyNote/2022-11-14_Mon.md",
     "006-DailyNote/2022-11-12_Sat.md",
-    "●首頁.md",
     "晚點讀.md",
     "read.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
