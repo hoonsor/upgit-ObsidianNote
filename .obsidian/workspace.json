@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e886fae059416e",
+        "id": "02b2169b46bc2aab",
         "type": "tabs",
         "children": [
           {
-            "id": "793e151b33dcceec",
+            "id": "350e85a0e290a3a2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-11-14_Mon.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-11-14_Mon.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-11-14_Mon.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-11-14_Mon.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-11-14_Mon.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -356,7 +356,7 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "793e151b33dcceec",
+  "active": "350e85a0e290a3a2",
   "lastOpenFiles": [
     "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-11-14_Mon.md",
