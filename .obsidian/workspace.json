@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81dce8c55ed94d09",
+        "id": "0e0df9697a776351",
         "type": "tabs",
         "children": [
           {
-            "id": "e3d6246b2cbe61ec",
+            "id": "a87910379a870ae4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -230,9 +226,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -274,7 +268,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +293,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +313,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -356,7 +347,7 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "e3d6246b2cbe61ec",
+  "active": "a87910379a870ae4",
   "lastOpenFiles": [
     "006-DailyNote/2022-11-15_Tue.md",
     "●首頁.md",
