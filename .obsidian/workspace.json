@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abb4ec953f3de9a0",
+        "id": "eb531524a117d9e6",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6b260f76a334cf",
+            "id": "7460aa641871df1a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":88.88372093023256}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -364,7 +358,7 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "fa6b260f76a334cf",
+  "active": "7460aa641871df1a",
   "lastOpenFiles": [
     "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
