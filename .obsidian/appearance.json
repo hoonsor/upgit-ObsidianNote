@@ -8,5 +8,6 @@
     "obsidian"
   ],
   "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }
