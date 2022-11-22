@@ -8,27 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "507010e55d672015",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b895d429e3c306f5",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -66,9 +45,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9800f42357214e4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -399,11 +398,11 @@
   },
   "active": "b895d429e3c306f5",
   "lastOpenFiles": [
-    "004-●日常生活/●日常生活待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "005-工作相關/●工作待辦事項.md",
-    "conflict-files-obsidian-git.md",
     "●首頁.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "005-工作相關/●工作待辦事項.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-15_Tue.md",
     "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-11-14_Mon.md",
