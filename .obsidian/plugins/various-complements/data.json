@@ -54,12 +54,6 @@
           "lastUpdated": 1667736341649
         }
       },
-      "時間函數（Templater）": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1666453487349
-        }
-      },
       "增加一欄（Column）": {
         "customDictionary": {
           "count": 2,
@@ -80,14 +74,6 @@
         "customDictionary": {
           "count": 33,
           "lastUpdated": 1667735157316
-        }
-      }
-    },
-    "2022-10-18_Tue": {
-      "2022-10-18_Tue": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1666097930307
         }
       }
     },
@@ -168,6 +154,14 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1668351543300
+        }
+      }
+    },
+    "Observations": {
+      "Observations": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669077595619
         }
       }
     }
