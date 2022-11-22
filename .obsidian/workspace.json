@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0df9697a776351",
+        "id": "c4bb2440755cea95",
         "type": "tabs",
         "children": [
           {
-            "id": "a87910379a870ae4",
+            "id": "14de66761d3926c6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -356,7 +356,7 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "a87910379a870ae4",
+  "active": "14de66761d3926c6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "●首頁.md",
