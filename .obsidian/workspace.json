@@ -4,21 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "eb531524a117d9e6",
+        "id": "4a12b164fcf2c52a",
         "type": "tabs",
         "children": [
           {
-            "id": "7460aa641871df1a",
+            "id": "507010e55d672015",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "markdown",
               "state": {
@@ -357,7 +348,7 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "7460aa641871df1a",
+  "active": "507010e55d672015",
   "lastOpenFiles": [
     "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
