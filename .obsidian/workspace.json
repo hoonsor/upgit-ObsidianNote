@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":32},\"to\":{\"line\":29,\"ch\":32}},\"scroll\":9.747081691188717}"
+                },
+                {
                   "title": "2022-11-22_Tue",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-22_Tue.md\",\"mode\":\"source\",\"source\":false}}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-22_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "006-DailyNote/2022-11-22_Tue.md"
               }
             }
           }
@@ -286,7 +292,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-22_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +318,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-22_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "006-DailyNote/2022-11-22_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -370,6 +376,7 @@
   },
   "active": "14de66761d3926c6",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-11-22_Tue.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
     "●首頁.md",
@@ -378,7 +385,6 @@
     "001-Template/Daily Note Template.md",
     "006-DailyNote/2022-11-14_Mon.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "006-DailyNote/2022-11-13_Sun.md",
-    "read.md"
+    "006-DailyNote/2022-11-13_Sun.md"
   ]
 }
