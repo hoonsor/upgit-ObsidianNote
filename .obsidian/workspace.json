@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b895d429e3c306f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "211c36be4cbe6217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -265,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -348,8 +369,9 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "507010e55d672015",
+  "active": "211c36be4cbe6217",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-11-15_Tue.md",
@@ -358,7 +380,6 @@
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "006-DailyNote/2022-11-13_Sun.md",
     "read.md",
-    "README.md",
-    "Untitled.md"
+    "README.md"
   ]
 }
