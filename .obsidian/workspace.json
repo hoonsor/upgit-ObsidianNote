@@ -21,6 +21,18 @@
                   "title": "●日常生活待辦事項",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":6},\"to\":{\"line\":18,\"ch\":6}},\"scroll\":0}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":17},\"to\":{\"line\":32,\"ch\":17}},\"scroll\":19.925925925925927}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":11},\"to\":{\"line\":22,\"ch\":11}},\"scroll\":12.862631578947369}"
                 },
                 {
