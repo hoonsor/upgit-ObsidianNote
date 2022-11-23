@@ -33,30 +33,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c6ef9aa5e6d8885",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           }
@@ -302,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,10 +363,10 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "7c6ef9aa5e6d8885",
+  "active": "bc9b305a3cb17f89",
   "lastOpenFiles": [
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/Untitled.md",
     "●首頁.md",
