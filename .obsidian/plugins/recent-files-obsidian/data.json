@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
+    },
+    {
+      "basename": "1110628-網站設計行銷相關",
+      "path": "003-●專案管理/002-練習撰寫文章行銷課程/1110628-網站設計行銷相關.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
     },
     {
       "basename": "●日常生活紀錄",
@@ -195,10 +195,6 @@
     {
       "basename": "XGPU遊戲下載",
       "path": "004-●日常生活/004-遊戲相關/XGPU遊戲下載.md"
-    },
-    {
-      "basename": "電腦知識",
-      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     }
   ],
   "omittedPaths": [],
