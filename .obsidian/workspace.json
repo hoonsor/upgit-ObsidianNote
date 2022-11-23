@@ -4,56 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a12b164fcf2c52a",
+        "id": "a3fc6377964b2166",
         "type": "tabs",
         "children": [
           {
-            "id": "b895d429e3c306f5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":15},\"to\":{\"line\":27,\"ch\":15}},\"scroll\":2.9683257918552037}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":27},\"to\":{\"line\":36,\"ch\":27}},\"scroll\":15.25421052631579}"
-                },
-                {
-                  "title": "●日常生活紀錄",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活紀錄.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.595263157894735}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "★測試各類功能.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9800f42357214e4",
+            "id": "458fbe558fd45571",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -276,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -319,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,7 +357,7 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "b895d429e3c306f5",
+  "active": "458fbe558fd45571",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
