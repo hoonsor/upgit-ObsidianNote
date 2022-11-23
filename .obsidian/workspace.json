@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4bb2440755cea95",
+        "id": "4399aa0b1e15c58e",
         "type": "tabs",
         "children": [
           {
-            "id": "14de66761d3926c6",
+            "id": "bc9b305a3cb17f89",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,44 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":8},\"to\":{\"line\":20,\"ch\":8}},\"scroll\":0}"
-                },
-                {
-                  "title": "2022-11-22_Tue",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-22_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":10},\"to\":{\"line\":42,\"ch\":10}},\"scroll\":22.675540076361763}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":32},\"to\":{\"line\":29,\"ch\":32}},\"scroll\":9.747081691188717}"
-                },
-                {
-                  "title": "2022-11-22_Tue",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-11-22_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":11},\"to\":{\"line\":60,\"ch\":11}},\"scroll\":32.061600542373085}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-11-22_Tue.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -261,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-11-22_Tue.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -304,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-11-22_Tue.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-11-22_Tue.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-11-22_Tue.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,7 +357,7 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "14de66761d3926c6",
+  "active": "bc9b305a3cb17f89",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-11-22_Tue.md",
