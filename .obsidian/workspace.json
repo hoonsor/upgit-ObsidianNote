@@ -27,8 +27,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8879a49b50ad54bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -274,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -356,12 +378,12 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "261e6f93225884bd",
+  "active": "8879a49b50ad54bb",
   "lastOpenFiles": [
+    "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/1110628-網站設計行銷相關.md",
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活紀錄.md",
     "006-DailyNote/2022-11-15_Tue.md",
