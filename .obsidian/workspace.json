@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -226,7 +230,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "●首頁.md"
+              }
             }
           }
         ]
@@ -268,6 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,6 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,6 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,7 +356,7 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "8e853437f9b38e34",
+  "active": "810c6f89a76522d4",
   "lastOpenFiles": [
     "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
