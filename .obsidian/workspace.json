@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "006-DailyNote/2022-11-24_Thu.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -231,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "006-DailyNote/2022-11-24_Thu.md"
               }
             }
           }
@@ -274,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-11-24_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-11-24_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-11-24_Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -358,9 +364,9 @@
   },
   "active": "389890a3d63c3626",
   "lastOpenFiles": [
+    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
