@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "062d7470003703da",
+        "id": "ecfff5aadc711df8",
         "type": "tabs",
         "children": [
           {
-            "id": "8e853437f9b38e34",
+            "id": "f3091e4c726dcd1c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -354,19 +354,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "active": "810c6f89a76522d4",
   "lastOpenFiles": [
-    "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "006-DailyNote/2022-11-23_Wed.md",
-    "006-DailyNote/2022-11-22_Tue.md",
-    "006-DailyNote/2022-11-15_Tue.md",
+    "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "003-●專案管理/002-練習撰寫文章行銷課程/Untitled.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
-    "005-工作相關/●工作待辦事項.md"
+    "003-●專案管理/002-練習撰寫文章行銷課程/1110628-網站設計行銷相關.md",
+    "004-●日常生活/●日常生活紀錄.md",
+    "006-DailyNote/2022-11-15_Tue.md",
+    "001-Template/Daily Note Template.md",
+    "006-DailyNote/2022-11-14_Mon.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
   ]
 }
