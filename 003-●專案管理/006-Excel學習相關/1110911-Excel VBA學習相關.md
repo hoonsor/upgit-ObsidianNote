@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Saturday, November 5th 2022, 11:21:36 pm
+modified: Friday, November 25th 2022, 11:20:40 am
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -43,21 +43,22 @@ modified: Saturday, November 5th 2022, 11:21:36 pm
 		- [[#5.12. Row（Range 物件之屬性）|5.12. Row（Range 物件之屬性）]]
 		- [[#5.13. If…ElseIf…Else（條件判斷式）|5.13. If…ElseIf…Else（條件判斷式）]]
 		- [[#5.14. Select Case（判斷式為文字或數值皆可）|5.14. Select Case（判斷式為文字或數值皆可）]]
-	- [[#6. Outlook 操作相關|6. Outlook 操作相關]]
-		- [[#6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
-		- [[#6.2. 定義及設定郵件物件變數（MailItem）|6.2. 定義及設定郵件物件變數（MailItem）]]
-		- [[#6.3. Outlook 物件有關函式|6.3. Outlook 物件有關函式]]
-			- [[#6.3.1. CreateItem(olMailItem)：建立一個郵件物件|6.3.1. CreateItem(olMailItem)：建立一個郵件物件]]
-			- [[#6.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件|6.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件]]
-		- [[#6.4. 郵件物件有關函式|6.4. 郵件物件有關函式]]
-			- [[#6.4.1. Display：將郵件顯示出來|6.4.1. Display：將郵件顯示出來]]
-			- [[#6.4.2. subject：設定主旨|6.4.2. subject：設定主旨]]
-			- [[#6.4.3. to：設定收件人|6.4.3. to：設定收件人]]
-			- [[#6.4.4. CC：設定副本收件人|6.4.4. CC：設定副本收件人]]
-			- [[#6.4.5. Attachments.Add()：新增附件|6.4.5. Attachments.Add()：新增附件]]
-			- [[#6.4.6. HTMLBody：信件內容|6.4.6. HTMLBody：信件內容]]
-			- [[#6.4.7. close olsave：儲存於草稿匣|6.4.7. close olsave：儲存於草稿匣]]
-			- [[#6.4.8. Send：寄送郵件|6.4.8. Send：寄送郵件]]
+	- [[#6. 應用|6. 應用]]
+		- [[#6.1. Outlook 操作相關|6.1. Outlook 操作相關]]
+			- [[#6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
+			- [[#6.1.2. 定義及設定郵件物件變數（MailItem）|6.1.2. 定義及設定郵件物件變數（MailItem）]]
+			- [[#6.1.3. Outlook 物件有關函式|6.1.3. Outlook 物件有關函式]]
+				- [[#6.1.3.1. CreateItem(olMailItem)：建立一個郵件物件|6.1.3.1. CreateItem(olMailItem)：建立一個郵件物件]]
+				- [[#6.1.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件|6.1.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件]]
+			- [[#6.1.4. 郵件物件有關函式|6.1.4. 郵件物件有關函式]]
+				- [[#6.1.4.1. Display：將郵件顯示出來|6.1.4.1. Display：將郵件顯示出來]]
+				- [[#6.1.4.2. subject：設定主旨|6.1.4.2. subject：設定主旨]]
+				- [[#6.1.4.3. to：設定收件人|6.1.4.3. to：設定收件人]]
+				- [[#6.1.4.4. CC：設定副本收件人|6.1.4.4. CC：設定副本收件人]]
+				- [[#6.1.4.5. Attachments.Add()：新增附件|6.1.4.5. Attachments.Add()：新增附件]]
+				- [[#6.1.4.6. HTMLBody：信件內容|6.1.4.6. HTMLBody：信件內容]]
+				- [[#6.1.4.7. close olsave：儲存於草稿匣|6.1.4.7. close olsave：儲存於草稿匣]]
+				- [[#6.1.4.8. Send：寄送郵件|6.1.4.8. Send：寄送郵件]]
 	- [[#7. 小技巧|7. 小技巧]]
 
 ## 1. 基本注意事項
@@ -258,42 +259,43 @@ End Select
 > [!INFO]+ 資訊
 > [Select Case 陳述式 (VBA) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/select-case-statement)
 
-## 6. Outlook 操作相關
-### 6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）
+## 6. 應用
+### 6.1. Outlook 操作相關
+#### 6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）
 %% 必須先引用 Outlook 的 Library %%
 Dim 小信差 As Outlook.Application
 Set 小信差 = New Outlook.Application
 
-### 6.2. 定義及設定郵件物件變數（MailItem）
+#### 6.1.2. 定義及設定郵件物件變數（MailItem）
 Dim 新郵件 As MailItem
 Set 新郵件 = 小信差.CreateItem(olMailItem)
 
-### 6.3. Outlook 物件有關函式
-#### 6.3.1. CreateItem(olMailItem)：建立一個郵件物件
+#### 6.1.3. Outlook 物件有關函式
+##### 6.1.3.1. CreateItem(olMailItem)：建立一個郵件物件
 - 小信差.CreateItem(olMailItem)
 
-#### 6.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件
+##### 6.1.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件
 Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roaming\Microsoft\Templates\1110911- 範本.oft"``)
 
-### 6.4. 郵件物件有關函式
-#### 6.4.1. Display：將郵件顯示出來
+#### 6.1.4. 郵件物件有關函式
+##### 6.1.4.1. Display：將郵件顯示出來
 - 新郵件.Display 
-#### 6.4.2. subject：設定主旨
+##### 6.1.4.2. subject：設定主旨
 - 新郵件.Subject = " 課程報名成功！"
-#### 6.4.3. to：設定收件人
+##### 6.1.4.3. to：設定收件人
 - 新郵件.To = "hoonsor@hotmail.com"
-#### 6.4.4. CC：設定副本收件人
+##### 6.1.4.4. CC：設定副本收件人
 - 新郵件.CC = "hoonsor@gmail.com"
-#### 6.4.5. Attachments.Add()：新增附件
+##### 6.1.4.5. Attachments.Add()：新增附件
 - 新郵件.Attachments.Add (``"D:\02- 學習\03-Obsidian\Hoonsor\003-●專案管理\006-Excel 學習相關\●練習範例檔\Excel 54\王小明.pdf"``)
 - 新郵件.Attachments.Add Cells(2,5).value
-#### 6.4.6. HTMLBody：信件內容
+##### 6.1.4.6. HTMLBody：信件內容
 - 新郵件.HTMLBody = Replace(新郵件.HTMLBody, " 教師名單 ", Cells(2, 1).Value)
 
-#### 6.4.7. close olsave：儲存於草稿匣
+##### 6.1.4.7. close olsave：儲存於草稿匣
 - 新郵件.close olSave
 
-#### 6.4.8. Send：寄送郵件
+##### 6.1.4.8. Send：寄送郵件
 - 新郵件.send
 
 
