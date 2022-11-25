@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, November 25th 2022, 11:20:40 am
+modified: Friday, November 25th 2022, 11:33:34 am
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -59,6 +59,7 @@ modified: Friday, November 25th 2022, 11:20:40 am
 				- [[#6.1.4.6. HTMLBody：信件內容|6.1.4.6. HTMLBody：信件內容]]
 				- [[#6.1.4.7. close olsave：儲存於草稿匣|6.1.4.7. close olsave：儲存於草稿匣]]
 				- [[#6.1.4.8. Send：寄送郵件|6.1.4.8. Send：寄送郵件]]
+		- [[#6.2. 查詢資料庫對應值|6.2. 查詢資料庫對應值]]
 	- [[#7. 小技巧|7. 小技巧]]
 
 ## 1. 基本注意事項
@@ -298,7 +299,45 @@ Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roa
 ##### 6.1.4.8. Send：寄送郵件
 - 新郵件.send
 
+### 6.2. 查詢資料庫對應值
 
+```` VBA
+Sub 查詢資料庫對應值()
+
+    Dim V_x As Long
+    Dim V_y, V_z As String
+    Dim V_Duplex As Boolean
+
+    V_x = Application.ActiveCell.Column
+    '將選取儲存格之欄儲存為變數
+    V_y = Cells(Application.ActiveCell.Row, 1).Value
+    '將選取儲存格之最上面一格數值儲存為變數
+    V_Duplex = Cells(Application.ActiveCell.Row, 15).Value = "是"
+    '判斷儲存格資料是否為指定數值，並儲存成布林變數
+    Selection.Copy
+    Sheets("●學員資料庫").Select
+    
+    If V_Duplex Then
+        MsgBox ("資料庫有重複學員資料，請手動處理！")
+    Else
+        Set xF = Cells.Find(What:=V_y, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
+            xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
+            , MatchByte:=False, SearchFormat:=False)
+        '將xF設為一個搜尋是否找到 V_y 變數資料結果的物件變數，以避免搜尋找不到時出現錯誤視窗
+        If xF Is Nothing Then
+            MsgBox "資料庫無此學員資料"
+        Else
+            xF.Select
+            V_z = ActiveCell.Offset(, V_x - 1).Value
+            ActiveCell.Offset(, V_x - 1).Select
+            If V_z = "" Then V_z = "資料庫該欄位無資料"
+            MsgBox (V_z)
+        End If
+    End If
+    Sheets("●新增至學員資料庫名單-參照通用表單樣式").Select
+    
+End Sub
+````
 ## 7. 小技巧
 
 > ExcelTips:: Excel VBA 在執行時出現「編譯錯誤：使用者自訂型態尚未定義」，代表變數類型尚未定義，可能是沒有設定引用對應的 Library，至 (上方選單) 工具→設定引用項目→勾選對應變數的 Library 應該就可以解決了
