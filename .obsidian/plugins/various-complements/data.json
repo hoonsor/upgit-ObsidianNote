@@ -156,6 +156,78 @@
           "lastUpdated": 1669077595619
         }
       }
+    },
+    "-0r": {
+      "紅底白字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380647216
+        }
+      }
+    },
+    "-0w": {
+      "白底黑字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380658313
+        }
+      }
+    },
+    "-0g": {
+      "綠底白字 ": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1669380686247
+        }
+      }
+    },
+    "-0b": {
+      "藍底黑字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380690687
+        }
+      }
+    },
+    "-0gy": {
+      "灰底白字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380703175
+        }
+      }
+    },
+    "-0p": {
+      "紫底白字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380714752
+        }
+      }
+    },
+    "-0m": {
+      "褐紅底白字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380722038
+        }
+      }
+    },
+    "-bp": {
+      "粗體紫字 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380741159
+        }
+      }
+    },
+    "-bm": {
+      "粗體褐紅 ": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1669380750577
+        }
+      }
     }
   }
 }

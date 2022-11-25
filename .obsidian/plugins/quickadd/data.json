@@ -292,6 +292,218 @@
       ]
     },
     {
+      "id": "b713b614-8638-4e74-a352-15948c274398",
+      "name": "3. Font Style",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "034e6ea2-e972-4023-b5dd-d6f485788f98",
+          "name": "BoldRed",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"red \" + t_st + selection + t_st ;\n\nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "76fa025b-1fcc-4a39-8cef-ea8415c377a3",
+          "name": "BoldGreen",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"green \" + t_st + selection + t_st ;\n\nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "1348e91e-54dc-4408-bcc4-573715a685c0",
+          "name": "BoldMaroon",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"maroon \" + t_st + selection + t_st ;\n\nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "aae03af1-1142-41c9-99e4-5bfb8c0f58e0",
+          "name": "WhiteBlack",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"white \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "c2e3621e-d4cd-4f08-8833-61e78ed22d67",
+          "name": "GreenWhite",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"green \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "917ab24e-6ac0-4690-a6e5-9cfc2f5169f9",
+          "name": "MaroonWhite",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"maroon \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ]
+    },
+    {
       "id": "3f3ece15-fd2a-45ea-8837-0158e01d995a",
       "name": "Marco-Advanced URI",
       "type": "Macro",

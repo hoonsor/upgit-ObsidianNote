@@ -56,13 +56,13 @@
               "type": "markdown",
               "state": {
                 "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "932bfa757930dfa4",
+            "id": "37d9bd674176ac33",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-index/!dict.md"
+                "file": "★測試各類功能.md"
               }
             }
           }
@@ -351,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -377,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -398,7 +398,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-index/!dict.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -434,17 +434,17 @@
     "width": 356.5,
     "collapsed": true
   },
-  "active": "7d185b20f42a2c33",
+  "active": "37d9bd674176ac33",
   "lastOpenFiles": [
-    "★測試各類功能.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "★測試各類功能.md",
+    "000-index/!dict.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-11-25_Fri.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "006-DailyNote/2022-11-23_Wed.md"
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
   ]
 }
