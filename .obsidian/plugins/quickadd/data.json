@@ -189,7 +189,7 @@
         },
         {
           "id": "dd523c12-e51d-4dc3-a6f6-45e340971584",
-          "name": "2. Capture-CodeDisplay",
+          "name": "2. Capture-CodeDisplay（Obsidan）",
           "type": "Capture",
           "command": true,
           "appendLink": false,
@@ -222,8 +222,42 @@
           "openFileInMode": "default"
         },
         {
+          "id": "77c5635c-1d45-484e-80ae-57c511cb40ec",
+          "name": "3. Capture-CodeDisplay（Others）",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\nconst ThreeAccent = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\nconst FourAccent = String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96) + String.fromCharCode(96);\n\nresult = FourAccent + nl + selection + nl + FourAccent ;\n \nreturn result;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
           "id": "ee3405b0-0161-4b2b-8a85-a44afaf34e83",
-          "name": "3. Capture-Embedded",
+          "name": "4. Capture-Embedded",
           "type": "Capture",
           "command": true,
           "appendLink": false,

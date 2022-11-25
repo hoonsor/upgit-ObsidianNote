@@ -8,20 +8,23 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, November 25th 2022, 3:44:13 pm
+modified: Friday, November 25th 2022, 8:00:59 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
 - [[#1110911-Excel VBA 學習相關 ^toc|1110911-Excel VBA 學習相關]]
 	- [[#1. 基本注意事項|1. 基本注意事項]]
 		- [[#1.1. 宣告變數|1.1. 宣告變數]]
+		- [[#1.2. 變數類型|1.2. 變數類型]]
+			- [[#1.2.1. 動態陣列（dynamic arrays）|1.2.1. 動態陣列（dynamic arrays）]]
 	- [[#2. 思考邏輯|2. 思考邏輯]]
 		- [[#2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性]]
 	- [[#3. 物件類型|3. 物件類型]]
 		- [[#3.1. Excel 本身之物件類型|3.1. Excel 本身之物件類型]]
-			- [[#3.1.1. WorkSheet（工作表）|3.1.1. WorkSheet（工作表）]]
-			- [[#3.1.2. WorkSheets（工作表集合）|3.1.2. WorkSheets（工作表集合）]]
-			- [[#3.1.3. Range 物件|3.1.3. Range 物件]]
+			- [[#3.1.1. WorkSheets 物件（工作表集合）|3.1.1. WorkSheets 物件（工作表集合）]]
+			- [[#3.1.2. WorkSheet 物件（工作表）|3.1.2. WorkSheet 物件（工作表）]]
+			- [[#3.1.3. Sheets 物件（工作表集合）|3.1.3. Sheets 物件（工作表集合）]]
+			- [[#3.1.4. Range 物件|3.1.4. Range 物件]]
 		- [[#3.2. Outlook 應用程式|3.2. Outlook 應用程式]]
 			- [[#3.2.1. Outlook 郵件|3.2.1. Outlook 郵件]]
 	- [[#4. 運算子|4. 運算子]]
@@ -43,6 +46,8 @@ modified: Friday, November 25th 2022, 3:44:13 pm
 		- [[#5.12. Row（Range 物件之屬性）|5.12. Row（Range 物件之屬性）]]
 		- [[#5.13. If…ElseIf…Else（條件判斷式）|5.13. If…ElseIf…Else（條件判斷式）]]
 		- [[#5.14. Select Case（判斷式為文字或數值皆可）|5.14. Select Case（判斷式為文字或數值皆可）]]
+		- [[#5.15. Split（分割字串）|5.15. Split（分割字串）]]
+		- [[#5.16. Join（串接字串）|5.16. Join（串接字串）]]
 	- [[#6. 應用|6. 應用]]
 		- [[#6.1. Outlook 操作相關|6.1. Outlook 操作相關]]
 			- [[#6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
@@ -70,21 +75,68 @@ modified: Friday, November 25th 2022, 3:44:13 pm
 ### 1.1. 宣告變數
 #h/red **宣告變數可以將不同宣告式或變數放在同一行**，如下範例：
 Dim 總列數, 獎金加總 As Integer, 月份 As Worksheet
+
+### 1.2. 變數類型
+- 如果您未指定資料類型，會依預設指派 Variant 資料類型。 也可以使用 Type 陳述式來建立 使用者定義類型。
+- Variant（萬用類型，預設變數類型）
+- Object
+- Boolean
+- Byte
+- Integer
+- Long
+- Currency
+- Single
+- Double
+- Date
+- String （適用於可變長度變數）
+- String * length （適用於固定長度字串）
+#### 1.2.1. 動態陣列（dynamic arrays）
+動態陣列的特點就是可以動態改變陣列的大小，在空間不足時可以擴增，而空間太大時也可以縮減，以下是動態陣列的使用方式
+
+```` VBA
+' 宣告動態陣列
+Dim MyDynArr() As Integer
+
+' 調整陣列大小
+ReDim MyDynArr(3)
+
+' 這裡的 `LBound` 與 `UBound` 是用來查詢陣列索引下限與上限的函數。
+MsgBox "LBound = " & LBound(MyDynArr) _
+   & ", Ubound = " & UBound(MyDynArr)
+MyDynArr(3) = 123
+
+' 當動態陣列使用完畢之後，我們可以使用 `Erase` 將系統配置給動態陣列的記憶體收回
+Erase MyDynArr
+
+````
+
 ## 2. 思考邏輯
 ### 2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性
 
 ## 3. 物件類型
 ### 3.1. Excel 本身之物件類型
 
-#### 3.1.1. WorkSheet（工作表）
-例如：Dim 月份 as Worksheet
-
-#### 3.1.2. WorkSheets（工作表集合）
+#### 3.1.1. WorkSheets 物件（工作表集合）
 %% Worksheet 之集合 %%
-例如：WorkSheets("1 月 ")、WorkSheets(2)（此為往左數來第 2 個工作表，Worksheets 索引號是從 1 開始編列）
-#h/red **常會搭配 Active 屬性使用**，例如 WorkSheets(1).Activate
+- 會傳回代表指定之活頁簿中所有工作表的 **[Sheets](https://learn.microsoft.com/zh-tw/office/vba/api/excel.sheets)** 集合。 唯讀的 **Sheets** 物件。
+- 例如：WorkSheets("1 月 ")、WorkSheets(2)（此為往左數來第 2 個工作表，Worksheets 索引號是從 1 開始編列）
+- #h/red **常會搭配 Active 屬性使用**，例如 WorkSheets(1).Activate
 
-#### 3.1.3. Range 物件
+#### 3.1.2. WorkSheet 物件（工作表）
+- 工作表物件是 **[工作表](https://learn.microsoft.com/zh-tw/office/vba/api/excel.worksheets)** 集合的成員。 **Worksheets** 集合包含活頁簿中的所有 **Worksheet** 物件。
+- 工作表物件也是 **[Sheets](https://learn.microsoft.com/zh-tw/office/vba/api/excel.sheets)** 集合的成員。 **Sheets** 集合包含活頁簿中的所有工作表（圖表與工作表都包含在內）。
+- 宣告範例：Dim 月份 as Worksheet
+
+#### 3.1.3. Sheets 物件（工作表集合）
+
+- 指定活頁簿或使用中活頁簿中所有工作表的集合。
+- Sheets 集合可包含 **[Chart](https://learn.microsoft.com/zh-tw/office/vba/api/excel.chart(object))** 或 **[Worksheet](https://learn.microsoft.com/zh-tw/office/vba/api/excel.worksheet)** 物件
+```` VBA
+' 使用 Add 方法可建立新的工作表，並將其新增至集合。 下列範例會在現用活頁簿中新增兩張圖表，而且會將其放在活頁簿中第二張工作表之後
+Sheets.Add type:=xlChart, count:=2, after:=Sheets(2)
+````
+
+#### 3.1.4. Range 物件
 例如 Range("A2")、Range("A4:B5")
 
 ### 3.2. Outlook 應用程式
@@ -261,6 +313,37 @@ End Select
 > [!INFO]+ 資訊
 > [Select Case 陳述式 (VBA) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/select-case-statement)
 
+### 5.15. Split（分割字串）
+
+- 使用 Split 分割字串後，回傳的是結果是一個一維陣列，範例如下：
+```` VBA
+Dim arr As Variant
+Dim ub As Integer
+
+' 使用 Split 以空白字元分割字串
+arr = Split("This is a test", " ")
+
+' 取得陣列長度
+ub = UBound(arr)
+
+' 輸出陣列內容
+For i = 0 To ub
+  MsgBox (i & " = " & arr(i))
+Next i
+````
+
+### 5.16. Join（串接字串）
+
+- 若要將陣列的所有元素串接成一個字串，可以使用 `Join` 函數，以下是一個接續的範例：
+```` VBA
+Dim str As String
+
+' 使用 Join 將陣列內容串接為一個字串 
+str = Join(arr, " ")
+
+MsgBox (str)
+````
+
 ## 6. 應用
 ### 6.1. Outlook 操作相關
 #### 6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）
@@ -405,9 +488,12 @@ For x = 2 To 比對工作表總列數
             Cells(x, 比對工作表總欄數).Value = "查無姓名"
         Else
             搜尋結果.Select
-            ActiveCell.Offset(, 目標工作表動態陣列(y - 1) - 目標工作表動態陣列(0)).Value = 取代值暫存
-            Sheets(比對工作表名稱).Select
-            Cells(x, 比對工作表總欄數).Value = "已更新"
+            '取代值暫存為「不更新資料」的話就不更新該欄位資料
+            If 取代值暫存 <> "不更新資料" Then
+                ActiveCell.Offset(, 目標工作表動態陣列(y - 1) - 目標工作表動態陣列(0)).Value = 取代值暫存
+                Sheets(比對工作表名稱).Select
+                Cells(x, 比對工作表總欄數).Value = "已更新"
+            End If
         End If
     Next y
 Next x
