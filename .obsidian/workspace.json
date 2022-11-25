@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",

@@ -56,12 +56,17 @@
         },
         {
           "id": "quickadd:choice:dd523c12-e51d-4dc3-a6f6-45e340971584",
-          "name": "QuickAdd: 2. Capture-CodeDisplay",
+          "name": "QuickAdd: 2. Capture-CodeDisplay（Obsidan）",
+          "icon": "remix-ComputerLine"
+        },
+        {
+          "id": "quickadd:choice:77c5635c-1d45-484e-80ae-57c511cb40ec",
+          "name": "QuickAdd: 3. Capture-CodeDisplay（Others）",
           "icon": "remix-ComputerLine"
         },
         {
           "id": "quickadd:choice:ee3405b0-0161-4b2b-8a85-a44afaf34e83",
-          "name": "QuickAdd: 3. Capture-Embedded",
+          "name": "QuickAdd: 4. Capture-Embedded",
           "icon": "remix-ComputerLine"
         }
       ]
