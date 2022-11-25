@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, November 25th 2022, 2:23:40 pm
+modified: Friday, November 25th 2022, 3:44:13 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -60,7 +60,7 @@ modified: Friday, November 25th 2022, 2:23:40 pm
 				- [[#6.1.4.7. close olsave：儲存於草稿匣|6.1.4.7. close olsave：儲存於草稿匣]]
 				- [[#6.1.4.8. Send：寄送郵件|6.1.4.8. Send：寄送郵件]]
 		- [[#6.2. 查詢資料庫對應值|6.2. 查詢資料庫對應值]]
-		- [[#6.3. 更新資料欄位暫存|6.3. 更新資料欄位暫存]]
+		- [[#6.3. 通訊錄更新資料欄位巨集|6.3. 通訊錄更新資料欄位巨集]]
 	- [[#7. 小技巧|7. 小技巧]]
 
 ## 1. 基本注意事項
@@ -340,82 +340,77 @@ Sub 查詢資料庫對應值()
 End Sub
 ````
 
-### 6.3. 更新資料欄位暫存
+### 6.3. 通訊錄更新資料欄位巨集
 
 ```` VBA
 Sub 欄位資料更新()
 
-Dim 比對欄位置1, 比對欄位置2, 目標欄位置1, 目標欄位置2, 更新狀態欄位置, 目標列位置, 比對工作表總列數 As Integer
-Dim 搜尋欄名, 搜尋值暫存, 取代值暫存, 比對工作表名稱, 目標工作表名稱 As String
+Dim 比對工作表總列數, 比對工作表總欄數 As Integer
+Dim 搜尋值暫存, 取代值暫存, 比對工作表名稱, 目標工作表名稱 As String
+Dim 目標工作表動態陣列() As Integer
 
-比對工作表名稱 = "欲更新之人員名單"
+比對工作表名稱 = "更新資料使用工作表"
 目標工作表名稱 = "通訊錄"
 比對工作表總列數 = Worksheets(比對工作表名稱).Range("A1").End(xlDown).Row
 
-比對欄位置1 = 1
-比對欄位置2 = 2
-更新狀態欄位置 = 3
-
+'確定比對工作表最左側欄位是否為「姓名」之欄位，無則無法進行下一步
 Sheets(比對工作表名稱).Select
-搜尋值暫存 = Cells(1, 比對欄位置1).Value
-
-Sheets(目標工作表名稱).Select
-Rows("1:1").Select
-
-Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
-    xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
-    , MatchByte:=False, SearchFormat:=False)
-If 搜尋結果 Is Nothing Then
-    MsgBox "目標工作表無此欄名！"
-Else
-    搜尋結果.Select
-    目標欄位置1 = ActiveCell.Column
+If Worksheets(比對工作表名稱).Range("A1").Value <> "姓名" Then
+    MsgBox "比對工作表最左側非「姓名」欄，請檢查是否有誤！"
+    '直接結束程式執行
+    End
 End If
 
-
-
+'確定比對工作表是否有「更新狀態」之欄位，無則自己加上去
 Sheets(比對工作表名稱).Select
-搜尋值暫存 = Cells(1, 比對欄位置2).Value
-
-Sheets(目標工作表名稱).Select
-Rows("1:1").Select
-
-Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
-    xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
-    , MatchByte:=False, SearchFormat:=False)
+If Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Value <> "更新狀態" Then
+    Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Select
+    ActiveCell.Offset(, 1).Value = "更新狀態"
+End If
     
-If 搜尋結果 Is Nothing Then
-    MsgBox "目標工作表無此欄名！"
-Else
-    搜尋結果.Select
-    目標欄位置2 = ActiveCell.Column
-End If
+'確定動態陣列元素數量
+比對工作表總欄數 = Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Column
+ReDim 目標工作表動態陣列(比對工作表總欄數)
 
-
-For x = 2 To 比對工作表總列數
+'確定目標工作表均有各對應欄名
+For x = 1 To 比對工作表總欄數 - 1
     Sheets(比對工作表名稱).Select
-    搜尋值暫存 = Cells(x, 比對欄位置1).Value
-    取代值暫存 = Cells(x, 比對欄位置2).Value
+    搜尋值暫存 = Cells(1, x)
     Sheets(目標工作表名稱).Select
     Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
         xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
         , MatchByte:=False, SearchFormat:=False)
-    
     If 搜尋結果 Is Nothing Then
-        Sheets(比對工作表名稱).Select
-        Cells(x, 更新狀態欄位置).Value = "查無姓名"
-        MsgBox "目標工作表無此姓名！"
+        MsgBox "目標工作表無「" & 搜尋值暫存 & "」此欄名，請確認欄名是否輸入有誤！"
+        '直接結束程式執行
+        End
     Else
         搜尋結果.Select
-        ActiveCell.Offset(, 目標欄位置2 - 目標欄位置1).Value = 取代值暫存
-        Sheets(比對工作表名稱).Select
-        Cells(x, 更新狀態欄位置).Value = "已更新"
-        MsgBox 搜尋值暫存 & "之資料已更新！"
+        目標工作表動態陣列(x - 1) = ActiveCell.Column
     End If
 Next x
 
-'Debug.Print 目標欄位置1
-'Debug.Print 目標欄位置2
+'搜尋並更新資料
+For x = 2 To 比對工作表總列數
+    Sheets(比對工作表名稱).Select
+    搜尋值暫存 = Cells(x, 1).Value
+    For y = 2 To 比對工作表總欄數 - 1
+        取代值暫存 = Cells(x, y).Value
+        Sheets(目標工作表名稱).Select
+        Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
+            xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
+            , MatchByte:=False, SearchFormat:=False)
+        If 搜尋結果 Is Nothing Then
+            Sheets(比對工作表名稱).Select
+            Cells(x, 比對工作表總欄數).Value = "查無姓名"
+        Else
+            搜尋結果.Select
+            ActiveCell.Offset(, 目標工作表動態陣列(y - 1) - 目標工作表動態陣列(0)).Value = 取代值暫存
+            Sheets(比對工作表名稱).Select
+            Cells(x, 比對工作表總欄數).Value = "已更新"
+        End If
+    Next y
+Next x
 
 End Sub
 ````
