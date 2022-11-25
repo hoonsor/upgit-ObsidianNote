@@ -193,9 +193,30 @@
       "icon": "fullscreen"
     },
     {
-      "id": "editing-toolbar:workplace-fullscreen-focus",
-      "name": "workplace-Fullscreen ",
-      "icon": "remix-SplitCellsHorizontal"
+      "id": "SubmenuCommands-lawipncju",
+      "name": "submenu",
+      "icon": "remix-PenNibFill",
+      "SubmenuCommands": []
+    },
+    {
+      "id": "quickadd:choice:034e6ea2-e972-4023-b5dd-d6f485788f98",
+      "name": "QuickAdd: BoldRed",
+      "icon": "remix-PenNibLine"
+    },
+    {
+      "id": "quickadd:choice:76fa025b-1fcc-4a39-8cef-ea8415c377a3",
+      "name": "QuickAdd: BoldGreen",
+      "icon": "remix-PenNibLine"
+    },
+    {
+      "id": "quickadd:choice:1348e91e-54dc-4408-bcc4-573715a685c0",
+      "name": "QuickAdd: BoldMaroon",
+      "icon": "remix-PenNibLine"
+    },
+    {
+      "id": "quickadd:choice:aae03af1-1142-41c9-99e4-5bfb8c0f58e0",
+      "name": "QuickAdd: WhiteBlack",
+      "icon": "remix-PenNibLine"
     }
   ],
   "appendMethod": "workspace",
@@ -203,7 +224,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 348,
-  "cMenuFontColor": "#7f7f7f",
+  "cMenuWidth": 402,
+  "cMenuFontColor": "#d7e3bc",
   "cMenuBackgroundColor": "rgba(240, 107, 5, 0.2)"
 }

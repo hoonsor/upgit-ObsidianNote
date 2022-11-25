@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70a5f655107ba866",
+        "id": "546020602850ab3f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4457c345c06c07d",
+            "id": "0cac937025e2913d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,55 +21,7 @@
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2022-11-25_Fri.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e391adec6ed823b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":6.263115132617479}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37d9bd674176ac33",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
@@ -81,30 +33,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7d185b20f42a2c33",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000-index/!dict.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -431,17 +360,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
-  "active": "37d9bd674176ac33",
+  "active": "0cac937025e2913d",
   "lastOpenFiles": [
+    "●首頁.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "★測試各類功能.md",
     "000-index/!dict.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-11-25_Fri.md",
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
