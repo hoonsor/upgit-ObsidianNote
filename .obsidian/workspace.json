@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "546020602850ab3f",
+        "id": "f163454f4aee0038",
         "type": "tabs",
         "children": [
           {
-            "id": "0cac937025e2913d",
+            "id": "8accc78041032f45",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,16 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "★測試各類功能",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":10},\"to\":{\"line\":47,\"ch\":10}},\"scroll\":30.66368646731322}"
-                },
-                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "eState": "{}"
                 }
               ]
             },
@@ -368,10 +362,10 @@
     "direction": "horizontal",
     "width": 356.5
   },
-  "active": "0cac937025e2913d",
+  "active": "8accc78041032f45",
   "lastOpenFiles": [
-    "★測試各類功能.md",
     "●首頁.md",
+    "★測試各類功能.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "000-index/!dict.md",
     "004-●日常生活/●日常生活待辦事項.md",
