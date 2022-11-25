@@ -56,13 +56,55 @@
               "type": "markdown",
               "state": {
                 "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932bfa757930dfa4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★測試各類功能.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d185b20f42a2c33",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-index/!dict.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#h/red",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +161,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -265,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+                "file": "000-index/!dict.md"
               }
             }
           }
@@ -308,7 +351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+                "file": "000-index/!dict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+                "file": "000-index/!dict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +398,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+                "file": "000-index/!dict.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -388,19 +431,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
-  "active": "3e391adec6ed823b",
+  "active": "7d185b20f42a2c33",
   "lastOpenFiles": [
-    "004-●日常生活/●日常生活待辦事項.md",
+    "★測試各類功能.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-11-25_Fri.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/002-練習撰寫文章行銷課程/1111123-日式創業學.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "006-DailyNote/2022-11-23_Wed.md",
-    "006-DailyNote/2022-11-22_Tue.md"
+    "006-DailyNote/2022-11-23_Wed.md"
   ]
 }

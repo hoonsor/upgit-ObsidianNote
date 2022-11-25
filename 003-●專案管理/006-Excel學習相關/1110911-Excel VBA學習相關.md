@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, November 25th 2022, 8:00:59 pm
+modified: Friday, November 25th 2022, 8:19:13 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -18,7 +18,7 @@ modified: Friday, November 25th 2022, 8:00:59 pm
 		- [[#1.2. 變數類型|1.2. 變數類型]]
 			- [[#1.2.1. 動態陣列（dynamic arrays）|1.2.1. 動態陣列（dynamic arrays）]]
 	- [[#2. 思考邏輯|2. 思考邏輯]]
-		- [[#2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性]]
+		- [[#2.1. 從大到小的思考方式，WorkSheets（Sheets）→Range、Selection→屬性|2.1. 從大到小的思考方式，WorkSheets（Sheets）→Range、Selection→屬性]]
 	- [[#3. 物件類型|3. 物件類型]]
 		- [[#3.1. Excel 本身之物件類型|3.1. Excel 本身之物件類型]]
 			- [[#3.1.1. WorkSheets 物件（工作表集合）|3.1.1. WorkSheets 物件（工作表集合）]]
@@ -111,7 +111,7 @@ Erase MyDynArr
 ````
 
 ## 2. 思考邏輯
-### 2.1. 從大到小的思考方式，WorkSheets→Range、Selection→屬性
+### 2.1. 從大到小的思考方式，WorkSheets（Sheets）→Range、Selection→屬性
 
 ## 3. 物件類型
 ### 3.1. Excel 本身之物件類型
