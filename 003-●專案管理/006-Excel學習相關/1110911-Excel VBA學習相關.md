@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Saturday, November 5th 2022, 11:21:36 pm
+modified: Friday, November 25th 2022, 3:44:13 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -43,21 +43,24 @@ modified: Saturday, November 5th 2022, 11:21:36 pm
 		- [[#5.12. Row（Range 物件之屬性）|5.12. Row（Range 物件之屬性）]]
 		- [[#5.13. If…ElseIf…Else（條件判斷式）|5.13. If…ElseIf…Else（條件判斷式）]]
 		- [[#5.14. Select Case（判斷式為文字或數值皆可）|5.14. Select Case（判斷式為文字或數值皆可）]]
-	- [[#6. Outlook 操作相關|6. Outlook 操作相關]]
-		- [[#6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
-		- [[#6.2. 定義及設定郵件物件變數（MailItem）|6.2. 定義及設定郵件物件變數（MailItem）]]
-		- [[#6.3. Outlook 物件有關函式|6.3. Outlook 物件有關函式]]
-			- [[#6.3.1. CreateItem(olMailItem)：建立一個郵件物件|6.3.1. CreateItem(olMailItem)：建立一個郵件物件]]
-			- [[#6.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件|6.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件]]
-		- [[#6.4. 郵件物件有關函式|6.4. 郵件物件有關函式]]
-			- [[#6.4.1. Display：將郵件顯示出來|6.4.1. Display：將郵件顯示出來]]
-			- [[#6.4.2. subject：設定主旨|6.4.2. subject：設定主旨]]
-			- [[#6.4.3. to：設定收件人|6.4.3. to：設定收件人]]
-			- [[#6.4.4. CC：設定副本收件人|6.4.4. CC：設定副本收件人]]
-			- [[#6.4.5. Attachments.Add()：新增附件|6.4.5. Attachments.Add()：新增附件]]
-			- [[#6.4.6. HTMLBody：信件內容|6.4.6. HTMLBody：信件內容]]
-			- [[#6.4.7. close olsave：儲存於草稿匣|6.4.7. close olsave：儲存於草稿匣]]
-			- [[#6.4.8. Send：寄送郵件|6.4.8. Send：寄送郵件]]
+	- [[#6. 應用|6. 應用]]
+		- [[#6.1. Outlook 操作相關|6.1. Outlook 操作相關]]
+			- [[#6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）|6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）]]
+			- [[#6.1.2. 定義及設定郵件物件變數（MailItem）|6.1.2. 定義及設定郵件物件變數（MailItem）]]
+			- [[#6.1.3. Outlook 物件有關函式|6.1.3. Outlook 物件有關函式]]
+				- [[#6.1.3.1. CreateItem(olMailItem)：建立一個郵件物件|6.1.3.1. CreateItem(olMailItem)：建立一個郵件物件]]
+				- [[#6.1.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件|6.1.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件]]
+			- [[#6.1.4. 郵件物件有關函式|6.1.4. 郵件物件有關函式]]
+				- [[#6.1.4.1. Display：將郵件顯示出來|6.1.4.1. Display：將郵件顯示出來]]
+				- [[#6.1.4.2. subject：設定主旨|6.1.4.2. subject：設定主旨]]
+				- [[#6.1.4.3. to：設定收件人|6.1.4.3. to：設定收件人]]
+				- [[#6.1.4.4. CC：設定副本收件人|6.1.4.4. CC：設定副本收件人]]
+				- [[#6.1.4.5. Attachments.Add()：新增附件|6.1.4.5. Attachments.Add()：新增附件]]
+				- [[#6.1.4.6. HTMLBody：信件內容|6.1.4.6. HTMLBody：信件內容]]
+				- [[#6.1.4.7. close olsave：儲存於草稿匣|6.1.4.7. close olsave：儲存於草稿匣]]
+				- [[#6.1.4.8. Send：寄送郵件|6.1.4.8. Send：寄送郵件]]
+		- [[#6.2. 查詢資料庫對應值|6.2. 查詢資料庫對應值]]
+		- [[#6.3. 通訊錄更新資料欄位巨集|6.3. 通訊錄更新資料欄位巨集]]
 	- [[#7. 小技巧|7. 小技巧]]
 
 ## 1. 基本注意事項
@@ -258,44 +261,159 @@ End Select
 > [!INFO]+ 資訊
 > [Select Case 陳述式 (VBA) | Microsoft Learn](https://learn.microsoft.com/zh-tw/office/vba/language/reference/user-interface-help/select-case-statement)
 
-## 6. Outlook 操作相關
-### 6.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）
+## 6. 應用
+### 6.1. Outlook 操作相關
+#### 6.1.1. 定義及設定 Outlook 應用程式變數（Outlook.Application）
 %% 必須先引用 Outlook 的 Library %%
 Dim 小信差 As Outlook.Application
 Set 小信差 = New Outlook.Application
 
-### 6.2. 定義及設定郵件物件變數（MailItem）
+#### 6.1.2. 定義及設定郵件物件變數（MailItem）
 Dim 新郵件 As MailItem
 Set 新郵件 = 小信差.CreateItem(olMailItem)
 
-### 6.3. Outlook 物件有關函式
-#### 6.3.1. CreateItem(olMailItem)：建立一個郵件物件
+#### 6.1.3. Outlook 物件有關函式
+##### 6.1.3.1. CreateItem(olMailItem)：建立一個郵件物件
 - 小信差.CreateItem(olMailItem)
 
-#### 6.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件
+##### 6.1.3.2. CreateItemFromTemplate(" 範本路徑 ")：使用範本建立一個郵件物件
 Set 新郵件 = 小信差.CreateItemFromTemplate(``"C:\Users\hoonsor\AppData\Roaming\Microsoft\Templates\1110911- 範本.oft"``)
 
-### 6.4. 郵件物件有關函式
-#### 6.4.1. Display：將郵件顯示出來
+#### 6.1.4. 郵件物件有關函式
+##### 6.1.4.1. Display：將郵件顯示出來
 - 新郵件.Display 
-#### 6.4.2. subject：設定主旨
+##### 6.1.4.2. subject：設定主旨
 - 新郵件.Subject = " 課程報名成功！"
-#### 6.4.3. to：設定收件人
+##### 6.1.4.3. to：設定收件人
 - 新郵件.To = "hoonsor@hotmail.com"
-#### 6.4.4. CC：設定副本收件人
+##### 6.1.4.4. CC：設定副本收件人
 - 新郵件.CC = "hoonsor@gmail.com"
-#### 6.4.5. Attachments.Add()：新增附件
+##### 6.1.4.5. Attachments.Add()：新增附件
 - 新郵件.Attachments.Add (``"D:\02- 學習\03-Obsidian\Hoonsor\003-●專案管理\006-Excel 學習相關\●練習範例檔\Excel 54\王小明.pdf"``)
 - 新郵件.Attachments.Add Cells(2,5).value
-#### 6.4.6. HTMLBody：信件內容
+##### 6.1.4.6. HTMLBody：信件內容
 - 新郵件.HTMLBody = Replace(新郵件.HTMLBody, " 教師名單 ", Cells(2, 1).Value)
 
-#### 6.4.7. close olsave：儲存於草稿匣
+##### 6.1.4.7. close olsave：儲存於草稿匣
 - 新郵件.close olSave
 
-#### 6.4.8. Send：寄送郵件
+##### 6.1.4.8. Send：寄送郵件
 - 新郵件.send
 
+### 6.2. 查詢資料庫對應值
+
+```` VBA
+Sub 查詢資料庫對應值()
+
+    Dim V_x As Long
+    Dim V_y, V_z As String
+    Dim V_Duplex As Boolean
+
+    V_x = Application.ActiveCell.Column
+    '將選取儲存格之欄儲存為變數
+    V_y = Cells(Application.ActiveCell.Row, 1).Value
+    '將選取儲存格之最上面一格數值儲存為變數
+    V_Duplex = Cells(Application.ActiveCell.Row, 15).Value = "是"
+    '判斷儲存格資料是否為指定數值，並儲存成布林變數
+    Selection.Copy
+    Sheets("●學員資料庫").Select
+    
+    If V_Duplex Then
+        MsgBox ("資料庫有重複學員資料，請手動處理！")
+    Else
+        Set xF = Cells.Find(What:=V_y, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
+            xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
+            , MatchByte:=False, SearchFormat:=False)
+        '將xF設為一個搜尋是否找到 V_y 變數資料結果的物件變數，以避免搜尋找不到時出現錯誤視窗
+        If xF Is Nothing Then
+            MsgBox "資料庫無此學員資料"
+        Else
+            xF.Select
+            V_z = ActiveCell.Offset(, V_x - 1).Value
+            ActiveCell.Offset(, V_x - 1).Select
+            If V_z = "" Then V_z = "資料庫該欄位無資料"
+            MsgBox (V_z)
+        End If
+    End If
+    Sheets("●新增至學員資料庫名單-參照通用表單樣式").Select
+    
+End Sub
+````
+
+### 6.3. 通訊錄更新資料欄位巨集
+
+```` VBA
+Sub 欄位資料更新()
+
+Dim 比對工作表總列數, 比對工作表總欄數 As Integer
+Dim 搜尋值暫存, 取代值暫存, 比對工作表名稱, 目標工作表名稱 As String
+Dim 目標工作表動態陣列() As Integer
+
+比對工作表名稱 = "更新資料使用工作表"
+目標工作表名稱 = "通訊錄"
+比對工作表總列數 = Worksheets(比對工作表名稱).Range("A1").End(xlDown).Row
+
+'確定比對工作表最左側欄位是否為「姓名」之欄位，無則無法進行下一步
+Sheets(比對工作表名稱).Select
+If Worksheets(比對工作表名稱).Range("A1").Value <> "姓名" Then
+    MsgBox "比對工作表最左側非「姓名」欄，請檢查是否有誤！"
+    '直接結束程式執行
+    End
+End If
+
+'確定比對工作表是否有「更新狀態」之欄位，無則自己加上去
+Sheets(比對工作表名稱).Select
+If Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Value <> "更新狀態" Then
+    Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Select
+    ActiveCell.Offset(, 1).Value = "更新狀態"
+End If
+    
+'確定動態陣列元素數量
+比對工作表總欄數 = Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Column
+ReDim 目標工作表動態陣列(比對工作表總欄數)
+
+'確定目標工作表均有各對應欄名
+For x = 1 To 比對工作表總欄數 - 1
+    Sheets(比對工作表名稱).Select
+    搜尋值暫存 = Cells(1, x)
+    Sheets(目標工作表名稱).Select
+    Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
+        xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
+        , MatchByte:=False, SearchFormat:=False)
+    If 搜尋結果 Is Nothing Then
+        MsgBox "目標工作表無「" & 搜尋值暫存 & "」此欄名，請確認欄名是否輸入有誤！"
+        '直接結束程式執行
+        End
+    Else
+        搜尋結果.Select
+        目標工作表動態陣列(x - 1) = ActiveCell.Column
+    End If
+Next x
+
+'搜尋並更新資料
+For x = 2 To 比對工作表總列數
+    Sheets(比對工作表名稱).Select
+    搜尋值暫存 = Cells(x, 1).Value
+    For y = 2 To 比對工作表總欄數 - 1
+        取代值暫存 = Cells(x, y).Value
+        Sheets(目標工作表名稱).Select
+        Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
+            xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
+            , MatchByte:=False, SearchFormat:=False)
+        If 搜尋結果 Is Nothing Then
+            Sheets(比對工作表名稱).Select
+            Cells(x, 比對工作表總欄數).Value = "查無姓名"
+        Else
+            搜尋結果.Select
+            ActiveCell.Offset(, 目標工作表動態陣列(y - 1) - 目標工作表動態陣列(0)).Value = 取代值暫存
+            Sheets(比對工作表名稱).Select
+            Cells(x, 比對工作表總欄數).Value = "已更新"
+        End If
+    Next y
+Next x
+
+End Sub
+````
 
 ## 7. 小技巧
 

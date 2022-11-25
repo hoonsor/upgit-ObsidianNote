@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-11-24_Thu",
       "path": "006-DailyNote/2022-11-24_Thu.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1110716-腎上腺疲勞調理及預防指南",
       "path": "004-●日常生活/005-健康知識/1110716-腎上腺疲勞調理及預防指南.md"
-    },
-    {
-      "basename": "1110716-認識內分泌與激素",
-      "path": "004-●日常生活/005-健康知識/1110716-認識內分泌與激素.md"
     }
   ],
   "omittedPaths": [],
