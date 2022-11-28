@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":11.053777208706785}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "mode": "preview",
                 "source": false
               }
@@ -231,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
               }
             }
           }
@@ -274,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -354,17 +360,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 409.5
   },
-  "active": "810c6f89a76522d4",
+  "active": "c13f35b929fe5145",
   "lastOpenFiles": [
+    "●首頁.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "006-DailyNote/2022-11-25_Fri.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/●購物清單.md",
     "006-DailyNote/2022-11-27_Sun.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "●首頁.md",
     "★測試各類功能.md",
     "000-index/!dict.md",
     "conflict-files-obsidian-git.md"
