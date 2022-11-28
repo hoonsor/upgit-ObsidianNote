@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●日常生活紀錄",
       "path": "004-●日常生活/●日常生活紀錄.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "預防及保養",
       "path": "004-●日常生活/005-健康知識/預防及保養.md"
-    },
-    {
-      "basename": "1110717-告別讓人困擾的失眠問題",
-      "path": "004-●日常生活/005-健康知識/1110717-告別讓人困擾的失眠問題.md"
     }
   ],
   "omittedPaths": [],
