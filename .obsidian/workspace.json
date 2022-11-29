@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "006-DailyNote/2022-11-29_Tue.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -231,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "006-DailyNote/2022-11-29_Tue.md"
               }
             }
           }
@@ -274,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-11-29_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +306,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-11-29_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +327,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-11-29_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -358,8 +364,8 @@
   },
   "active": "cad0ffc0e6d0d48e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "006-DailyNote/2022-11-28_Mon.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
