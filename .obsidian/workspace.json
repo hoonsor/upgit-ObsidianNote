@@ -16,6 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "conflict-files-obsidian-git",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.2097214636810486}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -27,30 +39,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "06a37b3f782c39c7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -296,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -378,8 +368,9 @@
     "direction": "horizontal",
     "width": 409.5
   },
-  "active": "06a37b3f782c39c7",
+  "active": "b269fdc140115556",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md",
@@ -388,7 +379,6 @@
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "006-DailyNote/2022-11-27_Sun.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "★測試各類功能.md"
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
   ]
 }
