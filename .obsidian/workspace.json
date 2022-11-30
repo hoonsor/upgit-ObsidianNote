@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76ece9ef9342ff90",
+        "id": "417424b4b09e1848",
         "type": "tabs",
         "children": [
           {
-            "id": "36ed9d9e1cab4aa2",
+            "id": "b269fdc140115556",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -237,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -280,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -362,7 +356,7 @@
     "direction": "horizontal",
     "width": 409.5
   },
-  "active": "36ed9d9e1cab4aa2",
+  "active": "b269fdc140115556",
   "lastOpenFiles": [
     "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
