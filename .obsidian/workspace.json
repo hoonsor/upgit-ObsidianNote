@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b78ddc40f9b54397",
+        "id": "41887f1d2cb1af23",
         "type": "tabs",
         "children": [
           {
-            "id": "bee82d48c12971c2",
+            "id": "1bf009b2d06320ed",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -237,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -280,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +321,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -360,10 +354,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 353.5
   },
-  "active": "bee82d48c12971c2",
+  "active": "1bf009b2d06320ed",
   "lastOpenFiles": [
+    "★測試各類功能.md",
     "●首頁.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
@@ -372,7 +367,6 @@
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "006-DailyNote/2022-11-28_Mon.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "006-DailyNote/2022-11-25_Fri.md"
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
   ]
 }
