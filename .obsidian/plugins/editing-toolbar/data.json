@@ -20,27 +20,32 @@
         {
           "id": "quickadd:choice:73fd55cc-1a9a-4198-b52c-b40758120895",
           "name": "QuickAdd: 1. Template-Universal Note",
-          "icon": "note-glyph"
+          "icon": "document"
         },
         {
           "id": "quickadd:choice:2a8dee0d-daf4-4c97-addb-a4b3d6f2e9b5",
           "name": "QuickAdd: 2. Template-SubItem",
-          "icon": "note-glyph"
+          "icon": "document"
         },
         {
           "id": "quickadd:choice:5aa10685-a2b3-4f81-8984-e9fc497e5a0f",
           "name": "QuickAdd: 3. Template-Temporary Mission",
-          "icon": "note-glyph"
+          "icon": "document"
         },
         {
           "id": "quickadd:choice:afd63dbc-a017-42e7-85e3-7ca42bd4239a",
           "name": "QuickAdd: 4. Template-Excel",
-          "icon": "note-glyph"
+          "icon": "document"
         },
         {
           "id": "quickadd:choice:39b43ce0-7337-462f-a215-eae2fed015a1",
           "name": "QuickAdd: 5. Template-Travel",
-          "icon": "note-glyph"
+          "icon": "document"
+        },
+        {
+          "id": "quickadd:choice:01fbbd4e-8267-4c91-8bbf-a8de1dc37100",
+          "name": "QuickAdd: 6. Template-YoutubeMusic",
+          "icon": "document"
         }
       ]
     },

@@ -591,5 +591,14 @@
       ],
       "key": "Y"
     }
+  ],
+  "quickadd:choice:01fbbd4e-8267-4c91-8bbf-a8de1dc37100": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
   ]
 }

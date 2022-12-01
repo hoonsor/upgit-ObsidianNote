@@ -143,6 +143,32 @@
           },
           "openFile": true,
           "openFileInMode": "source"
+        },
+        {
+          "id": "01fbbd4e-8267-4c91-8bbf-a8de1dc37100",
+          "name": "6. Template-YoutubeMusic",
+          "type": "Template",
+          "command": true,
+          "templatePath": "001-Template/Template-YoutubeMusic.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:請輸入筆記檔名}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
         }
       ],
       "collapsed": false

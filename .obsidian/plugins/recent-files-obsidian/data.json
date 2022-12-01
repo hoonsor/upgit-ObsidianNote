@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
     },
     {
       "basename": "UniversalNote",
       "path": "001-Template/UniversalNote.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "Template-YoutubeMusic",
@@ -31,10 +35,6 @@
     {
       "basename": "AHK雜程式碼暫存",
       "path": "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
     },
     {
       "basename": "●歌手",
@@ -195,10 +195,6 @@
     {
       "basename": "●美食",
       "path": "007-旅遊、景點、美食/●美食.md"
-    },
-    {
-      "basename": "1110813-九份行",
-      "path": "007-旅遊、景點、美食/1110813-九份行.md"
     }
   ],
   "omittedPaths": [],
