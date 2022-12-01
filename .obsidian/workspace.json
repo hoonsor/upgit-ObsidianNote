@@ -16,41 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04749fac266392c5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6107412203650341}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,8 +135,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "33747b1388fa3a94",
@@ -235,10 +218,19 @@
           {
             "id": "23894940938a6157",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md"
               }
             }
           }
@@ -305,7 +297,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,17 +379,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "04749fac266392c5",
+  "active": "c05cfab6de97da18",
   "lastOpenFiles": [
     "●首頁.md",
-    "004-●日常生活/002-音樂庫/獨立樂團.md",
-    "004-●日常生活/002-音樂庫/歌手.md",
+    "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
+    "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md",
+    "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
+    "★測試各類功能.md",
+    "004-●日常生活/002-音樂庫/●獨立樂團.md",
+    "004-●日常生活/002-音樂庫/●歌手.md",
     "1111201.md",
     "討論 · SilentVoid13Templater · GitHub.md",
-    "001-Template/Daily Note Template.md",
-    "001-Template/Daily Note Tasks.md",
-    "★測試各類功能.md",
-    "001-Template/UniversalNote.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    "001-Template/Daily Note Template.md"
   ]
 }
