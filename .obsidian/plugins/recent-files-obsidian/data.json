@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
+      "basename": "Template-YoutubeMusic",
+      "path": "001-Template/Template-YoutubeMusic.md"
     },
     {
       "basename": "●首頁",
       "path": "●首頁.md"
     },
     {
-      "basename": "Template-YoutubeMusic",
-      "path": "001-Template/Template-YoutubeMusic.md"
+      "basename": "Obsidian統整筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "UniversalNote",
+      "path": "001-Template/UniversalNote.md"
     },
     {
       "basename": "1110906-Obsidian快捷鍵",
@@ -51,10 +55,6 @@
     {
       "basename": "Daily Note Tasks",
       "path": "001-Template/Daily Note Tasks.md"
-    },
-    {
-      "basename": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
     {
       "basename": "●購物清單及國外購物注意事項",
@@ -191,10 +191,6 @@
     {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "●美食",
-      "path": "007-旅遊、景點、美食/●美食.md"
     }
   ],
   "omittedPaths": [],

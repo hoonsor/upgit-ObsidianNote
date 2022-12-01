@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b1603955eafec36",
+        "id": "f24092c09425c797",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c800f77ce30acc",
+            "id": "4df02739e2b550f2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,33 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99b1e53a8953758c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "★測試各類功能",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
@@ -51,8 +24,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -390,19 +362,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
-  "active": "99b1e53a8953758c",
+  "active": "4df02739e2b550f2",
   "lastOpenFiles": [
+    "004-●日常生活/002-音樂庫/滅火器.md",
+    "滅火器.md",
+    "001-Template/Template-YoutubeMusic.md",
+    "蔡健雅.md",
+    "滅火器 Fire EX.－一九四五 1945.md",
+    "●首頁.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "963.md",
     "★測試各類功能.md",
-    "001-Template/UniversalNote.md",
-    "●首頁.md",
-    "001-Template/Template-YoutubeMusic.md",
-    "789.md",
-    "456.md",
-    "123.md",
-    "钢琴旋律.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    "001-Template/UniversalNote.md"
   ]
 }

@@ -156,7 +156,9 @@
           },
           "folder": {
             "enabled": true,
-            "folders": [],
+            "folders": [
+              "004-●日常生活/002-音樂庫"
+            ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false
           },
@@ -167,7 +169,7 @@
             "direction": "vertical",
             "focus": true
           },
-          "openFile": true,
+          "openFile": false,
           "openFileInMode": "default"
         }
       ],
