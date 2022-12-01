@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Sunday, November 13th 2022, 9:43:47 pm
+modified: Thursday, December 1st 2022, 10:53:04 am
 ---
 
 [[●專案管理]]
@@ -303,9 +303,10 @@ Return
 
 
 ## 5. 目前思考可繼續增強之功能
-- [ ] 嵌入 excel 工作表
-- [ ] 更方便的多欄顯示語法
+- [ ] inline 或 block tag 語法，這樣就可以搭配 local rest 記錄好聽的音樂，製作影片使用！
+- [ ] 嵌入 excel 工作表（google 表單已可以，但 excel 還不行）
 - [ ] 搭配 python 或可爬蟲更新特定網站資訊（例如法規檔案之最近一次修法日期）
+- [ ] 更方便的多欄顯示語法
 - [ ] 每日筆記可將每篇筆記複習的次數紀錄並且顯示
 - [ ] dataview 可搭配 kanban 使用，或是 dataview 可變成卡片之方式顯示
 - [ ] 更強大的心智圖插件
