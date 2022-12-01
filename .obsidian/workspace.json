@@ -20,11 +20,37 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04749fac266392c5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★測試各類功能.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -361,7 +387,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "bae10a0b2a3a5fa7",
+  "active": "04749fac266392c5",
   "lastOpenFiles": [
     "●首頁.md",
     "004-●日常生活/002-音樂庫/獨立樂團.md",
