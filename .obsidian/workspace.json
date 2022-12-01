@@ -42,6 +42,18 @@
                   "title": "★測試各類功能",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":115,\"ch\":0},\"to\":{\"line\":115,\"ch\":0}},\"scroll\":103.76685221435838}"
+                },
+                {
+                  "title": "Obsidian統整筆記",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":160,\"ch\":23},\"to\":{\"line\":160,\"ch\":23}},\"scroll\":161.34027133071632}"
+                },
+                {
+                  "title": "★測試各類功能",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":115,\"ch\":0},\"to\":{\"line\":115,\"ch\":0}},\"scroll\":97.62467129434076}"
                 },
                 {
@@ -389,14 +401,14 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "457561d2d35329ab",
+  "active": "d6f04f85e59d8245",
   "lastOpenFiles": [
     "★測試各類功能.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-30_Wed.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "006-DailyNote/2022-11-29_Tue.md",
