@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8864245f7d93d746",
+        "id": "f9e168b96f7252c0",
         "type": "tabs",
         "children": [
           {
-            "id": "1d24b5190313b855",
+            "id": "6a213819cfbc4389",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1111201.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -209,6 +209,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "23894940938a6157",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "●首頁.md"
+              }
+            }
           }
         ]
       },
@@ -273,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1111201.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1111201.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1111201.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -355,17 +365,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "1d24b5190313b855",
+  "active": "6a213819cfbc4389",
   "lastOpenFiles": [
+    "004-●日常生活/002-音樂庫/獨立樂團.md",
+    "004-●日常生活/002-音樂庫/歌手.md",
+    "1111201.md",
     "討論 · SilentVoid13Templater · GitHub.md",
     "001-Template/Daily Note Template.md",
     "001-Template/Daily Note Tasks.md",
     "●首頁.md",
     "★測試各類功能.md",
     "001-Template/UniversalNote.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "004-●日常生活/●購物清單及國外購物注意事項.md",
-    "006-DailyNote/2022-12-01_Thu.md",
-    "conflict-files-obsidian-git.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
   ]
 }
