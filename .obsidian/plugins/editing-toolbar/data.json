@@ -68,6 +68,11 @@
           "id": "quickadd:choice:ee3405b0-0161-4b2b-8a85-a44afaf34e83",
           "name": "QuickAdd: 4. Capture-Embedded",
           "icon": "remix-ComputerLine"
+        },
+        {
+          "id": "quickadd:choice:e798adcc-e6cf-42a8-b10d-845269d55434",
+          "name": "QuickAdd: 5. Capture-YoutubeEmbedded",
+          "icon": "remix-ComputerLine"
         }
       ]
     },
