@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e168b96f7252c0",
+        "id": "181923a988b1c3e0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a213819cfbc4389",
+            "id": "bae10a0b2a3a5fa7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -216,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "★測試各類功能.md"
               }
             }
           }
@@ -283,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -365,15 +361,15 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "6a213819cfbc4389",
+  "active": "bae10a0b2a3a5fa7",
   "lastOpenFiles": [
+    "●首頁.md",
     "004-●日常生活/002-音樂庫/獨立樂團.md",
     "004-●日常生活/002-音樂庫/歌手.md",
     "1111201.md",
     "討論 · SilentVoid13Templater · GitHub.md",
     "001-Template/Daily Note Template.md",
     "001-Template/Daily Note Tasks.md",
-    "●首頁.md",
     "★測試各類功能.md",
     "001-Template/UniversalNote.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
