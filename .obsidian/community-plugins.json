@@ -48,5 +48,6 @@
   "homepage",
   "obsidian-local-rest-api",
   "templater-obsidian",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-quiet-outline"
 ]

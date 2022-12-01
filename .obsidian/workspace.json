@@ -39,6 +39,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "★測試各類功能",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":115,\"ch\":0},\"to\":{\"line\":115,\"ch\":0}},\"scroll\":97.62467129434076}"
+                },
+                {
                   "title": "●購物清單及國外購物注意事項",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●購物清單及國外購物注意事項.md\",\"mode\":\"source\",\"source\":false}}",
@@ -49,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,17 +110,16 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#活潑的",
+                "query": "local rest",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -247,7 +252,7 @@
         "dimension": 52.63157894736842,
         "children": [
           {
-            "id": "1968b40ba412c9bb",
+            "id": "457561d2d35329ab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -259,10 +264,8 @@
               ]
             },
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "★測試各類功能.md"
-              }
+              "type": "quiet-outline",
+              "state": {}
             }
           }
         ]
@@ -304,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -386,15 +389,15 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "d6f04f85e59d8245",
+  "active": "457561d2d35329ab",
   "lastOpenFiles": [
+    "★測試各類功能.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-11-30_Wed.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "●首頁.md",
-    "★測試各類功能.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "006-DailyNote/2022-11-29_Tue.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
