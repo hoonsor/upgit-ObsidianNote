@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "181923a988b1c3e0",
+        "id": "2b1603955eafec36",
         "type": "tabs",
         "children": [
           {
-            "id": "bae10a0b2a3a5fa7",
+            "id": "a2c800f77ce30acc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6107412203650341}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -230,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -297,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +338,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/002-音樂庫/●獨立樂團.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -379,17 +373,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "c05cfab6de97da18",
+  "active": "a2c800f77ce30acc",
   "lastOpenFiles": [
+    "001-Template/Template-YoutubeMusic.md",
+    "001-Template/UniversalNote.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "004-●日常生活/002-音樂庫/●獨立樂團.md",
     "●首頁.md",
     "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
     "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md",
     "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md",
     "★測試各類功能.md",
-    "004-●日常生活/002-音樂庫/●獨立樂團.md",
-    "004-●日常生活/002-音樂庫/●歌手.md",
-    "1111201.md",
-    "討論 · SilentVoid13Templater · GitHub.md",
-    "001-Template/Daily Note Template.md"
+    "004-●日常生活/002-音樂庫/●歌手.md"
   ]
 }

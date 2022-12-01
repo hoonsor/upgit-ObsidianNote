@@ -8,7 +8,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Tuesday, September 6th 2022, 10:24:11 pm
-modified: Monday, November 14th 2022, 11:01:19 pm
+modified: Thursday, December 1st 2022, 9:00:31 pm
 ---
 # 1110906-Obsidian 快捷鍵
 
@@ -63,11 +63,11 @@ modified: Monday, November 14th 2022, 11:01:19 pm
 | 在本行上方插入空白行                              | ctrl+alt+shift+↑                        |  
 | 在本行下方插入空白行                              | ctrl+alt+shift+↓                        |  
 | 多重指標                              | alt 不放 + 滑鼠左鍵                        |  
-| Capture-Embeded                              | ctrl+alt+L                        |  
+| Capture-Embeded                              | ctrl+alt+E                        |  
+| YoutubeCapture-Embeded                              | ctrl+alt+Y                        |  
 | 指標移到上一行                              | ctrl+alt+1                        |  
 | 指標移到下一行                              | ctrl+alt+2                        |  
 | 指標選取整行（持續點選會往下再選一行）                        | ctrl+alt+3                        |  
 | 開啟/收合左邊工具列                        | alt+PageUp                        |  
 | 開啟/收合右邊工具列                        | alt+PageDown                        |  
-
 

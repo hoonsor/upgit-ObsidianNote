@@ -527,7 +527,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "L"
+      "key": "E"
     }
   ],
   "editor:insert-embed": [],
@@ -580,6 +580,16 @@
         "Alt"
       ],
       "key": "PageDown"
+    }
+  ],
+  "editor:insert-tag": [],
+  "quickadd:choice:e798adcc-e6cf-42a8-b10d-845269d55434": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Y"
     }
   ]
 }

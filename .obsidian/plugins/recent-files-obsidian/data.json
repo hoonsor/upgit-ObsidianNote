@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "●獨立樂團",
-      "path": "004-●日常生活/002-音樂庫/●獨立樂團.md"
-    },
-    {
       "basename": "●首頁",
       "path": "●首頁.md"
+    },
+    {
+      "basename": "UniversalNote",
+      "path": "001-Template/UniversalNote.md"
+    },
+    {
+      "basename": "Template-YoutubeMusic",
+      "path": "001-Template/Template-YoutubeMusic.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "●獨立樂團",
+      "path": "004-●日常生活/002-音樂庫/●獨立樂團.md"
     },
     {
       "basename": "AHK-概述",
@@ -41,10 +53,6 @@
       "path": "001-Template/Daily Note Tasks.md"
     },
     {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
-    },
-    {
       "basename": "Obsidian統整筆記",
       "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "2022-11-30_Wed",
       "path": "006-DailyNote/2022-11-30_Wed.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
       "basename": "2022-11-29_Tue",
@@ -195,10 +199,6 @@
     {
       "basename": "1110813-九份行",
       "path": "007-旅遊、景點、美食/1110813-九份行.md"
-    },
-    {
-      "basename": "1111119-高雄遊",
-      "path": "007-旅遊、景點、美食/1111119-高雄遊.md"
     }
   ],
   "omittedPaths": [],
