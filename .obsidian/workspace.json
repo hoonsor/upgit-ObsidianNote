@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f24092c09425c797",
+        "id": "c407e80025b89076",
         "type": "tabs",
         "children": [
           {
-            "id": "4df02739e2b550f2",
+            "id": "605bc5b6ecdea3f1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -362,11 +362,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "4df02739e2b550f2",
+  "active": "810c6f89a76522d4",
   "lastOpenFiles": [
+    "006-DailyNote/2022-12-01_Thu.md",
+    "004-●日常生活/002-音樂庫/滅火器-1945.md",
     "004-●日常生活/002-音樂庫/滅火器.md",
     "滅火器.md",
     "001-Template/Template-YoutubeMusic.md",
@@ -374,8 +375,6 @@
     "滅火器 Fire EX.－一九四五 1945.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "963.md",
-    "★測試各類功能.md",
-    "001-Template/UniversalNote.md"
+    "963.md"
   ]
 }
