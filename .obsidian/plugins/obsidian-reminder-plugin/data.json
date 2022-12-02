@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-12-02_Fri.md": [
-      {
-        "title": "做增加骨鈣素之運動（包含深蹲）或做超慢跑",
-        "time": "2022-12-02 21:10",
-        "rowNumber": 45
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
