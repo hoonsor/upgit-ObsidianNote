@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "25e30083aad011cc",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "state": "{}",
-              "eState": "{}"
+        "id": "07ef5bed883e47f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e6d581baa38532",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
-            {
-              "title": "●首頁",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+            "state": {
+              "type": "empty",
+              "state": {}
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
-            "mode": "source",
-            "source": false
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,9 +219,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -291,7 +285,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +310,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +330,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,17 +364,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "25e30083aad011cc",
+  "active": "20e6d581baa38532",
   "lastOpenFiles": [
+    "006-DailyNote/2022-12-02_Fri.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "004-●日常生活/002-音樂庫/滅火器-1945.md",
     "004-●日常生活/002-音樂庫/滅火器.md",
     "滅火器.md",
-    "001-Template/Template-YoutubeMusic.md",
-    "蔡健雅.md",
-    "滅火器 Fire EX.－一九四五 1945.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    "001-Template/Template-YoutubeMusic.md"
   ]
 }
