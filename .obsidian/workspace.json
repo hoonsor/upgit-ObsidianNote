@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "334731eb414d7880",
+        "id": "0f77766e9351e35f",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
@@ -18,8 +18,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "●首頁.md",
-            "mode": "preview",
+            "file": "005-工作相關/●工作待辦事項.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           }
@@ -285,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,7 +333,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -365,10 +366,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
-  "active": "334731eb414d7880",
+  "active": "0f77766e9351e35f",
   "lastOpenFiles": [
+    "●首頁.md",
+    "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "004-●日常生活/002-音樂庫/滅火器-1945.md",
     "004-●日常生活/002-音樂庫/滅火器.md",
@@ -376,8 +380,6 @@
     "001-Template/Template-YoutubeMusic.md",
     "蔡健雅.md",
     "滅火器 Fire EX.－一九四五 1945.md",
-    "●首頁.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "963.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
   ]
 }
