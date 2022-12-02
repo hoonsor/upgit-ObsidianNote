@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e4e9b7ad284fef2",
+        "id": "2d39e57a22a224ad",
         "type": "tabs",
         "children": [
           {
-            "id": "3b54b2f5a21b1f6c",
+            "id": "b03d7f675b8883f2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -223,9 +219,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -291,7 +285,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +310,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +330,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,17 +364,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "3b54b2f5a21b1f6c",
+  "active": "b03d7f675b8883f2",
   "lastOpenFiles": [
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "004-●日常生活/002-音樂庫/滅火器-1945.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "005-工作相關/●工作待辦事項.md",
-    "1111202-文康待確認事項.md",
-    "●首頁.md",
-    "004-●日常生活/002-音樂庫/滅火器.md",
-    "滅火器.md"
+    "1111202-文康待確認事項.md"
   ]
 }
