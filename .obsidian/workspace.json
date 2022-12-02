@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afefe66c24de2691",
+        "id": "6e4e9b7ad284fef2",
         "type": "tabs",
         "children": [
           {
-            "id": "54e363b2f0b10dcf",
+            "id": "3b54b2f5a21b1f6c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -40,7 +36,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 37.820043891733725,
+        "dimension": 36.847195357833655,
         "children": [
           {
             "id": "5742df7154023138",
@@ -90,7 +86,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 22.531089978054133,
+        "dimension": 21.953578336557058,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -134,7 +130,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 23.920994879297734,
+        "dimension": 21.8568665377176,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -158,7 +154,7 @@
       {
         "id": "6ca1782dc6df3824",
         "type": "tabs",
-        "dimension": 15.72787125091441,
+        "dimension": 19.342359767891683,
         "children": [
           {
             "id": "810c6f89a76522d4",
@@ -223,9 +219,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -291,7 +285,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +310,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +330,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,20 +362,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "54e363b2f0b10dcf",
+  "active": "3b54b2f5a21b1f6c",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
-    "●首頁.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "004-●日常生活/002-音樂庫/滅火器-1945.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "005-工作相關/●工作待辦事項.md",
+    "1111202-文康待確認事項.md",
+    "●首頁.md",
     "004-●日常生活/002-音樂庫/滅火器.md",
-    "滅火器.md",
-    "001-Template/Template-YoutubeMusic.md",
-    "蔡健雅.md",
-    "滅火器 Fire EX.－一九四五 1945.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
+    "滅火器.md"
   ]
 }
