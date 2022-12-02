@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c407e80025b89076",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "605bc5b6ecdea3f1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+        "id": "334731eb414d7880",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "state": "{}",
+              "eState": "{}"
             }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "●首頁.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -373,7 +367,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "810c6f89a76522d4",
+  "active": "334731eb414d7880",
   "lastOpenFiles": [
     "006-DailyNote/2022-12-01_Thu.md",
     "004-●日常生活/002-音樂庫/滅火器-1945.md",
