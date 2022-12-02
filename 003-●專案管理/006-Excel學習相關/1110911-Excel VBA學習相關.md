@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, November 25th 2022, 8:19:13 pm
+modified: Friday, December 2nd 2022, 11:12:00 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -428,8 +428,8 @@ End Sub
 ```` VBA
 Sub 欄位資料更新()
 
-Dim 比對工作表總列數, 比對工作表總欄數 As Integer
-Dim 搜尋值暫存, 取代值暫存, 比對工作表名稱, 目標工作表名稱 As String
+Dim 比對工作表總列數, 比對工作表總欄數, 更新紀事列數 As Integer
+Dim 搜尋值暫存, 取代值暫存, 比對工作表名稱, 目標工作表名稱, 比對欄名暫存, 更新紀事字串暫存 As String
 Dim 目標工作表動態陣列() As Integer
 
 比對工作表名稱 = "更新資料使用工作表"
@@ -451,15 +451,21 @@ If Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Value <> "更新
     ActiveCell.Offset(, 1).Value = "更新狀態"
 End If
     
-'確定動態陣列元素數量
+'確定動態陣列元素數量並
 比對工作表總欄數 = Worksheets(比對工作表名稱).Range("A1").End(xlToRight).Column
 ReDim 目標工作表動態陣列(比對工作表總欄數)
+For x = 0 To 比對工作表總欄數 - 3
+    比對欄名暫存 = Sheets(比對工作表名稱).Cells(1, x + 2).Value
+Next x
+
+'取得更新紀事列表之列數
+更新紀事列數 = Sheets("更新紀事").Cells(1, 2).End(xlDown).Row
+
 
 '確定目標工作表均有各對應欄名
+Sheets(目標工作表名稱).Select
 For x = 1 To 比對工作表總欄數 - 1
-    Sheets(比對工作表名稱).Select
-    搜尋值暫存 = Cells(1, x)
-    Sheets(目標工作表名稱).Select
+    搜尋值暫存 = Sheets(比對工作表名稱).Cells(1, x)
     Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
         xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
         , MatchByte:=False, SearchFormat:=False)
@@ -474,29 +480,35 @@ For x = 1 To 比對工作表總欄數 - 1
 Next x
 
 '搜尋並更新資料
+Sheets(目標工作表名稱).Select
 For x = 2 To 比對工作表總列數
-    Sheets(比對工作表名稱).Select
-    搜尋值暫存 = Cells(x, 1).Value
+    搜尋值暫存 = Sheets(比對工作表名稱).Cells(x, 1).Value
+    更新紀事字串暫存 = ""
     For y = 2 To 比對工作表總欄數 - 1
-        取代值暫存 = Cells(x, y).Value
-        Sheets(目標工作表名稱).Select
+        取代值暫存 = Sheets(比對工作表名稱).Cells(x, y).Value
+
         Set 搜尋結果 = Cells.Find(What:=搜尋值暫存, After:=ActiveCell, LookIn:=xlFormulas, LookAt:= _
             xlPart, SearchOrder:=xlByRows, SearchDirection:=xlNext, MatchCase:=False _
             , MatchByte:=False, SearchFormat:=False)
         If 搜尋結果 Is Nothing Then
-            Sheets(比對工作表名稱).Select
-            Cells(x, 比對工作表總欄數).Value = "查無姓名"
+            Sheets(比對工作表名稱).Cells(x, 比對工作表總欄數).Value = "查無姓名"
         Else
             搜尋結果.Select
             '取代值暫存為「不更新資料」的話就不更新該欄位資料
             If 取代值暫存 <> "不更新資料" Then
+                更新紀事字串暫存 = 更新紀事字串暫存 + Sheets(比對工作表名稱).Cells(1, y).Value + "(" + ActiveCell.Offset(, 目標工作表動態陣列(y - 1) - 目標工作表動態陣列(0)).Value + "→" + 取代值暫存 + ")"
                 ActiveCell.Offset(, 目標工作表動態陣列(y - 1) - 目標工作表動態陣列(0)).Value = 取代值暫存
-                Sheets(比對工作表名稱).Select
-                Cells(x, 比對工作表總欄數).Value = "已更新"
+                Sheets(比對工作表名稱).Cells(x, 比對工作表總欄數).Value = "已更新"
             End If
         End If
     Next y
+    If 更新紀事字串暫存 <> "" Then
+        Sheets("更新紀事").Cells(更新紀事列數 + x - 1, 2).Value = 搜尋值暫存
+        Sheets("更新紀事").Cells(更新紀事列數 + x - 1, 3).Value = 更新紀事字串暫存
+        Sheets("更新紀事").Cells(更新紀事列數 + x - 1, 4).Value = Now()
+    End If
 Next x
+Sheets(比對工作表名稱).Select
 
 End Sub
 ````
