@@ -4,25 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0f77766e9351e35f",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "state": "{}",
-              "eState": "{}"
+        "id": "afefe66c24de2691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e363b2f0b10dcf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "005-工作相關/●工作待辦事項.md",
-            "mode": "source",
-            "source": false
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -219,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -286,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +338,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -369,10 +374,10 @@
     "width": 353.5,
     "collapsed": true
   },
-  "active": "0f77766e9351e35f",
+  "active": "54e363b2f0b10dcf",
   "lastOpenFiles": [
-    "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
+    "●首頁.md",
     "006-DailyNote/2022-12-01_Thu.md",
     "004-●日常生活/002-音樂庫/滅火器-1945.md",
     "004-●日常生活/002-音樂庫/滅火器.md",
