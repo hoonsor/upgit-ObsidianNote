@@ -16,13 +16,37 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1111024-Excel基本操作及函數學習相關",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":16},\"to\":{\"line\":39,\"ch\":16}},\"scroll\":0.020860495436766623}"
+                },
+                {
+                  "title": "1110911-Excel VBA學習相關",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Obsidian統整筆記",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "mode": "preview",
                 "source": false
               }
@@ -190,7 +214,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 26.242690058479536,
+        "dimension": 29.7,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -210,7 +234,7 @@
             }
           },
           {
-            "id": "23894940938a6157",
+            "id": "3610b589cb15e5d0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -222,18 +246,17 @@
               ]
             },
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "type": "Strange New Worlds",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "452f0d097eb96927",
         "type": "tabs",
-        "dimension": 52.63157894736842,
+        "dimension": 49.2,
         "children": [
           {
             "id": "457561d2d35329ab",
@@ -257,7 +280,7 @@
       {
         "id": "cbed48977d048501",
         "type": "tabs",
-        "dimension": 21.125730994152047,
+        "dimension": 21.099999999999998,
         "children": [
           {
             "id": "ccf8318becd6ed32",
@@ -291,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -317,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -367,23 +390,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "07d3816dad8f0a15",
+  "active": "95b42c6ce66892a2",
   "lastOpenFiles": [
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+    "●首頁.md",
     "006-DailyNote/2022-12-02_Fri.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
     "conflict-files-obsidian-git.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "●首頁.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "006-DailyNote/2022-12-01_Thu.md"
+    "004-●日常生活/●日常生活待辦事項.md"
   ]
 }
