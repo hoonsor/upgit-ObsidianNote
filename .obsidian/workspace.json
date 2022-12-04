@@ -57,6 +57,33 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "9e3ea72d63ab7197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb20d35dbcf92527",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "★測試各類功能.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +370,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,7 +391,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,10 +426,10 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "b568f48c4c68021d",
+  "active": "cb20d35dbcf92527",
   "lastOpenFiles": [
-    "004-●日常生活/●購物清單及國外購物注意事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
+    "004-●日常生活/●購物清單及國外購物注意事項.md",
     "conflict-files-obsidian-git.md",
     "●首頁.md",
     "006-DailyNote/2022-12-02_Fri.md",
