@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "930ceba22b11d373",
+        "id": "360593f4eeea7596",
         "type": "tabs",
         "children": [
           {
-            "id": "09458e65704e2a42",
+            "id": "a0ade62cc9299a2a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md"
               }
             }
           }
@@ -309,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -389,20 +388,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "09458e65704e2a42",
+  "active": "a0ade62cc9299a2a",
   "lastOpenFiles": [
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "005-工作相關/001-人事法規/1080605-教師法.md",
+    "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
     "●首頁.md",
+    "005-工作相關/001-人事法規/1080605-教師法.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "001-Template/Template-Law.md",
     "006-DailyNote/2022-12-05_Mon.md",
     "005-工作相關/●工作待辦事項.md",
     "001-Template/Template-YoutubeMusic.md",
-    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
 }

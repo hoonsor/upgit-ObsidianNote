@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: 
 created: Monday, December 5th 2022, 3:32:30 pm
-modified: Monday, December 5th 2022, 4:00:06 pm
+modified: Monday, December 5th 2022, 4:02:57 pm
 ---
 # ●Javascript 語法學習
 
@@ -58,7 +58,18 @@ function replacer(match, p1, p2, p3, offset, string) {
 console.log('abc12345#$*%'.replace(/([^\d]*)(\d*)([^\w]*)/, replacer));
 ````
 
+#### 1.1.1. 範例 - 取代字串內所有文字
 
+````js
+"Dog is cute. Dog is happy.".replace("Dog", "Cat");
+````
+會得到 "Cat is cute. Dog is happy."。
+
+要取代所有 pattern，就只能使用 Regular Expression(用/來開頭及結尾)，再加上全域表示符 g。像上例就必須改成：
+````js
+"Dog is cute. Dog is happy.".replace(/Dog/g, "Cat");
+````
+才會是想要的結果。
 
 ## 2. QuickAdd 插件之語法
 
