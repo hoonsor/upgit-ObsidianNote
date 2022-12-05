@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview
 created: Sunday, July 31st 2022, 9:47:59 pm
-modified: Saturday, November 5th 2022, 11:50:55 pm
+modified: Friday, December 2nd 2022, 11:18:56 pm
 ---
 [[●專案管理]]
 # WordPress 學習及筆記
@@ -271,10 +271,10 @@ modified: Saturday, November 5th 2022, 11:50:55 pm
 
 ## 3. 學習心得
 ### 3.1. 上傳字型
-外觀→Astra 選項→Custom Fonts，在此上傳字型檔案，即可在「Customize Theme→全域→排版樣式」中看到該新增之字型選項
+#h/green ==外觀→Astra 選項→Custom Fonts==，在此上傳字型檔案，即可在 #h/green ==「Customize Theme→全域→排版樣式」==中看到該新增之字型選項
 
 ### 3.2. 字型變更設定
-Beaver builder 頁面→WordPress Admin →Customize Theme→全域→排版樣式→基本字型或標題字型，選取自己想要呈現的字型即可
+#h/green ==Beaver builder 頁面→WordPress Admin →Customize Theme→全域→排版樣式→基本字型或標題字型==，選取自己想要呈現的字型即可
 
 
 ## 4. Customize Theme（版面配置選項）

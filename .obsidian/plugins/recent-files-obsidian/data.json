@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●首頁",
       "path": "●首頁.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-11-05_Sat",
       "path": "006-DailyNote/2022-11-05_Sat.md"
-    },
-    {
-      "basename": "WordPress學習及筆記",
-      "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
     }
   ],
   "omittedPaths": [],
