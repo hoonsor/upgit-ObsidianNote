@@ -381,7 +381,7 @@
         },
         {
           "id": "f251fc96-035b-4996-a50e-96e6a7b3f3cc",
-          "name": "●Capture-LawLink",
+          "name": "●Capture-LawLink-1",
           "type": "Capture",
           "command": true,
           "appendLink": false,
@@ -394,7 +394,41 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結項目\");\ninput_2 = input_1.replace('-', ' ')\ninput_3 = `[[#` + input_2 + `]]`\n\nreturn input_3;\n```"
+            "format": "```js quickadd\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結項目\");\ninput_2 = input_1.replace(/-/g, ' ')\ninput_3 = `[[#` + input_2 + `]] `\n\nreturn input_3;\n```"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "424a62a9-3ea2-4f3c-a05d-fd18d0f82b8d",
+          "name": "●Capture-LawLink-2",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "```js quickadd\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結法條\");\ninput_2 = `[[#` + input_1 +` 第 ` + input_1 + ` 條]] `\n\nreturn input_2;\n```"
           },
           "insertAfter": {
             "enabled": false,

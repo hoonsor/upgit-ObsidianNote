@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70fd03b1b4e90f0b",
+        "id": "75b6cb5194aee4b6",
         "type": "tabs",
         "children": [
           {
-            "id": "2d98d5715cbf9539",
+            "id": "ce4c97e563d2b6d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -225,6 +225,16 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "ed3a95753aa7ab46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "●首頁.md"
+              }
+            }
           }
         ]
       },
@@ -289,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -315,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +346,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +381,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "2d98d5715cbf9539",
+  "active": "ce4c97e563d2b6d2",
   "lastOpenFiles": [
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
