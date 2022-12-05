@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Thursday, December 1st 2022, 10:53:04 am
+modified: Monday, December 5th 2022, 10:48:15 pm
 ---
 
 [[●專案管理]]
@@ -260,6 +260,7 @@ Return
 	- 快速折疊標題
 	- 標題自動編號插件
 - 文章內容格式化插件（Linter）
+- 附件語法 ![[]]
 - 項目語法
 	- 序列、非序列
 	- 快捷鍵
