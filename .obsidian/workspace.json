@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -392,14 +393,14 @@
   },
   "active": "a0ade62cc9299a2a",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
+    "005-工作相關/001-人事法規/1080605-教師法.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
     "●首頁.md",
-    "005-工作相關/001-人事法規/1080605-教師法.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "001-Template/Template-Law.md",
     "006-DailyNote/2022-12-05_Mon.md",
-    "005-工作相關/●工作待辦事項.md",
     "001-Template/Template-YoutubeMusic.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
   ]
