@@ -600,5 +600,15 @@
       ],
       "key": "Y"
     }
+  ],
+  "obsidian-advanced-uri:copy-uri-command": [],
+  "quickadd:choice:f251fc96-035b-4996-a50e-96e6a7b3f3cc": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
   ]
 }

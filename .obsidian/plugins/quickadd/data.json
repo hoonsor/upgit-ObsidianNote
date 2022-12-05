@@ -394,7 +394,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "\n\n```js quickadd\nconst el = document.querySelector('text')\nel.focus();\nel.setSelectionRange(0, 3);\n\nreturn \"[[#]]\"\n```"
+            "format": "```js quickadd\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結項目\");\ninput_2 = input_1.replace('-', ' ')\ninput_3 = `[[#` + input_2 + `]]`\n\nreturn input_3;\n```"
           },
           "insertAfter": {
             "enabled": false,
