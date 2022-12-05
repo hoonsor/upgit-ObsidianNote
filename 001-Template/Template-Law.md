@@ -1,7 +1,8 @@
 
+[[●高中以下人事法規彙整]]
 ```js quickadd
 let cInput = await this.quickAddApi.inputPrompt(
-"網址", "請輸入Youtube音樂網址" , "");
+"法律", "請輸入Youtube音樂網址" , "");
 cInput_1 = cInput.replace('watch?v=', 'embed/')
 
 // 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤
