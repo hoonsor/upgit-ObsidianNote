@@ -394,7 +394,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "[[#]]"
+            "format": "\n\n```js quickadd\nconst el = document.querySelector('text')\nel.focus();\nel.setSelectionRange(0, 3);\n\nreturn \"[[#]]\"\n```"
           },
           "insertAfter": {
             "enabled": false,
