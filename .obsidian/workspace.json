@@ -16,19 +16,53 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1080605-教師法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/1080605-教師法.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":32},\"to\":{\"line\":76,\"ch\":32}},\"scroll\":66.60329861111111}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "659712250c1d97ec",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -229,10 +264,19 @@
           {
             "id": "ed3a95753aa7ab46",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md"
               }
             }
           }
@@ -299,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +369,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +390,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -379,19 +423,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
-  "active": "ce4c97e563d2b6d2",
+  "active": "659712250c1d97ec",
   "lastOpenFiles": [
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
+    "●首頁.md",
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "001-Template/Template-Law.md",
     "006-DailyNote/2022-12-05_Mon.md",
     "005-工作相關/●工作待辦事項.md",
     "001-Template/Template-YoutubeMusic.md",
     "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md",
-    "004-●日常生活/●日常生活紀錄.md",
-    "●首頁.md",
-    "★靈感筆記.md"
+    "004-●日常生活/●日常生活紀錄.md"
   ]
 }
