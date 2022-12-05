@@ -1,0 +1,8 @@
+2022-12-02 23:21:45: -- 分析開始 Periodic Timer
+2022-12-02 23:21:45: 變更：2， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 709
+2022-12-02 23:21:45: Left to Right: Copy File: 2 
+2022-12-02 23:21:45: == 同步開始由 Periodic Timer
+2022-12-02 23:21:45: Start only 2 threads, limited by tasks to run
+2022-12-02 23:21:45: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-12-02_Fri.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-12-02_Fri.md' (1,081)
+2022-12-02 23:21:45: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md' (22,397)
+2022-12-02 23:21:45: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 2, 錯誤: 0

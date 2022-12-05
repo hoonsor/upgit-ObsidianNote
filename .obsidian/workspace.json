@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d39e57a22a224ad",
+        "id": "41884f04028801e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b03d7f675b8883f2",
+            "id": "740dd1b53dd7614c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -219,7 +223,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "●首頁.md"
+              }
             }
           }
         ]
@@ -285,6 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,6 +317,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,6 +338,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -364,7 +373,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "b03d7f675b8883f2",
+  "active": "740dd1b53dd7614c",
   "lastOpenFiles": [
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "●首頁.md",
