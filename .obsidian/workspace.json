@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -221,6 +225,16 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "e736979dd37c722b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "●首頁.md"
+              }
+            }
           }
         ]
       },
@@ -285,6 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -310,6 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,6 +346,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
