@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md"
               }
             }
           }
@@ -333,7 +332,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -380,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -415,10 +414,10 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "b667a06cb961b067",
+  "active": "029b6a49df83a270",
   "lastOpenFiles": [
-    "005-工作相關/001-人事法規/1080605-教師法.md",
     "005-工作相關/●工作待辦事項.md",
+    "005-工作相關/001-人事法規/1080605-教師法.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "006-DailyNote/2022-12-05_Mon.md",
