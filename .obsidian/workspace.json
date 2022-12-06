@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "029b6a49df83a270",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "1080605-教師法",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/1080605-教師法.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":261,\"ch\":0},\"to\":{\"line\":261,\"ch\":0}},\"scroll\":260.47112098427885}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":27},\"to\":{\"line\":15,\"ch\":27}},\"scroll\":0}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b667a06cb961b067",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -66,8 +27,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5137d8c189f3f6df",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -376,7 +359,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -411,10 +394,10 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "029b6a49df83a270",
+  "active": "5137d8c189f3f6df",
   "lastOpenFiles": [
-    "005-工作相關/001-人事法規/1080605-教師法.md",
     "005-工作相關/●工作待辦事項.md",
+    "005-工作相關/001-人事法規/1080605-教師法.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "006-DailyNote/2022-12-05_Mon.md",
