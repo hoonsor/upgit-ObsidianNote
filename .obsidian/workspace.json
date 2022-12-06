@@ -16,6 +16,42 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1080605-教師法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/1080605-教師法.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":79.86016559337627}"
+                },
+                {
+                  "title": "●高中以下人事法規彙整",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":13},\"to\":{\"line\":59,\"ch\":13}},\"scroll\":39.42261904761905}"
+                },
+                {
+                  "title": "1080605-教師法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/1080605-教師法.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "●高中以下人事法規彙整",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/●高中以下人事法規彙整.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":11},\"to\":{\"line\":57,\"ch\":11}},\"scroll\":43.58664021164021}"
+                },
+                {
+                  "title": "1080605-教師法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/001-人事法規/1080605-教師法.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":4.778280542986425}"
                 }
               ]
             },
@@ -27,30 +63,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5137d8c189f3f6df",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -313,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +352,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -360,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -393,19 +406,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "5137d8c189f3f6df",
+  "active": "b667a06cb961b067",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
+    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
+    "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "006-DailyNote/2022-12-05_Mon.md",
     "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
     "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
     "001-Template/Template-Law.md",
     "001-Template/Template-YoutubeMusic.md"
   ]
