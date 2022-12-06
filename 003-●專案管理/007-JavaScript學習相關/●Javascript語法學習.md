@@ -1,13 +1,34 @@
 ---
 obsidianUIMode: 
 created: Monday, December 5th 2022, 3:32:30 pm
-modified: Monday, December 5th 2022, 4:02:57 pm
+modified: Tuesday, December 6th 2022, 3:06:51 pm
 ---
 # ●Javascript 語法學習
 
 ## 1. JavaScript 語法
 
-### 1.1. 字串取代
+### 1.1. 概述
+- 字串使用#h/green ==單引號==包括起來
+- 每行結尾需加上#h/green **分號**
+### 1.2. 運算子
+- 等於 ==
+
+### 1.3. 保留字
+- 空值 null
+- 未定義 undefined
+
+### 1.4. if…else…
+
+````js
+if(typeof(a) == 'undefined') {
+  console.log('a 是 undefined');
+}else{
+  console.log('a 不是 undefined');
+}
+````
+
+
+### 1.5. 字串取代
 
 replace 方法用來將 [字串](https://www.fooish.com/javascript/string/) 中的字取代為另一個字。
   - 語法：
@@ -58,7 +79,7 @@ function replacer(match, p1, p2, p3, offset, string) {
 console.log('abc12345#$*%'.replace(/([^\d]*)(\d*)([^\w]*)/, replacer));
 ````
 
-#### 1.1.1. 範例 - 取代字串內所有文字
+#### 1.5.1. 範例 - 取代字串內所有文字
 
 ````js
 "Dog is cute. Dog is happy.".replace("Dog", "Cat");
