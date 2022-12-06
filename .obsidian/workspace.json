@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc4d743a7650fbb1",
+        "id": "add0f49696179691",
         "type": "tabs",
         "children": [
           {
-            "id": "982a253d20193606",
+            "id": "da316f5c923fc993",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "005-工作相關/●工作待辦事項.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -233,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           }
@@ -301,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +333,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -383,11 +389,11 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "982a253d20193606",
+  "active": "da316f5c923fc993",
   "lastOpenFiles": [
+    "●首頁.md",
     "★測試各類功能.md",
     "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
-    "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
     "005-工作相關/001-人事法規/●高中以下人事法規彙整.md",
