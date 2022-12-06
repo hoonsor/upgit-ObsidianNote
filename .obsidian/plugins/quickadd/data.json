@@ -685,5 +685,6 @@
       "runOnStartup": false
     }
   ],
-  "inputPrompt": "single-line"
+  "inputPrompt": "single-line",
+  "devMode": false
 }
