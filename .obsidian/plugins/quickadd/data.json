@@ -394,7 +394,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結項目\");\ninput_2 = input_1.replace(/-/g, ' ')\ninput_3 = `![[#` + input_2 + `]] `\n\nreturn input_3;\n```"
+            "format": "```js quickadd\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\n\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結項目\");\ninput_2 = input_1.replace(/-/g, ' ')\ninput_3 = nl + `![[#` + input_2 + `]] ` +nl\n\nreturn input_3;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -428,7 +428,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結法條\");\ninput_2 = `![[#` + input_1 +` 第 ` + input_1 + ` 條]] `\n\nreturn input_2;\n```"
+            "format": "```js quickadd\n\n// 在腳本裡，換行符號和倒引號不要在字串裡使用，改用String.fromCharCode()才不會出現解析錯誤\nconst nl = String.fromCharCode(10);\n\nconst input_1 = await this.quickAddApi.inputPrompt(\"內部連結法條\");\ninput_2 = nl + `![[#` + input_1 +` 第 ` + input_1 + ` 條]] ` +nl\n\nreturn input_2;\n```"
           },
           "insertAfter": {
             "enabled": false,
