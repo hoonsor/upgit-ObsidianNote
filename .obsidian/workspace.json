@@ -258,18 +258,9 @@
               "type": "Strange New Worlds",
               "state": {}
             }
-          },
-          {
-            "id": "e736979dd37c722b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "005-工作相關/001-人事法規/1080605-教師法.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "452f0d097eb96927",
@@ -414,7 +405,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "029b6a49df83a270",
+  "active": "8672df301a57d9d4",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
