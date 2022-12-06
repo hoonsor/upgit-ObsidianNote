@@ -403,9 +403,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
-  "active": "8672df301a57d9d4",
+  "active": "029b6a49df83a270",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
