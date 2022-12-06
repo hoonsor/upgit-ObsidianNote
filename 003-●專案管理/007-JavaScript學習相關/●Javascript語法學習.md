@@ -1,21 +1,21 @@
 ---
 obsidianUIMode: 
 created: Monday, December 5th 2022, 3:32:30 pm
-modified: Tuesday, December 6th 2022, 3:06:51 pm
+modified: Tuesday, December 6th 2022, 3:13:07 pm
 ---
 # ●Javascript 語法學習
 
 ## 1. JavaScript 語法
 
 ### 1.1. 概述
-- 字串使用#h/green ==單引號==包括起來
-- 每行結尾需加上#h/green **分號**
+- 字串使用 #h/red **單引號** 或 #h/red **雙引號** 包括起來
+- 每行結尾需加上 #h/red **分號**
 ### 1.2. 運算子
-- 等於 ==
+- 等於 #h/red **\=\=**
 
 ### 1.3. 保留字
-- 空值 null
-- 未定義 undefined
+- 空值 #h/red **null**
+- 未定義 #h/red **undefined**
 
 ### 1.4. if…else…
 

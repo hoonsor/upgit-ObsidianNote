@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
     },
     {
       "basename": "●Javascript語法學習",
       "path": "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md"
     },
     {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "1080605-教師法",
@@ -87,10 +91,6 @@
     {
       "basename": "Daily Note Template",
       "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
     },
     {
       "basename": "2022-12-02_Fri",

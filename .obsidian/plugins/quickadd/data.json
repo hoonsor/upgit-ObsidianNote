@@ -470,7 +470,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"red \" + t_st + selection + t_st ;\n\nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = \" \" + ns + \"h\" + sl + \"red \" + t_st + selection + t_st ;\n\nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -504,7 +504,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"green \" + t_st + selection + t_st ;\n\nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = \" \" + ns + \"h\" + sl + \"green \" + t_st + selection + t_st ;\n\nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -538,7 +538,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"maroon \" + t_st + selection + t_st ;\n\nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = \" \" + ns + \"h\" + sl + \"maroon \" + t_st + selection + t_st ;\n\nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -572,7 +572,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"white \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = \" \" + ns + \"h\" + sl + \"white \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -606,7 +606,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"green \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = \" \" + ns + \"h\" + sl + \"green \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
@@ -640,7 +640,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = ns + \"h\" + sl + \"maroon \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
+            "format": "```js quickadd\nconst selection = this.quickAddApi.utility.getSelectedText();\n\n// 換行符號\nconst nl = String.fromCharCode(10);\n// 井字號\nconst  ns = String.fromCharCode(35);\n// 斜線符號\nconst  sl = String.fromCharCode(47);\n// 兩個等號\nconst  t_eq = String.fromCharCode(61) + String.fromCharCode(61);\n// 兩個星字號\nconst  t_st = String.fromCharCode(42) + String.fromCharCode(42);\n\nresult = \" \" + ns + \"h\" + sl + \"maroon \" + t_eq + selection + t_eq ;\n\nreturn result;\n```"
           },
           "insertAfter": {
             "enabled": false,
