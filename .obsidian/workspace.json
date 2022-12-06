@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e92e459b97e38b6c",
+        "id": "bc4d743a7650fbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "cf09d4e5d52416ae",
+            "id": "982a253d20193606",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -301,7 +301,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +327,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -383,7 +383,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "cf09d4e5d52416ae",
+  "active": "982a253d20193606",
   "lastOpenFiles": [
     "★測試各類功能.md",
     "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
