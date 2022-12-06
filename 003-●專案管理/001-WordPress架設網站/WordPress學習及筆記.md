@@ -1,9 +1,10 @@
 ---
 obsidianUIMode: preview
 created: Sunday, July 31st 2022, 9:47:59 pm
-modified: Friday, December 2nd 2022, 11:18:56 pm
+modified: Tuesday, December 6th 2022, 9:59:27 pm
 ---
 [[●專案管理]]
+[[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]
 # WordPress 學習及筆記
 ## 1. 操作介面
 
