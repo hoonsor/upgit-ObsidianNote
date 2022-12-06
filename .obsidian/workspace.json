@@ -12,14 +12,20 @@
             {
               "state": "{}",
               "eState": "{}"
+            },
+            {
+              "title": "●首頁",
+              "icon": "lucide-file",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "●首頁.md",
-            "mode": "preview",
+            "file": "005-工作相關/●工作待辦事項.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -34,7 +40,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 36.80555555555556,
+        "dimension": 37.60058522311631,
         "children": [
           {
             "id": "5742df7154023138",
@@ -79,13 +85,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 21.626984126984127,
+        "dimension": 22.311631309436724,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -129,7 +134,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 19.841269841269842,
+        "dimension": 22.457937088514996,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -151,22 +156,13 @@
         ]
       },
       {
-        "id": "6ca1782dc6df3824",
+        "id": "fffdeef75b6cc08b",
         "type": "tabs",
-        "dimension": 21.726190476190478,
+        "dimension": 17.62984637893197,
         "children": [
           {
-            "id": "810c6f89a76522d4",
+            "id": "13a1cceb35a11380",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -185,7 +181,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 55.401234567901234,
+        "dimension": 35.650446871896726,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -220,33 +216,56 @@
               "type": "Strange New Worlds",
               "state": {}
             }
-          },
-          {
-            "id": "889928a0bc314ee2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
-            }
-          },
-          {
-            "id": "c6db2c754a400ba8",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "cbed48977d048501",
+        "id": "9634ca251397dbdd",
         "type": "tabs",
-        "dimension": 44.59876543209876,
+        "dimension": 35.650446871896726,
         "children": [
+          {
+            "id": "805a0550860b44e0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4aaa20a4e265148",
+        "type": "tabs",
+        "dimension": 28.699106256206548,
+        "children": [
+          {
+            "id": "c6db2c754a400ba8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
           {
             "id": "7c0f21ea256eef32",
             "type": "leaf",
@@ -262,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,13 +357,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "c05cfab6de97da18",
+  "active": "5742df7154023138",
   "lastOpenFiles": [
     "●首頁.md",
     "★測試各類功能.md",
