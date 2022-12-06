@@ -1,12 +1,12 @@
 .markdown-embed {
     border-color: white;
 	background-color: yellow
-    font-size: 120%;
+    font-size: 95%;
     text-align: center;
     hyphens: auto;
     word-break: keep-all;
     font-color: #aacdbe;
-    line-height: 5;
+    line-height: 10;
     padding: 1px 2% 1px 2%;
     margin-top: 15pt;
     margin-bottom: 15pt;
