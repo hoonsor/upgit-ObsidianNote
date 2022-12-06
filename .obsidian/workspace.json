@@ -46,7 +46,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 36.847195357833655,
+        "dimension": 36.80555555555556,
         "children": [
           {
             "id": "5742df7154023138",
@@ -97,7 +97,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 21.953578336557058,
+        "dimension": 21.626984126984127,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -141,7 +141,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 21.8568665377176,
+        "dimension": 19.841269841269842,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -165,7 +165,7 @@
       {
         "id": "6ca1782dc6df3824",
         "type": "tabs",
-        "dimension": 19.342359767891683,
+        "dimension": 21.726190476190478,
         "children": [
           {
             "id": "810c6f89a76522d4",
@@ -389,7 +389,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "da316f5c923fc993",
+  "active": "810c6f89a76522d4",
   "lastOpenFiles": [
     "●首頁.md",
     "★測試各類功能.md",
