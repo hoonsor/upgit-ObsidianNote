@@ -16,14 +16,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":23},\"to\":{\"line\":43,\"ch\":23}},\"scroll\":21.906667094983554}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -241,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "006-DailyNote/2022-12-07_Wed.md"
               }
             }
           }
@@ -308,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +346,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -393,6 +405,8 @@
   },
   "active": "941c3585ac161b2b",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
+    "●首頁.md",
     "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
     "004-●日常生活/008-雜資料/1111207-買房殺價萬用句.md",
     "005-工作相關/1110810-新進教師研習.md",
@@ -400,8 +414,6 @@
     "005-工作相關/1111028-處理性別工作平等法有關事件注意事項.md",
     "005-工作相關/法規紀錄測試.md",
     "005-工作相關/1110803-待辦.md",
-    "●日常生活.md",
-    "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-12-06_Tue.md"
+    "●日常生活.md"
   ]
 }
