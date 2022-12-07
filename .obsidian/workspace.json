@@ -11,25 +11,25 @@
             "id": "6ca96bbee32c5ed2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "CSS的概念及學習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "★測試各類功能",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"★測試各類功能.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":120,\"ch\":0},\"to\":{\"line\":120,\"ch\":0}},\"scroll\":118.45678619196697}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
-                "mode": "preview",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "006-DailyNote/2022-12-07_Wed.md"
               }
             }
           }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "006-DailyNote/2022-12-07_Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,8 +399,8 @@
   },
   "active": "6ca96bbee32c5ed2",
   "lastOpenFiles": [
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "★測試各類功能.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "[[CSS的概念及學習]].md",
     "www.google.com.tw.md",
     "004-●日常生活/●日常生活待辦事項.md",
