@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e58c5d2f9daea0a9",
+        "id": "5dd5f792c2ecaa19",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb8727e0fd6817d",
+            "id": "8e756b679f10bbbf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -229,6 +229,15 @@
           {
             "id": "eb4abeefbde49a72",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {
@@ -380,19 +389,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
-  "active": "1eb8727e0fd6817d",
+  "active": "8e756b679f10bbbf",
   "lastOpenFiles": [
-    "006-DailyNote/2022-12-06_Tue.md",
-    "●首頁.md",
-    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
-    "●專案管理.md",
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+    "004-●日常生活/008-雜資料/1111207-買房殺價萬用句.md",
+    "005-工作相關/1110810-新進教師研習.md",
+    "005-工作相關/1110804-提醒新進短期臨工注意事項.md",
+    "005-工作相關/1111028-處理性別工作平等法有關事件注意事項.md",
+    "005-工作相關/法規紀錄測試.md",
+    "005-工作相關/1110803-待辦.md",
+    "●日常生活.md",
     "005-工作相關/●工作待辦事項.md",
-    "★測試各類功能.md",
-    "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
-    "005-工作相關/001-人事法規/1080605-教師法.md",
-    "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+    "006-DailyNote/2022-12-06_Tue.md"
   ]
 }
