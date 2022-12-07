@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a447ac0bd4422f1",
+        "id": "63dc9283e7cb51c9",
         "type": "tabs",
         "children": [
           {
-            "id": "df6a42796f3e240f",
+            "id": "6ca96bbee32c5ed2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "CSS的概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -22,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "mode": "preview",
                 "source": false
               }
@@ -241,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "★測試各類功能.md"
               }
             }
           }
@@ -308,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "★測試各類功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,17 +397,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "df6a42796f3e240f",
+  "active": "6ca96bbee32c5ed2",
   "lastOpenFiles": [
-    "★測試各類功能.md",
-    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "006-DailyNote/2022-12-07_Wed.md",
-    "005-工作相關/●工作待辦事項.md",
+    "★測試各類功能.md",
+    "[[CSS的概念及學習]].md",
+    "www.google.com.tw.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "004-●日常生活/●日常生活紀錄.md",
     "●首頁.md",
-    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
-    "004-●日常生活/008-雜資料/1111207-買房殺價萬用句.md",
-    "005-工作相關/1110810-新進教師研習.md",
-    "005-工作相關/1110804-提醒新進短期臨工注意事項.md"
+    "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
+    "006-DailyNote/2022-12-07_Wed.md",
+    "005-工作相關/●工作待辦事項.md"
   ]
 }

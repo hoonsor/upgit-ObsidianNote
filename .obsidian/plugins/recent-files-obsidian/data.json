@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "★測試各類功能",
+      "path": "★測試各類功能.md"
+    },
+    {
+      "basename": "CSS的概念及學習",
+      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "★測試各類功能",
-      "path": "★測試各類功能.md"
+      "basename": "●日常生活紀錄",
+      "path": "004-●日常生活/●日常生活紀錄.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "CSS的概念及學習",
-      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
     },
     {
       "basename": "2022-12-07_Wed",
@@ -109,10 +113,6 @@
       "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
     },
     {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
-    },
-    {
       "basename": "★靈感筆記",
       "path": "★靈感筆記.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "2022-11-29_Tue",
       "path": "006-DailyNote/2022-11-29_Tue.md"
-    },
-    {
-      "basename": "2022-11-28_Mon",
-      "path": "006-DailyNote/2022-11-28_Mon.md"
     }
   ],
   "omittedPaths": [],
