@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2370385050d5560b",
+        "id": "e58c5d2f9daea0a9",
         "type": "tabs",
         "children": [
           {
-            "id": "cd646eae8ec54643",
+            "id": "1eb8727e0fd6817d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -181,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -232,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -300,7 +293,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -326,7 +318,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -347,7 +338,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -381,17 +371,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "cd646eae8ec54643",
+  "active": "1eb8727e0fd6817d",
   "lastOpenFiles": [
+    "006-DailyNote/2022-12-06_Tue.md",
+    "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "●專案管理.md",
-    "006-DailyNote/2022-12-06_Tue.md",
     "005-工作相關/●工作待辦事項.md",
-    "●首頁.md",
     "★測試各類功能.md",
     "003-●專案管理/007-JavaScript學習相關/●Javascript語法學習.md",
     "005-工作相關/001-人事法規/1080605-教師法.md",
