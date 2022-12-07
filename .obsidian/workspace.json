@@ -4,67 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0fc8cc58663ff5e1",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "state": "{}",
-              "eState": "{}"
+        "id": "2370385050d5560b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd646eae8ec54643",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
-            {
-              "title": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":3},\"to\":{\"line\":11,\"ch\":3}},\"scroll\":0}"
-            },
-            {
-              "title": "WordPress學習及筆記",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":17},\"to\":{\"line\":7,\"ch\":17}},\"scroll\":0.5990867719258348}"
-            },
-            {
-              "title": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "title": "WordPress學習及筆記",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "title": "2022-12-06_Tue",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-12-06_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":13},\"to\":{\"line\":40,\"ch\":13}},\"scroll\":18.649432931847144}"
-            },
-            {
-              "title": "●工作待辦事項",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}},\"scroll\":0}"
-            },
-            {
-              "title": "●首頁",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-            "mode": "preview",
-            "source": false
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,6 +226,16 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "eb4abeefbde49a72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "●首頁.md"
+              }
+            }
           }
         ]
       },
@@ -326,7 +300,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -352,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -373,7 +347,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -410,7 +384,7 @@
     "width": 353.5,
     "collapsed": true
   },
-  "active": "0fc8cc58663ff5e1",
+  "active": "cd646eae8ec54643",
   "lastOpenFiles": [
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
