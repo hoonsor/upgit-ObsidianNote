@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Tuesday, December 6th 2022, 10:16:18 pm
+modified: Thursday, December 8th 2022, 4:24:22 pm
 ---
 [[●專案管理]]
 [[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]
@@ -21,11 +21,13 @@ modified: Tuesday, December 6th 2022, 10:16:18 pm
 		- [[#3.2. 使用 `<style>` 標記|3.2. 使用 `<style>` 標記]]
 		- [[#3.3. 行內設定|3.3. 行內設定]]
 	- [[#4. CSS 權重|4. CSS 權重]]
-	- [[#5. WordPress 中一些關於 CSS 相關注意事項|5. WordPress 中一些關於 CSS 相關注意事項]]
-	- [[#6. CSS 的一些屬性紀錄|6. CSS 的一些屬性紀錄]]
-	- [[#7. 練習撰寫 CSS 語法之網站|7. 練習撰寫 CSS 語法之網站]]
-	- [[#8. 有關外掛|8. 有關外掛]]
-		- [[#8.1. 查看顏色之瀏覽器外掛|8.1. 查看顏色之瀏覽器外掛]]
+		- [[#4.1. !important 語法|4.1. !important 語法]]
+	- [[#5. CSS常用的單位|5. CSS常用的單位]]
+	- [[#6. WordPress 中一些關於 CSS 相關注意事項|6. WordPress 中一些關於 CSS 相關注意事項]]
+	- [[#7. CSS 的一些屬性紀錄|7. CSS 的一些屬性紀錄]]
+	- [[#8. 練習撰寫 CSS 語法之網站|8. 練習撰寫 CSS 語法之網站]]
+	- [[#9. 有關外掛|9. 有關外掛]]
+		- [[#9.1. 查看顏色之瀏覽器外掛|9.1. 查看顏色之瀏覽器外掛]]
 
 
 
@@ -136,11 +138,23 @@ div>span {
 	- 程式碼在越後方的版本越新
 - #h/red **!important** 真的很重要
 
-## 5. WordPress 中一些關於 CSS 相關注意事項
+### 4.1. !important 語法
+- !important，注意這部分需要加入在編碼的最後，但放在「;」前，如下範例：
+```css
+p {
+	background-color： rgb（45,142，255）!important;
+	color:white;
+}
+```
+
+
+## 5. CSS常用的單位
+
+## 6. WordPress 中一些關於 CSS 相關注意事項
 - WordPress 中較少會提供 vw 來設定寬度，相對上更多的會出現在設定文字的大小上。相較而言，設定高度時能夠免去這個問題，所以我們還是可以透過 vh 來設定高度。但實際情況下，設定的多數為最小高度：min-height，這樣及使螢幕高度少於方塊，也不會強制剪裁，會以完整顯示作為目標。
 
 
-## 6. CSS 的一些屬性紀錄
+## 7. CSS 的一些屬性紀錄
 
 - ID：「#ID 名稱」，例如#ID
 - 類別：「.類別名稱」，例如.div
@@ -157,12 +171,12 @@ div>span {
 	- min-width：最小寬度
 
 
-## 7. 練習撰寫 CSS 語法之網站
+## 8. 練習撰寫 CSS 語法之網站
 - 可以線上練習撰寫 CSS
 > [!INFO]+ 資訊
 > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 
-## 8. 有關外掛
-### 8.1. 查看顏色之瀏覽器外掛
+## 9. 有關外掛
+### 9.1. 查看顏色之瀏覽器外掛
 - ColorSnapper 2
 - PickEyedropper
