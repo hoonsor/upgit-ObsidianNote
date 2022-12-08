@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Thursday, December 8th 2022, 5:14:11 pm
+modified: Thursday, December 8th 2022, 5:24:21 pm
 ---
 [[●專案管理]]
 [[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]
@@ -27,8 +27,7 @@ modified: Thursday, December 8th 2022, 5:14:11 pm
 		- [[#5.2. em|5.2. em]]
 		- [[#5.3. rem|5.3. rem]]
 		- [[#5.4. %|5.4. %]]
-		- [[#5.5. vw|5.5. vw]]
-		- [[#5.6. vh|5.6. vh]]
+		- [[#5.5. vw 和 vh|5.5. vw 和 vh]]
 	- [[#6. 開啟瀏覽器中開發者工具的計算樣式|6. 開啟瀏覽器中開發者工具的計算樣式]]
 	- [[#7. WordPress 中一些關於 CSS 相關注意事項|7. WordPress 中一些關於 CSS 相關注意事項]]
 	- [[#8. CSS 的一些屬性紀錄|8. CSS 的一些屬性紀錄]]
@@ -221,11 +220,48 @@ p {
 	- 1
 	  ![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/12/08/upgit_20221208_1670490673.png)
 
-### 5.5. vw
-### 5.6. vh
+### 5.5. vw 和 vh
+-  #h/red **這兩個和%極為相似，但差别在於vw和vh，只會按照螢幕來判斷大小，而不會受上一個項目影響，但注意的是還是會受限於上一個方格的大小決定是否顯示出超出方格部分之內容。**
+- 例如上一個div為50%，這裡設定了寬度為70w，我們會看到這裡預設狀況不會受到方格的限制，仍然能夠讓寬度調整為70%，這是因為在CSS裡，有一個設定名為overflow，預設的是visible：代表會見到超出方格的部分，但假若我們在第一個div裡加入了編碼overflow：hidden；則會隱藏掉超出的部分。
+
+- !!!col
+	- 1
+		```CSS
+			<div class="div1">
+				<h2>div1</h2>
+					<div class="div 2"
+						<h2>div2</h2>
+					</div>
+			</div>
+			
+			.div1 {
+				border: 2px outset black;
+				width: 50%;
+				text-align: center;
+				overflow: hidden;
+			}
+			
+			.div2 {
+				border: outset black;
+				border-width: 2px 2px 1px 0px;
+				text-align: center;
+				width: 80vw
+			}
+			
+		```
+	- 1
+	  ![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/12/08/upgit_20221208_1670491973.png)
+
+
 
 
 ## 6. 開啟瀏覽器中開發者工具的計算樣式
+
+-  #h/red **在瀏覽器中按下 F12，然後頁面標籤選擇最左邊的「元素」，接下來在下方視窗選擇頁面標籤「計算樣式」，有關資訊就會呈現在底下頁面中**，例如選擇文字，你還能夠查看，文字大小、字體、文字顏色等。
+- ![01|1000](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/12/08/upgit_20221208_1670491353.png)
+
+
+
 
 ## 7. WordPress 中一些關於 CSS 相關注意事項
 - WordPress 中較少會提供 vw 來設定寬度，相對上更多的會出現在設定文字的大小上。相較而言，設定高度時能夠免去這個問題，所以我們還是可以透過 vh 來設定高度。但實際情況下，設定的多數為最小高度：min-height，這樣及使螢幕高度少於方塊，也不會強制剪裁，會以完整顯示作為目標。
