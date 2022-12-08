@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Monday, December 5th 2022, 10:48:15 pm
+modified: Thursday, December 8th 2022, 3:28:19 pm
 ---
 
 [[●專案管理]]
@@ -10,6 +10,11 @@ modified: Monday, December 5th 2022, 10:48:15 pm
 ## 1. 語法概述
 
 ### 1.1. 外部連結語法
+```obsidian
+[連結文字](連結網址)
+```
+
+- 範例：[Obsidian語法文件](https://publish.obsidian.md/help-zh/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%B5%8C%E5%85%A5%E6%96%87%E4%BB%B6)
 
 ### 1.2. 插入（嵌入）外部圖片語法
 ```obsidian
@@ -19,18 +24,31 @@ modified: Monday, December 5th 2022, 10:48:15 pm
 
 - 範例：
 ![圖片1|200x200](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/25/upgit_20220925_1664098102.png)
-
 ![圖片2|400](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/25/upgit_20220925_1664098102.png)
 
-### 1.3. 區塊引用語法
-#### 1.3.1. 自動命名
+### 1.3. 嵌入圖片並將圖片連結到內部筆記或外部網站
+```obsidian
+外部網站：
+[![滑鼠放上圖片時之替代文字|長度像素x寬度像素](圖片網址)](外部網站網址)
+[![滑鼠放上圖片時之替代文字|寬度像素(長寬比不變，依照寬度像素調整自動調整長度)](圖片網址)](外部網站網址)
+
+內部筆記：
+[![滑鼠放上圖片時之替代文字|長度像素x寬度像素](圖片網址)](外部網站網址)
+[![滑鼠放上圖片時之替代文字|寬度像素(長寬比不變，依照寬度像素調整自動調整長度)](圖片網址)](外部網站網址)
+```
+
+- 範例
+[![01|300](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/29/upgit_20220729_1659101550.png)](https://www.google.com.tw)
+[![01|300](https://adersaytech.com/wp-content/uploads/2021/10/mamp-to-install-wordpress.webp)](●工作待辦事項)
+### 1.4. 區塊引用語法
+#### 1.4.1. 自動命名
 - 內部連結時輸入倒 V 符號，下拉式選單便會自行跳出各個區塊，當選中後，該區塊後面會自行顯示出區塊代碼（僅編輯模式會呈現，檢視模式不會）
 - 範例：[[★測試各類功能#^737aa8]]
-#### 1.3.2. 手動命名
+#### 1.4.2. 手動命名
 - 在想要加入命名的區塊句尾，輸入空白 + 倒 V 符號，並且輸入自訂的名稱即可，需注意命名名稱 #h/red **只可以使用數字及英文之組合，不可使用中文**
 - 範例：[[★測試各類功能#^example]]
 
-### 1.4. 註腳語法
+### 1.5. 註腳語法
 ```
 文字中插入註腳使用[^註腳名稱]，也可以搭配註腳插件讓其自動編號，註腳名稱可以使用中文，但不可有空格
 文章底下則需要插入[^註腳名稱]: 註腳內容，注意冒號後方要有一個空格，然後再寫上註腳內容
