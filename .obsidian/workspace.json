@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e494d0656ffd9e7",
+        "id": "89014780ba988998",
         "type": "tabs",
         "children": [
           {
-            "id": "154c48fc5ee4ebec",
+            "id": "a714826a53d9504e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -392,8 +391,9 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "154c48fc5ee4ebec",
+  "active": "a714826a53d9504e",
   "lastOpenFiles": [
+    "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "005-工作相關/●工作待辦事項.md",
     "★測試各類功能.md",
@@ -402,7 +402,6 @@
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
     "006-DailyNote/2022-12-08_Thu.md",
-    "●首頁.md",
     "001-Template/Daily Note Template.md"
   ]
 }
