@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71d3c2c65bfe9ce0",
+        "id": "2d5e8fa3d847a4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "aedf0c83498f7689",
+            "id": "dbfd3940494f71b7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2022-12-08_Thu.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2022-12-08_Thu.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-12-08_Thu.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-12-08_Thu.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-12-08_Thu.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -390,7 +390,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "aedf0c83498f7689",
+  "active": "13a1cceb35a11380",
   "lastOpenFiles": [
     "001-Template/Daily Note Template.md",
     "000-index/!dict.md",
@@ -400,7 +400,4 @@
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "005-工作相關/●工作待辦事項.md",
     "★測試各類功能.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "[[●工作待辦事項]].md"
-  ]
-}
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆
