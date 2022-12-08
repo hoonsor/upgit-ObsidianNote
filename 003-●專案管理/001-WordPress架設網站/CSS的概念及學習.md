@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: preview 
 created: Friday, July 29th 2022, 9:29:27 pm
-modified: Thursday, December 8th 2022, 5:05:02 pm
+modified: Thursday, December 8th 2022, 5:14:11 pm
 ---
 [[●專案管理]]
 [[1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）]]
@@ -29,11 +29,12 @@ modified: Thursday, December 8th 2022, 5:05:02 pm
 		- [[#5.4. %|5.4. %]]
 		- [[#5.5. vw|5.5. vw]]
 		- [[#5.6. vh|5.6. vh]]
-	- [[#6. WordPress 中一些關於 CSS 相關注意事項|6. WordPress 中一些關於 CSS 相關注意事項]]
-	- [[#7. CSS 的一些屬性紀錄|7. CSS 的一些屬性紀錄]]
-	- [[#8. 練習撰寫 CSS 語法之網站|8. 練習撰寫 CSS 語法之網站]]
-	- [[#9. 有關外掛|9. 有關外掛]]
-		- [[#9.1. 查看顏色之瀏覽器外掛|9.1. 查看顏色之瀏覽器外掛]]
+	- [[#6. 開啟瀏覽器中開發者工具的計算樣式|6. 開啟瀏覽器中開發者工具的計算樣式]]
+	- [[#7. WordPress 中一些關於 CSS 相關注意事項|7. WordPress 中一些關於 CSS 相關注意事項]]
+	- [[#8. CSS 的一些屬性紀錄|8. CSS 的一些屬性紀錄]]
+	- [[#9. 練習撰寫 CSS 語法之網站|9. 練習撰寫 CSS 語法之網站]]
+	- [[#10. 有關外掛|10. 有關外掛]]
+		- [[#10.1. 查看顏色之瀏覽器外掛|10.1. 查看顏色之瀏覽器外掛]]
 
 
 
@@ -186,10 +187,10 @@ p {
 	- 1
 	  範例：
 		```css
-			<div style="font-size:1.2rem；">1.2rem
-				<div style="font-size:1.2rem；">1.2rem
+			<div style="font-size:1.2rem;">1.2rem
+				<div style="font-size:1.2rem;">1.2rem
 					<div style=" font-size:1.2rem;">1.2rem
-						<diVstyle="font-siZe:1.2rem；">1.2rem
+						<diVstyle="font-siZe:1.2rem;">1.2rem
 							<div style="font-size:1.2rem；">1.2rem</div>
 						</div >
 					</div>
@@ -201,15 +202,36 @@ p {
 ### 5.4. %
 -  #h/red **% 則是另一個常出現的單位，它較為簡單，就只會跟從上一個的大小，而去改變。** 例如上一個的 div 為 100px 寬，身為 40% 的它，就會佔上當中的 40%，所以也就會是 40px。
 - 假若上一個並沒有設定任何大小，假設後者設定了 50%，那它也會跟隨著設定為 50%，直到找到實際數值， #h/red **當來到最外圍的時候，由於 % 再沒有任何依靠，它會按照螢幕來判斷大小，例如設定了 50%，就會為螢幕的 50%。**
-- 
+-  #h/red **假若是字體大小呢？那就會和 em 有著相同的計算方法，例如現在是 200%，也就會是 32px。**換句話説，假若每層都使用% 的話，我們也會呈現出相同的效果。
+- 來自於開發者工具的計算樣式，在這裡我們可以簡單地，查看到目前想查看的目標，大小、邊界等資訊，中間的部份就是目標的大小。
+
+- !!!col
+	- 1
+	  ```css
+			<div clasS="myDiv">
+				<div>
+					<p>This is Some text in a div element.</p>
+				</div>
+			</div>
+			
+			div {
+			width：50%；
+			}
+		```
+	- 1
+	  ![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/12/08/upgit_20221208_1670490673.png)
+
 ### 5.5. vw
 ### 5.6. vh
 
-## 6. WordPress 中一些關於 CSS 相關注意事項
+
+## 6. 開啟瀏覽器中開發者工具的計算樣式
+
+## 7. WordPress 中一些關於 CSS 相關注意事項
 - WordPress 中較少會提供 vw 來設定寬度，相對上更多的會出現在設定文字的大小上。相較而言，設定高度時能夠免去這個問題，所以我們還是可以透過 vh 來設定高度。但實際情況下，設定的多數為最小高度：min-height，這樣及使螢幕高度少於方塊，也不會強制剪裁，會以完整顯示作為目標。
 
 
-## 7. CSS 的一些屬性紀錄
+## 8. CSS 的一些屬性紀錄
 
 - ID：「#ID 名稱」，例如#ID
 - 類別：「.類別名稱」，例如.div
@@ -226,12 +248,12 @@ p {
 	- min-width：最小寬度
 
 
-## 8. 練習撰寫 CSS 語法之網站
+## 9. 練習撰寫 CSS 語法之網站
 - 可以線上練習撰寫 CSS
 > [!INFO]+ 資訊
 > [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 
-## 9. 有關外掛
-### 9.1. 查看顏色之瀏覽器外掛
+## 10. 有關外掛
+### 10.1. 查看顏色之瀏覽器外掛
 - ColorSnapper 2
 - PickEyedropper
