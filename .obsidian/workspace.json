@@ -39,6 +39,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68c20765c35e4dfe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -406,6 +427,8 @@
   },
   "active": "7f5acf41613d2c4b",
   "lastOpenFiles": [
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "006-DailyNote/2022-12-08_Thu.md",
     "●首頁.md",
     "001-Template/Daily Note Template.md",
@@ -413,8 +436,6 @@
     "006-DailyNote/2022-12-07_Wed.md",
     "★測試各類功能.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "[[CSS的概念及學習]].md",
-    "www.google.com.tw.md",
-    "004-●日常生活/●日常生活待辦事項.md"
+    "[[CSS的概念及學習]].md"
   ]
 }
