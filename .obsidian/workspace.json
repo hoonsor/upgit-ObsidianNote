@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89014780ba988998",
+        "id": "71d3c2c65bfe9ce0",
         "type": "tabs",
         "children": [
           {
-            "id": "a714826a53d9504e",
+            "id": "aedf0c83498f7689",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,31 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "1110911-Excel VBA學習相關",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":493.4276167168675}"
-                },
-                {
-                  "title": "CSS的概念及學習",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":276,\"ch\":12},\"to\":{\"line\":276,\"ch\":12}},\"scroll\":254.0954480622944}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-08_Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -260,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+                "file": "006-DailyNote/2022-12-08_Thu.md"
               }
             }
           }
@@ -327,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-08_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-08_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -374,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-08_Thu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -409,17 +390,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "a714826a53d9504e",
+  "active": "aedf0c83498f7689",
   "lastOpenFiles": [
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "001-Template/Daily Note Template.md",
     "000-index/!dict.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "005-工作相關/●工作待辦事項.md",
     "★測試各類功能.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "[[●工作待辦事項]].md",
-    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
+    "[[●工作待辦事項]].md"
   ]
 }
