@@ -16,14 +16,32 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1110911-Excel VBA學習相關",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":493.4276167168675}"
+                },
+                {
+                  "title": "CSS的概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":276,\"ch\":12},\"to\":{\"line\":276,\"ch\":12}},\"scroll\":254.0954480622944}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -76,8 +94,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#h/red",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -85,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -182,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -242,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
               }
             }
           }
@@ -309,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -393,15 +411,15 @@
   },
   "active": "a714826a53d9504e",
   "lastOpenFiles": [
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "000-index/!dict.md",
     "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "005-工作相關/●工作待辦事項.md",
     "★測試各類功能.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "[[●工作待辦事項]].md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md",
-    "006-DailyNote/2022-12-08_Thu.md",
-    "001-Template/Daily Note Template.md"
+    "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
   ]
 }
