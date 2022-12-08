@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-12-08_Thu",
+      "path": "006-DailyNote/2022-12-08_Thu.md"
+    },
+    {
       "basename": "●首頁",
       "path": "●首頁.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
     },
     {
       "basename": "2022-12-07_Wed",
@@ -137,10 +149,6 @@
       "path": "001-Template/Daily Note Tasks.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
       "basename": "2022-12-02_Fri",
       "path": "006-DailyNote/2022-12-02_Fri.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "2022-11-30_Wed",
       "path": "006-DailyNote/2022-11-30_Wed.md"
-    },
-    {
-      "basename": "2022-11-29_Tue",
-      "path": "006-DailyNote/2022-11-29_Tue.md"
     }
   ],
   "omittedPaths": [],
