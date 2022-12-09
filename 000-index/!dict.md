@@ -4,7 +4,7 @@ parent:
 sibling: 
 child: 
 created: Tuesday, August 9th 2022, 5:13:52 pm
-modified: Sunday, November 6th 2022, 8:33:13 pm
+modified: Thursday, December 8th 2022, 9:21:24 pm
 ---
 # !dict
 %% https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt %%
@@ -83,6 +83,7 @@ cssClasses: +=table-lines, table-nowrap, row-alt|YAML 表格 CSS|ppp
 
 %% 其他快捷字典 Dataview 自訂欄位%%
 Tips（DataView）*/> Tips:: !END!|Tips（DataView）|-09
+CSS_Tips（DataView）*/> CSS_Tips:: !END!|CSS_Tips（DataView）|-09
 ExcelTips（DataView）*/> ExcelTips:: !END!|ExcelTips（DataView）|-09
 AHK_Tips（DataView）*/> AHK_Tips:: !END!|AHK_Tips（DataView）|-09
 AHK_Function（DataView）*/> AHK_Function:: !END!|AHK_Function（DataView）|-09
@@ -91,6 +92,7 @@ OB_Tips（DataView）*/> OB_Tips:: !END!|OB_Tips（DataView）|-09
 WordPressTips（DataView）*/> WordPressTips:: !END!|WordPressTips（DataView）|-09
 
 Tips*/Tips!END!|Tips|--0
+CSS_Tips*/CSS_Tips!END!|CSS_Tips|--0
 ExcelTips*/ExcelTips!END!|ExcelTips|--0
 AHK_Tips*/AHK_Tips!END!|AHK_Tips|--0
 AHK_Function*/AHK_Function!END!|AHK_Function|--0
