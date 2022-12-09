@@ -16,6 +16,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "CSS的概念及學習",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":12.527190332326285}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":18},\"to\":{\"line\":78,\"ch\":18}},\"scroll\":27.35578947368421}"
                 }
               ]
             },
@@ -27,8 +39,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0f85eeac2abddc8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
               }
             }
           }
@@ -308,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +368,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +389,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,15 +425,15 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "ea38d351d43f4bc1",
+  "active": "a0f85eeac2abddc8",
   "lastOpenFiles": [
-    "006-DailyNote/2022-12-09_Fri.md",
     "005-工作相關/●工作待辦事項.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "006-DailyNote/2022-12-09_Fri.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "★測試各類功能.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "[[CSS的概念及學習]].md",
     "www.google.com.tw.md",
     "004-●日常生活/●日常生活紀錄.md"
