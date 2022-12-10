@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2d3b5a66100dcca7",
+        "id": "89597989e3b7b861",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
@@ -18,8 +18,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
-            "mode": "source",
+            "file": "●首頁.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#h/red",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -235,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -302,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +329,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +350,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -382,12 +383,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
-  "active": "2d3b5a66100dcca7",
+  "active": "89597989e3b7b861",
   "lastOpenFiles": [
-    "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+    "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-12-10_Sat.md",
     "006-DailyNote/2022-12-09_Fri.md",
