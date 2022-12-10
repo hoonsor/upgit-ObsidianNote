@@ -1,6 +1,29 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "006-DailyNote/2022-12-10_Sat.md": [
+      {
+        "title": "在學校使用膝蓋熱敷器",
+        "time": "2022-12-10 11:00",
+        "rowNumber": 52
+      },
+      {
+        "title": "記帳",
+        "time": "2022-12-10 20:40",
+        "rowNumber": 42
+      },
+      {
+        "title": "吊單槓 10 秒",
+        "time": "2022-12-10 21:05",
+        "rowNumber": 56
+      },
+      {
+        "title": "做增加骨鈣素之運動（包含深蹲）或做超慢跑",
+        "time": "2022-12-10 21:10",
+        "rowNumber": 57
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
