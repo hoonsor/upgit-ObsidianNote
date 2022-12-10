@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "1111210-手機刷機基本教學",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":2},\"to\":{\"line\":76,\"ch\":2}},\"scroll\":66.265155695502}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+                "file": "006-DailyNote/2022-12-10_Sat.md"
               }
             }
           }
@@ -310,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -336,7 +342,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,7 +363,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -394,8 +400,8 @@
   },
   "active": "d258089d1810d930",
   "lastOpenFiles": [
-    "●首頁.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-12-10_Sat.md",
