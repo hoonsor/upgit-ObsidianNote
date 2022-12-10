@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2d5e8fa3d847a4a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbfd3940494f71b7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+        "id": "5fb80843112963ab",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "state": "{}",
+              "eState": "{}"
             }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "●首頁.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -390,7 +384,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "13a1cceb35a11380",
+  "active": "5fb80843112963ab",
   "lastOpenFiles": [
     "001-Template/Daily Note Template.md",
     "000-index/!dict.md",
