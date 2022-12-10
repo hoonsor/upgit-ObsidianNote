@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26e015d9e70ff34e",
+        "id": "246a5620c7ec8b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "d258089d1810d930",
+            "id": "24d577af5e99e4e7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,22 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "1111210-手機刷機基本教學",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":76,\"ch\":2},\"to\":{\"line\":76,\"ch\":2}},\"scroll\":66.265155695502}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2022-12-10_Sat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -247,9 +237,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "006-DailyNote/2022-12-10_Sat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -315,7 +303,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +328,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +348,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-12-10_Sat.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -395,16 +380,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "d258089d1810d930",
+  "active": "24d577af5e99e4e7",
   "lastOpenFiles": [
+    "006-DailyNote/2022-12-10_Sat.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-12-10_Sat.md",
     "006-DailyNote/2022-12-09_Fri.md",
     "001-Template/Daily Note Template.md",
     "000-index/!dict.md",
