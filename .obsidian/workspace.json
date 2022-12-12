@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55a8b257c5aac162",
+        "id": "297d5fe4e724b09f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9359eff2b947797",
+            "id": "371ccee55e8934a8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           }
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,10 +391,10 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "e9359eff2b947797",
+  "active": "371ccee55e8934a8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+    "conflict-files-obsidian-git.md",
     "●子彈筆記.md",
     "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
