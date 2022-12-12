@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a574f72e3410f59a",
+        "id": "55a8b257c5aac162",
         "type": "tabs",
         "children": [
           {
-            "id": "dd76f140a487eeec",
+            "id": "e9359eff2b947797",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,15 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "●子彈筆記.md"
+                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -245,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●子彈筆記.md"
+                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
               }
             }
           }
@@ -312,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●子彈筆記.md",
+                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●子彈筆記.md",
+                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -359,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●子彈筆記.md",
+                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -395,17 +391,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "dd76f140a487eeec",
+  "active": "e9359eff2b947797",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+    "●子彈筆記.md",
     "●首頁.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-12-09_Fri.md",
-    "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "★測試各類功能.md",
-    "[[CSS的概念及學習]].md",
-    "www.google.com.tw.md",
-    "004-●日常生活/●日常生活紀錄.md"
+    "[[CSS的概念及學習]].md"
   ]
 }

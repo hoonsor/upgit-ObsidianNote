@@ -1,24 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "006-DailyNote/2022-12-09_Fri.md": [
-      {
-        "title": "記帳",
-        "time": "2022-12-09 20:40",
-        "rowNumber": 43
-      },
-      {
-        "title": "吊單槓 10 秒",
-        "time": "2022-12-09 21:05",
-        "rowNumber": 58
-      },
-      {
-        "title": "做增加骨鈣素之運動（包含深蹲）或做超慢跑",
-        "time": "2022-12-09 21:10",
-        "rowNumber": 59
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
