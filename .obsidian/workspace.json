@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "f0346c4825c414cf",
         "type": "tabs",
         "children": [
           {
             "id": "68d52fa5255f7952",
+=======
+        "id": "6749a81eb6b3b7aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dd3316e64f52a44",
+>>>>>>> origin/main
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +24,34 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+<<<<<<< HEAD
+=======
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":36},\"to\":{\"line\":77,\"ch\":36}},\"scroll\":63.04421052631579}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":14.884297520661157}"
+>>>>>>> origin/main
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "●首頁.md",
                 "mode": "preview",
+=======
+                "file": "006-DailyNote/2022-12-13_Tue.md",
+                "mode": "source",
+>>>>>>> origin/main
                 "source": false
               }
             }
@@ -76,8 +104,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#h/green",
-                "matchingCase": true,
+                "query": "tag:#h/red",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -85,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f59fa83aadd5d4c",
@@ -242,7 +269,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "●首頁.md"
+=======
+                "file": "006-DailyNote/2022-12-13_Tue.md"
+>>>>>>> origin/main
               }
             }
           }
@@ -309,7 +340,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "●首頁.md",
+=======
+                "file": "006-DailyNote/2022-12-13_Tue.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +370,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "●首頁.md",
+=======
+                "file": "006-DailyNote/2022-12-13_Tue.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +395,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "●首頁.md",
+=======
+                "file": "006-DailyNote/2022-12-13_Tue.md",
+>>>>>>> origin/main
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,23 +428,28 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 353.5
   },
+<<<<<<< HEAD
   "active": "68d52fa5255f7952",
+=======
+  "active": "7dd3316e64f52a44",
+>>>>>>> origin/main
   "lastOpenFiles": [
-    "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+    "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
-    "006-DailyNote/2022-12-10_Sat.md",
     "004-●日常生活/●日常生活待辦事項.md",
+    "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
+    "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "conflict-files-obsidian-git.md",
-    "006-DailyNote/2022-12-09_Fri.md",
-    "001-Template/Daily Note Template.md",
-    "000-index/!dict.md",
+    "●子彈筆記.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    "006-DailyNote/2022-12-09_Fri.md",
+    "★測試各類功能.md"
   ]
 }
