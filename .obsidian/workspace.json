@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "246a5620c7ec8b7d",
+        "id": "f0346c4825c414cf",
         "type": "tabs",
         "children": [
           {
-            "id": "24d577af5e99e4e7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c65e73ee7e1aa45",
+            "id": "68d52fa5255f7952",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,14 +22,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -337,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -363,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -384,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●購物清單及國外購物注意事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -417,10 +389,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "0c65e73ee7e1aa45",
+  "active": "68d52fa5255f7952",
   "lastOpenFiles": [
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "●首頁.md",
