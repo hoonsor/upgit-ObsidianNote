@@ -27,30 +27,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f644197ea9edfb0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -331,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -413,13 +391,13 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "13a1cceb35a11380",
+  "active": "68d52fa5255f7952",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "●首頁.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "006-DailyNote/2022-12-10_Sat.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-12-09_Fri.md",
     "001-Template/Daily Note Template.md",
     "000-index/!dict.md",
