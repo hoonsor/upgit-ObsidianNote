@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88a78e3823654a03",
+        "id": "b4645df012abda98",
         "type": "tabs",
         "children": [
           {
-            "id": "9c2e80066db75b9b",
+            "id": "8ed55d5e99d98837",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,7 +391,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "9c2e80066db75b9b",
+  "active": "8ed55d5e99d98837",
   "lastOpenFiles": [
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "005-工作相關/●工作待辦事項.md",
