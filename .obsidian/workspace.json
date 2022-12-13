@@ -45,30 +45,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2fa7dd7261af2ff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+                "file": "006-DailyNote/2022-12-13_Tue.md"
               }
             }
           }
@@ -349,7 +327,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-13_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +353,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-13_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -396,7 +374,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+                "file": "006-DailyNote/2022-12-13_Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -431,8 +409,9 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "f2fa7dd7261af2ff",
+  "active": "68d52fa5255f7952",
   "lastOpenFiles": [
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "006-DailyNote/2022-12-13_Tue.md",
     "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
@@ -441,7 +420,6 @@
     "006-DailyNote/2022-12-10_Sat.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-12-09_Fri.md",
-    "001-Template/Daily Note Template.md",
-    "000-index/!dict.md"
+    "001-Template/Daily Note Template.md"
   ]
 }
