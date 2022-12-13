@@ -16,14 +16,26 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2022-12-13_Tue",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2022-12-13_Tue.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.09122918379934}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "005-工作相關/●工作待辦事項.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           }
@@ -309,7 +321,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +368,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -393,15 +405,15 @@
   },
   "active": "68d52fa5255f7952",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-12-13_Tue.md",
     "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "006-DailyNote/2022-12-10_Sat.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2022-12-09_Fri.md",
     "001-Template/Daily Note Template.md",
     "000-index/!dict.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
   ]
 }

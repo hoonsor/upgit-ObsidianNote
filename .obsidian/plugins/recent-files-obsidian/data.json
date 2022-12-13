@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "2022-12-13_Tue",
+      "path": "006-DailyNote/2022-12-13_Tue.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "●購物清單及國外購物注意事項",
@@ -51,10 +55,6 @@
     {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
       "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
     },
     {
       "basename": "★測試各類功能",
@@ -195,10 +195,6 @@
     {
       "basename": "AHK-概述",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
-    },
-    {
-      "basename": "AHK-GUI控件相關",
-      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
     }
   ],
   "omittedPaths": [],
