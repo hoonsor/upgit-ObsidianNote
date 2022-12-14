@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-12-13_Tue",
       "path": "006-DailyNote/2022-12-13_Tue.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AHK雜程式碼暫存",
       "path": "003-●專案管理/004-AHK學習筆記/AHK雜程式碼暫存.md"
-    },
-    {
-      "basename": "●歌手",
-      "path": "004-●日常生活/002-音樂庫/●歌手.md"
     }
   ],
   "omittedPaths": [],
