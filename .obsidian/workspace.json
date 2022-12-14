@@ -49,6 +49,45 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●購物清單及國外購物注意事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●購物清單及國外購物注意事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":34},\"to\":{\"line\":9,\"ch\":34}},\"scroll\":0}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":44},\"to\":{\"line\":21,\"ch\":44}},\"scroll\":8.89}"
+                },
+                {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":69,\"ch\":26},\"to\":{\"line\":69,\"ch\":26}},\"scroll\":10.44}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a38fdcb421d31e18",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -62,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -425,17 +464,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "8bf427f0f9543af1",
+  "active": "a38fdcb421d31e18",
   "lastOpenFiles": [
-    "006-DailyNote/2022-12-14_Wed.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "004-●日常生活/●購物清單及國外購物注意事項.md",
     "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-12-14_Wed.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
-    "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "●子彈筆記.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "006-DailyNote/2022-12-09_Fri.md"
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
   ]
 }
