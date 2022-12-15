@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Thursday, December 8th 2022, 3:28:19 pm
+modified: Thursday, December 15th 2022, 11:11:54 pm
 ---
 
 [[●專案管理]]
@@ -336,6 +336,7 @@ Return
 
 
 ## 5. 目前思考可繼續增強之功能
+- [ ] obsidian 筆記直接上傳 github 變成網頁供人閱覽！
 - [ ] inline 或 block tag 語法，這樣就可以搭配 local rest 記錄好聽的音樂，製作影片使用！
 - [ ] 嵌入 excel 工作表（google 表單已可以，但 excel 還不行）
 - [ ] 搭配 python 或可爬蟲更新特定網站資訊（例如法規檔案之最近一次修法日期）
