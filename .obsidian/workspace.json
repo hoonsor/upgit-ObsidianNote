@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -242,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
               }
             }
           }
@@ -309,7 +315,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +341,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +362,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -395,10 +401,10 @@
   },
   "active": "c570f9e24fe49c5e",
   "lastOpenFiles": [
+    "●首頁.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "●首頁.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "006-DailyNote/2022-12-14_Wed.md",
     "conflict-files-obsidian-git.md",
