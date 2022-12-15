@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf5ca3d65d95b163",
+        "id": "234575562c94a3ac",
         "type": "tabs",
         "children": [
           {
-            "id": "4e89e03d813dcbae",
+            "id": "abffc28014528ffb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -391,7 +391,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "4e89e03d813dcbae",
+  "active": "13a1cceb35a11380",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
