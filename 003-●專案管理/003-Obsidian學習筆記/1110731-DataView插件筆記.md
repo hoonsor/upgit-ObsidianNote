@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, July 31st 2022, 7:06:36 pm
-modified: Saturday, November 5th 2022, 11:20:11 pm
+modified: Thursday, December 15th 2022, 10:39:59 pm
 ---
 
 [[●專案管理]]
@@ -22,10 +22,11 @@ modified: Saturday, November 5th 2022, 11:20:11 pm
 		- [[#2.3. 參考資料|2.3. 參考資料]]
 		- [[#2.4. 範例|2.4. 範例]]
 			- [[#2.4.1. 列出檔名包含 111072 的 table|2.4.1. 列出檔名包含 111072 的 table]]
-			- [[#2.4.2. 列出檔名包含 1110731 的 table，並且將tags欄位使用 flatten 方式呈現|2.4.2. 列出檔名包含 1110731 的 table，並且將tags欄位使用 flatten 方式呈現]]
-			- [[#2.4.3. 列出包含星號的 file List|2.4.3. 列出包含星號的 file List]]
-			- [[#2.4.4. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現|2.4.4. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現]]
-			- [[#2.4.5. 依照不同筆記status（狀態）區分筆記，並顯示檔名連結及建檔時間|2.4.5. 依照不同筆記status（狀態）區分筆記，並顯示檔名連結及建檔時間]]
+			- [[#2.4.2. 列出檔名包含 1110731 的 table，並且將 tags 欄位使用 flatten 方式呈現|2.4.2. 列出檔名包含 1110731 的 table，並且將 tags 欄位使用 flatten 方式呈現]]
+			- [[#2.4.3. 列出最近 24 小時內修改過的所有文件|2.4.3. 列出最近 24 小時內修改過的所有文件]]
+			- [[#2.4.4. 列出包含星號的 file List|2.4.4. 列出包含星號的 file List]]
+			- [[#2.4.5. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現|2.4.5. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現]]
+			- [[#2.4.6. 依照不同筆記 status（狀態）區分筆記，並顯示檔名連結及建檔時間|2.4.6. 依照不同筆記 status（狀態）區分筆記，並顯示檔名連結及建檔時間]]
 
 ## 1. 概述
 
@@ -134,7 +135,22 @@ table tags as 標籤,file.ctime as 建檔時間 from ""
 where contains(file.name, "1110731")
 flatten tags
 ```
-#### 2.4.3. 列出包含星號的 file List
+
+#### 2.4.3. 列出最近 24 小時內修改過的所有文件
+
+````
+```dataview
+List from ""
+where file.mtime >= date(today) - dur(1 day)
+```
+````
+```dataview
+List from ""
+where file.mtime >= date(today) - dur(1 day)
+```
+
+
+#### 2.4.4. 列出包含星號的 file List
 ````
 ```dataview
 list from ""
@@ -146,7 +162,7 @@ where file.starred
 list from ""
 where file.starred
 ```
-#### 2.4.4. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現
+#### 2.4.5. 列出所有筆記中的 AHK Tips 自訂欄位（且 AHK Tips 欄位不等於空值），並且使用 flatten 方式呈現
 ````
 ```dataview
 table AHK_Tips from ""
@@ -160,7 +176,7 @@ table AHK_Tips from ""
 where AHK_Tips
 flatten AHK_Tips
 ```
-#### 2.4.5. 依照不同筆記 status（狀態）區分筆記，並顯示檔名連結及建檔時間
+#### 2.4.6. 依照不同筆記 status（狀態）區分筆記，並顯示檔名連結及建檔時間
 
 ````
 ```dataview
