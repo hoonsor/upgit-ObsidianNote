@@ -1,80 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "●工作待辦事項",
+      "path": "005-工作相關/●工作待辦事項.md"
+    },
+    {
       "basename": "●首頁",
       "path": "●首頁.md"
     },
     {
-      "basename": "2022-12-14_Wed",
-      "path": "006-DailyNote/2022-12-14_Wed.md"
+      "basename": "1111215-蜜月旅行規劃暫存",
+      "path": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
     },
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
-      "basename": "1111210-手機刷機基本教學",
-      "path": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+      "basename": "●購物清單及國外購物注意事項",
+      "path": "004-●日常生活/●購物清單及國外購物注意事項.md"
+    },
+    {
+      "basename": "2022-12-14_Wed",
+      "path": "006-DailyNote/2022-12-14_Wed.md"
     },
     {
       "basename": "2022-12-13_Tue",
       "path": "006-DailyNote/2022-12-13_Tue.md"
     },
     {
+      "basename": "1111024-Excel基本操作及函數學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
+    },
+    {
+      "basename": "1111210-手機刷機基本教學",
+      "path": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+    },
+    {
+      "basename": "●子彈筆記",
+      "path": "●子彈筆記.md"
+    },
+    {
       "basename": "CSS的概念及學習",
       "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
-    },
-    {
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "●購物清單及國外購物注意事項",
-      "path": "004-●日常生活/●購物清單及國外購物注意事項.md"
-    },
-    {
-      "basename": "2022-12-10_Sat",
-      "path": "006-DailyNote/2022-12-10_Sat.md"
     },
     {
       "basename": "2022-12-09_Fri",
       "path": "006-DailyNote/2022-12-09_Fri.md"
     },
     {
-      "basename": "2022-12-08_Thu",
-      "path": "006-DailyNote/2022-12-08_Thu.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "!dict",
-      "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+      "basename": "2022-12-07_Wed",
+      "path": "006-DailyNote/2022-12-07_Wed.md"
     },
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
-    },
-    {
-      "basename": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
-    },
-    {
-      "basename": "1110925-老屋翻修估價相關",
-      "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
-    },
-    {
-      "basename": "2022-12-07_Wed",
-      "path": "006-DailyNote/2022-12-07_Wed.md"
     },
     {
       "basename": "●日常生活紀錄",
@@ -83,6 +63,10 @@
     {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
+    },
+    {
+      "basename": "1110925-老屋翻修估價相關",
+      "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
     },
     {
       "basename": "1111207-買房殺價萬用句",
@@ -117,6 +101,10 @@
       "path": "006-DailyNote/2022-12-06_Tue.md"
     },
     {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+    },
+    {
       "basename": "●專案管理",
       "path": "●專案管理.md"
     },
@@ -131,6 +119,10 @@
     {
       "basename": "●高中以下人事法規彙整",
       "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
+    },
+    {
+      "basename": "Obsidian統整筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
     },
     {
       "basename": "2022-12-05_Mon",
@@ -161,10 +153,6 @@
       "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
-    },
-    {
       "basename": "●日記",
       "path": "004-●日常生活/●日記.md"
     },
@@ -173,8 +161,16 @@
       "path": "001-Template/Daily Note Tasks.md"
     },
     {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
       "basename": "2022-12-02_Fri",
       "path": "006-DailyNote/2022-12-02_Fri.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
     {
       "basename": "1111029-運鏡、手機錄影技巧學習",
@@ -199,6 +195,10 @@
     {
       "basename": "AHK-概述",
       "path": "003-●專案管理/004-AHK學習筆記/AHK-概述.md"
+    },
+    {
+      "basename": "AHK-GUI控件相關",
+      "path": "003-●專案管理/004-AHK學習筆記/AHK-GUI控件相關.md"
     }
   ],
   "omittedPaths": [],
