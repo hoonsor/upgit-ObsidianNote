@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -212,7 +216,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md"
+              }
             }
           }
         ]
@@ -278,6 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,6 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,6 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
