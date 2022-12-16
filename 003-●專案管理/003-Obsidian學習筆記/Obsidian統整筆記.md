@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Thursday, December 8th 2022, 3:28:19 pm
+modified: Thursday, December 15th 2022, 11:40:12 pm
 ---
 
 [[●專案管理]]
@@ -336,6 +336,9 @@ Return
 
 
 ## 5. 目前思考可繼續增強之功能
+- [ ] obsidian 筆記直接上傳 github 變成網頁供人閱覽！
+	- [ ] 研究一下 digital garden 或 Publish to WordPress for Obsidian 這兩個插件，看能否達到想要的效果，將我在 obsidian 上面製作的筆記分享給明潔在線上觀看！
+	- [ ] https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5 ，研究一下這個網站，似乎可以達到上述效果！
 - [ ] inline 或 block tag 語法，這樣就可以搭配 local rest 記錄好聽的音樂，製作影片使用！
 - [ ] 嵌入 excel 工作表（google 表單已可以，但 excel 還不行）
 - [ ] 搭配 python 或可爬蟲更新特定網站資訊（例如法規檔案之最近一次修法日期）
