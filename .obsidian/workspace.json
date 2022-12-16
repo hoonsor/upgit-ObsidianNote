@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eee8291c96d9f298",
+        "id": "a1092514bf273de7",
         "type": "tabs",
         "children": [
           {
-            "id": "4509314d50545198",
+            "id": "cf341ad4f1d584ad",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -40,7 +36,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 37.60058522311631,
+        "dimension": 45.648312611012436,
         "children": [
           {
             "id": "5742df7154023138",
@@ -90,7 +86,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 22.311631309436724,
+        "dimension": 27.087033747779756,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -134,7 +130,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 22.457937088514996,
+        "dimension": 27.264653641207815,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -150,30 +146,6 @@
             },
             "state": {
               "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "fffdeef75b6cc08b",
-        "type": "tabs",
-        "dimension": 17.62984637893197,
-        "children": [
-          {
-            "id": "13a1cceb35a11380",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
@@ -240,9 +212,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -308,7 +278,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +303,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +323,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -388,13 +355,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
-  "active": "4509314d50545198",
+  "active": "cf341ad4f1d584ad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
