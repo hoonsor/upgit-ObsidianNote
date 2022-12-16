@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "1111210-手機刷機基本教學",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":121,\"ch\":0},\"to\":{\"line\":121,\"ch\":0}},\"scroll\":100.56030239975243}"
+                },
+                {
                   "title": "●日常生活待辦事項",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "mode": "source",
                 "source": false
               }
@@ -223,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
               }
             }
           }
@@ -290,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +322,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
+                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -374,6 +380,7 @@
   },
   "active": "cf341ad4f1d584ad",
   "lastOpenFiles": [
+    "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
@@ -382,7 +389,6 @@
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "006-DailyNote/2022-12-13_Tue.md",
     "006-DailyNote/2022-12-15_Thu.md",
-    "006-DailyNote/2022-12-14_Wed.md",
-    "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
+    "006-DailyNote/2022-12-14_Wed.md"
   ]
 }
