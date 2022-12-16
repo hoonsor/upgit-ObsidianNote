@@ -40,7 +40,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 45.648312611012436,
+        "dimension": 45.687134502923975,
         "children": [
           {
             "id": "5742df7154023138",
@@ -90,7 +90,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 27.087033747779756,
+        "dimension": 20.687134502923975,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -134,7 +134,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 27.264653641207815,
+        "dimension": 18.421052631578945,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -150,6 +150,21 @@
             },
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cae671772192296e",
+        "type": "tabs",
+        "dimension": 15.204678362573098,
+        "children": [
+          {
+            "id": "4c752d0588288de9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
@@ -221,7 +236,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9634ca251397dbdd",
@@ -366,17 +382,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "98b09969a31030d6",
+  "active": "da7154e25a1aeb3e",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
+    "●首頁.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
     "006-DailyNote/2022-12-13_Tue.md",
-    "006-DailyNote/2022-12-15_Thu.md",
-    "006-DailyNote/2022-12-14_Wed.md"
+    "006-DailyNote/2022-12-15_Thu.md"
   ]
 }
