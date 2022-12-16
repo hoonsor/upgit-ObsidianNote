@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1092514bf273de7",
+        "id": "5fa072d0f6a1a1bc",
         "type": "tabs",
         "children": [
           {
-            "id": "cf341ad4f1d584ad",
+            "id": "98b09969a31030d6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,26 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "1111210-手機刷機基本教學",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":121,\"ch\":0},\"to\":{\"line\":121,\"ch\":0}},\"scroll\":100.56030239975243}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":8},\"to\":{\"line\":18,\"ch\":8}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -229,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -296,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +310,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +331,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -378,7 +366,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "cf341ad4f1d584ad",
+  "active": "98b09969a31030d6",
   "lastOpenFiles": [
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
