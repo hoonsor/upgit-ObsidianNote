@@ -8,7 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d17f47b4ace64a60",
+            "id": "b7b35eabe0a21b8a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1111215-蜜月旅行規劃暫存",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":11},\"to\":{\"line\":111,\"ch\":11}},\"scroll\":92.75665796344647}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006-DailyNote/2022-12-17_Sat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3781db7af44e18b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c80daf560f7d950f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "mode": "preview",
                 "source": false
               }
@@ -40,7 +73,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 39.6,
+        "dimension": 35.199999999999996,
         "children": [
           {
             "id": "5742df7154023138",
@@ -90,7 +123,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 20,
+        "dimension": 22.6,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -158,7 +191,7 @@
       {
         "id": "cae671772192296e",
         "type": "tabs",
-        "dimension": 20.4,
+        "dimension": 22.2,
         "children": [
           {
             "id": "4c752d0588288de9",
@@ -223,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
               }
             }
           }
@@ -290,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +349,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +370,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -372,17 +405,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "d17f47b4ace64a60",
+  "active": "c80daf560f7d950f",
   "lastOpenFiles": [
+    "006-DailyNote/2022-12-17_Sat.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
-    "005-工作相關/●工作待辦事項.md",
+    "006-DailyNote/2022-12-15_Thu.md",
     "●首頁.md",
+    "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
-    "006-DailyNote/2022-12-13_Tue.md",
-    "006-DailyNote/2022-12-15_Thu.md"
+    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
   ]
 }
