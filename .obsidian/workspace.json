@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4a36214356cca4bd",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "state": "{}",
-              "eState": "{}"
+        "id": "16e31c67219f512f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d17f47b4ace64a60",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
-            {
-              "title": "1111215-蜜月旅行規劃暫存",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.45723684210526}"
-            },
-            {
-              "title": "●工作待辦事項",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":35.3988035892323}"
-            },
-            {
-              "title": "●首頁",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{\"scroll\":0}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "004-●日常生活/●日常生活待辦事項.md",
-            "mode": "source",
-            "source": false
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,6 +216,16 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "f8b52249071c1ec8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "●首頁.md"
+              }
+            }
           }
         ]
       },
@@ -292,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -318,7 +316,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -374,7 +372,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "4a36214356cca4bd",
+  "active": "d17f47b4ace64a60",
   "lastOpenFiles": [
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
     "005-工作相關/●工作待辦事項.md",
