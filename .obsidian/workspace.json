@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa072d0f6a1a1bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98b09969a31030d6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+        "id": "9f29ad32da07c431",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "state": "{}",
+              "eState": "{}"
             }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "●首頁.md",
+            "mode": "preview",
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +84,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 20.687134502923975,
+        "dimension": 20.68713450292397,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -382,7 +376,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "da7154e25a1aeb3e",
+  "active": "9f29ad32da07c431",
   "lastOpenFiles": [
     "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
