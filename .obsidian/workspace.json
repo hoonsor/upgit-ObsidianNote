@@ -157,6 +157,15 @@
           {
             "id": "4c752d0588288de9",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-view",
               "state": {}
@@ -378,11 +387,11 @@
   },
   "active": "9f29ad32da07c431",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
+    "conflict-files-obsidian-git.md",
     "●首頁.md",
+    "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "conflict-files-obsidian-git.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
     "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",

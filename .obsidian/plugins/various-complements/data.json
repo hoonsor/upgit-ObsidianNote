@@ -50,8 +50,8 @@
     "-00": {
       "多欄語法（Columns）": {
         "customDictionary": {
-          "count": 20,
-          "lastUpdated": 1670507627135
+          "count": 21,
+          "lastUpdated": 1671292778085
         }
       }
     },
@@ -60,22 +60,6 @@
         "customDictionary": {
           "count": 35,
           "lastUpdated": 1670310515086
-        }
-      }
-    },
-    "plugin": {
-      "plugin": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668314330811
-        }
-      }
-    },
-    "Testament": {
-      "Testament": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1668351543300
         }
       }
     },
