@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a49ba22b61b23d7a",
+        "id": "f00f1eeec77d026c",
         "type": "tabs",
         "children": [
           {
-            "id": "d0b736439d67c584",
+            "id": "a24e51d3a70d710f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,12 +20,8 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -222,9 +218,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "●首頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -290,7 +284,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +309,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -337,7 +329,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -372,15 +363,15 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "d0b736439d67c584",
+  "active": "a24e51d3a70d710f",
   "lastOpenFiles": [
+    "●首頁.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "006-DailyNote/2022-12-17_Sat.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
     "Untitled.md",
     "006-DailyNote/2022-12-15_Thu.md",
-    "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md"
