@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4897efd03a551f48",
+        "id": "feede4ffa010e839",
         "type": "tabs",
         "children": [
           {
-            "id": "6b5adc16ca434e39",
+            "id": "e97ea4fdb0bc37a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,37 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e6e9307edcf1572",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,28 +221,8 @@
               "type": "Strange New Worlds",
               "state": {}
             }
-          },
-          {
-            "id": "eb4abeefbde49a72",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9634ca251397dbdd",
@@ -331,7 +285,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +310,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +330,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -413,17 +364,17 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "0e6e9307edcf1572",
+  "active": "e97ea4fdb0bc37a3",
   "lastOpenFiles": [
+    "006-DailyNote/2022-12-20_Tue.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "●首頁.md",
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md",
-    "006-DailyNote/2022-12-13_Tue.md",
-    "006-DailyNote/2022-12-15_Thu.md"
+    "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
   ]
 }
