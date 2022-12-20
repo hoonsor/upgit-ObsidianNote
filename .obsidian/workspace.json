@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9f29ad32da07c431",
-        "type": "leaf",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "state": "{}",
-              "eState": "{}"
+        "id": "4897efd03a551f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b5adc16ca434e39",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
             },
-            {
-              "title": "●首頁",
-              "icon": "lucide-file",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-              "eState": "{}"
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "●首頁.md",
+                "mode": "preview",
+                "source": false
+              }
             }
-          ]
-        },
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
-            "mode": "source",
-            "source": false
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -309,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -356,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -391,7 +391,7 @@
     "direction": "horizontal",
     "width": 353.5
   },
-  "active": "9f29ad32da07c431",
+  "active": "6b5adc16ca434e39",
   "lastOpenFiles": [
     "●首頁.md",
     "conflict-files-obsidian-git.md",
