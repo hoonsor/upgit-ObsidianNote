@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":94},\"to\":{\"line\":33,\"ch\":94}},\"scroll\":25.754261363636363}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -248,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           }
@@ -315,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +346,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -396,14 +401,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "active": "7b568115b8553fba",
   "lastOpenFiles": [
+    "005-工作相關/●工作待辦事項.md",
     "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
     "conflict-files-obsidian-git.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
