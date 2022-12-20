@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "005-工作相關/●工作待辦事項.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -241,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           }
@@ -308,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -393,10 +399,10 @@
   },
   "active": "7b568115b8553fba",
   "lastOpenFiles": [
+    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "005-工作相關/●工作待辦事項.md",
     "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
