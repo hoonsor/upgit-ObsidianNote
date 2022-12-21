@@ -27,25 +27,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed45c8d683fa0fce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
         ]
       }
@@ -423,11 +404,11 @@
   },
   "active": "e97ea4fdb0bc37a3",
   "lastOpenFiles": [
+    "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-12-20_Tue.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
-    "●首頁.md",
-    "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
