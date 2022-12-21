@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "395c8774ddf7b7f1",
+        "id": "269eba34d5e286a2",
         "type": "tabs",
         "children": [
           {
-            "id": "04f062d26262457d",
+            "id": "b4d84002c23b1160",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,25 +16,35 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd53c6e803267024",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "state": "{}",
                   "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.8"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -399,7 +409,28 @@
     "width": 353.5,
     "collapsed": true
   },
-  "active": "04f062d26262457d",
+  "left-ribbon": {
+    "hiddenItems": {
+      "customizable-sidebar:Shell commands: Execute: Plugins Browser": false,
+      "customizable-sidebar:Shell commands: Execute: hotkeys": false,
+      "customizable-sidebar:Shell commands: Execute: Obsidian Editing Toolbar": false,
+      "customizable-sidebar:Shell commands: Execute: Linter": false,
+      "customizable-sidebar:Shell commands: Execute: Shell Commands": false,
+      "customizable-sidebar:Shell commands: Execute: Customizable Sidebar": false,
+      "customizable-sidebar:Shell commands: Execute: QuickAdd": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "dd53c6e803267024",
   "lastOpenFiles": [
     "●首頁.md",
     "conflict-files-obsidian-git.md",
