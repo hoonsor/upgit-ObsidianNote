@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "395c8774ddf7b7f1",
         "type": "tabs",
         "children": [
           {
             "id": "04f062d26262457d",
-=======
-        "id": "feede4ffa010e839",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e97ea4fdb0bc37a3",
->>>>>>> origin/main
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -28,20 +20,37 @@
               ]
             },
             "state": {
-<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "●首頁.md",
                 "mode": "preview",
                 "source": false
               }
-=======
-              "type": "empty",
-              "state": {}
->>>>>>> origin/main
+            }
+          },
+          {
+            "id": "ef884fa42db37ce4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +62,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 45.687134502923975,
+        "dimension": 37.60058522311631,
         "children": [
           {
             "id": "5742df7154023138",
@@ -89,8 +98,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#h/green",
-                "matchingCase": true,
+                "query": "tag:#h/red",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -103,7 +112,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 20.68713450292397,
+        "dimension": 22.311631309436724,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -147,7 +156,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 18.421052631578945,
+        "dimension": 22.457937088514996,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -169,12 +178,12 @@
         ]
       },
       {
-        "id": "cae671772192296e",
+        "id": "fffdeef75b6cc08b",
         "type": "tabs",
-        "dimension": 15.204678362573098,
+        "dimension": 17.62984637893197,
         "children": [
           {
-            "id": "4c752d0588288de9",
+            "id": "13a1cceb35a11380",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -238,7 +247,6 @@
               "type": "Strange New Worlds",
               "state": {}
             }
-<<<<<<< HEAD
           },
           {
             "id": "eb4abeefbde49a72",
@@ -255,11 +263,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
-=======
->>>>>>> origin/main
           }
         ]
       },
@@ -324,10 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "●首頁.md",
-=======
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,10 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "●首頁.md",
-=======
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,10 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-                "file": "●首頁.md",
-=======
->>>>>>> origin/main
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -409,27 +406,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 353.5
   },
-<<<<<<< HEAD
   "active": "13a1cceb35a11380",
-=======
-  "active": "e97ea4fdb0bc37a3",
->>>>>>> origin/main
   "lastOpenFiles": [
-    "006-DailyNote/2022-12-20_Tue.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "●首頁.md",
-    "conflict-files-obsidian-git.md",
+    "11112201702.md",
     "005-工作相關/●工作待辦事項.md",
-    "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
+    "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
+    "conflict-files-obsidian-git.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
+    "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
+    "004-●日常生活/●購物清單及國外購物注意事項.md",
+    "006-DailyNote/2022-12-14_Wed.md"
   ]
 }
