@@ -23,28 +23,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "dd53c6e803267024",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -406,8 +385,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -430,7 +408,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd53c6e803267024",
+  "active": "b4d84002c23b1160",
   "lastOpenFiles": [
     "●首頁.md",
     "conflict-files-obsidian-git.md",
