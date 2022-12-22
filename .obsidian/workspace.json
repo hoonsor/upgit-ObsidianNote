@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "269eba34d5e286a2",
+        "id": "dc695f0029c1ab8d",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d84002c23b1160",
+            "id": "2e38c4a526e03251",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -248,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -315,7 +309,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +356,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -420,7 +414,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b4d84002c23b1160",
+  "active": "2e38c4a526e03251",
   "lastOpenFiles": [
     "●首頁.md",
     "conflict-files-obsidian-git.md",
