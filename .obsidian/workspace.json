@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "●工作待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":79,\"ch\":0}},\"scroll\":70.11505681818181}"
+                },
+                {
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -33,30 +39,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c94677c073ba77fe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11112231358.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11112231358.md"
+                "file": "005-工作相關/●工作待辦事項.md"
               }
             }
           }
@@ -336,7 +320,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11112231358.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -362,7 +346,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11112231358.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -383,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11112231358.md",
+                "file": "005-工作相關/●工作待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -440,8 +424,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c94677c073ba77fe",
+  "active": "5c7343939951834c",
   "lastOpenFiles": [
+    "11112231358.md",
     "005-工作相關/●工作待辦事項.md",
     "conflict-files-obsidian-git.md",
     "●首頁.md",
@@ -450,7 +435,6 @@
     "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
     "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md",
-    "004-●日常生活/●購物清單及國外購物注意事項.md",
-    "006-DailyNote/2022-12-14_Wed.md"
+    "004-●日常生活/●購物清單及國外購物注意事項.md"
   ]
 }
