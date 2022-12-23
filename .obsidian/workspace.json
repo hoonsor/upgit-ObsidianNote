@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59cb41e4f44ca487",
+        "id": "5b48495b1e051cae",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc436c0fd8b3186",
+            "id": "5c7343939951834c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,7 +21,7 @@
                   "title": "●首頁",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":10.523364485981308}"
+                  "eState": "{}"
                 }
               ]
             },
@@ -418,7 +418,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4dc436c0fd8b3186",
+  "active": "5c7343939951834c",
   "lastOpenFiles": [
     "●首頁.md",
     "conflict-files-obsidian-git.md",
