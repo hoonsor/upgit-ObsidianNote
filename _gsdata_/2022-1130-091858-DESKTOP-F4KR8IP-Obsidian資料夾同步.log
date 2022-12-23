@@ -1,9 +1,0 @@
-2022-11-30 09:18:58: -- 分析開始 Periodic Timer
-2022-11-30 09:18:58: 變更：4， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 690
-2022-11-30 09:18:58: Left to Right: Copy File: 4 
-2022-11-30 09:18:58: == 同步開始由 Periodic Timer
-2022-11-30 09:18:58: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-11-29_Tue.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-11-29_Tue.md' (1,346)
-2022-11-30 09:18:58: 新建複製 'D:/Obsidian/Hoonsor/conflict-files-obsidian-git.md' -> 'P:/Obsidian/Hoonsor/conflict-files-obsidian-git.md' (209)
-2022-11-30 09:18:58: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/●購物清單及國外購物注意事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●購物清單及國外購物注意事項.md' (1,327)
-2022-11-30 09:18:58: 覆蓋複製 'D:/Obsidian/Hoonsor/★測試各類功能.md' -> 'P:/Obsidian/Hoonsor/★測試各類功能.md' (3,419)
-2022-11-30 09:18:58: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 4, 錯誤: 0
