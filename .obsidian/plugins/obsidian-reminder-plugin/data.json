@@ -1,6 +1,14 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "006-DailyNote/2022-12-25_Sun.md": [
+      {
+        "title": "記帳",
+        "time": "2022-12-25 20:40",
+        "rowNumber": 38
+      }
+    ]
+  },
   "debug": false,
   "settings": {
     "reminderTime": "10:00",
