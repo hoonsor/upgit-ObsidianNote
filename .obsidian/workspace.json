@@ -4,37 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "1b443f42b0b1ac1e",
+        "id": "a91ba63c81090ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "df6396d43528ced3",
+            "id": "7aecb718b585d570",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":9},\"to\":{\"line\":30,\"ch\":9}},\"scroll\":8.047203661492516}"
-                }
-              ]
-            },
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7807624683842ad8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "006-DailyNote/2022-12-25_Sun.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.9"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -408,7 +400,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df6396d43528ced3",
+  "active": "7807624683842ad8",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
