@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-12-25_Sun",
       "path": "006-DailyNote/2022-12-25_Sun.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "●日記",
       "path": "004-●日常生活/●日記.md"
-    },
-    {
-      "basename": "Daily Note Tasks",
-      "path": "001-Template/Daily Note Tasks.md"
     }
   ],
   "omittedPaths": [],

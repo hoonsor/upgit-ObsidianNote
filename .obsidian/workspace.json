@@ -10,23 +10,21 @@
           {
             "id": "7aecb718b585d570",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7807624683842ad8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "006-DailyNote/2022-12-25_Sun.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -297,7 +293,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2022-12-25_Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +318,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2022-12-25_Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -344,7 +338,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2022-12-25_Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -400,12 +393,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7807624683842ad8",
+  "active": "7aecb718b585d570",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "●首頁.md",
-    "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "006-DailyNote/2022-12-20_Tue.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
