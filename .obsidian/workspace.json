@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8eb5ebaef6a4e5",
+        "id": "816385acc9ea7c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "49c0c06546aba4f9",
+            "id": "f6127afa05fb0133",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -402,17 +402,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "49c0c06546aba4f9",
+  "active": "f6127afa05fb0133",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "006-DailyNote/2022-12-27_Tue.md",
+    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
+    "004-●日常生活/003-電腦知識/電腦知識.md",
     "●首頁.md",
+    "conflict-files-obsidian-git.md",
     "006-DailyNote/2022-12-26_Mon.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md",
     "004-●日常生活/●日常生活紀錄.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
-    "005-工作相關/●工作待辦事項.md",
-    "006-DailyNote/2022-12-20_Tue.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+    "005-工作相關/●工作待辦事項.md"
   ]
 }

@@ -5,8 +5,16 @@
       "path": "●首頁.md"
     },
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "2022-12-27_Tue",
+      "path": "006-DailyNote/2022-12-27_Tue.md"
+    },
+    {
+      "basename": "1110906-Obsidian快捷鍵",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
+    },
+    {
+      "basename": "電腦知識",
+      "path": "004-●日常生活/003-電腦知識/電腦知識.md"
     },
     {
       "basename": "2022-12-26_Mon",
@@ -15,10 +23,6 @@
     {
       "basename": "●日常生活待辦事項",
       "path": "004-●日常生活/●日常生活待辦事項.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
     },
     {
       "basename": "●日常生活紀錄",
@@ -195,10 +199,6 @@
     {
       "basename": "★靈感筆記",
       "path": "★靈感筆記.md"
-    },
-    {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
     }
   ],
   "omittedPaths": [],

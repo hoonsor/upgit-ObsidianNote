@@ -48,8 +48,8 @@ modified: Sunday, December 4th 2022, 10:44:36 pm
 |    前往下一則筆記（瀏覽記錄）                    |    ctrl+PageDown                    |
 |    幫助                               |    F1                               |
 |    打開設定                             |    ctrl+\,                          |
-|    切換至同視窗上一個 pane                   |    ctrl+alt+PageUp                  |
-|    切換至同視窗下一個 pane                   |    ctrl+alt+PageDown                |
+|    切換至同畫面上一個 pane                   |    ctrl+alt+PageUp                  |
+|    切換至同畫面下一個 pane                   |    ctrl+alt+PageDown                |
 |    將本項目（包含子項目）往上移動一行/層              |    ctrl+shift+↑                     |
 |    將本項目（包含子項目）往下移動一行/層              |    ctrl+shift+↓                     |
 |    Marco-Advanced URI               |    alt+W                            |
