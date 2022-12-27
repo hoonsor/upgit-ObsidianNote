@@ -1,9 +1,0 @@
-2022-12-12 09:49:34: -- 分析開始 Periodic Timer
-2022-12-12 09:49:34: 變更：4， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 734
-2022-12-12 09:49:34: Left to Right: Copy File: 4 
-2022-12-12 09:49:34: == 同步開始由 Periodic Timer
-2022-12-12 09:49:34: 新建複製 'D:/Obsidian/Hoonsor/004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md' (18,420)
-2022-12-12 09:49:34: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-12-10_Sat.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-12-10_Sat.md' (954)
-2022-12-12 09:49:34: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' (3,228)
-2022-12-12 09:49:34: 覆蓋複製 'D:/Obsidian/Hoonsor/006-DailyNote/2022-12-09_Fri.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2022-12-09_Fri.md' (850)
-2022-12-12 09:49:34: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 4, 錯誤: 0

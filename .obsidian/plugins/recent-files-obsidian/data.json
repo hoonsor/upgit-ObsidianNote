@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "2022-12-26_Mon",
       "path": "006-DailyNote/2022-12-26_Mon.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "●子彈筆記",
       "path": "●子彈筆記.md"
-    },
-    {
-      "basename": "●日記",
-      "path": "004-●日常生活/●日記.md"
     }
   ],
   "omittedPaths": [],
