@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           }
@@ -347,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -373,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +395,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -452,10 +453,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "594b1637d00d9cb0",
+  "active": "7e80fe1b8908f273",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
+    "conflict-files-obsidian-git.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "1111223-文康活動待辦事項檢核相關.md",
     "●首頁.md",
