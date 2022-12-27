@@ -8,7 +8,7 @@ template-output: 002-Inbox
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 obsidianUIMode: preview 
 created: Sunday, September 11th 2022, 12:12:23 pm
-modified: Friday, December 2nd 2022, 11:12:00 pm
+modified: Tuesday, December 27th 2022, 10:44:27 pm
 ---
 # 1110911-Excel VBA 學習相關 ^toc
 
@@ -198,7 +198,6 @@ Msgbox " 對話窗訊息。"
 			.Subject = " 課程報名成功！"
 			.Display
 		End With
-	- 5
 ### 5.5. Cells（Applacation 物件之屬性）
 %% 會傳回 **[Range](https://docs.microsoft.com/zh-tw/office/vba/api/excel.range(object))** 物件，代表現用工作表上的所有儲存格。 如果使用中的檔不是工作表，則此屬性會失敗。%%
 %% 先列後欄 %%
@@ -251,8 +250,8 @@ Sub Add10ToAllCellsInRange()
 	Dim rng As Range 
 	For Each rng In Range("A1:A10") 
 		rng.Value = rng.Value + 10 
-	Next End 
-Sub
+	Next 
+End Sub
 ```
 
 

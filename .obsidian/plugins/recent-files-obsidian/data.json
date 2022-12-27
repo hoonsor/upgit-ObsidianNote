@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "●首頁",
-      "path": "●首頁.md"
-    },
-    {
       "basename": "2022-12-27_Tue",
       "path": "006-DailyNote/2022-12-27_Tue.md"
+    },
+    {
+      "basename": "1111029-運鏡、手機錄影技巧學習",
+      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md"
+    },
+    {
+      "basename": "CSS的概念及學習",
+      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+    },
+    {
+      "basename": "1110911-Excel VBA學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
+    },
+    {
+      "basename": "1110911-Excel快速合併寄送郵件",
+      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel快速合併寄送郵件.md"
+    },
+    {
+      "basename": "1111024-Excel基本操作及函數學習相關",
+      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
+    },
+    {
+      "basename": "●首頁",
+      "path": "●首頁.md"
     },
     {
       "basename": "1110906-Obsidian快捷鍵",
@@ -47,10 +67,6 @@
     {
       "basename": "2022-12-20_Tue",
       "path": "006-DailyNote/2022-12-20_Tue.md"
-    },
-    {
-      "basename": "CSS的概念及學習",
-      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
     },
     {
       "basename": "1110904-Excel比對找尋資料",
@@ -103,10 +119,6 @@
     {
       "basename": "!dict",
       "path": "000-index/!dict.md"
-    },
-    {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
     },
     {
       "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
@@ -187,18 +199,6 @@
     {
       "basename": "Template-Law",
       "path": "001-Template/Template-Law.md"
-    },
-    {
-      "basename": "Template-YoutubeMusic",
-      "path": "001-Template/Template-YoutubeMusic.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
-      "basename": "★靈感筆記",
-      "path": "★靈感筆記.md"
     }
   ],
   "omittedPaths": [],
