@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Thursday, December 15th 2022, 11:40:12 pm
+modified: Wednesday, December 28th 2022, 9:19:30 pm
 ---
 
 [[●專案管理]]
@@ -212,23 +212,21 @@ Return
 
 ## 4. 教學介紹及分享
 
-### 4.1. Obsidian 概述
-- Obsidian 是一款知識管理軟體，強大的功能及各類插件，可以讓人建立一套完整的系統，並且快速筆記及獲取想要的知識
-- 與其他筆記軟體不同之處在於自由度高且具有反向連結功能，可以如同大腦般的連結各類知識及筆記
-- 資料再編輯非常方便（純文字格式）
-- 可快速將圖片及動圖上傳至網路後再插入筆記
-- 可嵌入影片
-
-### 4.2. 文件準備
+### 4.1. Obsidian 特點及概述
+- Obsidian 是一款知識管理筆記軟體，採用 Markdown 格式（資料再編輯也方便），以 html 為軟體架構核心（可嵌入筆記、動圖）
+- 可安裝各種插件提供各種功能，且開發團隊亦不斷精進軟體本身功能
+- 介面自由度高，可安裝各類主題以及自訂 CSS
+- 特性為具有反向連結筆記之功能，且可以顯示筆記之間的連結圖，如同大腦的神經網路連結
+### 4.2. 事前準備及相關軟體安裝
 #### 4.2.1. 安裝 Obsidan 及有關插件
 - Obsidian 安裝檔
 - 我目前 Obsidian 資料夾中的檔案
 
 #### 4.2.2. 安裝 Github，方便同步不同設備上之資料
-- 註冊並安裝 [GitHub Desktop](https://desktop.github.com/)，作為在不同設備同步 Obsidian 及上傳各類圖檔文件使用
+- 至 [GitHub](https://github.com/) 註冊一個帳號，並安裝 [GitHub Desktop](https://desktop.github.com/)，建立一個公開的資料庫，作為在不同設備同步 Obsidian 筆記及上傳各類圖檔、文件使用
 - 步驟請參考 [[1110806-Git及Obsidian同步至手機學習]]
 
-#### 4.2.3. 安裝 upgit，方便上傳圖檔並取得連結
+#### 4.2.3. 安裝 upgit，方便在做筆記時將截圖上傳至 github 並取得連結
 - 下載並安裝 [upgit](https://github.com/pluveto/upgit/releases)，並詳見 [[Obsidian統整筆記#2 4 upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）]]
 
 #### 4.2.4. 安裝 Autohotkey，搭配 upgit 使用

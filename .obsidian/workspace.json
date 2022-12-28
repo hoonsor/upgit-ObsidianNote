@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -181,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -232,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           }
@@ -299,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +332,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +353,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,8 +411,8 @@
   },
   "active": "ac7ed4487c0bac40",
   "lastOpenFiles": [
-    "006-DailyNote/2022-12-27_Tue.md",
     "●首頁.md",
+    "006-DailyNote/2022-12-27_Tue.md",
     "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
     "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md",
