@@ -1,7 +1,7 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Wednesday, December 28th 2022, 9:19:30 pm
+modified: Wednesday, December 28th 2022, 9:55:02 pm
 ---
 
 [[●專案管理]]
@@ -184,9 +184,6 @@ Return
 ![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668340248.png)
 - 雙擊並且安裝憑證
 ![01|100](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668340368.png)
-
-
-
 
 
 #### 2.5.3. 教學影片及文章
