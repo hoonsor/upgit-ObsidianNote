@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "616b327bcef6c6d4",
+        "id": "e6b1dc34616fadc2",
         "type": "tabs",
         "children": [
           {
-            "id": "555e23025aa3c56c",
+            "id": "80fd0c08b96afa70",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -236,9 +236,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -304,7 +302,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +327,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,7 +347,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -409,10 +404,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "555e23025aa3c56c",
+  "active": "80fd0c08b96afa70",
   "lastOpenFiles": [
-    "005-工作相關/●工作待辦事項.md",
     "conflict-files-obsidian-git.md",
+    "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "1111223-文康活動待辦事項檢核相關.md",
     "●首頁.md",
