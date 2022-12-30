@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "874f45db94174255",
+        "id": "a664d20af949e1cc",
         "type": "tabs",
         "children": [
           {
-            "id": "4972cd177a5f37e3",
+            "id": "44814457bfc157d2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -402,7 +402,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4972cd177a5f37e3",
+  "active": "44814457bfc157d2",
   "lastOpenFiles": [
     "006-DailyNote/2022-12-28_Wed.md",
     "●首頁.md",
