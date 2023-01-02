@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "592623f1a13063d1",
+        "id": "d1f95d609be222c2",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2f97045bb8981a",
+            "id": "a439457ae668d262",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -402,11 +402,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e2f97045bb8981a",
+  "active": "a439457ae668d262",
   "lastOpenFiles": [
+    "●首頁.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "conflict-files-obsidian-git.md",
-    "●首頁.md",
     "006-DailyNote/2022-12-28_Wed.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "006-DailyNote/2022-12-27_Tue.md",
