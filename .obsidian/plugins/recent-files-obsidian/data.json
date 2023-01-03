@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-<<<<<<< HEAD
-=======
-      "basename": "●工作待辦事項",
-      "path": "005-工作相關/●工作待辦事項.md"
+      "basename": "●日常生活待辦事項",
+      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
->>>>>>> origin/main
       "basename": "●首頁",
       "path": "●首頁.md"
     },
     {
-<<<<<<< HEAD
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
-    },
-    {
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
     },
     {
       "basename": "●購物清單及國外購物注意事項",
@@ -83,74 +75,74 @@
     {
       "basename": "2022-12-20_Tue",
       "path": "006-DailyNote/2022-12-20_Tue.md"
-=======
-      "basename": "●日常生活待辦事項",
-      "path": "004-●日常生活/●日常生活待辦事項.md"
->>>>>>> origin/main
     },
     {
       "basename": "1110904-Excel比對找尋資料",
       "path": "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md"
     },
     {
-      "basename": "1110911-Excel VBA學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
-    },
-    {
       "basename": "1111215-蜜月旅行規劃暫存",
       "path": "007-旅遊、景點、美食/001-國外旅遊/1111215-蜜月旅行規劃暫存.md"
-    },
-    {
-      "basename": "●購物清單及國外購物注意事項",
-      "path": "004-●日常生活/●購物清單及國外購物注意事項.md"
-    },
-    {
-      "basename": "2022-12-14_Wed",
-      "path": "006-DailyNote/2022-12-14_Wed.md"
-    },
-    {
-      "basename": "2022-12-13_Tue",
-      "path": "006-DailyNote/2022-12-13_Tue.md"
-    },
-    {
-      "basename": "1111024-Excel基本操作及函數學習相關",
-      "path": "003-●專案管理/006-Excel學習相關/1111024-Excel基本操作及函數學習相關.md"
     },
     {
       "basename": "1111210-手機刷機基本教學",
       "path": "004-●日常生活/003-電腦知識/1111210-手機刷機基本教學.md"
     },
     {
-      "basename": "●子彈筆記",
-      "path": "●子彈筆記.md"
+      "basename": "1110731-DataView插件筆記",
+      "path": "003-●專案管理/003-Obsidian學習筆記/1110731-DataView插件筆記.md"
     },
     {
-      "basename": "CSS的概念及學習",
-      "path": "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md"
+      "basename": "2022-12-13_Tue",
+      "path": "006-DailyNote/2022-12-13_Tue.md"
+    },
+    {
+      "basename": "2022-12-15_Thu",
+      "path": "006-DailyNote/2022-12-15_Thu.md"
+    },
+    {
+      "basename": "2022-12-14_Wed",
+      "path": "006-DailyNote/2022-12-14_Wed.md"
+    },
+    {
+      "basename": "2022-12-10_Sat",
+      "path": "006-DailyNote/2022-12-10_Sat.md"
     },
     {
       "basename": "2022-12-09_Fri",
       "path": "006-DailyNote/2022-12-09_Fri.md"
     },
     {
-      "basename": "2022-12-07_Wed",
-      "path": "006-DailyNote/2022-12-07_Wed.md"
+      "basename": "2022-12-08_Thu",
+      "path": "006-DailyNote/2022-12-08_Thu.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "001-Template/Daily Note Template.md"
+    },
+    {
+      "basename": "!dict",
+      "path": "000-index/!dict.md"
+    },
+    {
+      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
     },
     {
       "basename": "★測試各類功能",
       "path": "★測試各類功能.md"
     },
     {
-      "basename": "●日常生活紀錄",
-      "path": "004-●日常生活/●日常生活紀錄.md"
+      "basename": "1110925-老屋翻修估價相關",
+      "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
+    },
+    {
+      "basename": "2022-12-07_Wed",
+      "path": "006-DailyNote/2022-12-07_Wed.md"
     },
     {
       "basename": "WordPress學習及筆記",
       "path": "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md"
-    },
-    {
-      "basename": "1110925-老屋翻修估價相關",
-      "path": "004-●日常生活/007-修繕、工具知識/1110925-老屋翻修估價相關.md"
     },
     {
       "basename": "1111207-買房殺價萬用句",
@@ -185,10 +177,6 @@
       "path": "006-DailyNote/2022-12-06_Tue.md"
     },
     {
-      "basename": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
-      "path": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
-    },
-    {
       "basename": "●專案管理",
       "path": "●專案管理.md"
     },
@@ -205,72 +193,8 @@
       "path": "005-工作相關/001-人事法規/●高中以下人事法規彙整.md"
     },
     {
-      "basename": "Obsidian統整筆記",
-      "path": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
-    },
-    {
       "basename": "2022-12-05_Mon",
       "path": "006-DailyNote/2022-12-05_Mon.md"
-    },
-    {
-      "basename": "1110717-能量運動指南",
-      "path": "004-●日常生活/005-健康知識/1110717-能量運動指南.md"
-    },
-    {
-      "basename": "Template-Law",
-      "path": "001-Template/Template-Law.md"
-    },
-    {
-      "basename": "Template-YoutubeMusic",
-      "path": "001-Template/Template-YoutubeMusic.md"
-    },
-    {
-      "basename": "●投資理財及創業待辦事項",
-      "path": "003-●專案管理/005-投資理財相關/●投資理財及創業待辦事項.md"
-    },
-    {
-      "basename": "★靈感筆記",
-      "path": "★靈感筆記.md"
-    },
-    {
-      "basename": "1110906-Obsidian快捷鍵",
-      "path": "003-●專案管理/003-Obsidian學習筆記/1110906-Obsidian快捷鍵.md"
-    },
-    {
-      "basename": "●日記",
-      "path": "004-●日常生活/●日記.md"
-    },
-    {
-      "basename": "Daily Note Tasks",
-      "path": "001-Template/Daily Note Tasks.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "001-Template/Daily Note Template.md"
-    },
-    {
-      "basename": "2022-12-02_Fri",
-      "path": "006-DailyNote/2022-12-02_Fri.md"
-    },
-    {
-      "basename": "1111029-運鏡、手機錄影技巧學習",
-      "path": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md"
-    },
-    {
-      "basename": "2022-12-01_Thu",
-      "path": "006-DailyNote/2022-12-01_Thu.md"
-    },
-    {
-      "basename": "滅火器-1945",
-      "path": "004-●日常生活/002-音樂庫/滅火器-1945.md"
-    },
-    {
-      "basename": "UniversalNote",
-      "path": "001-Template/UniversalNote.md"
-    },
-    {
-      "basename": "●獨立樂團",
-      "path": "004-●日常生活/002-音樂庫/●獨立樂團.md"
     }
   ],
   "omittedPaths": [],
