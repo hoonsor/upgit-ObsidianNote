@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f52882c1da64cfd",
+        "id": "ec41638f15475a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e1fef3a1ad3ef9",
+            "id": "858732fd8b4e92fb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,26 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":27},\"to\":{\"line\":37,\"ch\":27}},\"scroll\":19.60290388627486}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006-DailyNote/2023-01-03_Tue.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -244,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006-DailyNote/2023-01-03_Tue.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -311,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006-DailyNote/2023-01-03_Tue.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -337,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006-DailyNote/2023-01-03_Tue.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +346,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "006-DailyNote/2023-01-03_Tue.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -414,7 +402,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b5e1fef3a1ad3ef9",
+  "active": "858732fd8b4e92fb",
   "lastOpenFiles": [
     "004-●日常生活/●日常生活待辦事項.md",
     "006-DailyNote/2023-01-03_Tue.md",
