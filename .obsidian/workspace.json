@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b1dc34616fadc2",
+        "id": "c3d6127d3c955ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "80fd0c08b96afa70",
+            "id": "1b14f1d79c402f6c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -389,8 +395,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -413,13 +418,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "80fd0c08b96afa70",
+  "active": "1b14f1d79c402f6c",
   "lastOpenFiles": [
+    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "1111223-文康活動待辦事項檢核相關.md",
-    "●首頁.md",
     "11112231358.md",
     "11112201702.md",
     "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
