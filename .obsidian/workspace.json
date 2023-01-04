@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -186,7 +190,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 35.650446871896726,
+        "dimension": 50,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -237,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md"
               }
             }
           }
@@ -246,7 +250,7 @@
       {
         "id": "9634ca251397dbdd",
         "type": "tabs",
-        "dimension": 35.650446871896726,
+        "dimension": 50,
         "children": [
           {
             "id": "805a0550860b44e0",
@@ -266,129 +270,12 @@
             }
           }
         ]
-      },
-      {
-        "id": "e4aaa20a4e265148",
-        "type": "tabs",
-        "dimension": 28.699106256206548,
-        "children": [
-          {
-            "id": "c6db2c754a400ba8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "7c0f21ea256eef32",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "95b42c6ce66892a2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "aa2a6a2ed0922c6f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224415,
-                  "close": true
-                }
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
-  "active": "895c387949c672c8",
+  "active": "805a0550860b44e0",
   "lastOpenFiles": [
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "005-工作相關/●工作待辦事項.md",
