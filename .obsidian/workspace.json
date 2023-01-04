@@ -27,30 +27,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "91db27fb6fd542e7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -330,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -377,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -434,10 +412,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "91db27fb6fd542e7",
+  "active": "523ef8650c140a39",
   "lastOpenFiles": [
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
+    "●首頁.md",
     "005-工作相關/●工作待辦事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "1111223-文康活動待辦事項檢核相關.md",
