@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "355f860ee0cb221f",
+        "id": "40abec7a8e213ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "3a941c95c0757deb",
+            "id": "e590e6aa2565bd67",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +16,20 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●首頁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":6.219512195121951}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "●首頁.md",
-                "mode": "preview",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -232,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "●首頁.md"
+                "file": "004-●日常生活/●日常生活待辦事項.md"
               }
             }
           }
@@ -299,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -346,7 +352,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "●首頁.md",
+                "file": "004-●日常生活/●日常生活待辦事項.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -402,12 +408,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3a941c95c0757deb",
+  "active": "e590e6aa2565bd67",
   "lastOpenFiles": [
+    "●首頁.md",
     "mr6etk.md",
     "★測試各類功能.md",
     "004-●日常生活/●日常生活待辦事項.md",
-    "●首頁.md",
     "conflict-files-obsidian-git.md",
     "006-DailyNote/2023-01-04_Wed.md",
     "005-工作相關/●工作待辦事項.md",
