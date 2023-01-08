@@ -20,8 +20,12 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "★測試各類功能.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -177,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 200
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -236,7 +240,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "★測試各類功能.md"
+              }
             }
           },
           {
@@ -245,6 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "★測試各類功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,6 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "★測試各類功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +310,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
