@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d964cf4d9e37edab",
+        "id": "4d31fb365db715bd",
         "type": "tabs",
         "children": [
           {
-            "id": "66f358ba1bb78beb",
+            "id": "2e426f5cc58aca62",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -402,7 +402,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "66f358ba1bb78beb",
+  "active": "2e426f5cc58aca62",
   "lastOpenFiles": [
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "004-●日常生活/●日常生活待辦事項.md",
