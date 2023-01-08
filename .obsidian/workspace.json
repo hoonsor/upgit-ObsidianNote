@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "353c3e1734621a2d",
+        "id": "fe69dfe63a69fa6a",
         "type": "tabs",
         "children": [
           {
-            "id": "e52262cb3de2e4b4",
+            "id": "5c5ddecb564c079e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,8 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "★測試各類功能.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "★測試各類功能.md"
+                "file": "●首頁.md"
               }
             }
           },
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "★測試各類功能.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,7 +333,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e52262cb3de2e4b4",
+  "active": "5c5ddecb564c079e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "●首頁.md",
