@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
         "id": "353c3e1734621a2d",
         "type": "tabs",
         "children": [
           {
             "id": "e52262cb3de2e4b4",
-=======
-        "id": "4d31fb365db715bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2e426f5cc58aca62",
->>>>>>> origin/main
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "AHK-概述",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":40.93453950783271}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":31},\"to\":{\"line\":15,\"ch\":31}}}"
-                },
-                {
-                  "title": "Daily Note Template",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001-Template/Daily Note Template.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":10},\"to\":{\"line\":26,\"ch\":10}},\"scroll\":0}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":35.46734955185659}"
                 }
               ]
             },
             "state": {
-<<<<<<< HEAD
               "type": "empty",
               "state": {}
-=======
-              "type": "markdown",
-              "state": {
-                "file": "★測試各類功能.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> origin/main
             }
           }
         ]
@@ -77,7 +36,7 @@
       {
         "id": "cd928a12e0612e2a",
         "type": "tabs",
-        "dimension": 45.687134502923975,
+        "dimension": 37.60058522311631,
         "children": [
           {
             "id": "5742df7154023138",
@@ -113,8 +72,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#h/green",
-                "matchingCase": true,
+                "query": "tag:#h/red",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -127,7 +86,7 @@
       {
         "id": "6f59fa83aadd5d4c",
         "type": "tabs",
-        "dimension": 20.68713450292397,
+        "dimension": 22.311631309436724,
         "children": [
           {
             "id": "c05cfab6de97da18",
@@ -171,7 +130,7 @@
       {
         "id": "33747b1388fa3a94",
         "type": "tabs",
-        "dimension": 18.421052631578945,
+        "dimension": 22.457937088514996,
         "children": [
           {
             "id": "da7154e25a1aeb3e",
@@ -193,12 +152,12 @@
         ]
       },
       {
-        "id": "cae671772192296e",
+        "id": "fffdeef75b6cc08b",
         "type": "tabs",
-        "dimension": 15.204678362573098,
+        "dimension": 17.62984637893197,
         "children": [
           {
-            "id": "4c752d0588288de9",
+            "id": "13a1cceb35a11380",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -218,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 271.5
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -227,7 +186,7 @@
       {
         "id": "8b512deb499f9fa7",
         "type": "tabs",
-        "dimension": 35.650446871896726,
+        "dimension": 50,
         "children": [
           {
             "id": "87952d7fb3f0c20e",
@@ -264,8 +223,17 @@
             }
           },
           {
-            "id": "e72b99c0d3e860db",
+            "id": "eb4abeefbde49a72",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "outline",
               "state": {}
@@ -277,7 +245,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,9 +252,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-=======
-                "file": "★測試各類功能.md"
->>>>>>> origin/main
               }
             }
           },
@@ -315,7 +279,7 @@
       {
         "id": "9634ca251397dbdd",
         "type": "tabs",
-        "dimension": 35.650446871896726,
+        "dimension": 50,
         "children": [
           {
             "id": "805a0550860b44e0",
@@ -335,125 +299,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "e4aaa20a4e265148",
-        "type": "tabs",
-        "dimension": 28.699106256206548,
-        "children": [
-          {
-            "id": "c6db2c754a400ba8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "7c0f21ea256eef32",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "★測試各類功能.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "95b42c6ce66892a2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "★測試各類功能.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "aa2a6a2ed0922c6f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "★測試各類功能.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224415,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -476,25 +325,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< HEAD
   "active": "e52262cb3de2e4b4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
     "005-工作相關/●工作待辦事項.md",
-=======
-  "active": "2e426f5cc58aca62",
-  "lastOpenFiles": [
-    "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
-    "★測試各類功能.md",
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
->>>>>>> origin/main
     "004-●日常生活/●日常生活待辦事項.md",
-    "001-Template/Daily Note Template.md",
-    "●首頁.md",
-    "004-●日常生活/●購物清單及國外購物注意事項.md",
-    "conflict-files-obsidian-git.md",
-    "mr6etk.md",
-    "006-DailyNote/2023-01-04_Wed.md"
+    "1111223-文康活動待辦事項檢核相關.md",
+    "11112231358.md",
+    "11112201702.md",
+    "003-●專案管理/006-Excel學習相關/1110904-Excel比對找尋資料.md",
+    "003-●專案管理/006-Excel學習相關/1110911-Excel VBA學習相關.md"
   ]
 }
