@@ -82,14 +82,26 @@
     "--0": {
       "ExcelTips": {
         "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1673163717755
+          "count": 2,
+          "lastUpdated": 1673164644129
         }
       },
       "CSS_Tips": {
         "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673164639704
+        }
+      },
+      "AHK_Tips": {
+        "customDictionary": {
           "count": 1,
-          "lastUpdated": 1673163757999
+          "lastUpdated": 1673164648393
+        }
+      },
+      "Tips": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673164653881
         }
       }
     }

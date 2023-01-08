@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "CSS的概念及學習",
+                  "title": "AHK-概述",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/004-AHK學習筆記/AHK-概述.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":53,\"ch\":0},\"to\":{\"line\":53,\"ch\":0}},\"scroll\":40.93453950783271}"
                 },
                 {
                   "state": "{}",
@@ -428,15 +428,15 @@
   },
   "active": "2e426f5cc58aca62",
   "lastOpenFiles": [
-    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
+    "003-●專案管理/004-AHK學習筆記/AHK-概述.md",
     "★測試各類功能.md",
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "004-●日常生活/●日常生活待辦事項.md",
     "001-Template/Daily Note Template.md",
     "●首頁.md",
     "004-●日常生活/●購物清單及國外購物注意事項.md",
     "conflict-files-obsidian-git.md",
     "mr6etk.md",
-    "006-DailyNote/2023-01-04_Wed.md",
-    "005-工作相關/●工作待辦事項.md"
+    "006-DailyNote/2023-01-04_Wed.md"
   ]
 }
