@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe69dfe63a69fa6a",
+        "id": "a63cad03abe13428",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5ddecb564c079e",
+            "id": "9fd096247676fc67",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -333,7 +333,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5c5ddecb564c079e",
+  "active": "9fd096247676fc67",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "●首頁.md",
