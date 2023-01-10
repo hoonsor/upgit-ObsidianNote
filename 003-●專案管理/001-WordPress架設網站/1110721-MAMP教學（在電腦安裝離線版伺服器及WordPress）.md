@@ -8,7 +8,7 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 21st 2022, 7:31:28 pm
-modified: Tuesday, January 10th 2023, 9:52:00 pm
+modified: Tuesday, January 10th 2023, 10:01:20 pm
 ---
 
 [[WordPress學習及筆記]]
@@ -175,6 +175,7 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 - 開啟離線伺服器
 - Open Web Start Page
 	- Tools＼phpmyadmin＼
+	-  #h/red **此頁面為資料庫架構，並非 WordPress 後台，若要進入 WordPress 後台需要點選底下連結之網址**
 - 建立資料庫（英文名稱）：
 	- 自訂資料庫名稱：hoonsor
 - 設定資料庫後台使用者帳密及權限
