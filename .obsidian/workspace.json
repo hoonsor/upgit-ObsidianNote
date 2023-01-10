@@ -4,38 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b855989658a5fb86",
+        "id": "1c7e1a4476cdaffb",
         "type": "tabs",
         "children": [
           {
-            "id": "bfbf1b68f2c920f6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "006-DailyNote/2023-01-10_Tue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5b173258dd8db9a",
+            "id": "f476a009dba4896a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,35 +22,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004-●日常生活/●日常生活待辦事項.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4fdd2cd79a3eaf3b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "982efab8ce7c44b8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -295,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md"
+                "file": "●首頁.md"
               }
             }
           },
@@ -305,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "004-●日常生活/001-多媒體知識/001-攝影、錄影/1111029-運鏡、手機錄影技巧學習.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,7 +333,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "982efab8ce7c44b8",
+  "active": "f476a009dba4896a",
   "lastOpenFiles": [
     "006-DailyNote/2023-01-10_Tue.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
