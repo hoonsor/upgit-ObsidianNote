@@ -1,0 +1,8 @@
+2023-01-10 17:09:23: -- 分析開始 Periodic Timer
+2023-01-10 17:09:24: 變更：2， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 760
+2023-01-10 17:09:24: Left to Right: Copy File: 2 
+2023-01-10 17:09:24: == 同步開始由 Periodic Timer
+2023-01-10 17:09:24: Start only 2 threads, limited by tasks to run
+2023-01-10 17:09:24: 新建複製 'D:/Obsidian/Hoonsor/006-DailyNote/2023-01-10_Tue.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2023-01-10_Tue.md' (1,658)
+2023-01-10 17:09:24: 覆蓋複製 'D:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' (9,523)
+2023-01-10 17:09:24: == 同步完成. 歷時: 00:00:01, 速度: 0.00/s, 完成: 2, 錯誤: 0
