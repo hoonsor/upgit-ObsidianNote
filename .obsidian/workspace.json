@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0919b79430672959",
+        "id": "8d19a2e7e0d1f3e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c2bb5a911a04d7c2",
+            "id": "24c141db4391eb7d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,20 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -187,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -248,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -315,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -396,8 +389,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -420,7 +412,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c2bb5a911a04d7c2",
+  "active": "24c141db4391eb7d",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "005-工作相關/●工作待辦事項.md",
