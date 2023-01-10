@@ -11,11 +11,29 @@
             "id": "f476a009dba4896a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "1110717-能量運動指南",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/005-健康知識/1110717-能量運動指南.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":168.65784660218253}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "●日常生活待辦事項",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":178,\"ch\":14},\"to\":{\"line\":178,\"ch\":14}},\"scroll\":154.3902737935384}"
                 },
                 {
                   "title": "2023-01-10_Tue",
@@ -34,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+                "file": "006-DailyNote/2023-01-10_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "dbe27a2da716769c",
@@ -254,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md"
+                "file": "006-DailyNote/2023-01-10_Tue.md"
               }
             }
           },
@@ -264,7 +281,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+                "file": "006-DailyNote/2023-01-10_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
+                "file": "006-DailyNote/2023-01-10_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,8 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -349,15 +365,15 @@
   },
   "active": "f476a009dba4896a",
   "lastOpenFiles": [
+    "003-●專案管理/001-WordPress架設網站/CSS的概念及學習.md",
     "006-DailyNote/2023-01-10_Tue.md",
+    "004-●日常生活/005-健康知識/1110717-能量運動指南.md",
+    "001-Template/Daily Note Template.md",
+    "004-●日常生活/●日常生活待辦事項.md",
+    "003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md",
     "003-●專案管理/001-WordPress架設網站/WordPress學習及筆記.md",
     "●首頁.md",
     "003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md",
-    "004-●日常生活/●日常生活待辦事項.md",
-    "conflict-files-obsidian-git.md",
-    "004-●日常生活/●購物清單及國外購物注意事項.md",
-    "005-工作相關/●工作待辦事項.md",
-    "1111223-文康活動待辦事項檢核相關.md",
-    "11112231358.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
