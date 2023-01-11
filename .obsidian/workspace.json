@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87087ff3b53bed25",
+        "id": "fd2dc992047fe68b",
         "type": "tabs",
         "children": [
           {
-            "id": "93dc985affe83935",
+            "id": "c7eab5304b17ffe9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,38 +16,14 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "2023-01-10_Tue",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"006-DailyNote/2023-01-10_Tue.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":8.585416666666667}"
-                },
-                {
-                  "title": "●工作待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"005-工作相關/●工作待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":21},\"to\":{\"line\":17,\"ch\":21}},\"scroll\":7.7206439393939394}"
-                },
-                {
-                  "title": "●日常生活待辦事項",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"004-●日常生活/●日常生活待辦事項.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "●首頁",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"●首頁.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
-                "mode": "source",
+                "file": "●首頁.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -265,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md"
+                "file": "●首頁.md"
               }
             }
           }
@@ -332,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -379,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "005-工作相關/●工作待辦事項.md",
+                "file": "●首頁.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -435,7 +411,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93dc985affe83935",
+  "active": "c7eab5304b17ffe9",
   "lastOpenFiles": [
     "006-DailyNote/2023-01-10_Tue.md",
     "005-工作相關/●工作待辦事項.md",
