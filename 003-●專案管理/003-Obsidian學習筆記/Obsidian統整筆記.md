@@ -1,22 +1,190 @@
 ---
 obsidianUIMode: sourece  
 created: Friday, August 5th 2022, 1:40:01 pm
-modified: Wednesday, December 28th 2022, 9:55:02 pm
+modified: Tuesday, January 10th 2023, 8:27:25 pm
 ---
 
 [[●專案管理]]
 [由此开始 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B)
+[1120109-Obsidian教學範例資料庫](https://drive.google.com/file/d/1C0Zwy3U_DUOEMwAAKOYiJLQAXI24b1YZ/view?usp=share_link)
 # Obsidian 統整筆記
-## 1. 語法概述
 
-### 1.1. 外部連結語法
+## 1. 教學介紹及分享
+
+### 1.1. Obsidian 特點及概述
+- Obsidian 是一款知識管理筆記軟體，採用 Markdown 格式（資料再編輯也方便），以 html 為軟體架構核心（可嵌入筆記、動圖）
+- 可安裝各種插件提供各種功能，且開發團隊亦不斷精進軟體本身功能
+- 介面自由度高，可安裝各類主題以及自訂 CSS
+- 特性為具有反向連結筆記之功能，且可以顯示筆記之間的連結圖且能直接以小視窗查看其內容，如同大腦的神經網路連結一般
+### 1.2. 事前準備及相關軟體安裝
+#### 1.2.1. 安裝 Obsidan 及有關插件
+- Obsidian 安裝檔
+- 我目前 Obsidian 資料夾中的檔案
+
+#### 1.2.2. 安裝 Github，方便同步不同設備上之資料並建立雲端圖片資料庫
+- 至 [GitHub](https://github.com/) 註冊一個帳號，並安裝 [GitHub Desktop](https://desktop.github.com/)，建立一個公開的資料庫，作為在不同設備同步 Obsidian 筆記及上傳各類圖檔、文件使用
+##### 1.2.2.1. 使用 android 同步 Obsidan 資料庫之方法
+- 步驟請參考 [[1110806-Git及Obsidian同步至手機學習]]
+
+### 1.3. 操作介面介紹
+#### 1.3.1. 左邊工具欄（含上方小按鈕）
+- 可折疊
+- 可使用插件自訂所需按鈕（Customsized Sidebar）
+- 搜尋社群插件
+- 熱鍵
+- Linter
+- Shell Command
+- Customized Sidebar
+- QuickAdd
+- Templater
+- 筆記檔案總管
+- 常用筆記
+- 日曆（每日筆記）
+#### 1.3.2. 右邊工具欄（含上方小按鈕）
+- 可放置數個小工具視窗
+- Git 插件
+- 大綱
+- 連結視圖
+#### 1.3.3. 左邊工具欄下方設定按鈕
+- 打開其他資料庫
+- 幫助
+- 設定
+#### 1.3.4. 中間筆記視窗
+- 可透過拖曳改變筆記排序，可並列亦可上下排列，每個視窗也有許多頁籤分頁
+#### 1.3.5. 下方狀態列
+- 顯示筆記的路徑
+- 顯示整篇文章內容的分析
+- 右下角有 cMenu 插件，可顯示方便之圖示按鈕選單
+### 1.4. 主要功能介紹
+#### 1.4.1. 基本操作指令
+- [[1110906-Obsidian快捷鍵]]
+- 快速找尋筆記：Quickswitcher
+- 執行命令：Open command palette
+- 一些鍵盤操作的快捷鍵（搭配 code editor shortcuts ）
+	- 上方加入空行
+	- 下方加入空行
+	- 快速移動本行
+	- 快速刪除本行
+	- 快速複製本行並在下行插入貼上
+	- 快速往左選取單字/中文字
+	- 多重指標
+- 快速開啟筆記在新分頁
+- 快速開啟筆記在新視窗
+- 多視窗運用（編輯及檢視頁面同時顯示）
+
+#### 1.4.2. 筆記建立
+- 透過模版創建（可搭配 Templater 插件、QuickAdd 使用）
+- YAML 區（方便快速查看此篇筆記相關資訊，如作者、資料來源、創建時間、修改時間、標籤…等，可將筆記增加很多不同特性，方便之後統整歸納分析及搜尋）
+
+#### 1.4.3. 查詢筆記
+- Dataview 插件
+
+#### 1.4.4. Obsidian 語法
+- 標題語法 ^887f66
+	- 快捷鍵
+	- 快速跳上下標題
+	- 快速折疊標題
+	- 標題自動編號插件
+		- Number Headings
+- 文章內容格式化插件（Linter）
+	- YAML 區標準化
+	- 文字與英文相間部分空格
+- 附件語法 ![[]]
+- 項目語法
+	- 序列、非序列
+	- 快捷鍵
+- 核取方塊
+	- 快捷鍵
+- 斜體、底線、高亮、分隔線
+- 標注程式碼區塊語法
+	- 快捷鍵
+- 引用語法
+	- 快捷鍵
+- 註腳語法
+	- 快捷鍵
+- 內部連結語法
+	- 快捷鍵
+- 筆記連結圖
+	- 快捷鍵
+- 分頁及版面配置
+- 其他顏色標註插件
+	- 插入 CSS 片段
+- 資料同步插件
+	- Git
+- Callout 語法
+	- 搭配 TabCopy 使用
+- 多欄語法
+- 表格工具
+- 嵌入網頁語法
+
+[^3]: 這是使用註腳插件的結果
+
+### 1.5. 插件
+#### 1.5.1. Chrome 瀏覽器搭配使用插件
+##### 1.5.1.1. TabCopy
+- 可將網頁網址自訂成想要的格式並複製
+##### 1.5.1.2. Roamhighlighter
+- 可快速在觀看網頁的同時擷取文章文字變成筆記大綱
+#### 1.5.2. Obsidian 插件
+##### 1.5.2.1. 字典
+- 可將常用詞語自動補全
+- 亦可建立成為語法輸入之快捷方式
+##### 1.5.2.2. quickadd
+- javascript 為基底之插件，在自行建立筆記上、執行巨集或快速插入語法上有幫助
+- `JavaScripts腳本\advanced_uri.js` 檔案中的 `window.open("obsidian://advanced-uri?vault=1120109&settingid=" + choice);` 中包含資料庫路徑，如資料庫路徑變更的話記得去更改
+	- 上述 #h/red **1120109** 即為本資料庫路徑
+##### 1.5.2.3. templater
+- 創建許多筆記的樣版，並且有些語法可使用在日常筆記上
+##### 1.5.2.4. Editing toolbar 
+- 可將各種功能（含巨集）圖示化，更加方便操作
+##### 1.5.2.5. Emo uploader
+- 可將截圖或 gif 圖檔上傳 github 並將連結放在筆記中，方便筆記分享給他人時內容不會缺失
+##### 1.5.2.6. shell command 及 customizable sidebar
+- 可將常用之社群插件加到左邊的工具欄並呼叫，另外注意 shell command 的執行路徑（如果資料庫名稱改變，則需要隨同修改，不然會出現錯誤）
+- 範例：start obsidian://advanced-uri?vault=1120109^&settingid=obsidian-linter
+	- 上述 #h/red **1120109** 即為本資料庫路徑
+
+### 1.6. Youtube 相關教學
+
+> [!INFO]+ 資訊
+> [(92) Obsidian.md與筆記系統 - YouTube](https://www.youtube.com/playlist?list=PLWg9zacwOnwfcpVm5pAKgOHms7PntsgJS)
+
+### 1.7. 現場演練範例
+#### 1.7.1. 使用 dataview 抓出各個筆記中所建立的小技巧欄位
+#### 1.7.2. 現場看一則 youtube 教學影片並製作動態 gif 圖片之筆記
+
+### 1.8. 良好的知識管理軟體以及筆記軟體需要的功能
+
+
+## 2. 插件
+### 2.1. Dataview
+[[1110731-DataView插件筆記]]
+### 2.2. Columns 
+
+其中一種比較方便之語法如下，需使用閱讀模式（編輯模式看不出）才可看出效果
+- !!!col
+	- 1
+		欄位內容
+	- 1
+		欄位內容
+
+### 2.3. Obsidian Markdown Table Editor
+
+選住文字（欄與欄中間以 TAB 間隔），按 ctrl+shift+D 快捷鍵，可直接呼叫創建表格之小工具
+
+> [!INFO]+ 資訊
+> [(66) [Obs＃75] 千呼萬喚始出來！視覺化表格編輯器(Obsidian Markdown Table Editor)誕生了 🎂 - YouTube](https://www.youtube.com/watch?v=rZX_ZVPOgC8)
+
+## 3. 語法概述
+
+### 3.1. 外部連結語法
 ```obsidian
 [連結文字](連結網址)
 ```
 
 - 範例：[Obsidian語法文件](https://publish.obsidian.md/help-zh/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/%E5%B5%8C%E5%85%A5%E6%96%87%E4%BB%B6)
 
-### 1.2. 插入（嵌入）外部圖片語法
+### 3.2. 插入（嵌入）外部圖片語法
 ```obsidian
 ![滑鼠放上圖片時之替代文字|長度像素x寬度像素](圖片網址)
 ![滑鼠放上圖片時之替代文字|寬度像素(長寬比不變，依照寬度像素調整自動調整長度)](圖片網址)
@@ -24,9 +192,10 @@ modified: Wednesday, December 28th 2022, 9:55:02 pm
 
 - 範例：
 ![圖片1|200x200](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/25/upgit_20220925_1664098102.png)
+
 ![圖片2|400](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/09/25/upgit_20220925_1664098102.png)
 
-### 1.3. 嵌入圖片並將圖片連結到內部筆記或外部網站
+### 3.3. 嵌入圖片並將圖片連結到內部筆記或外部網站
 ```obsidian
 外部網站：
 [![滑鼠放上圖片時之替代文字|長度像素x寬度像素](圖片網址)](外部網站網址)
@@ -40,15 +209,15 @@ modified: Wednesday, December 28th 2022, 9:55:02 pm
 - 範例
 [![01|300](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/07/29/upgit_20220729_1659101550.png)](https://www.google.com.tw)
 [![01|300](https://adersaytech.com/wp-content/uploads/2021/10/mamp-to-install-wordpress.webp)](●工作待辦事項)
-### 1.4. 區塊引用語法
-#### 1.4.1. 自動命名
+### 3.4. 區塊引用語法
+#### 3.4.1. 自動命名
 - 內部連結時輸入倒 V 符號，下拉式選單便會自行跳出各個區塊，當選中後，該區塊後面會自行顯示出區塊代碼（僅編輯模式會呈現，檢視模式不會）
 - 範例：[[★測試各類功能#^737aa8]]
-#### 1.4.2. 手動命名
+#### 3.4.2. 手動命名
 - 在想要加入命名的區塊句尾，輸入空白 + 倒 V 符號，並且輸入自訂的名稱即可，需注意命名名稱 #h/red **只可以使用數字及英文之組合，不可使用中文**
 - 範例：[[★測試各類功能#^example]]
 
-### 1.5. 註腳語法
+### 3.5. 註腳語法
 ```
 文字中插入註腳使用[^註腳名稱]，也可以搭配註腳插件讓其自動編號，註腳名稱可以使用中文，但不可有空格
 文章底下則需要插入[^註腳名稱]: 註腳內容，注意冒號後方要有一個空格，然後再寫上註腳內容
@@ -64,282 +233,3 @@ modified: Wednesday, December 28th 2022, 9:55:02 pm
 
 [^註腳]: 今天天氣很好
 [^2]: 註腳測試練習（註腳 3 在文章最底處）
-
-## 2. 插件
-### 2.1. Dataview
-[[1110731-DataView插件筆記]]
-
-### 2.2. Columns 
-
-其中一種比較方便之語法如下，需使用閱讀模式才可看出效果
-- !!!col
-	- 1
-		欄位內容
-	- 1
-		欄位內容
-
-### 2.3. Obsidian Markdown Table Editor
-
-選住文字（欄與欄中間以 TAB 間隔），按 ctrl+shift+D 快捷鍵，可直接呼叫創建表格之小工具
-
-> [!INFO]+ 資訊
-> [(66) [Obs＃75] 千呼萬喚始出來！視覺化表格編輯器(Obsidian Markdown Table Editor)誕生了 🎂 - YouTube](https://www.youtube.com/watch?v=rZX_ZVPOgC8)
-
-### 2.4. upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）
-
-- upgit 其實是一個通用的圖檔上傳工具，只要用一個命令就能把圖檔上傳到 GitHub，並且直接取得 GitHub 的圖片鏈接網址，方便在筆記或 Blog 裡引用。
-
-#### 2.4.1. github token 設定
-- 右上頭像→Setting→左下指令列「Develop Settings」→左邊指令列「Personal acess tokens」→畫面中間上方「Generate new token」→輸入密碼→輸入 Note 名稱（自訂）→指定有效期限→（授權權限）勾選 repo→「Generate token」→複製「ghp_XXXX」開頭的字串就是我們的 token→複製起來並儲存
-- 注意一下，預設的分支是「main」，分支名稱會影響到底下 upgit 的設定檔文字內容設定！
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666022997.png)
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666023062.png)
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666023125.png)
-
-#### 2.4.2. 建立專用的 github repo
-記得 repo 一定要設定為 public，這樣才有辦法存取
-#### 2.4.3. upgit 下載及 config.toml 設定
-- 至下列網站，點擊右邊的 release，至最新版本處下載 upgit_win_amd64.exe（windows 64 位元的執行檔），並下載 Source code.zip，裡面有 config.toml 的範例檔案
-- 下載下來之後將檔名改成 upgit.exe，放在 Obsidian Shell commands PATH 環境變數可以指定的到的路徑中（自訂，路徑不要有中文及空格），就可以做下一步 config.toml 的設定了，影片中的路徑是 `C:\UTIL`
-- 在「branch」輸入分支名稱，在「pat」輸入 token 字串
-- 在「repo」輸入儲存庫的名稱
-- 在「username」輸入 github 的用戶名
-- 在「markdown-simple」輸入想要輸出的自訂文字格式，在此可以輸入自訂要貼在 Obsidian 裡面的的長寬…等
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666023869.png)
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666023961.png)
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666024040.png)
-
-
-
-
-[[Obsidian統整筆記#^11111010852]]
-
-> [!INFO]+ 資訊
-> [GitHub - pluveto/upgit: Another Upload Hub, support clipboard, good with Typora, Snipaste, VSCode](https://github.com/pluveto/upgit)
-
-#### 2.4.4. 使用 obsidian shell commands 外掛
-- 此指令等同於使用命令提示字元去執行 upgit.exe 並使其回傳 markdown 自訂之輸出文字，再將其複製到剪貼簿上並且貼上
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666022423.png)
-
-![01|700](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/10/18/upgit_20221018_1666022448.png)
-
-
-#### 2.4.5. 實做上傳 Gif 圖檔並搭配 AHK 複製連結
-- 以下為搭配 AHK 之範例，當在資料夾中選到我想要上傳的檔案（此範例為 gif），按下 Alt+V 後，就會將檔案透過 upgit 自動上傳，並且將連結依照我自訂的 markdown 格式複製到剪貼簿
-```AHK
-;●●● 將gif檔案使用upgit上傳後並將連結以markdown的格式貼上剪貼簿
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-!v::
-    Clipboard =
-    Send,^c
-    ClipWait
-    path = %Clipboard%
-    Run, "C:\upgit\upgit.exe" %path% -s 0 -o clipboard  -f markdown-simple
-    Sleep, 2000
-   	Show_Banner("檔案已使用upgit上傳完成！",8,500)
-Return
-```
-
-
-
-#### 2.4.6. 相關連結
-
-
-> [!INFO]+ 資訊
-> [[Obs＃67] upgit－使用GitHub圖床：快速上傳圖檔到GitHub並插入圖片網址到Obsidian - YouTube](https://www.youtube.com/watch?v=nGII-khqm2o&t=152s)
-
-
-> [!INFO]+ 資訊
-> UPGIT 簡體中文說明文件
-> [upgit/README.zh-CN.md at main · pluveto/upgit · GitHub](https://github.com/pluveto/upgit/blob/main/docs/README.zh-CN.md)
-
-
-
-
-### 2.5. Local Rest API（可透過瀏覽器控制 Obsidian 資料庫內容及動作）
-
-#### 2.5.1. Obsidian、Chrome 下載並安裝插件
-- 至 commnity plugin 頁面搜尋 Local rest api 外掛，下載並安裝完成
-- 至 Chome 應用商店下載配合使用之插件 Obsidian Web，網址如下
-
-> [!INFO]+ 資訊
-> [Obsidian Web - Chrome 線上應用程式商店](https://chrome.google.com/webstore/detail/obsidian-web/edoacekkjanmingkbkgjndndibhkegad)
-
-#### 2.5.2. 設定 API Key 及安裝憑證
-
-- 打開 Local rest API Option，將 API Key 複製並且貼到 chrome Obsidian Web 插件中
-
-![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668314894.png)
-
-![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668314943.png)
-
-- 至 Local rest API 的 Option 中下載憑證檔案
-![01|500](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668340248.png)
-- 雙擊並且安裝憑證
-![01|100](https://raw.githubusercontent.com/hoonsor/upgit-Obsidian/main/2022/11/13/upgit_20221113_1668340368.png)
-
-
-#### 2.5.3. 教學影片及文章
-##### 2.5.3.1. API 語法文件
-
-> [!INFO]+ 資訊
-> [Local Rest API for Obsidian: Interactive API Documentation](https://coddingtonbear.github.io/obsidian-local-rest-api/#/)
-##### 2.5.3.2. youtube 影片
-
-> [!INFO]+ 資訊
-> [(23) [Obs＃105] Local REST API外掛：提供Obsidian HTTP調用整合服務 - YouTube](https://www.youtube.com/watch?v=sPqgHcuT_Sw&t=175s)
-
-##### 2.5.3.3. 教學文章
-
-> [!INFO]+ 資訊
-> [[Obs＃105] Obsidian外掛 Local REST API 提供外部整合服務 – 簡睿隨筆](https://jdev.tw/blog/7785)
-## 3. 小技巧
-
-> OB_Tips:: 想要將程式碼區塊顯示成文字，只要使用四個\`（倒引號）把原本程式碼區塊包住即可顯示！
-
-> OB_Tips:: Mgit 無法獲取建立檔案的權限時，將 repository 位置改到 emulated/0/documents/中就可以了 (r6p 只給 mgit 存取媒體檔案的權限)
-
-
-## 4. 教學介紹及分享
-
-### 4.1. Obsidian 特點及概述
-- Obsidian 是一款知識管理筆記軟體，採用 Markdown 格式（資料再編輯也方便），以 html 為軟體架構核心（可嵌入筆記、動圖）
-- 可安裝各種插件提供各種功能，且開發團隊亦不斷精進軟體本身功能
-- 介面自由度高，可安裝各類主題以及自訂 CSS
-- 特性為具有反向連結筆記之功能，且可以顯示筆記之間的連結圖，如同大腦的神經網路連結
-### 4.2. 事前準備及相關軟體安裝
-#### 4.2.1. 安裝 Obsidan 及有關插件
-- Obsidian 安裝檔
-- 我目前 Obsidian 資料夾中的檔案
-
-#### 4.2.2. 安裝 Github，方便同步不同設備上之資料
-- 至 [GitHub](https://github.com/) 註冊一個帳號，並安裝 [GitHub Desktop](https://desktop.github.com/)，建立一個公開的資料庫，作為在不同設備同步 Obsidian 筆記及上傳各類圖檔、文件使用
-- 步驟請參考 [[1110806-Git及Obsidian同步至手機學習]]
-
-#### 4.2.3. 安裝 upgit，方便在做筆記時將截圖上傳至 github 並取得連結
-- 下載並安裝 [upgit](https://github.com/pluveto/upgit/releases)，並詳見 [[Obsidian統整筆記#2 4 upgit（檔案、圖片快速上傳至 github 再將連結更改為 Markdown 格式後複製到剪貼簿上）]]
-
-#### 4.2.4. 安裝 Autohotkey，搭配 upgit 使用
-- 下載 [1100123-●AHK+AutoGUI+QTTBar](https://drive.google.com/file/d/1MLlGT2AE2Z1d0RpDOAzDIuX-nppzi6WN/view)
-- 並搭配使用單一介面及 upgit
-
-### 4.3. 操作介面介紹
-#### 4.3.1. 左邊工具欄（含上方小按鈕）
-- 可折疊
-- 可使用插件自訂所需按鈕（Customsized Sidebar）
-- 搜尋社群插件
-- 熱鍵
-- Linter
-- Shell Command
-- Customized Sidebar
-- QuickAdd
-- Templater
-#### 4.3.2. 右邊工具欄（含上方小按鈕）
-- 可放置數個小工具視窗
-- 日曆（每日筆記）
-- Git 插件
-- 大綱
-- 連結視圖
-#### 4.3.3. 左邊工具欄下方設定按鈕
-- 打開其他資料庫
-- 幫助
-- 設定
-#### 4.3.4. 中間筆記視窗
-- 可透過拖曳改變筆記排序，可並列亦可上下排列，每個視窗也有許多頁籤分頁
-#### 4.3.5. 下方狀態列
-- 顯示筆記的路徑
-- 顯示整篇文章內容的分析
-- 右下角有 cMenu 插件，可顯示方便之圖示按鈕選單
-### 4.4. 主要功能介紹
-#### 4.4.1. 基本操作指令
-- 快速找尋筆記：Quickswitcher
-- 執行命令：Open command palette
-- 一些鍵盤操作的快捷鍵（搭配 code editor shortcuts ）
-	- 上方加入空行
-	- 下方加入空行
-	- 快速移動本行
-	- 快速刪除本行
-	- 快速複製本行並在下行插入貼上
-	- 快速往左選取單字/字
-	- 多重指標
-- 快速開啟筆記在新分頁
-- 快速開啟筆記在新視窗
-- 多視窗運用（編輯及檢視頁面同時顯示）
-
-#### 4.4.2. 筆記建立
-- 透過模版創建（可搭配 Templater 插件、QuickAdd 使用）
-- YAML 區
-
-#### 4.4.3. 查詢筆記
-- Dataview 插件
-
-#### 4.4.4. Obsidian 語法
-- 標題語法 ^887f66
-	- 快捷鍵
-	- 快速跳上下標題
-	- 快速折疊標題
-	- 標題自動編號插件
-- 文章內容格式化插件（Linter）
-- 附件語法 ![[]]
-- 項目語法
-	- 序列、非序列
-	- 快捷鍵
-- 核取方塊
-	- 快捷鍵
-- 斜體、底線、高亮
-- 程式碼區塊語法
-	- 快捷鍵
-- 引用語法
-	- 快捷鍵
-- 註腳語法
-	- 快捷鍵
-- 內部連結語法
-	- 快捷鍵
-- 筆記連結圖
-	- 快捷鍵
-- 分頁及版面配置
-- 其他顏色標註插件
-- 同步插件 
-- Callout 語法
-	- 搭配 TabCopy 使用
-- 多欄語法
-- 表格工具
-
-[^3]: 這是使用註腳插件的結果
-
-### 4.5. 插件
-#### 4.5.1. Chrome 瀏覽器搭配使用插件
-##### 4.5.1.1. TabCopy
-##### 4.5.1.2. Roamhighlighter
-
-#### 4.5.2. Obsidian 插件
-##### 4.5.2.1. 字典
-##### 4.5.2.2. quickadd
-##### 4.5.2.3. templater
-##### 4.5.2.4. cMenu
-
-
-> [!INFO]+ 資訊
-> [(26) [Obs＃82] 用Obsidian學會Markdown--完整Markdown教學 - YouTube](https://www.youtube.com/watch?v=lnsQsFCYhNc&t=1636s)
-
-
-## 5. 目前思考可繼續增強之功能
-- [ ] obsidian 筆記直接上傳 github 變成網頁供人閱覽！
-	- [ ] 研究一下 digital garden 或 Publish to WordPress for Obsidian 這兩個插件，看能否達到想要的效果，將我在 obsidian 上面製作的筆記分享給明潔在線上觀看！
-	- [ ] https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5 ，研究一下這個網站，似乎可以達到上述效果！
-- [ ] inline 或 block tag 語法，這樣就可以搭配 local rest 記錄好聽的音樂，製作影片使用！
-- [ ] 嵌入 excel 工作表（google 表單已可以，但 excel 還不行）
-- [ ] 搭配 python 或可爬蟲更新特定網站資訊（例如法規檔案之最近一次修法日期）
-- [ ] 更方便的多欄顯示語法
-- [ ] 每日筆記可將每篇筆記複習的次數紀錄並且顯示
-- [ ] dataview 可搭配 kanban 使用，或是 dataview 可變成卡片之方式顯示
-- [ ] 更強大的心智圖插件
-- [ ] 快速將文件中所有標題降一級
-- [ ] 快速選取圖片或程式碼該行整行或整段（編輯模式時使用）

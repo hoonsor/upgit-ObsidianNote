@@ -8,30 +8,12 @@ template-output: 002-Inbox
 obsidianUIMode: preview
 number headings: auto, first-level 1, max 6, contents ^toc, _.1.1.
 created: Thursday, July 21st 2022, 7:31:28 pm
-modified: Saturday, November 5th 2022, 11:18:12 pm
+modified: Tuesday, January 10th 2023, 10:01:20 pm
 ---
 
 [[WordPress學習及筆記]]
 [[CSS的概念及學習]]
-# 1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress） ^toc
-
-- [[#1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress） ^toc|1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress）]]
-	- [[#1. 如何安裝 MAMP 與 WordPress？|1. 如何安裝 MAMP 與 WordPress？]]
-		- [[#1.1. STEP 1：下載 MAMP|1.1. STEP 1：下載 MAMP]]
-		- [[#1.2. STEP 2：安裝 MAMP|1.2. STEP 2：安裝 MAMP]]
-		- [[#1.3. STEP 3：開啟 MAMP|1.3. STEP 3：開啟 MAMP]]
-		- [[#1.4. STEP 4：設定端口 (Port)|1.4. STEP 4：設定端口 (Port)]]
-		- [[#1.5. STEP 5：啟用伺服器並開啟後台|1.5. STEP 5：啟用伺服器並開啟後台]]
-		- [[#1.6. STEP 6：前往 phpMyAdmin|1.6. STEP 6：前往 phpMyAdmin]]
-		- [[#1.7. STEP 7：更改資料庫語言|1.7. STEP 7：更改資料庫語言]]
-		- [[#1.8. STEP 8：建立資料庫|1.8. STEP 8：建立資料庫]]
-		- [[#1.9. STEP 9：建立使用者帳號|1.9. STEP 9：建立使用者帳號]]
-		- [[#1.10. STEP 10：下載 WordPress 安裝檔|1.10. STEP 10：下載 WordPress 安裝檔]]
-		- [[#1.11. STEP 11：在本機安裝 WordPress|1.11. STEP 11：在本機安裝 WordPress]]
-		- [[#1.12. STEP 12：連接資料庫|1.12. STEP 12：連接資料庫]]
-		- [[#1.13. STEP 13：執行安裝程式|1.13. STEP 13：執行安裝程式]]
-		- [[#1.14. STEP 14：創建 WordPress 後台帳號|1.14. STEP 14：創建 WordPress 後台帳號]]
-	- [[#2. 使用心得|2. 使用心得]]
+# 1110721-MAMP 教學（在電腦安裝離線版伺服器及 WordPress）
 
 
 ![](https://adersaytech.com/wp-content/uploads/2021/10/what-is-mamp-1024x333.webp)
@@ -177,7 +159,7 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 
 **使用工具:**
 
-* MAMP,
+* MAMP
 
 
 
@@ -193,6 +175,7 @@ http://localhost:8888/**ader\_offline**/wp-admin/
 - 開啟離線伺服器
 - Open Web Start Page
 	- Tools＼phpmyadmin＼
+	-  #h/red **此頁面為資料庫架構，並非 WordPress 後台，若要進入 WordPress 後台需要點選底下連結之網址**
 - 建立資料庫（英文名稱）：
 	- 自訂資料庫名稱：hoonsor
 - 設定資料庫後台使用者帳密及權限

@@ -5,6 +5,10 @@
       "path": "●首頁.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "●工作待辦事項",
       "path": "005-工作相關/●工作待辦事項.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UniversalNote",
       "path": "001-Template/UniversalNote.md"
-    },
-    {
-      "basename": "●獨立樂團",
-      "path": "004-●日常生活/002-音樂庫/●獨立樂團.md"
     }
   ],
   "omittedPaths": [],
