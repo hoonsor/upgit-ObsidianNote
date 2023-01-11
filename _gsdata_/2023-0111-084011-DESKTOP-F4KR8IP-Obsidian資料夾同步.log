@@ -1,0 +1,11 @@
+2023-01-11 08:40:11: -- 分析開始 Periodic Timer
+2023-01-11 08:40:11: 變更：6， 衝突：0， 複製時間：0， 複製狀態：0， 錯誤： 0, All: 760
+2023-01-11 08:40:11: Left to Right: Copy File: 6 
+2023-01-11 08:40:11: == 同步開始由 Periodic Timer
+2023-01-11 08:40:11: 覆蓋複製 'D:/Obsidian/Hoonsor/001-Template/Daily Note Template.md' -> 'P:/Obsidian/Hoonsor/001-Template/Daily Note Template.md' (1,991)
+2023-01-11 08:40:11: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/003-Obsidian學習筆記/Obsidian統整筆記.md' (10,015)
+2023-01-11 08:40:11: 覆蓋複製 'D:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md' -> 'P:/Obsidian/Hoonsor/003-●專案管理/001-WordPress架設網站/1110721-MAMP教學（在電腦安裝離線版伺服器及WordPress）.md' (9,650)
+2023-01-11 08:40:11: 覆蓋複製 'D:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' -> 'P:/Obsidian/Hoonsor/004-●日常生活/●日常生活待辦事項.md' (3,413)
+2023-01-11 08:40:11: 覆蓋複製 'D:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' -> 'P:/Obsidian/Hoonsor/005-工作相關/●工作待辦事項.md' (9,523)
+2023-01-11 08:40:11: 覆蓋複製 'D:/Obsidian/Hoonsor/006-DailyNote/2023-01-10_Tue.md' -> 'P:/Obsidian/Hoonsor/006-DailyNote/2023-01-10_Tue.md' (1,248)
+2023-01-11 08:40:11: == 同步完成. 歷時: 00:00:00, 速度: 0.00/s, 完成: 6, 錯誤: 0
